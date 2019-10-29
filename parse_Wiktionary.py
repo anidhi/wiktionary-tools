@@ -23,7 +23,8 @@ def getLanguageId(language_file, language):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('language', help="What is the language ? ", default="Spanish")
-language = sys.argv[1]
+args = parser.parse_args()
+language = args.language
 
 wordPOSLink = open((language + "_WordPOSLink.txt"), 'w')
 wordNounLink = open((language + "_Noun.txt"), 'w')
