@@ -50,6 +50,12 @@ while OK:
                         or u"Verb</h3>" in body
                         or u"Adjective</h3>" in body
                         or u"Pronoun</h3>" in body
+                        # START Issue 1: 'malus' not showing up in candidate_pages due to hardcoded <h3> header.
+                        or u"Noun</h4>" in body
+                        or u"Verb</h4>" in body
+                        or u"Adjective</h4>" in body
+                        or u"Pronoun</h4>" in body
+                        # END Issue 1 fix
                     )
                     and (
                         u"Conjugation" in body
