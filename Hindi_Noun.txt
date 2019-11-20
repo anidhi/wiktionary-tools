@@ -1,0 +1,1343 @@
+ईश्वर	Noun	ईश्वर • (īśvar) m (Urdu spelling ایشور‏)
+तोता	Noun	तोता • (totā) m (Urdu spelling توتا‏ or طوطا‏)
+प्रदर्शक	Noun	प्रदर्शक • (pradarśak) m
+मत्त	Noun	मत्त • (matt) (Urdu spelling مت‏)
+राक्षस	Noun	राक्षस • (rākṣas) m
+खाना	Noun	खाना • (khānā) m (Urdu spelling کھانا‏)
+जङ्गल	Noun	जङ्गल • (jaṅgal) m
+उद्योग	Noun	उद्योग • (udyog) m
+अंडा	Noun	अंडा • (ãṇḍā) m (Urdu spelling انڈا‏)
+माफ़ी	Noun	माफ़ी • (māfī) f
+ऊँट	Noun	ऊँट • (ū̃ṭ) m (Urdu spelling اونٹ‏)
+कोना	Noun	कोना • (konā) m (Urdu spelling کونا‏)
+भाथी	Noun	भाथी • (bhāthī) f
+हेलिकॉप्टर	Noun	हेलिकॉप्टर • (helikŏpṭar) m (Urdu spelling ہیلیکاپٹر‏)
+भूमिका	Noun	भूमिका • (bhūmikā) f
+सुझाव	Noun	सुझाव • (sujhāv) m
+सहोदर	Noun	सहोदर • (sahodar) m (Urdu spelling سہودر‏)
+कलाकार	Noun	कलाकार • (kalākār) m
+सुख	Noun	सुख • (sukh) m (Urdu spelling سکھ‏)
+महाराजा	Noun	महाराजा • (mahārājā) m
+बाथरूम	Noun	बाथरूम • (bāthrūm) m
+साम्य	Noun	साम्य • (sāmya) m
+माजूफल	Noun	माजूफल • (mājūphal) m (Urdu spelling ماجوپهل‏)
+कंचन	Noun	कंचन • (kañcan) m
+दूरलेख	Noun	दूरलेख • (dūrlekh) m (Urdu spelling دورلیکھ‏)
+पाया	Noun	पाया • (pāyā) m (Urdu spelling پایہ‏)
+साला	Noun	साला • (sālā) m (Urdu spelling سالا‏)
+बारात	Noun	बारात • (bārāt) f
+प्रसाद	Noun	प्रसाद • (prasād) m
+अकाल	Noun	अकाल • (akāl) m (Urdu spelling اکال‏)
+एलर्जी	Noun	एलर्जी • (elarjī) f (Urdu spelling الرجی‏)
+पलस्तर	Noun	पलस्तर • (palastar) m
+शिक़ायत	Noun	शिक़ायत • (śiqāyat) f (Urdu spelling شکایت‏)
+नदी	Noun	नदी • (nadī) f (Urdu spelling ندی‏)
+करेला	Noun	करेला • (karelā) m (Urdu spelling کریلا‏)
+तलहटी	Noun	तलहटी • (talahṭī) f
+काव्य	Noun	काव्य • (kāvya) m (Urdu spelling کاویہ‏)
+नशा	Noun	नशा • (naśā) m
+समोसा	Noun	समोसा • (samosā) m (Urdu spelling سموسہ‏)
+हमदर्दी	Noun	हमदर्दी • (hamdardī) f
+पुरस्कार	Noun	पुरस्कार • (puraskār) m
+निकास	Noun	निकास • (nikās) m
+फ़ील्मी गीत	Noun	फ़ील्मी गीत • (fīlmī gīt) m
+चंपक	Noun	चंपक • (campak) m
+तितली	Noun	तितली • (titlī) f (Urdu spelling تتلی‏)
+गली	Noun	गली • (galī) f (Urdu spelling گلی‏)
+नोटबुक	Noun	नोटबुक • (noṭbuk) f
+नुसख़ा	Noun	नुसख़ा • (nusxā) m
+आज्ञा	Noun	आज्ञा • (āggyā) f (Urdu spelling آجنا‏)
+बैटरी	Noun	बैटरी • (baiṭrī) f
+सरदी	Noun	सरदी • (sardī) f
+शिशुशाला	Noun	शिशुशाला • (śiśuśālā) f
+गद्दा	Noun	गद्दा • (gaddā) m
+क़मीज़	Noun	क़मीज़ • (qamīz) f (Urdu spelling قمیض‏)
+वाट	Noun	वाट • (vāṭ) m
+रखवाल	Noun	रखवाल • (rakhvāl) m
+धान	Noun	धान • (dhān) m
+उदाहरण	Noun	उदाहरण • (udāhraṇ) m (Urdu spelling اداہرن‏)
+गंजा	Noun	गंजा • (gañjā) m
+भवन	Noun	भवन • (bhavan) m (Urdu spelling بھون‏)
+सोना	Noun	सोना • (sonā) m (Urdu spelling سونا‏)
+काम	Noun	काम • (kām) m (Urdu spelling کام‏)
+काम	Noun	काम • (kām) m (Urdu spelling کام‏)
+महोदय	Noun	महोदय • (mahoday) m
+फ़िल्म	Noun	फ़िल्म • (film) f (Urdu spelling فلم‏)
+प्रसिद्धि	Noun	प्रसिद्धि • (prasiddhi) f
+भ्राता	Noun	भ्राता • (bhrātā) m (Urdu spelling بھراتا‏)
+होनहार	Noun	होनहार • (honhār) m (Urdu spelling هونہار‏)
+भाई	Noun	भाई • (bhāī) m (Urdu spelling بھائی‏)
+छोकरा	Noun	छोकरा • (chokrā) m
+औरत	Noun	औरत • (aurat) f (Urdu spelling عورت‏)
+बीबी	Noun	बीबी • (bībī) f
+तेज पत्ता	Noun	तेज पत्ता • (tej pattā) m (Urdu spelling بیج پتا‏)
+पेंसिल	Noun	पेंसिल • (pensil) f (Urdu spelling پنسل‏)
+आभार	Noun	आभार • (ābhār) m
+बग़ावत	Noun	बग़ावत • (bhaghāvat) f (Urdu spelling بغاوت‏)
+नाटक	Noun	नाटक • (nāṭak) m (Urdu spelling ناٹك‏)
+मतभेद	Noun	मतभेद • (matbhed) m
+पंचायत	Noun	पंचायत • (pañcāyat) m
+फ़ौज	Noun	फ़ौज • (fauj) f
+ख़रगोश	Noun	ख़रगोश • (xargoś) m (Urdu spelling خرگوش‏)
+कृत	Noun	कृत • (kŕt) m
+योग	Noun	योग • (yog) m
+बहुव्रीहि	Noun	बहुव्रीहि • (bahuvrīhi) m
+नेता	Noun	नेता • (netā) m
+चकोर	Noun	चकोर • (cakor) m
+नीर	Noun	नीर • (nīr) m (Urdu spelling نیر‏)
+समिति	Noun	समिति • (samiti) f
+अवधि	Noun	अवधि • (avdhi) f
+सहरा	Noun	सहरा • (sahrā) m (Urdu spelling صحرا‏)
+सुबह	Noun	सुबह • (subah) f (Urdu spelling صبح‏)
+सेल	Noun	सेल • (sel) m
+द्रव्य	Noun	द्रव्य • (dravya) m
+पटाका	Noun	पटाका • (paṭākā) m
+सत्य	Noun	सत्य • (satya) m (Urdu spelling ستیہ‏)
+नियम	Noun	नियम • (niyam) m (Urdu spelling نیم‏)
+कमरा	Noun	कमरा • (kamrā) m (Urdu spelling کمرا‏)
+कुत्ता	Noun	कुत्ता • (kuttā) m (Urdu spelling کتا‏)
+लड्डू	Noun	लड्डू • (laḍḍū) m (Urdu spelling لڈی‏)
+प्रवीण	Noun	प्रवीण • (pravīṇ) m (Urdu spelling پروين‏)
+पिज़्ज़ा	Noun	पिज़्ज़ा • (pizzā) m
+कहा	Noun	कहा • (kahā) m
+रात्रि	Noun	रात्रि • (rātri) f
+दूल्हा	Noun	दूल्हा • (dūlhā) m
+चींटा	Noun	चींटा • (cīṇṭā) m
+पड़ोसिन	Noun	पड़ोसिन • (paṛosin) f
+थप्पड़	Noun	थप्पड़ • (thappaṛ) m
+खिलौना	Noun	खिलौना • (khilaunā) m (Urdu spelling کھلونا‏)
+चमार	Noun	चमार • (camār) m
+वायुसेना	Noun	वायुसेना • (vāyusenā) f
+घोसला	Noun	घोसला • (ghoslā) m
+मेयर	Noun	मेयर • (meyar) m
+छक्का	Noun	छक्का • (chakkā) m
+नुक़्ता	Noun	नुक़्ता • (nuqtā) m (Urdu spelling نقطہ‏)
+योग्यता	Noun	योग्यता • (yogyatā) f (Urdu spelling یوگیتا‏)
+देवर	Noun	देवर • (devar) m (Urdu spelling دیور‏)
+अपरिमेय संख्या	Noun	अपरिमेय संख्या • (aprimeya saṅkhyā) f
+डब्बावाला	Noun	डब्बावाला • (ḍabbāvālā) m
+युग	Noun	युग • (yug) m
+प्रार्थना	Noun	प्रार्थना • (prārthanā) f
+वीर	Noun	वीर • (vīr) m
+औषध	Noun	औषध • (auṣadh) f (Urdu spelling اوشدهہ‏)
+शहर	Noun	शहर • (śahr) m (Urdu spelling شہر‏)
+गाड़ी	Noun	गाड़ी • (gāṛī) f (Urdu spelling گاڑی‏)
+पण्यशाला	Noun	पण्यशाला • (paṇyaśālā) f (Urdu spelling پنیشالا‏)
+शब्द	Noun	शब्द • (śabd) m (Urdu spelling شبد‏)
+अवस्था	Noun	अवस्था • (avasthā) f
+काश्त	Noun	काश्त • (kāśt) f
+कक्ष	Noun	कक्ष • (kakṣ) m (Urdu spelling ککش‏)
+संस्थान	Noun	संस्थान • (sansthān) m
+बाल	Noun	बाल • (bāl) m (Urdu spelling بال‏)
+बाल	Noun	बाल • (bāl) m
+तैयारी	Noun	तैयारी • (taiyārī) f (Urdu spelling تیاری‏)
+सूबा	Noun	सूबा • (sūbā) m (Urdu spelling صوبہ‏)
+बारिश	Noun	बारिश • (bāriś) f (Urdu spelling بارش‏)
+सरदार	Noun	सरदार • (sardār) m (Urdu spelling سردار‏)
+अनुक्रमणिका	Noun	अनुक्रमणिका • (anukramṇikā) f (Urdu spelling انکرمڻکا‏)
+रूमाल	Noun	रूमाल • (rūmāl) m
+रतालू	Noun	रतालू • (ratālū) m (Urdu spelling رتالو‏)
+राज	Noun	राज • (rāj) m (Urdu spelling راج‏)
+राज	Noun	राज • (rāj) m (Urdu spelling راج‏)
+विधायक	Noun	विधायक • (vidhāyak) m
+व्याकरण	Noun	व्याकरण • (vyākaraṇ) m (Urdu spelling ویاکرن‏)
+लिप्यंतरण	Noun	लिप्यंतरण • (lipyantraṇ) m
+विषय	Noun	विषय • (viṣay) m
+चाप	Noun	चाप • (cāp) m (Urdu spelling چاپ‏)
+अनुस्वार	Noun	अनुस्वार • (anusvār) m (Urdu spelling انسوار‏)
+त्रिभुज	Noun	त्रिभुज • (tribhuj) m
+शेरनी	Noun	शेरनी • (śernī) f
+धंधा	Noun	धंधा • (dhañdhā) m (Urdu spelling دھندھا‏)
+त्रिशंकु सभा	Noun	त्रिशंकु सभा • (triśaṅku sabhā) f
+काल	Noun	काल • (kāl) m
+चुकंदर	Noun	चुकंदर • (cukandar) m
+कथा	Noun	कथा • (kathā) f (Urdu spelling کتها‏)
+अछूत	Noun	अछूत • (achūt) m
+पान	Noun	पान • (pān) m
+रौनक़	Noun	रौनक़ • (raunaq) f (Urdu spelling رونق‏)
+राष्ट्रभाषा	Noun	राष्ट्रभाषा • (rāṣṭrabhāṣā) f
+ज़माना	Noun	ज़माना • (zamānā) m (Urdu spelling زمانہ‏)
+वसन्त	Noun	वसन्त • (vasant) m (Urdu spelling وسنت‏)
+चाह	Noun	चाह • (cāh) f
+पिशाच	Noun	पिशाच • (piśāc) m
+छुट्टी	Noun	छुट्टी • (chuṭṭī) f (Urdu spelling چهٿي‏)
+दलाल	Noun	दलाल • (dalāl) m
+पूर्णांक	Noun	पूर्णांक • (pūrṇāṅk) m
+मीलपत्थर	Noun	मीलपत्थर • (mīlpatthar) m
+पतलून	Noun	पतलून • (patlūn) m
+क़ुरबान	Noun	क़ुरबान • (qurbān) m
+सेवक	Noun	सेवक • (sevak) m (Urdu spelling سوک‏)
+मल	Noun	मल • (mal) m (Urdu spelling مل‏)
+तिलक	Noun	तिलक • (tilak) m
+मछली	Noun	मछली • (machlī) f (Urdu spelling مچھلی‏)
+गाय	Noun	गाय • (gāy) f (Urdu spelling گای‏)
+स्मृति	Noun	स्मृति • (smr̤iti) f (Urdu spelling سمرتی‏)
+चौकी	Noun	चौकी • (caukī) f
+विषयवस्तु	Noun	विषयवस्तु • (viṣyavastu) m
+इमोशन	Noun	इमोशन • (imośan) m
+जिस्म	Noun	जिस्म • (jisma) m
+पिस्तौल	Noun	पिस्तौल • (pistaul) f
+सिद्धांत	Noun	सिद्धांत • (siddhānt) m
+विधि	Noun	विधि • (vidhi) f (Urdu spelling ودهہ‏)
+बिल्ला	Noun	बिल्ला • (billā) m (Urdu spelling بلا‏)
+ज़िंदगानी	Noun	ज़िंदगानी • (zindgānī) f
+पूर्वानुमान	Noun	पूर्वानुमान • (pūrvānumān) m
+नींद	Noun	नींद • (nīnd) f (Urdu spelling نیند‏)
+गो	Noun	गो • (go) m
+आँख	Noun	आँख • (ā̃ṅkh) f (Urdu spelling آنکھ‏)
+आशा	Noun	आशा • (āśā) f (Urdu spelling آشا‏)
+लिस्ट	Noun	लिस्ट • (lisṭ) f
+आशिष	Noun	आशिष • (āśiṣ) f
+धोती	Noun	धोती • (dhotī) f
+मकान	Noun	मकान • (makān) m
+अचार	Noun	अचार • (acār) m (Urdu spelling اچار‏)
+क्रिया	Noun	क्रिया • (kriyā) f (Urdu spelling کریا‏)
+स्नातक	Noun	स्नातक • (snātak) m
+गठन	Noun	गठन • (gaṭhan) m
+चोटी	Noun	चोटी • (coṭī) f
+विज्ञापन	Noun	विज्ञापन • (vijñāpan) m
+सायबान	Noun	सायबान • (sāyabān) m
+हवा	Noun	हवा • (havā) f (Urdu spelling ہوا‏)
+कष्ट	Noun	कष्ट • (kaṣṭ) m (Urdu spelling کشٹ‏)
+बकरी	Noun	बकरी • (bakrī) f
+कैद	Noun	कैद • (kaid) f (Urdu spelling قید‏)
+वालिदा	Noun	वालिदा • (vālidā) f
+दरी	Noun	दरी • (darī) f
+उत्सव	Noun	उत्सव • (utsav) m
+मुक़ाम	Noun	मुक़ाम • (muqām) m
+प्रताप	Noun	प्रताप • (pratāp) m
+गड्डा	Noun	गड्डा • (gaḍḍā) m
+फूल	Noun	फूल • (phūl) m (Urdu spelling پھول‏)
+वर्षा	Noun	वर्षा • (varṣā) f
+आपत्ति	Noun	आपत्ति • (āpatti) f
+शेष	Noun	शेष • (śeṣ) m
+विशेषण	Noun	विशेषण • (viśeṣaṇ) m (Urdu spelling وشيشن‏)
+पतझड़	Noun	पतझड़ • (patjhaṛ) f
+बाज़ी	Noun	बाज़ी • (bāzī) f (Urdu spelling بازی‏)
+अनुवाद	Noun	अनुवाद • (anuvād) m (Urdu spelling انواد‏)
+गांडू	Noun	गांडू • (gā̃ṇḍū) m (Urdu spelling گانڈو‏)
+चाटु	Noun	चाटु • (cāṭu) m
+घूर	Noun	घूर • (ghūr) m
+निसार	Noun	निसार • (nisār) m
+महासागर	Noun	महासागर • (mahāsāgar) m
+कुलधर्म	Noun	कुलधर्म • (kuldharma) m
+गठबंधन	Noun	गठबंधन • (gaṭhbandhan) m
+फ़ैक्स	Noun	फ़ैक्स • (faiks) m, f (Urdu spelling فیکس‏ or فاکس‏)
+ब्रह्म	Noun	ब्रह्म • (brahma) m
+बहन	Noun	बहन • (bahan) f (Urdu spelling بہن‏)
+मुसीबत	Noun	मुसीबत • (musībat) f (Urdu spelling مصیبت‏)
+खोपड़ी	Noun	खोपड़ी • (khopṛī) f (Urdu spelling کھوپڑی‏)
+झलक	Noun	झलक • (jhalak) f
+पुत्री	Noun	पुत्री • (putrī) f (Urdu spelling پتری‏)
+अंगूठा	Noun	अंगूठा • (ãṅgūṭhā) m (Urdu spelling انگوٹھا‏)
+रत्न	Noun	रत्न • (ratna) m
+लिसान	Noun	लिसान • (lisān) f (Urdu spelling لسان‏)
+साँप	Noun	साँप • (sā̃p) m (Urdu spelling سانپ‏)
+क़द्र	Noun	क़द्र • (qadra) f
+लड़का	Noun	लड़का • (laṛkā) m (Urdu spelling لڑکا‏)
+भाग	Noun	भाग • (bhāg) m
+शिष्य	Noun	शिष्य • (śiṣya) m
+प्रोग्राम	Noun	प्रोग्राम • (progrām) m, f
+ट्रेन	Noun	ट्रेन • (ṭren) f (Urdu spelling ٹرین‏)
+रसभरी	Noun	रसभरी • (rasabhrī) f
+क्लास	Noun	क्लास • (klās) m
+हिकमत	Noun	हिकमत • (hikmat) f (Urdu spelling حکمت‏)
+मत्स्य	Noun	मत्स्य • (matsya) m (Urdu spelling متسیہ‏)
+गायन	Noun	गायन • (gāyan) m
+रोड	Noun	रोड • (roḍ) m
+ऋण	Noun	ऋण • (ŕṇ) m
+आधार	Noun	आधार • (ādhār) m
+रूह	Noun	रूह • (rūh) f (Urdu spelling روح‏)
+सूनू	Noun	सूनू • (sūnū) f
+केंद्र	Noun	केंद्र • (kendra) m
+हिंद-यूरोपीय विज्ञान	Noun	हिंद-यूरोपीय विज्ञान • (hind-yūropīya vijñān) m
+वचन	Noun	वचन • (vacan) m (Urdu spelling وچن‏)
+जीवन	Noun	जीवन • (jīvan) m (Urdu spelling جیون‏)
+महायुद्ध	Noun	महायुद्ध • (mahāyuddh) m
+कर्नल	Noun	कर्नल • (karnal) m
+आस्तिक	Noun	आस्तिक • (āstik) m
+छाया	Noun	छाया • (chāyā) f (Urdu spelling چھایا‏)
+वासना	Noun	वासना • (vāsnā) f (Urdu spelling واسنا‏)
+चींटी	Noun	चींटी • (cīṇṭī) f (Urdu spelling چینٹی‏)
+मार	Noun	मार • (mār) f
+पगला	Noun	पगला • (paglā) m
+जमीकन्द	Noun	जमीकन्द • (jamīkand) m
+ग्राहक	Noun	ग्राहक • (grāhak) m
+अंग्रेज़	Noun	अंग्रेज़ • (ãṅgrez) m (Urdu spelling انگریز‏)
+प्रदर्शन	Noun	प्रदर्शन • (pradarśan) m
+मोती	Noun	मोती • (motī) m
+घोषक	Noun	घोषक • (ghoṣak) m
+कला	Noun	कला • (kalā) f (Urdu spelling کلا‏)
+क्षत्रिय	Noun	क्षत्रिय • (kṣatriya) m, feminine क्षत्रियण (kṣatriyaņ)
+अक्षर	Noun	अक्षर • (akṣar) m (Urdu spelling اکشر‏)
+क्षौरी	Noun	क्षौरी • (kṣaurī) f (Urdu spelling کشوری‏)
+कोस	Noun	कोस • (kos) m
+पपीता	Noun	पपीता • (papītā) m
+चक्कर	Noun	चक्कर • (cakkar) m
+नक्षत्र	Noun	नक्षत्र • (nakṣatra) m
+अध्याय	Noun	अध्याय • (adhyāy) m
+घुटना	Noun	घुटना • (ghuṭnā) m (Urdu spelling گھٹنا‏)
+कालिज	Noun	कालिज • (kālij) m
+करण	Noun	करण • (karaṇ) m
+नवजीवन	Noun	नवजीवन • (navjīvan) m
+पानी पूरी	Noun	पानी पूरी • (pānī pūrī) f (Urdu spelling پانی پوری‏)
+कम्बल	Noun	कम्बल • (kambal) m (Urdu spelling کمبل‏)
+सत्ताधारी	Noun	सत्ताधारी • (sattādhārī) m
+गायक	Noun	गायक • (gāyak) m (Urdu spelling گایک‏)
+टन	Noun	टन • (ṭan) m
+निद्रा	Noun	निद्रा • (nidrā) f
+सिंह	Noun	सिंह • (sĩṅh) m (Urdu spelling سنہ‏)
+पूर्वज	Noun	पूर्वज • (pūrvaj) m
+देश	Noun	देश • (deś) m (Urdu spelling دیش‏)
+इलहाम	Noun	इलहाम • (ilhām) m (Urdu spelling الہام‏)
+बादल	Noun	बादल • (bādal) m (Urdu spelling بادل‏)
+परिजन	Noun	परिजन • (parijan) m
+घोषणा	Noun	घोषणा • (ghoṣṇā) f
+कोश	Noun	कोश • (koś) m (Urdu spelling کوش‏)
+मक्खन	Noun	मक्खन • (makkhan) m (Urdu spelling مکھن‏)
+समस्या	Noun	समस्या • (samasyā) f (Urdu spelling سمسیا‏)
+क्रांति	Noun	क्रांति • (krānti) f
+मधुशाला	Noun	मधुशाला • (madhuśālā) f
+युद्धनीति	Noun	युद्धनीति • (yuddhanīti) f
+तनाव	Noun	तनाव • (tanāv) m
+चषक	Noun	चषक • (caṣak) m (Urdu spelling چشك‏)
+हिमांक	Noun	हिमांक • (himāṅk) m
+प्रहार	Noun	प्रहार • (prahār) m (Urdu spelling پرہار‏)
+हिमालय	Noun	हिमालय • (himālay) m
+कुल	Noun	कुल • (kul) m (Urdu spelling کل‏)
+टखना	Noun	टखना • (ṭakhnā) m (Urdu spelling ٹکنا‏)
+टोप	Noun	टोप • (ṭop) m (Urdu spelling ٿوپ‏)
+प्रदेश	Noun	प्रदेश • (pradeś) m (Urdu spelling پردیش‏)
+किशोरी	Noun	किशोरी • (kiśorī) f (Urdu spelling کشوری‏)
+थकावट	Noun	थकावट • (thakāvaṭ) f
+हथौड़ा	Noun	हथौड़ा • (hathauṛā) m
+भाषा-परिवार	Noun	भाषा-परिवार • (bhāṣā-parivār) m
+प्रतिलिपि	Noun	प्रतिलिपि • (pratilipi) f
+मार्क्सवादी	Noun	मार्क्सवादी • (mārksavādī) m, f
+दुर्भावना	Noun	दुर्भावना • (durbhāvnā) f
+उम्मीद	Noun	उम्मीद • (ummīd) f (Urdu spelling امید‏)
+मठ	Noun	मठ • (maṭh) m (Urdu spelling مٹھ‏)
+श्रीमान	Noun	श्रीमान • (śrīmān) m
+हंस	Noun	हंस • (hans) m
+शरारत	Noun	शरारत • (sharārat) f (Urdu spelling شرارت‏)
+अंधा	Noun	अंधा • (andhā) m (Urdu spelling اندھا‏)
+बाँह	Noun	बाँह • (bā̃h) f (Urdu spelling بانہ‏)
+सिगरेट	Noun	सिगरेट • (sigareṭ) m, f (Urdu spelling سگریٹ‏)
+वर्तनी	Noun	वर्तनी • (vartanī) f
+स्वशिक्षा	Noun	स्वशिक्षा • (svaśikṣā) f
+छवि	Noun	छवि • (chavi) f (Urdu spelling چهو‏)
+गोला	Noun	गोला • (golā) m (Urdu spelling گولا‏)
+पॉर्सिलेन	Noun	पॉर्सिलेन • (pŏrsilen) m, f
+राजवंश	Noun	राजवंश • (rājvanś) m
+संभावना	Noun	संभावना • (sambhāvnā) f
+सहेली	Noun	सहेली • (sahelī) f
+विमान	Noun	विमान • (vimān) m (Urdu spelling ومان‏)
+पृथ्वी	Noun	पृथ्वी • (pŕthvī) f (Urdu spelling پرتھوی‏)
+घंटा	Noun	घंटा • (ghaṇṭā) m (Urdu spelling گھنٹہ‏)
+सहायता	Noun	सहायता • (sahāytā) f
+आसन	Noun	आसन • (āsan) m
+पितृ	Noun	पितृ • (pitṛ) m (Urdu spelling پتر‏)
+गीत	Noun	गीत • (gīt) m (Urdu spelling گیت‏)
+बाधा	Noun	बाधा • (bādhā) f (Urdu spelling بادھا‏)
+तीर्थ	Noun	तीर्थ • (tīrth) m
+नुस्खा	Noun	नुस्खा • (nuskhā) m
+काकी	Noun	काकी • (kākī) f (Urdu spelling کاکی‏)
+गणराज्य	Noun	गणराज्य • (gaṇrājya) m
+समुदाय	Noun	समुदाय • (samudāy) m (Urdu spelling سمدای‏)
+बहरा	Noun	बहरा • (bahrā) m
+सेब	Noun	सेब • (seb) m (Urdu spelling سیب‏)
+अड्डा	Noun	अड्डा • (aḍḍā) m
+चित्रकार	Noun	चित्रकार • (citrakār) m
+सजदा	Noun	सजदा • (sajdā) m (Urdu spelling سجدہ‏)
+हथेली	Noun	हथेली • (hathelī) f (Urdu spelling ہتھیلی‏)
+धरना	Noun	धरना • (dharnā) m
+डाउनलोड	Noun	डाउनलोड • (ḍāunloḍ) m (Urdu spelling ڈاؤنلوڈ‏)
+निर्णय	Noun	निर्णय • (nirṇay) m (Urdu spelling نرني‏)
+शब्दार्थ	Noun	शब्दार्थ • (śabdārth) m
+फांसी	Noun	फांसी • (phānsī) f
+सलाह	Noun	सलाह • (salāh) f
+खनिज	Noun	खनिज • (khanij) m
+बहिष्कार	Noun	बहिष्कार • (bahiṣkār) m
+फ़ंडा	Noun	फ़ंडा • (faṇḍā) m
+शक्ति	Noun	शक्ति • (śakti) f (Urdu spelling شکتی‏)
+लोमड़ी	Noun	लोमड़ी • (lomṛī) f (Urdu spelling لومڑی‏)
+पुस्तक	Noun	पुस्तक • (pustak) f (Urdu spelling پستک‏)
+अश्रु	Noun	अश्रु • (aśru) m (Urdu spelling اشر‏)|tr=aśru
+दीवाना	Noun	दीवाना • (dīvānā) m
+ज़ंजीर	Noun	ज़ंजीर • (zañjīr) f
+मरु	Noun	मरु • (maru) m (Urdu spelling مرو‏)
+मौसंबी	Noun	मौसंबी • (mausambī) f
+प्राधिकार	Noun	प्राधिकार • (prādhikār) m
+नाश	Noun	नाश • (nāś) m (Urdu spelling ناش‏)
+हिमशैल	Noun	हिमशैल • (himśail) m
+रस्सी	Noun	रस्सी • (rassī) f
+दंगा	Noun	दंगा • (dangā) m (Urdu spelling دنگا‏)
+सीना	Noun	सीना • (sīnā) m
+ज़बान	Noun	ज़बान • (zabān) f (Urdu spelling زبان‏)
+भोर	Noun	भोर • (bhor) m
+यात्रा	Noun	यात्रा • (yātrā) f (Urdu spelling یاترا‏)
+सितारा	Noun	सितारा • (sitārā) m (Urdu spelling ستارہ‏)
+स्तन	Noun	स्तन • (stan) m
+छोरी	Noun	छोरी • (chorī) f
+वृश्चिक	Noun	वृश्चिक • (vŕścik) m
+गुब्बारा	Noun	गुब्बारा • (gubbārā) f
+ऐतराज़	Noun	ऐतराज़ • (aitrāz) m
+शून्य	Noun	शून्य • (śūnya) ? (Urdu spelling شونیہ‏)
+सहर	Noun	सहर • (sahar) m
+श्वान	Noun	श्वान • (śvān) m (Urdu spelling شوان‏)
+चन्द्रबिन्दु	Noun	चन्द्रबिन्दु • (candrabindu) ? (Urdu spelling چندربند‏)
+हरी मिर्च	Noun	हरी मिर्च • (harī mirc) f (Urdu spelling ہری مرچ‏)
+वर्ण	Noun	वर्ण • (varṇ) m
+वानर	Noun	वानर • (vānar) m
+मिठाई	Noun	मिठाई • (miṭhāī) f (Urdu spelling میٹھائی‏)
+हरामज़ादा	Noun	हरामज़ादा • (harāmzādā) m
+समतल	Noun	समतल • (samtal) m
+जुगाड़	Noun	जुगाड़ • (jugāṛ) m
+उंगली	Noun	उंगली • (ũṅglī) f (Urdu spelling انگلی‏)
+दुर्व्यवहार	Noun	दुर्व्यवहार • (durvyavhār) m
+भाषा	Noun	भाषा • (bhāṣā) f (Urdu spelling بھاشا‏)
+क़ैदख़ाना	Noun	क़ैदख़ाना • (qaid-khānā) m (Urdu spelling قیدخانہ‏)
+दरबार	Noun	दरबार • (darbār) m
+बयान	Noun	बयान • (bayān) m
+मंच	Noun	मंच • (mañc) m
+छोकरी	Noun	छोकरी • (chokrī) f
+मार्ग	Noun	मार्ग • (mārg) m (Urdu spelling مارگ‏)
+मरण	Noun	मरण • (maraṇ) m
+सरकार	Noun	सरकार • (sarkār) f (Urdu spelling سرکار‏)
+हालत	Noun	हालत • (hālat) f (Urdu spelling حالت‏)
+रसायन	Noun	रसायन • (rasāyan) m
+तलवार	Noun	तलवार • (talvār) f (Urdu spelling تلوار‏)
+पाप	Noun	पाप • (pāp) m (Urdu spelling پاپ‏)
+सितार	Noun	सितार • (sitār) f
+मख़मल	Noun	मख़मल • (maxmal) m
+मुनीम	Noun	मुनीम • (munīm) m
+मुश्किल	Noun	मुश्किल • (muśkil) f (Urdu spelling مشکل‏)
+मज़हब	Noun	मज़हब • (mazhab) m (Urdu spelling مذہب‏)
+शरीर	Noun	शरीर • (śarīr) m (Urdu spelling شریر‏)
+बरात	Noun	बरात • (barāt) f
+प्रतिष्ठा	Noun	प्रतिष्ठा • (pratiṣṭhā) f (Urdu spelling پرتشٹھا‏)
+अख़रोट	Noun	अख़रोट • (axroṭ) m (Urdu spelling اخروٹ‏)
+भला	Noun	भला • (bhalā) m
+ख़बरी	Noun	ख़बरी • (xabrī) m
+बच्चा	Noun	बच्चा • (baccā) m (Urdu spelling بچہ‏)
+एहसान	Noun	एहसान • (ehsān) m (Urdu spelling احسان‏)
+राष्ट्रपति	Noun	राष्ट्रपति • (rāṣṭrapti) m
+रजत	Noun	रजत • (rajat) m (Urdu spelling رجت‏)
+जनरल	Noun	जनरल • (janral) m
+देर	Noun	देर • (der) f (Urdu spelling دير‏)
+समाधि	Noun	समाधि • (samādhi) f
+बिशेषण	Noun	बिशेषण • (biśeṣaṇ) m (Urdu spelling بشیشن‏)
+लघुकथा	Noun	लघुकथा • (laghukthā) f
+स्वप्न	Noun	स्वप्न • (svapn) m (Urdu spelling سوپن‏)
+लिंग	Noun	लिंग • (liṅg) m (Urdu spelling لنگ‏)
+चित्र	Noun	चित्र • (citra) m (Urdu spelling چتر‏)
+काग़ज़	Noun	काग़ज़ • (kāġaz) m (Urdu spelling کاغذ‏)
+माता	Noun	माता • (mātā) f (Urdu spelling ماتا‏)
+मूर्ख	Noun	मूर्ख • (mūrkh) m (Urdu spelling مورکھ‏)
+सृष्टि	Noun	सृष्टि • (sŕṣṭi) f (Urdu spelling سرشٹی‏)
+तवा	Noun	तवा • (tavā) m (Urdu spelling توا‏)
+आईना	Noun	आईना • (āīnā) m (Urdu spelling آئینہ‏)
+ख़ाना	Noun	ख़ाना • (xānā) m
+आरोप	Noun	आरोप • (ārop) m
+पक्ष	Noun	पक्ष • (pakṣ) m
+अमृत	Noun	अमृत • (amrit) m (Urdu spelling امرت‏)
+चक्रवर्ती	Noun	चक्रवर्ती • (cakravartī) m
+कीकर	Noun	कीकर • (kīkar) m
+इमाम	Noun	इमाम • (imām) m (Urdu spelling امام‏)
+इच्छा	Noun	इच्छा • (icchā) f (Urdu spelling اچها‏)
+हेतु	Noun	हेतु • (hetu) m
+महोदया	Noun	महोदया • (mahodyā) f
+मच्छर	Noun	मच्छर • (macchar) m
+सुधार	Noun	सुधार • (sudhār) m (Urdu spelling سدھار‏)
+छत	Noun	छत • (chat) f (Urdu spelling چھت‏)
+अवसर	Noun	अवसर • (avsar) m (Urdu spelling اوسر‏)
+ज़ेहन	Noun	ज़ेहन • (zehan) f
+फ़रमान	Noun	फ़रमान • (farmān) m
+ध्वज	Noun	ध्वज • (dhvaj) m (Urdu spelling دھوج‏)
+गन्ध	Noun	गन्ध • (gandh) f
+सोम	Noun	सोम • (som) m
+चंपा	Noun	चंपा • (campā) m
+किरकिला	Noun	किरकिला • (kirkilā) m
+तकिया	Noun	तकिया • (takiyā) m (Urdu spelling تکيا‏)
+खुजली	Noun	खुजली • (khujlī) f
+अंगच्छेद	Noun	अंगच्छेद • (aṅgacched) m
+उपपत्नी	Noun	उपपत्नी • (uppatnī) f
+प्रक्रिया	Noun	प्रक्रिया • (prakriyā) f
+हैक्टर	Noun	हैक्टर • (haikṭar) m
+जाँघ	Noun	जाँघ • (jā̃ṅgh) f (Urdu spelling جانگھ‏)
+गुफ़ा	Noun	गुफ़ा • (gufā) f (Urdu spelling گفا‏)
+नगरपालिका	Noun	नगरपालिका • (nagarpālikā) f
+तिजोरी	Noun	तिजोरी • (tijorī) f
+छात्र	Noun	छात्र • (chātra) m (Urdu spelling چھاتر‏)
+दास	Noun	दास • (dās) m
+दुर्ग	Noun	दुर्ग • (durg) m (Urdu spelling درگ‏)
+चाँदी	Noun	चाँदी • (cā̃dī) f
+आदमी	Noun	आदमी • (ādmī) m (Urdu spelling آدمی‏)
+भूमि	Noun	भूमि • (bhūmi) f
+वीडियो	Noun	वीडियो • (vīḍiyo) m
+सत्ता	Noun	सत्ता • (sattā) f
+सत्ता	Noun	सत्ता • (sattā) m
+मोबाइल	Noun	मोबाइल • (mobāil) m
+यारा	Noun	यारा • (yārā) m
+मणि	Noun	मणि • (maṇi) m (Urdu spelling منی‏)
+बस	Noun	बस • (bas) f (Urdu spelling بس‏)
+बस	Noun	बस • (bas) m
+माला	Noun	माला • (mālā) f (Urdu spelling مالا‏)
+दीया	Noun	दीया • (dīyā) m
+राकेट	Noun	राकेट • (rākeṭ) m
+हल्ला	Noun	हल्ला • (hallā) m
+लोह	Noun	लोह • (loh) m (Urdu spelling لوه‏)
+गोरा	Noun	गोरा • (gorā) m (Urdu spelling گورا‏)
+घृणा	Noun	घृणा • (ghŕṇā) f (Urdu spelling گھرنا‏)
+शत्रु	Noun	शत्रु • (śatru) m (Urdu spelling شترو‏)
+केन्द्र	Noun	केन्द्र • (kendra) m
+रानी	Noun	रानी • (rānī) f (Urdu spelling رانی‏)
+सेंट	Noun	सेंट • (seṇṭ) m
+वैज्ञानिक	Noun	वैज्ञानिक • (vaijñānik) m
+शिक्षाविद्	Noun	शिक्षाविद् • (śikṣāvid) m
+जालपृष्ठ	Noun	जालपृष्ठ • (jālpŕṣṭh) m
+लाड़	Noun	लाड़ • (lāṛ) f
+चुसनी	Noun	चुसनी • (cusnī) f
+नीलम	Noun	नीलम • (nīlam) m
+माया	Noun	माया • (māyā) f (Urdu spelling مایا‏)
+ऋतु	Noun	ऋतु • (ŕtu) m, f (Urdu spelling رتو‏)
+अश्व	Noun	अश्व • (aśv) m
+ग्रंथालय	Noun	ग्रंथालय • (granthālay) m
+मेज़	Noun	मेज़ • (mez) f (Urdu spelling میز‏, direct plural मेज़ें)
+धर्म	Noun	धर्म • (dharma) m (Urdu spelling دھرم‏)
+ग़लती	Noun	ग़लती • (galtī) f (Urdu spelling غلطی‏)
+टब	Noun	टब • (ṭab) m
+पहाड़	Noun	पहाड़ • (pahāṛ) m (Urdu spelling پہاڑ‏)
+नुक्कड़	Noun	नुक्कड़ • (nukkaṛ) f
+प्रधान मंत्री	Noun	प्रधान मंत्री • (pradhān mantrī) m
+तरबूज़ा	Noun	तरबूज़ा • (tarbūzā) m (Urdu spelling تربوزہ‏)
+रात	Noun	रात • (rāt) f (Urdu spelling رات‏)
+खिड़की	Noun	खिड़की • (khiṛkī) f (Urdu spelling کھڑکی‏)
+बहुमत	Noun	बहुमत • (bahumat) m
+चमचा	Noun	चमचा • (camcā) m
+अंगूर	Noun	अंगूर • (angūr) m (Urdu spelling انگور‏)
+शुरुआत	Noun	शुरुआत • (śuruāt) f (Urdu spelling شروعات‏)
+श्येन	Noun	श्येन • (śyen) m
+प्रकाशवर्ष	Noun	प्रकाशवर्ष • (prakāśvarṣ) m
+मच्छरदानी	Noun	मच्छरदानी • (macchardānī) m
+अखरोट	Noun	अखरोट • (akhroṭ) m (Urdu spelling اکھروٹ‏)
+दशा	Noun	दशा • (daśā) f
+कत्था	Noun	कत्था • (katthā) m
+जवाब	Noun	जवाब • (javāb) m (Urdu spelling جواب‏)
+मिस्टर	Noun	मिस्टर • (misṭar) m
+ज्योतिष	Noun	ज्योतिष • (jyōtiṣ) f
+पथ	Noun	पथ • (path) m (Urdu spelling پتھ‏)
+बग़ल	Noun	बग़ल • (baġal) f
+घोंसला	Noun	घोंसला • (ghonslā) m
+धातु	Noun	धातु • (dhātu) f
+कोइड़ार	Noun	कोइड़ार • (koiṛār) f
+डाकघर	Noun	डाकघर • (ḍākghar) f
+तस्वीर	Noun	तस्वीर • (tasvīr) f
+मुर्ग़ा	Noun	मुर्ग़ा • (murġā) m (Urdu spelling مرغا‏)
+नारियल	Noun	नारियल • (nāriyal) m
+सुवर्ण	Noun	सुवर्ण • (suvarṇ) m
+कबाब में हड्डी	Noun	कबाब में हड्डी • (kabāb mẽ haḍḍī) f
+मनोरंजन	Noun	मनोरंजन • (manorañjan) m
+स्वर्गलोक	Noun	स्वर्गलोक • (svargalok) m
+आकाश	Noun	आकाश • (ākāś) m (Urdu spelling آکاش‏)
+किशोर	Noun	किशोर • (kiśor) m (Urdu spelling کشور‏)
+बिचारा	Noun	बिचारा • (bicārā) m (Urdu spelling بچارا‏)
+साधु	Noun	साधु • (sādhu) m
+दुःस्वप्न	Noun	दुःस्वप्न • (duḥsvapna) m
+पर्यटन	Noun	पर्यटन • (paryaṭan) m
+निश्चय	Noun	निश्चय • (niścay) m
+मुक्ति	Noun	मुक्ति • (mukti) f
+माचिस	Noun	माचिस • (mācis) m
+राजभाषा	Noun	राजभाषा • (rāj-bhāṣā) f (Urdu spelling راج‌بھاشا‏)
+गाना	Noun	गाना • (gānā) m (Urdu spelling گانا‏)
+सांड	Noun	सांड • (sāṇḍ) m
+हल	Noun	हल • (hal) m (Urdu spelling ہل‏)
+बला	Noun	बला • (balā) f
+राज्य	Noun	राज्य • (rājya) m (Urdu spelling راجیہ‏)
+रंग	Noun	रंग • (raṅg) m (Urdu spelling رنگ‏)
+युद्धक्षेत्र	Noun	युद्धक्षेत्र • (yuddhakṣetra) m
+गुफा	Noun	गुफा • (guphā) f (Urdu spelling گفا‏)
+ड्यूक	Noun	ड्यूक • (ḍyūk) m
+बख़्शिश	Noun	बख़्शिश • (baxśiś) f
+जनमत-संग्रह	Noun	जनमत-संग्रह • (janmat-saṅgrah) m
+असुविधा	Noun	असुविधा • (asuvidhā) f
+सीमा	Noun	सीमा • (sīmā) f (Urdu spelling سيما‏)
+संसार	Noun	संसार • (sansār) m (Urdu spelling سنسار‏)
+क़ीमा	Noun	क़ीमा • (qīmā) m (Urdu spelling قیمہ‏)
+श्रद्धा	Noun	श्रद्धा • (śraddhā) f
+अकार	Noun	अकार • (akār) m
+सपूत	Noun	सपूत • (sapūt) m
+याचिका	Noun	याचिका • (yācikā) f
+टक्कर	Noun	टक्कर • (ṭakkar) f (Urdu spelling ٹکر‏)
+तीर	Noun	तीर • (tīr) m (Urdu spelling تیر‏)
+तीर	Noun	तीर • (tīr) m (Urdu spelling تیر‏)
+टैक्सी	Noun	टैक्सी • (ṭaiksī) f (Urdu spelling ٹیکسی‏)
+हिया	Noun	हिया • (hiyā) m
+चिड़िया	Noun	चिड़िया • (ciṛiyā) f (Urdu spelling چڑیا‏)
+पायल	Noun	पायल • (pāyal) m
+दास्तान	Noun	दास्तान • (dāstān) f (Urdu spelling داستان‏)
+क्षेत्र	Noun	क्षेत्र • (kṣetra) m (Urdu spelling کشيتر‏)
+दाना	Noun	दाना • (dānā) m (Urdu spelling دانا‏)
+बैग	Noun	बैग • (baig) m
+इतिहास	Noun	इतिहास • (itihās) m (Urdu spelling اتہاس‏)
+ऋषि	Noun	ऋषि • (ŕṣi) m
+मूल	Noun	मूल • (mūl) m
+नाम	Noun	नाम • (nām) m (Urdu spelling نام‏)
+रक्षा	Noun	रक्षा • (rakṣā) f (Urdu spelling رکشا‏)
+हार	Noun	हार • (hār) f
+लण्ड	Noun	लण्ड • (laṇḍ) m (Urdu spelling لنڈ‏)
+दर्शन	Noun	दर्शन • (darśan) m (Urdu spelling درشن‏)
+अजगर	Noun	अजगर • (ajgar) m (Urdu spelling اجگر‏)
+लक्ष्मी	Noun	लक्ष्मी • (lakṣmī) f (Urdu spelling لکشمی‏)
+धमाका	Noun	धमाका • (dhamākā) m
+साहस	Noun	साहस • (sāhas) m (Urdu spelling ساہس‏)
+नगर	Noun	नगर • (nagar) m (Urdu spelling نگر‏)
+प्रीतिभोज	Noun	प्रीतिभोज • (prītibhoj) m
+पाठशाला	Noun	पाठशाला • (pāṭhśālā) f
+इमारत	Noun	इमारत • (imārat) f (Urdu spelling عمارت‏)
+दाढ़ी	Noun	दाढ़ी • (dāṛhī) f (Urdu spelling داڑھی‏)
+अधिनियम	Noun	अधिनियम • (adhiniyam) m
+बुद्ध	Noun	बुद्ध • (buddh) m (Urdu spelling بدھ‏)
+मूंछ	Noun	मूंछ • (mūñch) f
+वृक्ष	Noun	वृक्ष • (vrikṣ) m
+वायु	Noun	वायु • (vāyu) f (Urdu spelling وایو‏)
+सारणी	Noun	सारणी • (sārṇī) f
+निकाह	Noun	निकाह • (nikāh) m
+शिश्न	Noun	शिश्न • (śiśn) m (Urdu spelling ششن‏)
+पेय	Noun	पेय • (peya) m
+त्रिशूल	Noun	त्रिशूल • (triśūl) m
+माल	Noun	माल • (māl) m (Urdu spelling مال‏) (uncountable)
+माल	Noun	माल • (māl) m (Urdu spelling مال‏)
+माल	Noun	माल • (māl) f (Urdu spelling مال‏)
+पकड़	Noun	पकड़ • (pakaṛ) f
+बत्तख़	Noun	बत्तख़ • (battax) f (Urdu spelling بطخ‏)
+कहानी	Noun	कहानी • (kahānī) f (Urdu spelling کہانی‏)
+दीपिका	Noun	दीपिका • (dīpikā) f (Urdu spelling دیپکا‏)
+पशु	Noun	पशु • (paśu) m
+अंक	Noun	अंक • (aṅk) m
+जन्नत	Noun	जन्नत • (jannat) f
+पंडित	Noun	पंडित • (paṇḍit) m
+नीलाम	Noun	नीलाम • (nīlām) m
+रोग	Noun	रोग • (rog) m (Urdu spelling روگ‏)
+संस्कृति	Noun	संस्कृति • (sanskŕti) f
+गाँडू	Noun	गाँडू • (gā̃ṇḍū) m (Urdu spelling گانڈو‏)
+सवार	Noun	सवार • (savār) m (Urdu spelling سوار‏)
+लेख	Noun	लेख • (lekh) m (Urdu spelling لیکھ‏)
+नामकरण	Noun	नामकरण • (nāmkaraṇ) m
+अन्त	Noun	अन्त • (ant) m (Urdu spelling انت‏)
+स्क्रिप्ट	Noun	स्क्रिप्ट • (skripṭ) m
+असुर	Noun	असुर • (asur) m
+सैर	Noun	सैर • (sair) f
+बुलबुला	Noun	बुलबुला • (bulbulā) m
+सालगिरह	Noun	सालगिरह • (sālgirah) f (Urdu spelling سالگرہ‏)
+जानवर	Noun	जानवर • (jānvar) m (Urdu spelling جانور‏)
+साँस	Noun	साँस • (sāns) f (Urdu spelling سانس‏)
+चिता	Noun	चिता • (citā) f
+शराफ़त	Noun	शराफ़त • (sharāfat) f (Urdu spelling شرافت‏)
+नीति	Noun	नीति • (nīti) f
+बुक	Noun	बुक • (buk) f
+भ्रूण	Noun	भ्रूण • (bhrūṇ) m
+लस्सी	Noun	लस्सी • (lassī) f (Urdu spelling لسی‏)
+मस्तिष्क	Noun	मस्तिष्क • (mastiṣk) m (Urdu spelling مستشک‏)
+दुल्हन	Noun	दुल्हन • (dulhan) f
+मुट्ठी	Noun	मुट्ठी • (muṭṭhī) f
+परमाणु	Noun	परमाणु • (paramāṇu) m
+ग़ज़ब	Noun	ग़ज़ब • (ġazab) m
+कार्य	Noun	कार्य • (kārya) m (Urdu spelling کاریه‏)
+अंधेरा	Noun	अंधेरा • (andherā) m (Urdu spelling اندھیرا‏)
+स्थानांतरण	Noun	स्थानांतरण • (sthānāntraṇ) m
+ज़रिया	Noun	ज़रिया • (zariyā) m
+खट	Noun	खट • (khaṭ) f
+ग्रह	Noun	ग्रह • (grah) m (Urdu spelling گرہ‏)
+ख़त	Noun	ख़त • (xat) m (Urdu spelling خط‏)
+कुलनाम	Noun	कुलनाम • (kulnām) m
+मसहरी	Noun	मसहरी • (masahrī) f
+देशभक्त	Noun	देशभक्त • (deśbhakt) m
+संपत्ति	Noun	संपत्ति • (sampatti) f (Urdu spelling سنپتی‏)
+विभाग	Noun	विभाग • (vibhāg) m
+यान	Noun	यान • (yān) m
+शिक्षक	Noun	शिक्षक • (śikṣak) m
+दृष्टि	Noun	दृष्टि • (dŕṣṭi) f (Urdu spelling درشٹی‏)
+फ़रक़	Noun	फ़रक़ • (farq) m
+निर्देशांक	Noun	निर्देशांक • (nirdeśāṅk) m
+सोफ़ा	Noun	सोफ़ा • (sofā) m
+होंठ	Noun	होंठ • (hoṇṭh) m (Urdu spelling ہونٹھ‏)
+रुपया	Noun	रुपया • (rupyā) m (Urdu spelling روپیہ‏)
+अक्ष	Noun	अक्ष • (akṣ) m (Urdu spelling اکش‏)
+मोर	Noun	मोर • (mor) m (Urdu spelling مور‏)
+विभक्ति	Noun	विभक्ति • (vibhakti) f
+राजकुमार	Noun	राजकुमार • (rāj-kumār) m
+अर्धायु	Noun	अर्धायु • (ardhāyu) f
+दृश्य	Noun	दृश्य • (dŕśya) m
+प्रयत्न	Noun	प्रयत्न • (prayatn) m (Urdu spelling پريتن‏)
+सर्प	Noun	सर्प • (sarp) m (Urdu spelling سرپ‏)
+वर्ग	Noun	वर्ग • (varg) m (Urdu spelling ورگ‏)
+अवधारण	Noun	अवधारण • (avdhāraṇ) m
+रिपोर्ट	Noun	रिपोर्ट • (riporṭ) f
+राग	Noun	राग • (rāg) m (Urdu spelling راگ‏)
+वीणा	Noun	वीणा • (vīṇā) f
+परिन्दा	Noun	परिन्दा • (parindā) m
+स्वर्ग	Noun	स्वर्ग • (svarg) m (Urdu spelling سورگ‏)
+लेखक	Noun	लेखक • (lekhak) m (Urdu spelling لیکھک‏)
+जोंक	Noun	जोंक • (joṅk) f
+दोष	Noun	दोष • (dōṣ) m (Urdu spelling دوش‏)
+शासन	Noun	शासन • (śāsan) m (Urdu spelling شاسن‏)
+हरकत	Noun	हरकत • (harkat) f (Urdu spelling حرکت‏)
+इक्का	Noun	इक्का • (ikkā) m
+मूली	Noun	मूली • (mūlī) f (Urdu spelling مولی‏)
+पत्नी	Noun	पत्नी • (patnī) f
+दक्षिण	Noun	दक्षिण • (dakṣiṇa) m (Urdu spelling دکشن‏)
+प्राध्यापक	Noun	प्राध्यापक • (prādhyāpak) m
+परेड	Noun	परेड • (pareḍ) m, f
+ठेला	Noun	ठेला • (ṭhelā) m
+क्षौर	Noun	क्षौर • (kṣaur) m (Urdu spelling کشور‏)
+प्रजा	Noun	प्रजा • (prajā) f pl (Urdu spelling پرجا‏)
+भोज	Noun	भोज • (bhoj) m (Urdu spelling بھوج‏)
+गाण्डू	Noun	गाण्डू • (gāṇḍū) m (Urdu spelling گانڈو‏)
+कामुक	Noun	कामुक • (kāmuk) m (Urdu spelling کامك‏)
+दान	Noun	दान • (dān) m
+बनिहार	Noun	बनिहार • (banihār) m
+यात्री	Noun	यात्री • (yātrī) m
+भुजा	Noun	भुजा • (bhujā) f
+पिता	Noun	पिता • (pitā) m (Urdu spelling پتا‏)
+केंद्रशासित प्रदेश	Noun	केंद्रशासित प्रदेश • (kendraśāsit pradeś) m
+टहनी	Noun	टहनी • (tahnī) f (Urdu spelling ٹہنی‏)
+धूम	Noun	धूम • (dhūm) m
+धूम	Noun	धूम • (dhūm) m
+उपाय	Noun	उपाय • (upāy) m
+अपराधी	Noun	अपराधी • (aprādhī) m
+नाना	Noun	नाना • (nānā) m
+लिप्यन्तरण	Noun	लिप्यन्तरण • (lipyantaraṇ) m
+वृक	Noun	वृक • (vŕk) m
+पालकी	Noun	पालकी • (pālkī) f
+हुक्म	Noun	हुक्म • (hukm) m
+झूठ	Noun	झूठ • (jhūṭh) m (Urdu spelling جھوٹھ‏)
+क्रिया-विशेषण	Noun	क्रिया-विशेषण • (kriyā-viśeṣaṇ) m
+मन्नत	Noun	मन्नत • (mannat) f
+अलार्म	Noun	अलार्म • (alārma) m
+हस्ती	Noun	हस्ती • (hastī) m
+हस्ती	Noun	हस्ती • (hastī) f
+हाला	Noun	हाला • (hālā) f
+व्यंजन	Noun	व्यंजन • (vyañjan) m (Urdu spelling وینجن‏)
+आत्मा	Noun	आत्मा • (ātmā) f (Urdu spelling آتما‏)
+संरचना	Noun	संरचना • (sãṇracnā) f
+फूंक	Noun	फूंक • (phūṅk) f
+चित्त	Noun	चित्त • (citt) m
+तारीफ़	Noun	तारीफ़ • (tārīf) f
+खण्ड	Noun	खण्ड • (khaṇḍ) m (Urdu spelling کھنڈ‏)
+तारा	Noun	तारा • (tārā) m (Urdu spelling تارا‏)
+अधिकार	Noun	अधिकार • (adhikār) m (Urdu spelling ادھکار‏)
+अनादर	Noun	अनादर • (anādar) m (Urdu spelling انادر‏)
+गर्भ	Noun	गर्भ • (garbh) m (Urdu spelling گربھ‏)
+सूजन	Noun	सूजन • (sūjan) f
+पण्डित	Noun	पण्डित • (paṇḍit) m
+रास्ता	Noun	रास्ता • (rāstā) m (Urdu spelling راستہ‏)
+संध्या	Noun	संध्या • (sandhyā) f
+चुम्बन	Noun	चुम्बन • (cumban) m
+यवशर्करा	Noun	यवशर्करा • (yavśarkarā) f
+अनुराग	Noun	अनुराग • (anurāg) m (Urdu spelling انراگ‏)
+थकान	Noun	थकान • (thakān) f
+मिलाप	Noun	मिलाप • (milāp) m
+टाइम	Noun	टाइम • (ṭāim) m
+मुद्रा	Noun	मुद्रा • (mudrā) f
+ग्रीष्म	Noun	ग्रीष्म • (grīśm) m (Urdu spelling گریشم‏)
+छापा	Noun	छापा • (chāpā) m
+तृष्णा	Noun	तृष्णा • (tŕṣṇā) f
+ख़ुशबू	Noun	ख़ुशबू • (xuśbū) f (Urdu spelling خوشبو‏)
+इलायची	Noun	इलायची • (ilāyacī) f
+गांठकट	Noun	गांठकट • (gāṇṭhkaṭ) m
+प्रश्न	Noun	प्रश्न • (praśn) m (Urdu spelling پرشن‏)
+डाक	Noun	डाक • (ḍāk) f
+गोलगप्पा	Noun	गोलगप्पा • (golgappā) m (Urdu spelling گولگپا‏)
+दिव्यांग	Noun	दिव्यांग • (divyāṅg) m
+पद	Noun	पद • (pad) m (Urdu spelling پد‏)
+रथ	Noun	रथ • (rath) m
+सांबर	Noun	सांबर • (sāmbar) m (Urdu spelling سامبر‏)
+ललित कला	Noun	ललित कला • (lalit kalā) f
+मान्यता	Noun	मान्यता • (mānyatā) f
+बाढ़	Noun	बाढ़ • (bāṛh) f (Urdu spelling باڑھ‏)
+चोर	Noun	चोर • (cor) m (Urdu spelling چور‏)
+दृष्टिकोण	Noun	दृष्टिकोण • (dŕṣṭikoṇ) m
+पहचान	Noun	पहचान • (pahcān) f (Urdu spelling پہچان‏)
+महेश्वर	Noun	महेश्वर • (maheśvar) m (Urdu spelling مہیشور‏)
+टमाटर	Noun	टमाटर • (ṭamāṭar) m
+गाल	Noun	गाल • (gāl) f (Urdu spelling گال‏)
+सवाल	Noun	सवाल • (savāl) f (Urdu spelling سوال‏)
+आत्मकथा	Noun	आत्मकथा • (ātmakthā) f
+बटन	Noun	बटन • (baṭan) m (Urdu spelling بٹن‏)
+दूरभाष	Noun	दूरभाष • (dūrbhāṣ) m
+बदमाश	Noun	बदमाश • (badmāś) m
+देरी	Noun	देरी • (derī) f
+प्रशासन	Noun	प्रशासन • (praśāsan) m
+भोजन	Noun	भोजन • (bhojan) m
+हिम	Noun	हिम • (him) m (Urdu spelling ہم‏)
+हरमसरा	Noun	हरमसरा • (haramsarā) f
+पृष्ठ	Noun	पृष्ठ • (pŕiṣṭh) m
+हिफ़ाज़त	Noun	हिफ़ाज़त • (hifāzat) f (Urdu spelling حفاظت‏)
+रूपक	Noun	रूपक • (rūpak) m
+डॉक्टर	Noun	डॉक्टर • (ḍākṭar) m (Urdu spelling ڈاکٹر‏)
+कारागार	Noun	कारागार • (kārāgār) m (Urdu spelling کاراگار‏)
+लफड़ा	Noun	लफड़ा • (laphṛā) m
+चाव	Noun	चाव • (cāv) m (Urdu spelling چاو‏)
+विज्ञान	Noun	विज्ञान • (vijñān) m (Urdu spelling وگیان‏)
+प्राण	Noun	प्राण • (prāṇ) m (Urdu spelling پران‏)
+पेच	Noun	पेच • (pec) m
+हामी	Noun	हामी • (hāmī) m, f
+दीवार	Noun	दीवार • (dīvār) f (Urdu spelling دیوار‏)
+मान	Noun	मान • (mān) m (Urdu spelling مان‏)
+मान	Noun	मान • (mān) m (Urdu spelling مان‏)
+मानव	Noun	मानव • (mānav) m
+मार्केट	Noun	मार्केट • (mārkeṭ) m
+कंगारू	Noun	कंगारू • (kãṅgārū) m
+उपलब्धि	Noun	उपलब्धि • (upalabdhi) f
+मीनार	Noun	मीनार • (mīnār) f
+इज़्ज़त	Noun	इज़्ज़त • (izzat) f (Urdu spelling عزت‏)
+पांडु	Noun	पांडु • (pāṇḍu) m
+आलु	Noun	आलु • (ālu) m (Urdu spelling آلو‏)
+शूटिंग	Noun	शूटिंग • (śūṭiṅg) f
+विकास	Noun	विकास • (vikās) m
+किरण	Noun	किरण • (kiraṇ) f
+तरंग	Noun	तरंग • (taraṅg) f
+गिलास	Noun	गिलास • (gilās) m
+बिजली	Noun	बिजली • (bijlī) f (Urdu spelling بجلی‏)
+दुकान	Noun	दुकान • (dukān) f (Urdu spelling دکان‏)
+डोई	Noun	डोई • (ḍoī) f
+बुनियाद	Noun	बुनियाद • (buniyād) f
+सौदागर	Noun	सौदागर • (saudāgar) m (Urdu spelling سوداگر‏)
+नोट	Noun	नोट • (noṭ) m
+चालू	Noun	चालू • (cālū) m
+नीला	Noun	नीला • (nīlā) m (Urdu spelling نیلا‏)
+शर्करा	Noun	शर्करा • (śarkarā) f (Urdu spelling شرکرا‏)
+प्रमुख	Noun	प्रमुख • (pramukh) m (Urdu spelling پرمکھ‏)
+इग्ज़ाम	Noun	इग्ज़ाम • (igzām) m, f
+बछड़ा	Noun	बछड़ा • (bachṛā) m
+गांड	Noun	गांड • (gā̃ṇḍ) f (Urdu spelling گانڈ‏)
+शस्त्र	Noun	शस्त्र • (śastr) m (Urdu spelling شستر‏)
+गुड्डा	Noun	गुड्डा • (guḍḍā) m
+निरोध	Noun	निरोध • (nirodh) m
+जनता	Noun	जनता • (jantā) f
+जंतु	Noun	जंतु • (jantu) m
+सप्ताह	Noun	सप्ताह • (saptāh) m (Urdu spelling سپتاہ‏)
+गोली	Noun	गोली • (golī) f (Urdu spelling گولی‏)
+मारपीट	Noun	मारपीट • (mārpīṭ) f
+डिब्बा	Noun	डिब्बा • (ḍibbā) m
+कपूर	Noun	कपूर • (kapūr) m
+रोड़ा	Noun	रोड़ा • (roṛā) m
+कनारा	Noun	कनारा • (kanāra) m (Urdu spelling کنارہ‏)
+विश्लेषण	Noun	विश्लेषण • (viśleṣaṇ) m
+सुअर	Noun	सुअर • (sūar) m
+यंत्रमानव	Noun	यंत्रमानव • (yantramānav) m
+पार	Noun	पार • (pār) m (Urdu spelling پار‏)
+नर्स	Noun	नर्स • (nars) f
+एकड़	Noun	एकड़ • (ekaṛ) m
+उचक्का	Noun	उचक्का • (ucakkā) f
+गधा	Noun	गधा • (gadhā) m (Urdu spelling گدھا‏)
+तरबूज़	Noun	तरबूज़ • (tarbūz) m (Urdu spelling تربوز‏)
+हरा	Noun	हरा • (harā) m
+नीड़	Noun	नीड़ • (nīṛ) m
+कामना	Noun	कामना • (kāmnā) f (Urdu spelling کامنا‏)
+शान्ति	Noun	शान्ति • (śānti) f (Urdu spelling شانتی‏)
+ढोका	Noun	ढोका • (dhokā) m
+भक्ति	Noun	भक्ति • (bhakti) f (Urdu spelling بھکتی‏)
+महावत	Noun	महावत • (mahāvat) m (Urdu spelling مہاوت‏)
+किशमिश	Noun	किशमिश • (kiśmiś) f (Urdu spelling کشمش‏)
+मनुष्य	Noun	मनुष्य • (manuṣya) m (Urdu spelling منشیہ‏)
+पीछा	Noun	पीछा • (pīchā) m
+प्रवेश	Noun	प्रवेश • (praveś) m
+आरा	Noun	आरा • (ārā) m
+अनन्नास	Noun	अनन्नास • (anannās) m (Urdu spelling انناس‏)
+कटार	Noun	कटार • (kaṭār) f
+मामला	Noun	मामला • (māmlā) m
+हड्डी	Noun	हड्डी • (haḍḍī) f (Urdu spelling ہڈی‏)
+भोसड़ी	Noun	भोसड़ी • (bhosṛī) f
+घर	Noun	घर • (ghar) m (Urdu spelling گھر‏)
+रंगकर्मी	Noun	रंगकर्मी • (raṅgkarmī) m
+भूत	Noun	भूत • (bhūt) m (Urdu spelling بهوت‏)
+वालिद	Noun	वालिद • (vālid) m (Urdu spelling والد‏)
+त्याग	Noun	त्याग • (tyāg) m
+द्वीप	Noun	द्वीप • (dvīp) m
+संतोष	Noun	संतोष • (santoṣ) m
+चित्रकथा	Noun	चित्रकथा • (citrakthā) f
+खरगोश	Noun	खरगोश • (khargoś) m (Urdu spelling خرگوش‏)
+परमेश्वर	Noun	परमेश्वर • (parameśvar, parmeśvar) m (Urdu spelling پرمیشور‏)
+निशाना	Noun	निशाना • (niśānā) m (Urdu spelling نشانہ‏)
+गरुड	Noun	गरुड • (garuḍ) m (Urdu spelling گرڈ‏)
+बल्ला	Noun	बल्ला • (ballā) m
+दंश	Noun	दंश • (danś) m
+पहर	Noun	पहर • (pahar) m
+डॉलर	Noun	डॉलर • (ḍŏlar) m (Urdu spelling ڈالر‏)
+आज़ादी	Noun	आज़ादी • (āzādī) f (Urdu spelling آزادی‏)
+लिप्ता	Noun	लिप्ता • (liptā) ?
+घोड़ा	Noun	घोड़ा • (ghoṛā) m (Urdu spelling گھوڑا‏)
+अपील	Noun	अपील • (apīl) f
+नर	Noun	नर • (nar) m (Urdu spelling نر‏)
+काला तिल	Noun	काला तिल • (kālā til) m
+पाठ	Noun	पाठ • (pāṭh) m
+सीताफल	Noun	सीताफल • (sītāphal) m
+हद	Noun	हद • (had) f (Urdu spelling حد‏)
+पदक	Noun	पदक • (padak) m
+नाभि	Noun	नाभि • (nābhi) f (Urdu spelling نابھی‏)
+इश्तहार	Noun	इश्तहार • (iśtahār) m
+हड़ताल	Noun	हड़ताल • (haṛtāl) f
+पराठा	Noun	पराठा • (parāṭhā) m (Urdu spelling پراٹھا‏)
+नवाब	Noun	नवाब • (navāb) m (Urdu spelling نواب‏)
+पर	Noun	पर • (par) m (Urdu spelling پر‏)
+विजय	Noun	विजय • (vijay) f
+चायवाला	Noun	चायवाला • (cāyvālā) m
+ख़र्च	Noun	ख़र्च • (xarc) m (Urdu spelling خرچ‏)
+बकरा	Noun	बकरा • (bakrā) m (Urdu spelling بکرا‏)
+बादाम	Noun	बादाम • (bādām) m (Urdu spelling بادام‏)
+दण्ड	Noun	दण्ड • (daṇḍ) m (Urdu spelling دنڈ‏)
+अनुप्रयुक्त विज्ञान	Noun	अनुप्रयुक्त विज्ञान • (anuprayukt vijñān) m
+सूर्य	Noun	सूर्य • (sūrya) m (Urdu spelling سوریہ‏)
+मक़बरा	Noun	मक़बरा • (maqbarā) m
+बल	Noun	बल • (bal) m (Urdu spelling بل‏)
+बाली	Noun	बाली • (bālī) f (Urdu spelling بالی‏)
+हज़ार	Noun	हज़ार • (hazār) m (Urdu spelling ہزار‏)
+प्रस्ताव	Noun	प्रस्ताव • (prastāv) m (Urdu spelling پرستاو‏)
+चूतिया	Noun	चूतिया • (cūtiyā) f
+आर्य	Noun	आर्य • (ārya) m (Urdu spelling آریہ‏)
+अर्थशास्त्र	Noun	अर्थशास्त्र • (arthaśāstra) m
+वाहन	Noun	वाहन • (vāhan) m
+भविष्यवाणी	Noun	भविष्यवाणी • (bhaviṣyavāṇī) f
+शेर	Noun	शेर • (śer) m (Urdu spelling شیر‏)
+शेर	Noun	शेर • (śer) m (Urdu spelling شعر‏)
+बिच्छू	Noun	बिच्छू • (bicchū) m (Urdu spelling بچهو‏)
+मृत्यु	Noun	मृत्यु • (mŕtyu) f (Urdu spelling مرتیو‏)
+जीवनकाल	Noun	जीवनकाल • (jīvankāl) m
+तीर्थयात्री	Noun	तीर्थयात्री • (tīrthayātrī) m, f
+भरोसा	Noun	भरोसा • (bharosā) m (Urdu spelling بھروسہ‏)
+परिणाम	Noun	परिणाम • (pariṇām) m (Urdu spelling پرنام‏)
+श्रम	Noun	श्रम • (śram) m
+कवक	Noun	कवक • (kavak) m
+हींग	Noun	हींग • (hīṅg) f
+तमाशा	Noun	तमाशा • (tamāśā) m (Urdu spelling تماشہ‏)
+याजक	Noun	याजक • (yājak) m
+पाठक	Noun	पाठक • (pāṭhak) m
+तिथि	Noun	तिथि • (tithi) f
+कर्मचारी	Noun	कर्मचारी • (karmacārī) m
+गति	Noun	गति • (gati) f (Urdu spelling گتی‏)
+हमला	Noun	हमला • (hamlā) m (Urdu spelling حملہ‏)
+पेशी	Noun	पेशी • (peśī) f (Urdu spelling پیشی‏)
+अंगारा	Noun	अंगारा • (aṅgārā) f
+तेज़ाब	Noun	तेज़ाब • (tezāb) m
+पल	Noun	पल • (pal) m (Urdu spelling پل‏)
+सम्मिलन	Noun	सम्मिलन • (sammilan) m
+जाति	Noun	जाति • (jāti) f
+परवाह	Noun	परवाह • (parvāh) f
+ग्राम	Noun	ग्राम • (grām) m (Urdu spelling گرام‏)
+ग्राम	Noun	ग्राम • (grām) m (Urdu spelling گرام‏)
+दम	Noun	दम • (dam) m (Urdu spelling دم‏)
+दम	Noun	दम • (dama) m (Urdu spelling دم‏)
+दम	Noun	दम • (dam) m (Urdu spelling دم‏)
+दम	Noun	दम • (dam) m (Urdu spelling دم‏)
+रंगमंच	Noun	रंगमंच • (raṅgmañc) m
+दरिद्र	Noun	दरिद्र • (daridra) m
+दर्पण	Noun	दर्पण • (darpaṇ) m (Urdu spelling درپں‏)
+विचार	Noun	विचार • (vicār) m (Urdu spelling وچار‏)
+मशीन	Noun	मशीन • (maśīn) f
+नीहारिका	Noun	नीहारिका • (nīhārikā) f
+अस्थि	Noun	अस्थि • (asthi) m (Urdu spelling استھ‏)
+वृद्धि	Noun	वृद्धि • (vŕddhi) f
+येड़ा	Noun	येड़ा • (yeṛā) m
+क्षेत्रफल	Noun	क्षेत्रफल • (kṣetraphal) m
+सागर	Noun	सागर • (sāgar) m (Urdu spelling ساگر‏)
+चक्षु	Noun	चक्षु • (cakṣu) m (Urdu spelling ݘکشو‏)
+अरब	Noun	अरब • (arab) m
+तारे	Noun	तारे • (tāre) f
+प्रतीक्षा	Noun	प्रतीक्षा • (pratīkṣā) f
+दर्ज़ी	Noun	दर्ज़ी • (darzī) m
+अंडकोष	Noun	अंडकोष • (ãṇḍakoṣ) m (Urdu spelling انڈکوش‏)
+प्राकृतिक भाषा	Noun	प्राकृतिक भाषा • (prākŕtik bhāṣā) f
+वाक्य	Noun	वाक्य • (vākya) m
+चुम्मा	Noun	चुम्मा • (cummā) m
+संतरा	Noun	संतरा • (santrā) m (Urdu spelling سنترا‏)
+रूम	Noun	रूम • (rūm) m
+नंबर	Noun	नंबर • (nambar) m
+उद्यान	Noun	उद्यान • (udyān) m (Urdu spelling اديان‏)
+मदिरा	Noun	मदिरा • (madirā) f (Urdu spelling مدرا‏)
+सीधा	Noun	सीधा • (sīdhā) m (Urdu spelling سیدھا‏)
+उधार	Noun	उधार • (udhār) m
+ग़रीब	Noun	ग़रीब • (ġarīb) (Urdu spelling غریب‏)
+तुलना	Noun	तुलना • (tulnā) f
+बालक	Noun	बालक • (bālak) m (Urdu spelling بالک‏)
+विधवा	Noun	विधवा • (vidhvā) f
+राशि	Noun	राशि • (rāśi) f
+दिन	Noun	दिन • (din) m (Urdu spelling دن‏)
+शमा	Noun	शमा • (shamā) f (Urdu spelling شمع‏)
+मीन	Noun	मीन • (mīn) m
+नापसंद	Noun	नापसंद • (nāpsand) f
+ज़रूरत	Noun	ज़रूरत • (zarūrat) f (Urdu spelling ضرورت‏)
+लड़की	Noun	लड़की • (laṛkī) f (Urdu spelling لڑکی‏)
+गैलन	Noun	गैलन • (gailan) m
+अनार	Noun	अनार • (anār) m (Urdu spelling انار‏)
+मृग	Noun	मृग • (mŕig) m (Urdu spelling مرگ‏)
+चाहत	Noun	चाहत • (cāhat) f (Urdu spelling چاہت‏)
+टैक्स	Noun	टैक्स • (ṭaiks) m
+अनुमोदन	Noun	अनुमोदन • (anumodan) m
+आवास	Noun	आवास • (āvās) m (Urdu spelling آواس‏)
+लंड	Noun	लंड • (lãṇḍ) m (Urdu spelling لنڈ‏)
+बोली	Noun	बोली • (bolī) f (Urdu spelling بولی‏)
+पैंट	Noun	पैंट • (paiṇṭ) m
+जवान	Noun	जवान • (javān) m
+सज़ा	Noun	सज़ा • (sazā) f (Urdu spelling سزا‏)
+मौन	Noun	मौन • (maun) m (Urdu spelling مون‏)
+यज्ञ	Noun	यज्ञ • (yajñ) m
+सहस्रमान	Noun	सहस्रमान • (sahasramān) m
+संगीत	Noun	संगीत • (saṅgīt) m (Urdu spelling سنگیت‏)
+गड्ढा	Noun	गड्ढा • (gaḍḍhā) m
+गाली	Noun	गाली • (gālī) f (Urdu spelling گالی‏)
+प्रकार	Noun	प्रकार • (prakār) m
+किलोमीटर	Noun	किलोमीटर • (kilomīṭar) m (Urdu spelling کلومیٹر‏)
+कपाल	Noun	कपाल • (kapāl) f (Urdu spelling کپال‏)
+युद्धकाल	Noun	युद्धकाल • (yuddhakāl) m
+पोप	Noun	पोप • (pop) m
+युवक	Noun	युवक • (yuvak) m
+शराब	Noun	शराब • (śarāb) f (Urdu spelling شراب‏)
+टाँग	Noun	टाँग • (ṭā̃g) f
+रसायनिक हथियार	Noun	रसायनिक हथियार • (rasāyanik hathiyār) m
+कोशिश	Noun	कोशिश • (kośiś) f (Urdu spelling کوشش‏)
+स्तूप	Noun	स्तूप • (stūp) m
+उपकार	Noun	उपकार • (upkār) m (Urdu spelling اُپکار‏)
+पुष्प	Noun	पुष्प • (puṣp) m (Urdu spelling پشپ‏)
+धूमकेतु	Noun	धूमकेतु • (dhūmketu) m
+मोड़	Noun	मोड़ • (moṛ) m
+लँगड़ा	Noun	लँगड़ा • (lãgṛā) m
+नारी	Noun	नारी • (nārī) f (Urdu spelling ناری‏)
+बिंदु	Noun	बिंदु • (bindu) m
+मूसा	Noun	मूसा • (mūsā) m
+गैस	Noun	गैस • (gais) f
+ध्यान	Noun	ध्यान • (dhyān) m (Urdu spelling دھیان‏)
+अर्थ	Noun	अर्थ • (arth) m (Urdu spelling ارتھ‏)
+कक्षा	Noun	कक्षा • (kakṣā) f
+निर्घोष	Noun	निर्घोष • (nirghoṣ) m
+पोपला	Noun	पोपला • (poplā) m
+अश्वमेध	Noun	अश्वमेध • (aśvamedh) m
+प्रधान	Noun	प्रधान • (pradhān) m
+छमाही	Noun	छमाही • (chamāhī) f
+कल	Noun	कल • (kal) m
+अधर्म	Noun	अधर्म • (adharm) m (Urdu spelling ادھرم‏)
+ब्राह्मण	Noun	ब्राह्मण • (brāhmaṇ) m
+मील	Noun	मील • (mīl) m
+रुचि	Noun	रुचि • (ruci) f
+इकट्ठा करना	Noun	इकट्ठा करना • (ikaṭṭhā karnā) (Urdu spelling اکٹھا کرنا‏) 
+ज्ञान	Noun	ज्ञान • (jñān) m (Urdu spelling گیان‏)
+शौक़	Noun	शौक़ • (śauq) m
+स्वस्तिक	Noun	स्वस्तिक • (svastik) m (Urdu spelling سوستک‏)
+प्राप्ति	Noun	प्राप्ति • (prāpti) f
+कंधा	Noun	कंधा • (kandhā) m (Urdu spelling کندھا‏)
+घोटाला	Noun	घोटाला • (ghoṭālā) m
+मापक	Noun	मापक • (māpak) m
+कर्म	Noun	कर्म • (karma) m
+विपक्ष	Noun	विपक्ष • (vipakṣ) m
+चश्मा	Noun	चश्मा • (caśmā) m (Urdu spelling چشمہ‏)
+शाखा	Noun	शाखा • (śākhā) f
+पति	Noun	पति • (pati) m
+छुरी	Noun	छुरी • (churī) f (Urdu spelling چھری‏)
+कौड़ी	Noun	कौड़ी • (kauṛī) f
+काला	Noun	काला • (kālā) m (Urdu spelling کالا‏)
+देव	Noun	देव • (dev) m (Urdu spelling ديو‏)
+जीभ	Noun	जीभ • (jībh) f (Urdu spelling جیبھ‏)
+दूतावास	Noun	दूतावास • (dūtāvās) m
+शैतानी	Noun	शैतानी • (śaitānī) f (Urdu spelling شیطانی‏)
+धतूरा	Noun	धतूरा • (dhatūrā) m
+सड़क	Noun	सड़क • (saṛak) f (Urdu spelling سڑک‏)
+आवारा	Noun	आवारा • (āvārā) m (Urdu spelling آوارہ‏)
+अम्मा	Noun	अम्मा • (ammā) f (Urdu spelling اما‏)
+पाल	Noun	पाल • (pāl) m (Urdu spelling پال‏)
+पाल	Noun	पाल • (pāl) m
+शय्या	Noun	शय्या • (śayyā) m
+मंज़ूर करना	Noun	मंज़ूर करना • (manzūr karnā) (Urdu spelling منضور کرنا‏) 
+भुजंग	Noun	भुजंग • (bhujaṅg) m
+सज्जा	Noun	सज्जा • (sajjā) f
+वस्तु	Noun	वस्तु • (vastu) f (Urdu spelling وستو‏)
+वली	Noun	वली • (valī) m (Urdu spelling ولی‏)
+कविता	Noun	कविता • (kavitā) f (Urdu spelling کوتا‏)
+थाना	Noun	थाना • (thānā) m (Urdu spelling تھانہ‏)
+अभ्यास	Noun	अभ्यास • (abhyās) m (Urdu spelling ابھیاس‏)
+छेद	Noun	छेद • (ched) m (Urdu spelling چھید‏)
+कचौड़ी	Noun	कचौड़ी • (kacauṛī) f (Urdu spelling کچوڑی‏)
+परिभाषा	Noun	परिभाषा • (paribhāṣā) f
+नख़रा	Noun	नख़रा • (naxrā) m
+सीढ़ी	Noun	सीढ़ी • (sīṛhī) f
+चीनी	Noun	चीनी • (cīnī) m, f (Urdu spelling چینی‏)
+धक्का	Noun	धक्का • (dhakkā) m
+पौधा	Noun	पौधा • (paudhā) m (Urdu spelling پودھا‏)
+साख	Noun	साख • (sākh) f (Urdu spelling ساکھ‏)
+बात	Noun	बात • (bāt) f (Urdu spelling بات‏)
+समुद्र	Noun	समुद्र • (samudr) m (Urdu spelling سمدر‏)
+सुरमा	Noun	सुरमा • (surmā) m (Urdu spelling سرما‏)
+लोक	Noun	लोक • (lok) m (Urdu spelling لوك‏)
+मिति	Noun	मिति • (miti) f
+रन	Noun	रन • (ran) m
+रन	Noun	रन • (ran) m
+सचिव	Noun	सचिव • (saciv) m, f
+राजपूत	Noun	राजपूत • (rājpūt) m
+निष्ठा	Noun	निष्ठा • (niṣṭhā) f (Urdu spelling نشٹھا‏)
+व्यवस्था	Noun	व्यवस्था • (vyavasthā) f
+दस्तावेज़	Noun	दस्तावेज़ • (dastāvez) m
+परिवर्तन	Noun	परिवर्तन • (parivartan) m
+मेघ	Noun	मेघ • (megh) m (Urdu spelling میگھ‏)
+कंप्यूटर	Noun	कंप्यूटर • (kampyūṭar) m (Urdu spelling کمپیوٹر‏)
+अनुनासिक	Noun	अनुनासिक • (anunāsik) m
+अपराध	Noun	अपराध • (aprādh) m (Urdu spelling اپرادھ‏)
+नाथ	Noun	नाथ • (nāth) m (Urdu spelling ناتھ‏)
+तीली	Noun	तीली • (tīlī) f
+विष	Noun	विष • (víṣh) m (Urdu spelling وش‏)
+दवाई	Noun	दवाई • (davā'ī) f
+हृदय	Noun	हृदय • (hŕday) m (Urdu spelling ہردی‏)
+शल्यचिकित्सक	Noun	शल्यचिकित्सक • (śalyacikitsak) m
+चक्रवात	Noun	चक्रवात • (cakravāt) m
+शिल्पशाला	Noun	शिल्पशाला • (śilp-śālā) ? (Urdu spelling شلپشالا‏)
+देवी	Noun	देवी • (devī) f
+आशुलिपि	Noun	आशुलिपि • (āśulipi) f
+पटरी	Noun	पटरी • (paṭrī) f
+संत	Noun	संत • (sant) m
+संत	Noun	संत • (sant) m
+आब-ए-चश्म	Noun	आब-ए-चश्म • (āb-e-caśm) m
+गुरु	Noun	गुरु • (guru) m
+रेलगाड़ी	Noun	रेलगाड़ी • (relgāṛī) f
+समीकरण	Noun	समीकरण • (samīkaraṇ) m
+चन्द्र	Noun	चन्द्र • (candra) m (Urdu spelling چندر‏)
+सलवार	Noun	सलवार • (salvār) f
+गज	Noun	गज • (gaj) m (Urdu spelling گج‏)
+लूट	Noun	लूट • (lūṭ) f (Urdu spelling لوٹ‏)
+अनाड़ी	Noun	अनाड़ी • (anāṛī) f
+गांठ	Noun	गांठ • (gāṇṭh) f
+भावना	Noun	भावना • (bhāvnā) f (Urdu spelling بهاونا‏)
+संस्कार	Noun	संस्कार • (saṃskār) m (Urdu spelling سنسکار‏)
+ऊंचाईमापक	Noun	ऊंचाईमापक • (ūñcāīmāpak) m
+इनाम	Noun	इनाम • (inām) m (Urdu spelling انعام‏)
+रहस्य	Noun	रहस्य • (rahasya) m (Urdu spelling رہسیہ‏)
+वेश्या	Noun	वेश्या • (veśyā) f
+महफ़िल	Noun	महफ़िल • (mahfil) f
+दुश्मन	Noun	दुश्मन • (duśman) m (Urdu spelling دشمن‏)
+क्षय	Noun	क्षय • (kṣay) m (Urdu spelling کشی‏) (literary)
+भाव	Noun	भाव • (bhāv) m
+मिस्त्री	Noun	मिस्त्री • (mistrī) m
+केला	Noun	केला • (kelā) m (Urdu spelling کیلا‏)
+पगडंडी	Noun	पगडंडी • (pagḍaṇḍī) f
+कुमार	Noun	कुमार • (kumār) m
+वर्ष	Noun	वर्ष • (varṣ) m
+उपनदी	Noun	उपनदी • (upandī) f
+स्वर	Noun	स्वर • (svar) m (Urdu spelling سور‏)
+मुँडेर	Noun	मुँडेर • (mũḍer) f
+हीरा	Noun	हीरा • (hīrā) m (Urdu spelling ہیرا‏)
+सङ्गीत	Noun	सङ्गीत • (saṅgīt) m (Urdu spelling سنگیت‏)
+क्षति	Noun	क्षति • (kṣhati) f (Urdu spelling کشتي‏)
+पूँछ	Noun	पूँछ • (pū̃ch) f
+याददाश्त	Noun	याददाश्त • (yāddāśt) f
+दूध	Noun	दूध • (dūdh) m (Urdu spelling دودھ‏)
+इस्त्री	Noun	इस्त्री • (istrī) f
+पुरुष	Noun	पुरुष • (puruṣ) m (Urdu spelling پرش‏)
+तबला	Noun	तबला • (tablā) m
+कर्ण	Noun	कर्ण • (karṇ) m
+पाद	Noun	पाद • (pād) m
+पाद	Noun	पाद • (pād) m
+केश	Noun	केश • (keś) m (Urdu spelling کیش‏)
+सा	Noun	सा • (sā) m
+युद्ध	Noun	युद्ध • (yuddh) m (Urdu spelling یدھ‏)
+पता	Noun	पता • (patā) m (Urdu spelling پتہ‏)
+ख़रीदार	Noun	ख़रीदार • (xarīdār) m
+थैला	Noun	थैला • (thailā) m
+प्रति	Noun	प्रति • (prati) f
+पूरा नाम	Noun	पूरा नाम • (pūrā nām) m
+जीजी	Noun	जीजी • (jījī) f
+तरक़्क़ी	Noun	तरक़्क़ी • (taraqqī) f
+बाँस	Noun	बाँस • (bā̃s) m
+आना	Noun	आना • (ānā) m
+मर्यादा	Noun	मर्यादा • (maryādā) f
+जमा	Noun	जमा • (jamā) m
+हृदयाघात	Noun	हृदयाघात • (hŕdyāghāt) m
+काँटा	Noun	काँटा • (kā̃ṭā) m
+प्रस्तुति	Noun	प्रस्तुति • (prastuti) f
+लुग़त	Noun	लुग़त • (luġat) f (Urdu spelling لغت‏)
+अधिकांश	Noun	अधिकांश • (adhikānś) m
+फ़ैसला	Noun	फ़ैसला • (faisla) m (Urdu spelling فیصلہ‏)
+अज़ान	Noun	अज़ान • (azān) m
+चिराग़	Noun	चिराग़ • (cirāġ) m (Urdu spelling چراغ‏)
+बुल्ला	Noun	बुल्ला • (bullā) m (Urdu spelling بلا‏)
+स्थान	Noun	स्थान • (sthān) m (Urdu spelling ستھان‏)
+आवश्यकता	Noun	आवश्यकता • (āvaśyaktā) f
+ख़्वाहिश	Noun	ख़्वाहिश • (xvāhiś) f (Urdu spelling خواہش‏)
+अभिव्यक्ति	Noun	अभिव्यक्ति • (abhivyakti) f
+अद्वैत	Noun	अद्वैत • (advait) m
+पोत	Noun	पोत • (pōt) m (Urdu spelling پوت‏)
+नीड़ज	Noun	नीड़ज • (nīṛaj) m
+भूरा	Noun	भूरा • (bhūrā) m (Urdu spelling بھورا‏)
+व्यंग्य	Noun	व्यंग्य • (vyaṅgya) m
+पूंछ	Noun	पूंछ • (pū̃ch) f (Urdu spelling پونچھ‏)
+गृहयुद्ध	Noun	गृहयुद्ध • (gŕhyuddh) m
+कृषक	Noun	कृषक • (kŕṣak) m
+ढाल	Noun	ढाल • (ḍhāl) f
+पंखा	Noun	पंखा • (paṅkhā) m (Urdu spelling پنکھا‏)
+माली	Noun	माली • (mālī) m
+मुख	Noun	मुख • (mukh) m (Urdu spelling مکھ‏)
+भक्त	Noun	भक्त • (bhakt) m (Urdu spelling بھکت‏)
+लिफ़ाफ़ा	Noun	लिफ़ाफ़ा • (lifāfā) m
+गुण	Noun	गुण • (guṇ) m
+तोप	Noun	तोप • (top) f (Urdu spelling توپ‏)
+तोप	Noun	तोप • (top) m (Urdu spelling توپ‏)
+मैना	Noun	मैना • (mainā) f (Urdu spelling مینا‏)
+लपट	Noun	लपट • (lapaṭ) f
+मधु	Noun	मधु • (madhu) m (Urdu spelling مدھو‏)
+दावत	Noun	दावत • (dāvat) f
+मास	Noun	मास • (mās) m
+मुद्दा	Noun	मुद्दा • (muddā) m
+चौकीदार	Noun	चौकीदार • (caukīdār) m
+उदय	Noun	उदय • (uday) f (Urdu spelling ادی‏)
+सर्जन	Noun	सर्जन • (sarjan) m
+सर्जन	Noun	सर्जन • (sarjan) m
+जासूस	Noun	जासूस • (jāsūs) m (Urdu spelling جاسوس‏)
+शब्दकोश	Noun	शब्दकोश • (śabdkoś) m (Urdu spelling شبدکوش‏)
+राजमहल	Noun	राजमहल • (rājamhal) m
+सुविधा	Noun	सुविधा • (suvidhā) f
+अब्बा	Noun	अब्बा • (abbā) m (Urdu spelling ابا‏)
+सांप	Noun	सांप • (sāmp) m
+मधुर	Noun	मधुर • (madhur) ? (Urdu spelling مدھر‏)
+कल्पना	Noun	कल्पना • (kalpanā) f
+रिक्शा	Noun	रिक्शा • (rikśā) f (Urdu spelling رکش‏)
+प्रवीणता	Noun	प्रवीणता • (pravīṇtā) f
+निज़ाम	Noun	निज़ाम • (nizām) m
+उक्ति	Noun	उक्ति • (ukti) f (Urdu spelling اکتی‏)
+बागर	Noun	बागर • (bāgar) m
+कोशिका	Noun	कोशिका • (kośikā) f (Urdu spelling کوشکا‏)
+बुलबुल	Noun	बुलबुल • (bulbul) f (Urdu spelling بلبل‏)
+बम	Noun	बम • (bam) m
+परिसीमा	Noun	परिसीमा • (parisīmā) f
+भय	Noun	भय • (bhay) m (Urdu spelling بھی‏)
+प्रतिज्ञा	Noun	प्रतिज्ञा • (pratijñā) f
+सदमा	Noun	सदमा • (sadmā) m
+महिला	Noun	महिला • (mahilā) f (Urdu spelling مہیلا‏)
+कार	Noun	कार • (kār) m (Urdu spelling کار‏)
+इलाक़ा	Noun	इलाक़ा • (ilāqā) m (Urdu spelling علاقہ‏)
+साहित्य	Noun	साहित्य • (sāhitya) m (Urdu spelling ساہتیہ‏)
+बटाटा	Noun	बटाटा • (baṭāṭā) m
+बुद्धि	Noun	बुद्धि • (buddhi) f (Urdu spelling بدھی‏)
+नेत्र	Noun	नेत्र • (netr) m (Urdu spelling نیتر‏)
+द्वीपसमूह	Noun	द्वीपसमूह • (dvīpasmūh) m
+जल	Noun	जल • (jal) m (Urdu spelling جل‏)
+मेष	Noun	मेष • (meṣ) m (Urdu spelling میش‏)
+प्रारम्भ	Noun	प्रारम्भ • (prārambh) m (Urdu spelling پرارمبھ‏)
+पतंग	Noun	पतंग • (pataṅg) m (Urdu spelling پتنگ‏)
+विद्या	Noun	विद्या • (vidyā) f (Urdu spelling وديا‏)
+प्राधिकारी	Noun	प्राधिकारी • (prādhikārī) m
+परिवार	Noun	परिवार • (parivār) m (Urdu spelling پروار‏)
+व्याख्याता	Noun	व्याख्याता • (vyākhyātā) m
+मजबूरी	Noun	मजबूरी • (majbūrī) f
+विद्यालय	Noun	विद्यालय • (vidyālay) m
+अभाव	Noun	अभाव • (abhāv/abhāo) m (Urdu spelling ابھاو‏)
+रिसालदार	Noun	रिसालदार • (risāldār) m
+बल्लेबाज़	Noun	बल्लेबाज़ • (ballebāz) m
+ख़याल	Noun	ख़याल • (xayāl) m (Urdu spelling خیال‏)
+लोटा	Noun	लोटा • (loṭā) f
+द्वार	Noun	द्वार • (dvār) m (Urdu spelling دوار‏)
+कण	Noun	कण • (kaṇ) m
+विराम	Noun	विराम • (virām) m
+बदबू	Noun	बदबू • (badbū) f
+आलय	Noun	आलय • (ālay) m (Urdu spelling آلی‏)
+मालिक	Noun	मालिक • (mālik) m
+फर्नीचर	Noun	फर्नीचर • (pharnīcar) m
+बियर	Noun	बियर • (biyar) m (Urdu spelling بیئر‏)
+लागत	Noun	लागत • (lāgat) f
+पर्वत	Noun	पर्वत • (parvat) m (Urdu spelling پروت‏)
+मित्र	Noun	मित्र • (mitra) m (Urdu spelling متر‏)
+हस्ताक्षर	Noun	हस्ताक्षर • (hastākṣar) m
+चन्दन	Noun	चन्दन • (candan) m (Urdu spelling چندن‏)
+योनि	Noun	योनि • (yoni) f (Urdu spelling یون‏)
+गुह	Noun	गुह • (guh) m
+मसीहा	Noun	मसीहा • (masīhā) m
+हफ़्ता	Noun	हफ़्ता • (hafta) m (Urdu spelling ہفتہ‏)
+व्रत	Noun	व्रत • (vrat) m
+मकड़ा	Noun	मकड़ा • (makṛā) m (Urdu spelling مکڑا‏)
+झगड़ा	Noun	झगड़ा • (jhagṛā) m (Urdu spelling جھگڑا‏)
+जादूगर	Noun	जादूगर • (jādūgar) m
+गाड़ा	Noun	गाड़ा • (gāṛā) m
+शरण	Noun	शरण • (śaraṇ) f (Urdu spelling شرن‏)
+कांड	Noun	कांड • (kāṇḍ) m
+चक्र	Noun	चक्र • (cakra) m (Urdu spelling چکر‏)
+फ़र्श	Noun	फ़र्श • (farś) m (Urdu spelling فرش‏)
+फल	Noun	फल • (phal) m (Urdu spelling پھل‏)
+राजदूत	Noun	राजदूत • (rājdūt) m
+आकृति	Noun	आकृति • (ākŕti) f
+काठ	Noun	काठ • (kāṭh) m
+तूफ़ान	Noun	तूफ़ान • (tūfān) m (Urdu spelling طوفان‏)
+कांटा	Noun	कांटा • (kāṇṭā) m (Urdu spelling کانٹا‏)
+लौकी	Noun	लौकी • (laukī) f
+वर्णन	Noun	वर्णन • (varṇan) m
+चीज़	Noun	चीज़ • (cīz) f (Urdu spelling چیز‏)
+विवाह	Noun	विवाह • (vivāh) m (Urdu spelling وواہ‏)
+गृह	Noun	गृह • (gṛha) m (Urdu spelling گرہ‏)
+मातृभाषा	Noun	मातृभाषा • (mātŕbhāṣā) f (Urdu spelling مات بھاشا‏)
+जांघ	Noun	जांघ • (jā̃ṅgh) f (Urdu spelling جانگھ‏)
+शास्त्र	Noun	शास्त्र • (śāstra) m (Urdu spelling شاستر‏)
+ध्वनि	Noun	ध्वनि • (dhvani) f (Urdu spelling دهوني‏)
+पुत्र	Noun	पुत्र • (putra) m (Urdu spelling پتر‏)
+टापू	Noun	टापू • (ṭāpū) m (Urdu spelling ٹاپو‏)
+समधी	Noun	समधी • (samdhī) f
+बीज	Noun	बीज • (bīj) m (Urdu spelling بیج‏)
+चालान	Noun	चालान • (cālān) m
+जुगनू	Noun	जुगनू • (jugnū) m
+तरह	Noun	तरह • (tarah) m (Urdu spelling ترہ‏)
+झूठा	Noun	झूठा • (jhūṭhā) m (Urdu spelling جھوٹھا‏)
+बरसात	Noun	बरसात • (barsāt) f (Urdu spelling برسات‏)
+परदा	Noun	परदा • (pardā) m
+हक़	Noun	हक़ • (haq) m (Urdu spelling حق‏)
+कीचड़	Noun	कीचड़ • (kīcaṛ) m
+हिस्सा	Noun	हिस्सा • (hissā) m
+वजह	Noun	वजह • (vajah) f
+कालेज	Noun	कालेज • (kālej) m
+बूढ़ा	Noun	बूढ़ा • (būṛhā) m (Urdu spelling بوڑھا‏)
+श्री	Noun	श्री • (śrī) m
+रोटी	Noun	रोटी • (roṭī) f (Urdu spelling روٹی‏)
+आचार	Noun	आचार • (ācār) m (Urdu spelling آچار‏)
+आचार	Noun	आचार • (ācār) m (Urdu spelling آچار‏)
+फ़ैशन	Noun	फ़ैशन • (faiśan) m
+आस	Noun	आस • (ās) f (Urdu spelling آس‏)
+अवतार	Noun	अवतार • (avatār) m (Urdu spelling اوتار‏)
+बरस	Noun	बरस • (baras) m (Urdu spelling برس‏)
+पूर्वाग्रह	Noun	पूर्वाग्रह • (pūrvāgrah) m
+पत्ता	Noun	पत्ता • (pattā) m
+अंश	Noun	अंश • (ãñś) m (Urdu spelling انش‏)
+कच्चू	Noun	कच्चू • (kaccū) f
+पेचकस	Noun	पेचकस • (peckas) m
+सांस	Noun	सांस • (sāns) f (Urdu spelling سانس‏)
+आबकार	Noun	आबकार • (ābkār) m
+कवच	Noun	कवच • (kavac) m
+दुनिया	Noun	दुनिया • (duniyā) f (Urdu spelling دنیا‏)
+अंग	Noun	अंग • (aṅg) m (Urdu spelling انگ‏)
+घुटनी	Noun	घुटनी • (ghuṭnī) f (Urdu spelling گھٹنی‏)
+सूफ़ी	Noun	सूफ़ी • (sūfī) m
+मूस	Noun	मूस • (mūs) m
+तौलिया	Noun	तौलिया • (tauliyā) f
+गेम	Noun	गेम • (gem) m
+लिपि	Noun	लिपि • (lipi) f
+शलगम	Noun	शलगम • (śalgam) m (Urdu spelling شلغم‏)
+पर्याय	Noun	पर्याय • (paryāy) m
+स्तंभ	Noun	स्तंभ • (stambh) m
+वादा	Noun	वादा • (vādā) m (Urdu spelling وعدہ‏)
+दाँत	Noun	दाँत • (dā̃t) m (Urdu spelling دانت‏)
+बस्ती	Noun	बस्ती • (bastī) f (Urdu spelling بستی‏)
+सेना	Noun	सेना • (senā) f (Urdu spelling سینا‏)
+किताब	Noun	किताब • (kitāb) f (Urdu spelling کتاب‏)
+हुकूमत	Noun	हुकूमत • (hukūmat) f (Urdu spelling حکومت‏)
+ताली	Noun	ताली • (tālī) f (Urdu spelling تالی‏)
+भ्रम	Noun	भ्रम • (bhram) m
+मादरी ज़बान	Noun	मादरी ज़बान • (mādrī zabān) f (Urdu spelling مادری زبان‏)
+नौटंकी	Noun	नौटंकी • (nauṭaṅkī) f
+वीडियो गेम	Noun	वीडियो गेम • (vīḍiyo gem) m
+मुल्क	Noun	मुल्क • (mulk) m (Urdu spelling ملک‏)
+जनमत	Noun	जनमत • (janmat) m
+भूखा	Noun	भूखा • (bhūkhā) m
+करघा	Noun	करघा • (karghā) m
+अग्नि	Noun	अग्नि • (agni) m (Urdu spelling اگنی‏)
+रिवाज	Noun	रिवाज • (rivāj) m
+कवि	Noun	कवि • (kavi) m
+कंठ	Noun	कंठ • (kãṇṭh) m (Urdu spelling کںٹھ‏)
+रिश्वत	Noun	रिश्वत • (riśvat) f (Urdu spelling رشوت‏)
+अंग्रेज़ी	Noun	अंग्रेज़ी • (ãṅgrezī) f (Urdu spelling انگریزی‏)
+कन्या	Noun	कन्या • (kanyā) f (Urdu spelling کنیا‏)
+मूल्य	Noun	मूल्य • (mūlya) m (Urdu spelling مولیہ‏)
+घटना	Noun	घटना • (ghaṭnā) f (Urdu spelling گھٹنا‏)
+बू	Noun	बू • (bū) f
+जन	Noun	जन • (jan) m

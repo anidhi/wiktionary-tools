@@ -1,0 +1,49 @@
+pasiv	Adjective	pasiv m (feminine pasive, masculine plural pasivë, feminine plural pasive)
+murg	Adjective	murg m (feminine murge)
+i vet	Adjective	i vet
+biografi	Adjective	biografi
+palo	Adjective	palo m (feminine paloe)
+bajat	Adjective	bajat
+islam	Adjective	islam m (feminine islame)
+biseksual	Adjective	biseksual m (feminine biseksuale, masculine plural biseksualë, feminine plural biseksuale)
+administrativ	Adjective	administrativ
+all	Adjective	all m (feminine alle)
+çifut	Adjective	çifut m (feminine çifute, masculine plural çifutë, feminine plural çifute)
+nur	Adjective	nur m (feminine nure)
+autonom	Adjective	autonom
+erotik	Adjective	erotik m (feminine erotike, masculine plural erotikë, feminine plural erotike)
+heteroseksual	Adjective	heteroseksual m (feminine heteroseksuale, masculine plural heteroseksualë, feminine plural heteroseksuale)
+shqiptar	Adjective	shqiptar m (feminine shqiptare, masculine plural shqiptarë, feminine plural shqiptare)
+atletik	Adjective	atletik
+i zi	Adjective	i zi m (feminine e zezë, masculine plural të zinj, feminine plural të zeza)
+abstrakt	Adjective	abstrakt m (feminine abstrakte, masculine plural abstraktë, feminine plural abstrakte)
+eng	Adjective	eng m (feminine enge)
+spontan	Adjective	spontan m (feminine spontane)
+pec	Adjective	pec m (feminine pece)
+muf	Adjective	muf m (feminine mufe)
+dygjuhësi	Adjective	dygjuhësi f
+cup	Adjective	cup m (feminine cupe)
+izraelit	Adjective	izraelit m (feminine izraelite, masculine plural izraelitë, feminine plural izraelite)
+grek	Adjective	grek
+rus	Adjective	rus m (feminine ruse)
+pis	Adjective	pis m (feminine pise)
+aktiv	Adjective	aktiv m (feminine aktive, masculine plural aktivë, feminine plural aktive)
+matematik	Adjective	matematik m (feminine matematike, masculine plural matematikë, feminine plural matematike)
+gri	Adjective	gri m (feminine grie)
+homoseksual	Adjective	homoseksual m (feminine homoseksuale, masculine plural homoseksualë, feminine plural homoseksuale)
+me	Adjective	me m (feminine mee)
+lezbike	Adjective	lezbike
+bemol	Adjective	bemol
+lig	Adjective	lig m (feminine lige)
+mysliman	Adjective	mysliman m (feminine myslimane, masculine plural myslimanë, feminine plural myslimane)
+historik	Adjective	historik m (feminine historike, masculine plural historikë, feminine plural historike)
+fyl	Adjective	fyl m (feminine fyle)
+bjond	Adjective	bjond m (feminine bjonde, masculine plural bjondë, feminine plural bjonde)
+kot	Adjective	kot
+verior	Adjective	verior m (feminine veriore, masculine plural veriorë, feminine plural veriore)
+absolut	Adjective	absolut
+plak	Adjective	plak
+shqyptar	Adjective	shqyptar m (feminine shqyptare, masculine plural shqyptar, feminine plural shqyptare)
+i lekur	Adjective	i lekur m (feminine e lekur, masculine plural të lekur)
+politik	Adjective	politik m (feminine politike, masculine plural politikë, feminine plural politike)
+gul	Adjective	gul m (feminine gule)

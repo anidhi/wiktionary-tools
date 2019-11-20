@@ -1,0 +1,14 @@
+limpa	Adjective	limpa f sg
+mal	Adjective	mal m sg
+porno	Adjective	porno m, f (invariable)
+soa	Adjective	soa f sg
+calcaria	Adjective	calcaria f sg
+grosa	Adjective	grosa f sg
+vella	Adjective	vella f sg
+triga	Adjective	triga f sg
+branca	Adjective	branca f sg
+vaga	Adjective	vaga f sg
+chea	Adjective	chea f sg
+parentes	Adjective	parentes m pl, f pl
+sós	Adjective	sós m pl
+vas	Adjective	vas f pl

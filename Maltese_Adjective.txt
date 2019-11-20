@@ -1,0 +1,7 @@
+belti	Adjective	belti (feminine singular beltija, plural beltin)
+passiv	Adjective	passiv (feminine singular passiva, plural passivi)
+passat	Adjective	passat (feminine singular passata)
+seksi	Adjective	seksi
+aggressiv	Adjective	aggressiv (feminine singular aggressiva, plural aggressivi)
+frisk	Adjective	frisk (feminine singular friska, plural friski)
+bard	Adjective	bard

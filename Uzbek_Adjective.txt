@@ -1,0 +1,5 @@
+qora	Adjective	qora
+keng	Adjective	keng
+tor	Adjective	tor
+katta	Adjective	katta
+soʻm	Adjective	soʻm

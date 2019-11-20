@@ -1,0 +1,273 @@
+chalan	Noun	chalan
+ford	Noun	ford
+oren	Noun	oren m (plural orennau)
+len	Noun	len
+tir	Noun	tir m (plural tiroedd)
+ran	Noun	ran
+pys	Noun	pys f (singulative pysen)
+fron	Noun	fron
+lun	Noun	lun m
+mab	Noun	mab m (plural meibion)
+more	Noun	more
+salm	Noun	salm f (plural salmau)
+fan	Noun	fan f (plural faniau)
+fan	Noun	fan
+broga	Noun	broga m (plural brogaed or brogaod)
+pen	Noun	pen m (plural pennau)
+the	Noun	the
+cor	Noun	cor m (plural corrod)
+sw	Noun	sw m (plural swau)
+llanw	Noun	llanw m (plural llanwau)
+Sais	Noun	Sais m (plural Saeson)
+person	Noun	person m (plural personau)
+person	Noun	person m (plural personiaid)
+gar	Noun	gar
+offeren	Noun	offeren f (plural offerennau)
+chan	Noun	chan
+lam	Noun	lam
+ymarfer	Noun	ymarfer f (plural ymarferion)
+turtur	Noun	turtur f (plural turturod)
+rif	Noun	rif
+onnen	Noun	onnen f
+nain	Noun	nain f (plural neiniau)
+ofn	Noun	ofn m (plural ofnau)
+clown	Noun	clown m (plural clowniaid)
+mord	Noun	mord
+bil	Noun	bil m (plural biliau)
+coma	Noun	coma m (plural comas)
+maen	Noun	maen m (plural meini)
+cobra	Noun	cobra m, f (plural cobraod)
+hud	Noun	hud m (plural hudau)
+tato	Noun	tato (uncountable)
+lys	Noun	lys
+chala	Noun	chala
+goeden	Noun	goeden
+tin	Noun	tin f (plural tinau)
+aur	Noun	aur m (uncountable)
+antimoni	Noun	antimoni
+fegan	Noun	fegan m, f (plural feganiaid)
+tad	Noun	tad m (plural tadau)
+atal	Noun	atal m (plural atalion)
+deall	Noun	deall m (uncountable)
+te	Noun	te m (uncountable)
+dirmygu	Noun	dirmygu (first-person singular present dirmygaf)
+helfen	Noun	helfen
+law	Noun	law
+law	Noun	law
+lif	Noun	lif
+cil	Noun	cil m (plural ciliau or cilion)
+cil	Noun	cil m
+reg	Noun	reg
+onco	Noun	onco f
+lin	Noun	lin
+din	Noun	din
+ci	Noun	ci m (plural cŵn)
+bord	Noun	bord f (plural bordydd)
+car	Noun	car m (plural ceir)
+fis	Noun	fis
+iau	Noun	iau m, f (plural ieuau or ieuoedd)
+fro	Noun	fro
+we	Noun	we
+tud	Noun	tud f (uncountable)
+pont	Noun	pont f (plural pontydd)
+basta	Noun	basta
+si	Noun	si m (plural sïon)
+to	Noun	to m (plural toeau)
+deri	Noun	deri f pl
+ti	Noun	ti m (plural tiau or tïau)
+meddwl	Noun	meddwl m (plural meddyliau)
+riant	Noun	riant
+cala	Noun	cala f (plural caliau)
+achwyn	Noun	achwyn m (plural achwynion)
+lid	Noun	lid
+do	Noun	do
+gi	Noun	gi m
+pin	Noun	pin m
+cloc	Noun	cloc m (plural clociau)
+gell	Noun	gell
+mentor	Noun	mentor m (plural mentoriaid)
+gramen	Noun	gramen
+cachu	Noun	cachu m
+buail	Noun	buail m pl
+arian	Noun	arian m
+lan	Noun	lan
+heyrn	Noun	heyrn m pl
+corgi	Noun	corgi m (plural corgwn or corgïaid)
+fara	Noun	fara
+gil	Noun	gil m
+win	Noun	win
+groen	Noun	groen
+dim	Noun	dim m
+mad	Noun	mad m
+clywed	Noun	clywed m
+canlyn	Noun	canlyn m (plural canlyniau)
+bol	Noun	bol m (plural boliau)
+gala	Noun	gala
+teledu	Noun	teledu m (plural teledau)
+ban	Noun	ban m
+ateb	Noun	ateb m (plural atebion)
+bananas	Noun	bananas f pl
+calan	Noun	calan m (plural calannau)
+galan	Noun	galan
+bunt	Noun	bunt
+bran	Noun	bran m
+bi	Noun	bi
+mol	Noun	mol
+can	Noun	can m (plural caniau)
+un	Noun	un m (plural unau)
+cynnig	Noun	cynnig m (plural cynigion)
+wers	Noun	wers
+caer	Noun	caer m (plural caerau or caeroedd)
+jam	Noun	jam m (plural jamiau)
+hedd	Noun	hedd m, f (plural heddau or heddoedd)
+geir	Noun	geir
+trin	Noun	trin f (plural trinoedd)
+mur	Noun	mur m (plural muriau)
+frig	Noun	frig
+hardal	Noun	hardal f
+pab	Noun	pab
+glo	Noun	glo m (plural gloeau)
+glo	Noun	glo m
+nef	Noun	nef f (plural nefoedd)
+dwyn	Noun	dwyn
+gwobr	Noun	gwobr f (plural gwobrau)
+halen	Noun	halen m
+sinc	Noun	sinc m
+sinc	Noun	sinc m
+cost	Noun	cost m, f (plural costau)
+tanc	Noun	tanc m (plural tanciau)
+mam	Noun	mam f (plural mamau)
+pasta	Noun	pasta m (uncountable)
+of	Noun	of
+ameba	Noun	ameba m (plural amebas or amebâu)
+haf	Noun	haf m (plural hafau)
+manana	Noun	manana
+fil	Noun	fil
+cath	Noun	cath m, f (plural cathod or cathau)
+dud	Noun	dud
+ennill	Noun	ennill m (plural ennillion)
+pig	Noun	pig f (plural pigau)
+cyfarfod	Noun	cyfarfod m (plural cyfarfodydd)
+adar	Noun	adar m pl (singulative aderyn)
+sero	Noun	sero m (plural seroau)
+gant	Noun	gant
+edliw	Noun	edliw m (plural edliwion)
+nod	Noun	nod m (plural nodau)
+nod	Noun	nod m (plural nodau or nodion)
+corn	Noun	corn m (plural cyrn)
+nos	Noun	nos f (plural nosweithiau, or rarely nosau)
+geneth	Noun	geneth f (plural genethod)
+wy	Noun	wy m (plural wyau)
+pall	Noun	pall m (plural pallon)
+mis	Noun	mis m (plural misoedd)
+le	Noun	le
+haber	Noun	haber
+aber	Noun	aber m, f (plural aberoedd or ebyr)
+loc	Noun	loc m (plural lociau)
+loc	Noun	loc
+ben	Noun	ben
+gorn	Noun	gorn
+dewis	Noun	dewis m (plural dewisau or dewision)
+mys	Noun	mys
+corrach	Noun	corrach m (plural corachod or corachiaid)
+cais	Noun	cais m (plural ceisiadau)
+gad	Noun	gad
+de	Noun	de m, f (uncountable)
+de	Noun	de
+gro	Noun	gro m (uncountable)
+mara	Noun	mara
+tei	Noun	tei ?
+dad	Noun	dad
+air	Noun	air
+maer	Noun	maer m (plural meiri)
+bont	Noun	bont
+gallu	Noun	gallu m (plural galluoedd)
+thai	Noun	thai
+drama	Noun	drama f (plural dramâu)
+tant	Noun	tant m (plural tannau)
+parch	Noun	parch m
+salamandr	Noun	salamandr m (plural salamandrau)
+gut	Noun	gut
+da	Noun	da m
+anner	Noun	anner f (plural aneirod)
+lo	Noun	lo m
+lo	Noun	lo m
+fur	Noun	fur
+laid	Noun	laid
+fab	Noun	fab m
+dechrau	Noun	dechrau m (plural dechreuoedd)
+math	Noun	math m (plural mathau)
+cranc	Noun	cranc m (plural crancod)
+arfer	Noun	arfer m, f (plural arferion)
+bual	Noun	bual m (plural buail or bualau)
+bedd	Noun	bedd m (plural beddau)
+regen	Noun	regen
+dir	Noun	dir
+ais	Noun	ais f pl (singulative eisen)
+gan	Noun	gan
+cheir	Noun	cheir
+cell	Noun	cell f (plural celloedd)
+tro	Noun	tro m (plural troeon)
+caill	Noun	caill f (plural ceilliau)
+tu	Noun	tu m
+fual	Noun	fual m
+elin	Noun	elin f (plural elinoedd or elinau)
+teigr	Noun	teigr m (plural teigrod)
+rabbi	Noun	rabbi m
+offeiriad	Noun	offeiriad m (plural offeiriaid)
+bara	Noun	bara m
+her	Noun	her f (plural heriau)
+aran	Noun	aran
+bron	Noun	bron f (plural bronnau)
+deg	Noun	deg m (plural degau)
+erfyn	Noun	erfyn m
+long	Noun	long
+glin	Noun	glin m (plural gliniau)
+gair	Noun	gair m (plural geiriau or geirau)
+mil	Noun	mil m (plural milod)
+faner	Noun	faner
+ymddiddan	Noun	ymddiddan m (plural ymddiddanion)
+moch	Noun	moch m pl (singulative mochyn)
+fri	Noun	fri
+wir	Noun	wir
+haen	Noun	haen f (plural haenau)
+gwin	Noun	gwin m (plural gwinoedd or gwinau)
+cloch	Noun	cloch f (plural clych or clychau)
+man	Noun	man m, f (plural mannau)
+gwir	Noun	gwir m (plural gwiriau)
+sil	Noun	sil m, f (plural silod or silion)
+diod	Noun	diod f (plural diodydd)
+bro	Noun	bro f (plural broydd or brofydd)
+coleg	Noun	coleg m, f (plural colegau)
+barn	Noun	barn f (plural barnau)
+reis	Noun	reis m (uncountable)
+punt	Noun	punt f (plural punnoedd or punnau)
+sir	Noun	sir f (plural siroedd)
+bryn	Noun	bryn m (plural bryniau)
+mun	Noun	mun
+lew	Noun	lew
+amgyffred	Noun	amgyffred m (plural amgyffredion)
+bryd	Noun	bryd
+botel	Noun	botel
+bridd	Noun	bridd m
+brad	Noun	brad m (uncountable)
+ser	Noun	ser m (plural serod or seroedd)
+gast	Noun	gast f (plural geist)
+lyn	Noun	lyn
+dalen	Noun	dalen f (plural dalennau or dalenni)
+galon	Noun	galon
+marmor	Noun	marmor m (uncountable)
+bola	Noun	bola m (plural boliau)
+had	Noun	had m (collective, singulative hedyn, plural hadau)
+banana	Noun	banana f (plural bananas)
+eisen	Noun	eisen f
+diolch	Noun	diolch m (plural diolchau)
+gor	Noun	gor
+dyn	Noun	dyn m (plural dynion)
+rod	Noun	rod
+thin	Noun	thin
+goed	Noun	goed
+modd	Noun	modd m (plural moddau or moddion)
+angel	Noun	angel m (plural angylion or engyl)
+lamp	Noun	lamp f (plural lampau)
+moron	Noun	moron f pl (singulative moronen)

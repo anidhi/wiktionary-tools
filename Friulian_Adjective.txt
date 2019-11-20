@@ -1,0 +1,30 @@
+fat	Adjective	fat
+dut	Adjective	dut m (feminine dute)
+rot	Adjective	rot (feminine rote)
+bon	Adjective	bon m (feminine buine)
+libar	Adjective	libar
+gras	Adjective	gras
+net	Adjective	net
+plan	Adjective	plan
+biel	Adjective	biel m (plural biels, feminine biele, feminine plural bielis)
+talian	Adjective	talian
+un	Adjective	un
+sut	Adjective	sut
+alt	Adjective	alt
+sort	Adjective	sort
+mol	Adjective	mol
+vert	Adjective	vert
+grant	Adjective	grant
+bas	Adjective	bas
+ros	Adjective	ros
+blanc	Adjective	blanc
+tant	Adjective	tant
+trist	Adjective	trist
+tenar	Adjective	tenar
+mut	Adjective	mut
+grand	Adjective	grand
+ont	Adjective	ont
+plen	Adjective	plen
+dit	Adjective	dit
+just	Adjective	just
+amar	Adjective	amar

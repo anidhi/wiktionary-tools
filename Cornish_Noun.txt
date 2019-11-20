@@ -1,0 +1,149 @@
+nos	Noun	nos f (plural nosow)
+vore	Noun	vore
+moos	Noun	moos f (plural mosow)
+air	Noun	air m
+kool	Noun	kool
+bili	Noun	bili f (singulative bilien)
+kynda	Noun	kynda m (plural kyndys)
+knowen	Noun	knowen f
+bronn	Noun	bronn f (dual diwvron or dywvron, plural bronnow)
+bronn	Noun	bronn f (singulative bronnen)
+rosen	Noun	rosen f
+vor	Noun	vor
+klin	Noun	klin
+hi	Noun	hi
+dama	Noun	dama f (plural damyow)
+banana	Noun	banana m (plural bananas)
+ster	Noun	ster f (singulative steren)
+tus	Noun	tus m pl
+pin	Noun	pin f (singulative pinen)
+brev	Noun	brev
+pys	Noun	pys f (singulative pesen)
+risen	Noun	risen f
+torn	Noun	torn
+gi	Noun	gi
+das	Noun	das
+mamm	Noun	mamm f (plural mammow)
+lin	Noun	lin f (singulative linen)
+lin	Noun	lin
+rom	Noun	rom m (plural romys)
+ros	Noun	ros f (plural rosow)
+ros	Noun	ros f (plural rosyow)
+ros	Noun	ros f (singulative rosen)
+lien	Noun	lien m (plural liennow)
+art	Noun	art m (plural artys)
+ger	Noun	ger m (plural geryow)
+deri	Noun	deri m pl
+ki	Noun	ki m (plural keun)
+gei	Noun	gei
+ten	Noun	ten
+ji	Noun	ji
+lew	Noun	lew m (plural lewyon)
+sevi	Noun	sevi f (singulative sevien)
+her	Noun	her
+hil	Noun	hil m (plural hilyow)
+oy	Noun	oy m (plural oyow)
+eres	Noun	eres m pl
+fel	Noun	fel
+forn	Noun	forn f (plural fornow)
+pies	Noun	pies f (singulative piesen)
+adamant	Noun	adamant m (plural adamantow)
+frut	Noun	frut m (plural frutys)
+mols	Noun	mols
+on	Noun	on m (plural en)
+tan	Noun	tan m (plural tanow)
+kegin	Noun	kegin f (plural keginow)
+sin	Noun	sin m (plural sînys)
+tir	Noun	tir m (plural tiryow)
+bran	Noun	bran m (plural brini or briny)
+rath	Noun	rath f (plural rathes)
+post	Noun	post m (plural postow)
+agh	Noun	agh f (plural ahow)
+dor	Noun	dor m (plural dorow)
+nev	Noun	nev m (plural nevow)
+for	Noun	for
+den	Noun	den m (plural tus)
+leth	Noun	leth m
+syra	Noun	syra m (plural syryow)
+has	Noun	has f (singulative hasen)
+el	Noun	el m (plural eledh)
+kras	Noun	kras f (singulative krasen)
+linas	Noun	linas f (singulative linasen)
+salm	Noun	salm m
+minen	Noun	minen f
+kesten	Noun	kesten f (singulative kestenen)
+lo	Noun	lo f (plural loyow)
+frig	Noun	frig m (dual dewfrik, plural frigow)
+reden	Noun	reden f (singulative redenen)
+dan	Noun	dan
+oliv	Noun	oliv f (singulative oliven)
+mor	Noun	mor m (plural moryow)
+somm	Noun	somm f (singulative sommen)
+broder	Noun	broder m (plural breder)
+tron	Noun	tron m (plural tronow or tronyow)
+ester	Noun	ester f (singulative estren)
+oliven	Noun	oliven f
+elin	Noun	elin m (dual dewelin, plural elinnyow)
+besk	Noun	besk
+tykki	Noun	tykki m (plural tykkiow)
+skomm	Noun	skomm m (plural skommow)
+skomm	Noun	skomm m (singulative skommyn)
+ker	Noun	ker
+mel	Noun	mel m
+tas	Noun	tas m (plural tasow)
+treven	Noun	treven
+redenen	Noun	redenen f
+gell	Noun	gell
+beryl	Noun	beryl
+yer	Noun	yer f pl
+cath	Noun	cath f (plural cathas or cathes)
+ky	Noun	ky m (plural keun)
+sab	Noun	sab f (singulative saben)
+per	Noun	per f (singulative peren)
+hell	Noun	hell
+dorg	Noun	dorg
+bay	Noun	bay m (plural bayow)
+er	Noun	er m (plural eryon or eres)
+er	Noun	er m (plural erys)
+er	Noun	er
+acord	Noun	acord m
+koren	Noun	koren f
+blas	Noun	blas m
+botel	Noun	botel f (plural botellow)
+ostes	Noun	ostes f (plural ostesow)
+redik	Noun	redik f (singulative redigen)
+grappa	Noun	grappa m (plural grappys)
+kol	Noun	kol
+dren	Noun	dren m (plural dreyn)
+mab	Noun	mab m (plural mebyon)
+kor	Noun	kor f (singulative koren)
+pasti	Noun	pasti m
+pons	Noun	pons m (plural ponsow)
+pronn	Noun	pronn
+pes	Noun	pes f (singulative pesen)
+mona	Noun	mona m (plural monyes)
+kell	Noun	kell f (dual diwgell, plural kellow or kellyow)
+kell	Noun	kell f (plural kellow or kellyow)
+glin	Noun	glin m (dual dewlin, plural glinyow)
+mann	Noun	mann m
+hy	Noun	hy
+por	Noun	por f (singulative poren)
+bord	Noun	bord m (plural bordys)
+logos	Noun	logos f (singulative logosen or logojen)
+wenen	Noun	wenen
+mogh	Noun	mogh
+dorn	Noun	dorn m (dual dewdhorn or diwla, plural dornow)
+min	Noun	min f (singulative minen)
+gwin	Noun	gwin m
+yar	Noun	yar f (plural yer)
+dar	Noun	dar m (plural deri)
+kala	Noun	kala
+ris	Noun	ris f (singulative risen)
+penn	Noun	penn m (plural pennow)
+pore	Noun	pore
+keres	Noun	keres f (singulative keresen)
+konna	Noun	konna m (plural konaow)
+gol	Noun	gol m (plural golyow)
+gol	Noun	gol m (plural golyow)
+ys	Noun	ys f (singulative ysen)
+pysk	Noun	pysk m (plural puskes or pùscas)

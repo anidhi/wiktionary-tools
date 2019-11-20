@@ -1,0 +1,144 @@
+fat	Noun	fat m (plural fats)
+cee	Noun	cee f (plural ceis)
+pedoli	Noun	pedoli m (plural pedoi)
+selve	Noun	selve f (plural selvis)
+aur	Noun	aur m
+dì	Noun	dì (plural dîs)
+telis	Noun	telis
+bo	Noun	bo m (plural bûs)
+font	Noun	font m (plural fonts)
+pari	Noun	pari m (plural paris)
+vin	Noun	vin m (plural vins)
+passi	Noun	passi
+idee	Noun	idee f
+brač	Noun	brač m (plural bračs)
+program	Noun	program m (plural programs)
+voli	Noun	voli m (plural voi)
+bon	Noun	bon
+part	Noun	part f (plural parts)
+part	Noun	part m (plural parts)
+front	Noun	front m (plural fronts)
+bos	Noun	bos m (plural bos)
+sen	Noun	sen m (plural sens)
+sen	Noun	sen f
+von	Noun	von m (plural vons)
+pin	Noun	pin m (plural pins)
+gland	Noun	gland m (plural glands)
+lame	Noun	lame f (plural lamis)
+seris	Noun	seris
+om	Noun	om m (plural oms) or umign
+fum	Noun	fum m (plural fums)
+most	Noun	most m (plural mosts)
+see	Noun	see f (plural seis)
+pan	Noun	pan m (plural pans)
+bec	Noun	bec m (plural becs)
+cors	Noun	cors m (plural cors)
+tinde	Noun	tinde f (plural tindis)
+folc	Noun	folc m
+tele	Noun	tele f (plural telis)
+plan	Noun	plan m (plural plans)
+teren	Noun	teren m (plural terens)
+fi	Noun	fi m (plural fis)
+ben	Noun	ben
+at	Noun	at m (plural ats)
+nono	Noun	nono m (plural nonos)
+ort	Noun	ort m (plural orts)
+cos	Noun	cos m (plural cos)
+ave	Noun	ave f (plural avis)
+spade	Noun	spade f (plural spadis)
+siele	Noun	siele f (plural sielis)
+ment	Noun	ment f (plural ments)
+man	Noun	man m (plural mans)
+pile	Noun	pile f (plural pilis)
+pile	Noun	pile f (plural pilis)
+moment	Noun	moment m (plural moments)
+frut	Noun	frut m (plural fruts)
+ale	Noun	ale f (plural alis)
+dam	Noun	dam m (plural dams)
+rai	Noun	rai m (plural rais)
+talian	Noun	talian
+fenoli	Noun	fenoli m (plural fenolis)
+becs	Noun	becs
+cene	Noun	cene f (plural cenis)
+fen	Noun	fen m (plural fens)
+rive	Noun	rive f (plural rivis)
+pols	Noun	pols m (plural pols)
+alt	Noun	alt m (plural alts)
+lune	Noun	lune f (plural lunis)
+pilis	Noun	pilis
+vore	Noun	vore f (plural voris)
+arc	Noun	arc m (plural arcs)
+cuar	Noun	cuar m (plural cuars)
+taur	Noun	taur m (plural taurs)
+ram	Noun	ram m (plural rams)
+ram	Noun	ram m
+vitis	Noun	vitis
+lane	Noun	lane f
+sanc	Noun	sanc m
+avis	Noun	avis
+vierte	Noun	vierte f
+as	Noun	as m
+plomp	Noun	plomp m
+none	Noun	none f (plural nonis)
+rude	Noun	rude f (plural rudis)
+salt	Noun	salt m (plural salts)
+vene	Noun	vene f (plural venis)
+vene	Noun	vene
+tei	Noun	tei m
+velen	Noun	velen m (plural velens)
+ai	Noun	ai m (plural ais)
+mei	Noun	mei m (plural mei)
+tavan	Noun	tavan m (plural tavans)
+fan	Noun	fan f
+int	Noun	int f (plural ints)
+farc	Noun	farc
+rem	Noun	rem m (plural rems)
+sac	Noun	sac m (plural sacs)
+presi	Noun	presi m (plural presis)
+vite	Noun	vite f (plural vitis)
+onde	Noun	onde f (plural ondis)
+ridi	Noun	ridi m (plural ridis)
+jet	Noun	jet m (plural jets)
+ton	Noun	ton m (plural tons)
+ton	Noun	ton m (plural tons)
+ton	Noun	ton m (plural tons)
+vinars	Noun	vinars
+rudis	Noun	rudis
+anime	Noun	anime f (plural animis)
+popul	Noun	popul m (plural populs)
+mont	Noun	mont m (plural monts)
+piere	Noun	piere f (plural pieris)
+balcon	Noun	balcon m (plural balcons)
+fari	Noun	fari m (plural faris)
+coronis	Noun	coronis
+valis	Noun	valis
+cuc	Noun	cuc m (plural cucs)
+cuc	Noun	cuc m (plural cucs)
+mond	Noun	mond m (plural monds)
+mari	Noun	mari f (plural maris)
+pont	Noun	pont m (plural ponts)
+mage	Noun	mage ? (plural ?)
+lat	Noun	lat m (plural lats)
+passare	Noun	passare f (plural passaris)
+antimoni	Noun	antimoni
+vint	Noun	vint m (plural vints)
+pes	Noun	pes m (plural pes)
+sang	Noun	sang m
+an	Noun	an m (plural agns)
+artist	Noun	artist m (plural artiscj)
+face	Noun	face f (plural facis)
+len	Noun	len m (plural lens)
+rose	Noun	rose f (plural rosis)
+love	Noun	love f (plural lovis)
+laud	Noun	laud m (plural lauds)
+val	Noun	val f (plural valis)
+fin	Noun	fin m (plural fins)
+desert	Noun	desert m (plural deserts)
+dit	Noun	dit m (plural dits)
+timp	Noun	timp m (plural timps)
+gust	Noun	gust m (plural gusts)
+arme	Noun	arme f (plural armis)
+pet	Noun	pet m (plural pets)
+veri	Noun	veri m
+cere	Noun	cere f (plural ceris)
+puint	Noun	puint m (plural puints)

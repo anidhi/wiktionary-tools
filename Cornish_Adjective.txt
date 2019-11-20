@@ -1,0 +1,22 @@
+coth	Adjective	coth
+dâ	Adjective	dâ
+loos	Adjective	loos
+ledan	Adjective	ledan
+hyr	Adjective	hyr
+drog	Adjective	drog (comparative gweth, superlative gwetha)
+krev	Adjective	krev
+bras	Adjective	bras
+kras	Adjective	kras
+pur	Adjective	pur}
+gorm	Adjective	gorm
+du	Adjective	du
+gell	Adjective	gell
+fras	Adjective	fras
+aral	Adjective	aral (pl erel)
+tu	Adjective	tu
+feur	Adjective	feur
+berr	Adjective	berr
+meur	Adjective	meur
+purpur	Adjective	purpur
+glas	Adjective	glas
+wer	Adjective	wer

@@ -1,0 +1,5 @@
+ilginç	Adjective	ilginç
+köp	Adjective	köp
+gök	Adjective	gök
+ak	Adjective	ak
+ajy	Adjective	ajy

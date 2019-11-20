@@ -1,0 +1,269 @@
+niver	Noun	niver m (plural niveroù)
+mall	Noun	mall m
+krec'h	Noun	krec'h m (plural krec'hioù)
+leti	Noun	leti m (plural letiez)
+moereb	Noun	moereb f (plural moerebed)
+klas	Noun	klas m (plural klasoù)
+kasour	Noun	kasour m (plural kasourien)
+naer	Noun	naer f (plural naered or naeron)
+kelennerez	Noun	kelennerez f (plural kelennerezed)
+gwir	Noun	gwir m (plural gwirioù)
+beure	Noun	beure m
+stank	Noun	stank m
+voz	Noun	voz
+markiz	Noun	markiz m (plural markizien)
+ster	Noun	ster f (singulative sterenn)
+ster	Noun	ster m (plural sterioù)
+ster	Noun	ster m (plural sterioù)
+gwaz	Noun	gwaz f (plural gwazi)
+gwaz	Noun	gwaz m (plural gwizien)
+gwadgi	Noun	gwadgi m (plural gwadgon)
+nev	Noun	nev f
+dor	Noun	dor f (plural dorioù)
+banne	Noun	banne m (plural banneoù)
+merenn	Noun	merenn f (plural merennoù)
+Pater	Noun	Pater f (plural Pateroù or Paterioù)
+bont	Noun	bont m (plural bontoù)
+tann	Noun	tann m (collective singular tannen)
+deiziadurioù	Noun	deiziadurioù m pl
+draen	Noun	draen f (plural drein, singulative draenenn)
+rod	Noun	rod f (plural rodoù)
+kof	Noun	kof m (plural kofoù)
+goprad	Noun	goprad m (plural gopridi)
+poltred	Noun	poltred m (plural poltredoù)
+deiz	Noun	deiz m (plural deizioù)
+bleizez	Noun	bleizez f (plural bleizezed)
+plac'hig	Noun	plac'hig f (plural plac'higed)
+kasketenn	Noun	kasketenn f (plural kasketennoù)
+kazhez	Noun	kazhez f (plural kazhezed)
+hanter	Noun	hanter m (plural hanterioù)
+balafenn	Noun	balafenn f (plural balafenned)
+gwad	Noun	gwad m (plural gwadoù)
+deiziadur	Noun	deiziadur m (plural deiziadurioù)
+kan	Noun	kan m
+bed	Noun	bed m (plural bedoù)
+meuz	Noun	meuz m (plural meuzioù)
+had	Noun	had m (plural hadoù)
+belo	Noun	belo f (plural beloioù)
+bran	Noun	bran m (plural brini)
+tud	Noun	tud m
+besked	Noun	besked
+ger	Noun	ger m (plural gerioù)
+hun	Noun	hun ?
+gwele	Noun	gwele m (plural gweleoù)
+mamm	Noun	mamm f (plural mammoù)
+tra	Noun	tra m (plural traoù)
+deiz-ha-bloaz	Noun	deiz-ha-bloaz m
+aer	Noun	aer f (plural aerioù)
+Gall	Noun	Gall m (plural Gallaoued)
+gouel	Noun	gouel m (plural gouelioù)
+gouel	Noun	gouel f (plural gouelioù)
+Kernevad	Noun	Kernevad m (plural Kerneviz)
+dad	Noun	dad
+kastelodenn	Noun	kastelodenn f (plural kastelodennoù)
+gi	Noun	gi
+Gwenedad	Noun	Gwenedad m (plural Gwenediz)
+kazhig	Noun	kazhig m (plural kizhierigoù)
+karter	Noun	karter m (plural karterioù)
+bual	Noun	bual m (plural bualed)
+tir	Noun	tir m (plural tirioù)
+ki	Noun	ki m (plural chas or kon)
+kil	Noun	kil ?
+arar	Noun	arar m (plural erer)
+kalc'h	Noun	kalc'h m (plural kalc'hioù)
+kouign	Noun	kouign m (plural kouignoù)
+goulenn	Noun	goulenn m (plural goulennoù)
+kegin	Noun	kegin f (plural keginoù)
+sin	Noun	sin m
+holen	Noun	holen m
+gouzoug	Noun	gouzoug m (plural gouzougoù)
+perenn	Noun	perenn f (plural perennoù)
+neu	Noun	neu ?
+broad	Noun	broad m (plural broiz)
+broad	Noun	broad f (plural broadoù)
+biz-meud	Noun	biz-meud m (plural bizied-meud)
+tan	Noun	tan m (plural tanioù)
+avu	Noun	avu m (plural avuoù)
+led	Noun	led m
+draeneg	Noun	draeneg m (plural draeneged)
+tor	Noun	tor m (plural torioù, collective toroù)
+tor	Noun	tor
+del	Noun	del f (singulative delienn)
+dourgi	Noun	dourgi m (plural dourgon)
+tad	Noun	tad m (plural tadoù)
+Kernevadez	Noun	Kernevadez f (plural Kernevadezed)
+genoù	Noun	genoù m (plural genaouioù)
+bloaz	Noun	bloaz m (Vannes dialect, blé m)
+kas	Noun	kas m
+gon	Noun	gon
+kinnig	Noun	kinnig m (plural kinnigoù)
+munutenn	Noun	munutenn f (plural munutennoù)
+geriadur	Noun	geriadur m (plural geriadurioù)
+goz	Noun	goz f (plural gozed)
+mez	Noun	mez ? (collective, singulative mezenn)
+gilli	Noun	gilli
+pik	Noun	pik m
+meud	Noun	meud m (plural meudoù)
+kuzul	Noun	kuzul m (plural kuzulioù)
+Parizianez	Noun	Parizianez f (plural Parizianezed)
+gwrizienn	Noun	gwrizienn f (plural gwrizioù)
+gwerz	Noun	gwerz m (plural gwerzioù)
+kanevedenn	Noun	kanevedenn f (plural kanevedennoù)
+metal	Noun	metal m (plural metaloù)
+karantez	Noun	karantez f (plural karantezioù)
+dañvadez	Noun	dañvadez f (plural dañvadezed)
+kemm	Noun	kemm m (plural kemmoù)
+rost	Noun	rost m
+douryar	Noun	douryar f (plural douryer)
+maouez	Noun	maouez f (plural maouezed)
+gouloù	Noun	gouloù m (plural gouleier)
+tad-kuñv	Noun	tad-kuñv m (plural tadoù-kuñv)
+kêr	Noun	kêr f (plural kêrioù)
+biz	Noun	biz m (plural bizied)
+Gouezel	Noun	Gouezel m (plural Gouezeled)
+dir	Noun	dir m
+kemener	Noun	kemener m (plural kemenerien)
+den	Noun	den m
+mell	Noun	mell
+bro	Noun	bro f
+penn	Noun	penn m (plural pennoù)
+kelenner	Noun	kelenner m (plural kelennerien)
+tadeg	Noun	tadeg m (plural tadeged)
+kentel	Noun	kentel f (plural kentelioù)
+kar	Noun	kar m (plural kerent)
+kar	Noun	kar
+yer	Noun	yer f pl
+personed	Noun	personed m pl
+mamm-gozh	Noun	mamm-gozh f (plural mammoù-kozh)
+kleñved	Noun	kleñved f (plural kleñvedoù)
+besk	Noun	besk
+gast	Noun	gast f (plural gasted)
+trouz	Noun	trouz m (plural trouzoù)
+arz	Noun	arz m
+mad	Noun	mad
+fri	Noun	fri m (plural frioù)
+plac'h	Noun	plac'h f (plural plac'hed)
+dogan	Noun	dogan m (plural doganed)
+banniel	Noun	banniel m (plural bannieloù)
+menez	Noun	menez m (plural menezioù)
+mel	Noun	mel m
+tarv	Noun	tarv m (plural tirvi)
+komz	Noun	komz f
+glad	Noun	glad f (plural gladoù)
+tannoed	Noun	tannoed f (plural tannoedoù)
+bag	Noun	bag f
+Breizhad	Noun	Breizhad m (plural Breizhiz)
+buz	Noun	buz m
+mil	Noun	mil ? (plural miled)
+sell	Noun	sell m
+person	Noun	person m (plural personed)
+maen	Noun	maen m (plural mein)
+bara	Noun	bara m (plural baraioù)
+tadig	Noun	tadig m (plural tadigoù)
+du	Noun	du m
+veot	Noun	veot
+taol	Noun	taol f (plural taolioù)
+ant	Noun	ant m
+test	Noun	test
+meno	Noun	meno
+le	Noun	le ? (plural leou)
+Brezhon	Noun	Brezhon m (plural Brezhoned)
+mor	Noun	mor m (plural morioù)
+moger	Noun	moger m (plural mogerioù)
+paotr	Noun	paotr m
+Dan	Noun	Dan m (plural Daned)
+stad	Noun	stad m
+kon	Noun	kon m pl
+raz	Noun	raz m
+tu	Noun	tu m
+kaz	Noun	kaz m (plural kizier)
+tad-kozh	Noun	tad-kozh m (plural tadoù-kozh)
+klopenn	Noun	klopenn m (plural klopennoù)
+sod	Noun	sod m
+paz	Noun	paz m
+paz	Noun	paz m (plural pazioù)
+tad-kaer	Noun	tad-kaer m (plural tadoù-kaer)
+goañv	Noun	goañv m (plural goañvoù)
+banal	Noun	banal m
+park	Noun	park ?
+Danez	Noun	Danez f (plural Danezed)
+roz	Noun	roz f (singulative rozenn)
+tiern	Noun	tiern m (plural tierned)
+Tregeriad	Noun	Tregeriad m (plural Tregeriz)
+distagadur	Noun	distagadur m (plural distagadurioù)
+bagad	Noun	bagad m
+kazez	Noun	kazez f (plural kazezed)
+buhez	Noun	buhez f (plural buhezioù)
+gwreg	Noun	gwreg f (plural gwragez)
+burev	Noun	burev m (plural burevioù)
+kiez	Noun	kiez f (plural kiezed)
+judo	Noun	judo
+kastiz	Noun	kastiz m (plural kastizoù)
+per	Noun	per f (singulative perenn)
+hast	Noun	hast m
+bloavezh	Noun	bloavezh m (plural bloavezhioù)
+lenn	Noun	lenn f (lennoù or lenneier)
+lenn	Noun	lenn f (lennoù)
+gar	Noun	gar f (plural garoù)
+gar	Noun	gar
+vi	Noun	vi m
+marv	Noun	marv m (plural marvioù)
+bleiz	Noun	bleiz m (plural bleizi)
+deizioù	Noun	deizioù m pl
+derez-uhelañ	Noun	derez-uhelañ m (plural derezioù-uhelañ)
+Tregeriadez	Noun	Tregeriadez f (plural Tregeriadezed)
+merc'hig	Noun	merc'hig f (plural merc'higoù)
+geriadurioù	Noun	geriadurioù m pl
+wenan	Noun	wenan
+marc'had	Noun	marc'had m (plural marc'hadoù)
+feder	Noun	feder
+devezh	Noun	devezh m (plural devezhioù)
+kevredigezh	Noun	kevredigezh m (plural kevredigezhioù)
+balan	Noun	balan ? (collective, singulative balanenn)
+bleunienn	Noun	bleunienn m (plural bleunioù)
+glin	Noun	glin m (plural glinoù, dual daoulin)
+kell	Noun	kell f (plural kelloù, dual divgell)
+kell	Noun	kell f (plural kelloù or killi)
+anal	Noun	anal f (plural analioù)
+boutailh	Noun	boutailh f (plural boutailhoù)
+mab	Noun	mab m (plural mibien)
+skrin	Noun	skrin m
+maer	Noun	maer m (plural maered)
+arme	Noun	arme f
+Galian	Noun	Galian m (plural Galianed)
+pok	Noun	pok m (plural pokoù)
+ti	Noun	ti m
+kazetenn	Noun	kazetenn f (plural kazetennoù)
+kordenn	Noun	kordenn f (plural kerdin)
+paun	Noun	paun m (plural pauned)
+tamm	Noun	tamm m
+ni	Noun	ni m (plural nied)
+Gwenedadez	Noun	Gwenedadez f (plural Gwenedadezed)
+karvan	Noun	karvan f (plural karvanioù)
+bonreizh	Noun	bonreizh f (plural bonreizhoù)
+derez-uheloc'h	Noun	derez-uheloc'h m (plural derezioù-uheloc'h)
+klañvdi	Noun	klañvdi m (plural klañvdioù)
+aber	Noun	aber m, f (plural aberioù)
+kein	Noun	kein m (plural keinoù)
+montr	Noun	montr m (plural montroù)
+zor	Noun	zor
+gell	Noun	gell
+kivijer	Noun	kivijer m (plural kivijerien)
+mezventi	Noun	mezventi f (plural mezventioù)
+tred	Noun	tred f (plural tridi)
+golvan	Noun	golvan m (plural golvini)
+gwezh	Noun	gwezh f (plural gwezhioù)
+yar	Noun	yar f (plural yer)
+kaouenn	Noun	kaouenn f (plural kaouenned)
+Parizian	Noun	Parizian m (plural Parizianed)
+gwin	Noun	gwin m (plural gwinoù)
+klask	Noun	klask f
+preñv	Noun	preñv m
+zad	Noun	zad
+merc'hetaer	Noun	merc'hetaer m (plural merc'hetaerien)
+halo	Noun	halo m
+staen	Noun	staen m
+studi	Noun	studi f
+kemmadur	Noun	kemmadur m (plural kemmadurioù)
+dorn	Noun	dorn m (plural dornioù, dual daouarn)
+bouzellenn	Noun	bouzellenn f (plural bouzelloù)

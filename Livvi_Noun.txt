@@ -1,0 +1,13 @@
+kirju	Noun	kirju
+yö	Noun	yö (genitive yön, partitive yödy)
+haukku	Noun	haukku (genitive haukan, partitive haukkua)
+luu	Noun	luu (genitive luun, partitive luudu)
+kudžoi	Noun	kudžoi (genitive kudžoin, partitive kudžoidu)
+mandžoi	Noun	mandžoi (genitive mandžoin, partitive mandžoidu)
+ruoste	Noun	ruoste (genitive ruostien, partitive ruostettu)
+randu	Noun	randu (genitive rannal, partitive randua)
+poigu	Noun	poigu (genitive poijan, partitive poigua)
+kämmen	Noun	kämmen (genitive kämmenen, partitive kämmendy)
+jalgu	Noun	jalgu (genitive jallan, partitive jalgua)
+aigu	Noun	aigu
+paidu	Noun	paidu (genitive paijan, partitive paidua)

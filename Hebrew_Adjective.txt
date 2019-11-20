@@ -1,0 +1,100 @@
+חַי	Adjective	חַי • (kháy) (feminine חַיָּה‏, masculine plural חַיִּים‏, feminine plural חַיּוֹת‏)
+
+רָזֶה	Adjective	רָזֶה • (razé) (feminine רָזָה, masculine plural רָזִים‏, feminine plural רָזוֹת‏)
+
+חַם	Adjective	חַם • (kham) (feminine חַמָּה‏, masculine plural חַמִּים‏, feminine plural חַמּוֹת‏) [pattern: קֶטֶל] 
+
+שׁוֹנֶה	Adjective	שׁוֹנֶה • (shoné) (feminine שׁוֹנָה, masculine plural שׁוֹנִים‏, feminine plural שׁוֹנוֹת‏)
+
+אָהוּב	Adjective	אָהוּב • (ahúv) (feminine אֲהוּבָה‏, masculine plural אֲהוּבִים‏, feminine plural אֲהוּבוֹת‏)
+
+ניצב \ נִצָּב	Adjective	ניצב \ נִצָּב • (nitsáv) (feminine ניצבת \ נִצֶּבֶת‏, masculine plural ניצבים \ נִצָּבִים‏, feminine plural ניצבות \ נִצָּבוֹת‏)
+
+בָּלוּי	Adjective	בָּלוּי • (balúy) (feminine בְּלוּיָה‏, masculine plural בְּלוּיִים‏, feminine plural בְּלוּיוֹת‏)
+
+מָקֵל	Adjective	מָקֵל • (makél) (feminine מקילה \ מְקִלָּה‏, masculine plural מקילים \ מְקִלִּים‏, feminine plural מקילות \ מְקִלּוֹת‏)
+
+שָׁכֵן	Adjective	שָׁכֵן • (shakhén) (feminine שְׁכֵנָה‏, masculine plural שְׁכֵנִים‏, feminine plural שְׁכֵנוֹת‏)
+
+זָקֵן	Adjective	זָקֵן • (zaqén) (masculine plural זקנים‏)
+
+חָזָק	Adjective	חָזָק • (chazák) (feminine חֲזָקָה‏, masculine plural חֲזָקִים‏, feminine plural חֲזָקוֹת‏)
+
+רָעָה	Adjective	רָעָה • (ra'á)
+
+נֶעֱלָם	Adjective	נֶעֱלָם • (transliteration needed) (feminine נֶעֱלֶמֶת‏, masculine plural נֶעֱלָמִים‏, feminine plural נֶעֱלָמוֹת‏)
+
+הרגיש	Adjective	הרגיש • (haragísh)
+
+נָע	Adjective	נָע • (na') (feminine נָעָה‏, masculine plural נָעִים‏, feminine plural נָעוֹת‏)
+
+גָּדֹל	Adjective	גָּדֹל • (gadól) (feminine גְּדֹלָה‏, masculine plural גְּדֹלִים‏, feminine plural גְּדֹלוֹת‏)
+
+עָלֵז	Adjective	עָלֵז • (ʿaléz)
+
+רָעֵב	Adjective	רָעֵב • (ra'év) (feminine רְעֵבָה‏, masculine plural רְעֵבִים‏, feminine plural רְעֵבוֹת‏)
+
+אָבֵד	Adjective	אָבֵד • (avéd)
+
+עָרֵב	Adjective	עָרֵב • (arév) (feminine עֲרֵבָה‏, masculine plural עֲרֵבִים‏, feminine plural עֲרֵבוֹת‏)
+
+תָּמֵהַּ	Adjective	תָּמֵהַּ • (taméah) (feminine תְּמֵהָה‏, masculine plural תְּמֵהִים‏, feminine plural תְּמֵהוֹת‏)
+
+תַּמָּה	Adjective	תַּמָּה • (tamá)
+
+קַיָּם	Adjective	קַיָּם • (kayám) (feminine קַיֶּמֶת‏, masculine plural קַיָּמִים‏, feminine plural קַיָּמוֹת‏)
+
+יְחִידָה	Adjective	יְחִידָה • (yeḥidá)
+
+נָח	Adjective	נָח • (nakh)
+
+נֹחַ	Adjective	נֹחַ • (nóakh)
+
+חָלָק	Adjective	חָלָק • (khalák) (feminine חֲלָקָה‏, masculine plural חֲלָקִים‏, feminine plural חֲלָקוֹת‏)
+
+חַד	Adjective	חַד • (ḥad) (feminine חַדָּה‏, masculine plural חַדִּים‏, feminine plural חַדּוֹת‏) [pattern: קֶטֶל] 
+
+קָטוֹן \ קָטֹן	Adjective	קָטוֹן \ קָטֹן • (katón)
+
+פְּגִיעָה	Adjective	פְּגִיעָה • (p'gi'á)
+
+חָמוּר	Adjective	חָמוּר • (khamur) (feminine חֲמוּרָה‏, masculine plural חֲמוּרִים‏, feminine plural חֲמוּרוֹת‏)
+
+הָרַע	Adjective	הָרַע • (hará')
+
+מֵת	Adjective	מֵת • (mét) (feminine מֵתָה‏, masculine plural מֵתִים‏, feminine plural מֵתוֹת‏)
+
+חַיִּים	Adjective	חַיִּים • (khayím) m pl
+
+קַלָּה	Adjective	קַלָּה • (kalá)
+
+בָּא	Adjective	בָּא • (ba) (feminine בָּאָה‏, masculine plural בָּאִים‏, feminine plural בָּאוֹת‏)
+
+יַקִּיר	Adjective	יַקִּיר • (yakír) (feminine יַקִּירָה‏, masculine plural יַקִּירִים‏, feminine plural יַקִּירוֹת‏)
+
+קוּל	Adjective	קוּל • (kul) (feminine קוּלית‏, masculine plural קוּלִים‏, feminine plural קוּלִיוֹת‏)
+
+בּוֹדֵד	Adjective	בּוֹדֵד • (bodéd) (feminine בּוֹדְדָה‏, masculine plural בּוֹדְדִים‏, feminine plural בּוֹדְדוֹת‏)
+
+נִבְחָר	Adjective	נִבְחָר • (nivkhár) (feminine נִבְחֶרֶת‏, masculine plural נִבְחָרִים‏, feminine plural נִבְחָרוֹת‏)
+
+בָּרוּךְ	Adjective	בָּרוּךְ • (barúkh) (feminine בָּרוּכָה‏, masculine plural בָּרוּכִים‏, feminine plural בָּרוּכוֹת‏)
+
+יָשָׁן	Adjective	יָשָׁן • (yashán) (feminine יְשָׁנָה‏, masculine plural יְשָׁנִים‏, feminine plural יְשָׁנוֹת‏)
+
+נישא \ נִשָּׂא	Adjective	נישא \ נִשָּׂא • (nisá) (feminine נישאת \ נִשֵּׂאת‏, masculine plural נישאים \ נִשָּׂאִים‏, feminine plural נישאות \ נִשָּׂאוֹת‏)
+
+צְרִיכָה	Adjective	צְרִיכָה • (ts'rikhá)
+
+צוֹלֵעַ	Adjective	צוֹלֵעַ • (tsoléa') (feminine צוֹלַעַת‏, masculine plural צוֹלְעִים‏, feminine plural צוֹלְעוֹת‏)
+
+שָׂמֵחַ	Adjective	שָׂמֵחַ • (saméakh) (feminine שְׂמֵחָה‏, masculine plural שְׂמֵחִים‏, feminine plural שְׂמֵחוֹת‏)
+
+מָלֵא	Adjective	מָלֵא • (malé) (feminine מְלֵאָה‏, masculine plural מְלֵאִים‏, feminine plural מְלֵאוֹת‏)
+
+מְכֻשָּׁף	Adjective	מְכֻשָּׁף • (transliteration needed)
+
+קָרָה	Adjective	קָרָה • (qará)  f sg indef. (m sg indef. קַר‏; f pl קְרוֹת‏)
+
+שָׁמֵן	Adjective	שָׁמֵן • (shamén) (feminine שְׁמֵנָה‏, masculine plural שְׁמֵנִים‏, feminine plural שְׁמֵנוֹת‏)
+

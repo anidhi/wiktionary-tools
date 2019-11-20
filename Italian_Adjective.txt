@@ -1,0 +1,829 @@
+angusto	Adjective	angusto (feminine singular angusta, masculine plural angusti, feminine plural anguste)
+perse	Adjective	perse f
+mutilo	Adjective	mutilo (feminine singular mutila, masculine plural mutili, feminine plural mutile)
+simila	Adjective	simila
+forte	Adjective	forte (masculine and feminine plural forti)
+bassi	Adjective	bassi m
+dadaista	Adjective	dadaista (feminine singular dadaista, masculine plural dadaisti, feminine plural dadaiste)
+dupla	Adjective	dupla
+intero	Adjective	intero (feminine singular intera, masculine plural interi, feminine plural intere)
+lubrico	Adjective	lubrico (feminine singular lubrica, masculine plural lubrici, feminine plural lubriche)
+prudente	Adjective	prudente (masculine and feminine plural prudenti)
+latina	Adjective	latina f
+monoteisti	Adjective	monoteisti
+venefica	Adjective	venefica
+antisemita	Adjective	antisemita (feminine singular antisemita, masculine plural antisemiti, feminine plural antisemite)
+hospitale	Adjective	hospitale (masculine and feminine plural hospitali)
+falsi	Adjective	falsi m
+gratis	Adjective	gratis (invariable)
+tripla	Adjective	tripla
+cento	Adjective	cento m, f (invariable)
+cavo	Adjective	cavo (feminine singular cava, masculine plural cavi, feminine plural cave)
+solide	Adjective	solide f pl
+proba	Adjective	proba f sg
+egri	Adjective	egri
+vero	Adjective	vero (feminine singular vera, masculine plural veri, feminine plural vere)
+interno	Adjective	interno (feminine singular interna, masculine plural interni, feminine plural interne)
+brado	Adjective	brado (feminine singular brada, masculine plural bradi, feminine plural brade)
+kaki	Adjective	kaki (invariable)
+casso	Adjective	casso (feminine singular cassa, masculine plural cassi, feminine plural casse)
+grave	Adjective	grave (masculine and feminine plural gravi)
+vaga	Adjective	vaga f sg
+sita	Adjective	sita
+muto	Adjective	muto (feminine singular muta, masculine plural muti, feminine plural mute)
+onni	Adjective	onni (invariable)
+vasta	Adjective	vasta f sg
+afrodisia	Adjective	afrodisia
+lise	Adjective	lise f pl
+maledico	Adjective	maledico (feminine singular maledica, masculine plural maledici, feminine plural malediche)
+angolare	Adjective	angolare (masculine and feminine plural angolari)
+indebitare	Adjective	indebitare (feminine singular indebita, masculine plural indebiti, feminine plural indebite)
+regali	Adjective	regali
+parco	Adjective	parco (feminine singular parca, masculine plural parchi, feminine plural parche)
+moralisti	Adjective	moralisti m
+metropolita	Adjective	metropolita (feminine singular metropolita, masculine plural metropoliti, feminine plural metropolite)
+mansueto	Adjective	mansueto (feminine singular mansueta, masculine plural mansueti, feminine plural mansuete)
+ellene	Adjective	ellene
+tuo	Adjective	tuo (before the noun): il tuo m (f la tua, m plural i tuoi, f plural le tue)
+(after the noun; also used before a noun denoting a close family member): tuo m (f tua, m plural tuoi, f plural tue)
+russofili	Adjective	russofili
+bel	Adjective	bel
+finale	Adjective	finale (masculine and feminine plural finali)
+tetica	Adjective	tetica
+cachi	Adjective	cachi (invariable)
+sola	Adjective	sola f sg
+compendiaria	Adjective	compendiaria
+rigati	Adjective	rigati
+tutelare	Adjective	tutelare (masculine and feminine plural tutelari)
+sanatorio	Adjective	sanatorio (feminine singular sanatoria, masculine plural sanatori, feminine plural sanatorie)
+saga	Adjective	saga
+minuta	Adjective	minuta
+centrifuga	Adjective	centrifuga
+speculare	Adjective	speculare (masculine and feminine plural speculari)
+negridi	Adjective	negridi m
+vuota	Adjective	vuota
+satanista	Adjective	satanista (feminine singular satanista, masculine plural sataniste, feminine plural satanisti)
+maligne	Adjective	maligne
+parti	Adjective	parti
+politeista	Adjective	politeista (feminine singular politeista, masculine plural politeisti, feminine plural politeiste)
+serba	Adjective	serba
+magenta	Adjective	magenta (invariable)
+interessante	Adjective	interessante (masculine and feminine plural interessanti)
+netto	Adjective	netto (feminine singular netta, masculine plural netti, feminine plural nette)
+esteri	Adjective	esteri m pl
+muta	Adjective	muta
+lenta	Adjective	lenta f sg
+salvifico	Adjective	salvifico (feminine singular salvifica, masculine plural salvifici, feminine plural salvifiche)
+nimici	Adjective	nimici m
+rade	Adjective	rade
+regia	Adjective	regia f sg
+insincero	Adjective	insincero (feminine singular insincera, masculine plural insinceri, feminine plural insincere)
+macho	Adjective	macho (invariable)
+franco	Adjective	franco (feminine singular franca, masculine plural franchi, feminine plural franche)
+valide	Adjective	valide f pl
+itala	Adjective	itala
+interpolare	Adjective	interpolare (masculine and feminine plural interpolari)
+malandrino	Adjective	malandrino (feminine singular malandrina, masculine plural malandrini, feminine plural malandrine)
+rigide	Adjective	rigide
+bone	Adjective	bone
+lasso	Adjective	lasso (feminine singular lassa, masculine plural lassi, feminine plural lasse) (obsolete, literary)
+lasso	Adjective	lasso (feminine singular lassa, masculine plural lassi, feminine plural lasse) (dated, literary)
+svelta	Adjective	svelta
+gravida	Adjective	gravida
+brada	Adjective	brada
+necessaria	Adjective	necessaria
+talare	Adjective	talare (masculine and feminine plural talari)
+nord	Adjective	nord m, f (invariable)
+saldo	Adjective	saldo (feminine singular salda, masculine plural saldi, feminine plural salde)
+pseudomorfi	Adjective	pseudomorfi
+diserti	Adjective	diserti
+bantu	Adjective	bantu (invariable)
+postmoderni	Adjective	postmoderni
+idolatra	Adjective	idolatra (feminine singular idolatra, masculine plural idolatri, feminine plural idolatre)
+galla	Adjective	galla
+avvenire	Adjective	avvenire (invariable)
+maori	Adjective	maori (invariable)
+fini	Adjective	fini
+fini	Adjective	fini
+sincero	Adjective	sincero (feminine singular sincera, masculine plural sinceri, feminine plural sincere)
+fluente	Adjective	fluente (masculine and feminine plural fluenti)
+greca	Adjective	greca f
+magna	Adjective	magna
+meriti	Adjective	meriti
+rado	Adjective	rado (feminine singular rada, masculine plural radi, feminine plural rade)
+formico	Adjective	formico (feminine singular formica, masculine plural formici, feminine plural formiche)
+medica	Adjective	medica
+piano	Adjective	piano (feminine singular piana, masculine plural piani, feminine plural piane)
+piccolo	Adjective	piccolo m (feminine singular piccola, masculine plural piccoli, feminine plural piccole, comparative più piccolo or minore)
+nono	Adjective	nono (feminine singular nona, masculine plural noni, feminine plural none)
+novella	Adjective	novella
+evidente	Adjective	evidente (masculine and feminine plural evidenti)
+turkmeni	Adjective	turkmeni
+silenti	Adjective	silenti
+interni	Adjective	interni m
+altruista	Adjective	altruista (feminine singular altruista, masculine plural altruisti, feminine plural altruiste)
+diverse	Adjective	diverse f pl
+lese	Adjective	lese f
+mandarina	Adjective	mandarina
+misantropi	Adjective	misantropi
+grati	Adjective	grati
+faceti	Adjective	faceti
+final	Adjective	final (invariant)
+probo	Adjective	probo (feminine singular proba, masculine plural probi, feminine plural probe)
+rosa	Adjective	rosa (invariable)
+pacifico	Adjective	pacifico (feminine singular pacifica, masculine plural pacifici, feminine plural pacifiche)
+soliti	Adjective	soliti
+ambo	Adjective	ambo (invariable)
+distili	Adjective	distili m pl
+agonista	Adjective	agonista (masculine and feminine plural agoniste)
+integro	Adjective	integro (feminine singular integra, masculine plural integri, feminine plural integre) (Superlative: integerrimo)
+fatta	Adjective	fatta f sg
+pirata	Adjective	pirata (invariable)
+mille	Adjective	mille m, f (invariable) (plural: mila)
+lunga	Adjective	lunga f
+mafioso	Adjective	mafioso (feminine singular mafiosa, masculine plural mafiosi, feminine plural mafiose)
+surrealista	Adjective	surrealista (feminine singular surrealista, masculine plural surrealisti, feminine plural surrealiste)
+intervallare	Adjective	intervallare (masculine and feminine plural intervallari)
+centesima	Adjective	centesima
+serbi	Adjective	serbi
+inutil	Adjective	inutil
+antiquo	Adjective	antiquo (feminine singular antiqua, masculine plural antiqui, feminine plural antique)
+novelli	Adjective	novelli m
+ultima	Adjective	ultima
+fisse	Adjective	fisse f pl
+rude	Adjective	rude (invariable)
+miste	Adjective	miste f pl
+mobiliare	Adjective	mobiliare (masculine and feminine plural mobiliari)
+sesti	Adjective	sesti
+dravida	Adjective	dravida (feminine singular dravida, masculine plural dravidi, feminine plural dravide)
+stereo	Adjective	stereo (invariable)
+gemino	Adjective	gemino (feminine singular gemina, masculine plural gemini, feminine plural gemine)
+bina	Adjective	bina
+minimalista	Adjective	minimalista (feminine singular minimalista, masculine plural minimalisti, feminine plural minimaliste)
+autista	Adjective	autista (feminine singular autista, masculine plural autisti, feminine plural autiste)
+semita	Adjective	semita (feminine singular semita, masculine plural semiti, feminine plural semite)
+stellare	Adjective	stellare (masculine and feminine plural stellari)
+lieve	Adjective	lieve (masculine and feminine plural lievi)
+validi	Adjective	validi
+champagne	Adjective	champagne (inv)
+inca	Adjective	inca m, f (invariable)
+marinare	Adjective	marinare
+concinno	Adjective	concinno (feminine singular concinna, masculine plural concinni, feminine plural concinne)
+abnormi	Adjective	abnormi
+rupicola	Adjective	rupicola
+imi	Adjective	imi
+puri	Adjective	puri
+alare	Adjective	alare (masculine and feminine plural alari)
+verdi	Adjective	verdi m pl
+prodigo	Adjective	prodigo (feminine singular prodiga, masculine plural prodighi, feminine plural prodighe)
+nebulosa	Adjective	nebulosa f
+violento	Adjective	violento (feminine singular violenta, masculine plural violenti, feminine plural violente)
+seste	Adjective	seste
+mere	Adjective	mere f
+brutta	Adjective	brutta f
+nato	Adjective	nato (feminine singular nata, masculine plural nati, feminine plural nate)
+velare	Adjective	velare (masculine and feminine plural velari)
+cis	Adjective	cis (invariable)
+duro	Adjective	duro (feminine singular dura, masculine plural duri, feminine plural dure)
+tramontana	Adjective	tramontana
+modulare	Adjective	modulare (masculine and feminine plural modulari)
+idiote	Adjective	idiote
+austere	Adjective	austere f pl
+restio	Adjective	restio (feminine singular restia, masculine plural resti, feminine plural restie)
+salva	Adjective	salva f
+matricolare	Adjective	matricolare (masculine and feminine plural matricolari)
+fascicolare	Adjective	fascicolare (masculine and feminine plural fascicolari)
+marista	Adjective	marista (masculine and feminine plural mariste)
+duo	Adjective	duo m, f (invariable)
+rasi	Adjective	rasi
+cellulosa	Adjective	cellulosa
+capillare	Adjective	capillare (masculine and feminine plural capillari)
+consolare	Adjective	consolare (masculine and feminine plural consolari)
+tanta	Adjective	tanta
+sito	Adjective	sito (feminine singular sita, masculine plural siti, feminine plural site)
+molto	Adjective	molto (feminine singular molta, masculine plural molti, feminine plural molte)
+peruste	Adjective	peruste
+misero	Adjective	misero (feminine singular misera, masculine plural miseri, feminine plural misere)
+alta	Adjective	alta f sg
+dure	Adjective	dure
+polare	Adjective	polare (masculine and feminine plural polari)
+deicida	Adjective	deicida (feminine singular deicida, masculine plural deicidi, feminine plural deicide)
+bordeaux	Adjective	bordeaux (invariable)
+minor	Adjective	minor
+minuti	Adjective	minuti m
+idiota	Adjective	idiota (feminine singular idiota, masculine plural idioti, feminine plural idiote)
+autofagi	Adjective	autofagi m pl
+perfidi	Adjective	perfidi
+mesti	Adjective	mesti
+a priori	Adjective	a priori (invariable)
+bolognese	Adjective	bolognese m, f (plural bolognesi)
+mannari	Adjective	mannari
+pii	Adjective	pii m
+infero	Adjective	infero (feminine singular infera, masculine plural inferi, feminine plural infere)
+pronuba	Adjective	pronuba
+buddhista	Adjective	buddhista (feminine singular buddhista, masculine plural buddhisti, feminine plural buddhiste)
+mesta	Adjective	mesta
+cupa	Adjective	cupa
+sei	Adjective	sei m, f (invariable)
+audio	Adjective	audio (invariable)
+finta	Adjective	finta
+triste	Adjective	triste (masculine and feminine plural tristi)
+mesto	Adjective	mesto (feminine singular mesta, masculine plural mesti, feminine plural meste)
+lavica	Adjective	lavica
+due	Adjective	due m, f (invariable)
+olimpia	Adjective	olimpia
+presso	Adjective	presso (invariable)
+presso (feminine singular pressa, masculine plural pressi, feminine plural presse)
+presso	Adjective	presso m (feminine singular pressa, masculine plural pressi, feminine plural presse)
+cubo	Adjective	cubo (feminine singular cuba, masculine plural cubi, feminine plural cube)
+atroce	Adjective	atroce (masculine and feminine plural atroci)
+profano	Adjective	profano (feminine singular profana, masculine plural profani, feminine plural profane)
+lustro	Adjective	lustro (feminine singular lustra, masculine plural lustri, feminine plural lustre)
+rosee	Adjective	rosee
+anomali	Adjective	anomali
+alterni	Adjective	alterni
+articolare	Adjective	articolare (masculine and feminine plural articolari)
+lacero	Adjective	lacero (feminine singular lacera, masculine plural laceri, feminine plural lacere)
+venuti	Adjective	venuti
+ipocrite	Adjective	ipocrite f
+parta	Adjective	parta
+malva	Adjective	malva (invariable)
+pessimo	Adjective	pessimo (feminine singular pessima, masculine plural pessimi, feminine plural pessime) superlative of cattivo
+perso	Adjective	perso (feminine singular persa, masculine plural persi, feminine plural perse)
+fusa	Adjective	fusa
+elegante	Adjective	elegante (masculine and feminine plural eleganti)
+pretta	Adjective	pretta
+a posteriori	Adjective	a posteriori (invariable)
+remoto	Adjective	remoto (feminine singular remota, masculine plural remoti, feminine plural remote)
+anamorfi	Adjective	anamorfi
+nomade	Adjective	nomade (masculine and feminine plural nomadi)
+emerita	Adjective	emerita f sg
+aurea	Adjective	aurea
+senile	Adjective	senile (masculine and feminine plural senili)
+fluidi	Adjective	fluidi
+scalare	Adjective	scalare (masculine and feminine plural scalari)
+un	Adjective	un m (see uno)
+lorda	Adjective	lorda
+reticolare	Adjective	reticolare (masculine and feminine plural reticolari)
+marina	Adjective	marina f
+occulto	Adjective	occulto (feminine singular occulta, masculine plural occulti, feminine plural occulte)
+novelle	Adjective	novelle
+regio	Adjective	regio (feminine singular regia, masculine plural regi, feminine plural regie)
+salve	Adjective	salve
+memori	Adjective	memori
+tante	Adjective	tante f pl
+reo	Adjective	reo (feminine singular rea, masculine plural rei, feminine plural ree) (di)
+annuo	Adjective	annuo (feminine singular annua, masculine plural annui, feminine plural annue)
+ivata	Adjective	ivata
+franca	Adjective	franca f sg
+magra	Adjective	magra
+la tua	Adjective	la tua
+single	Adjective	single (invariable)
+mista	Adjective	mista f sg
+diploidi	Adjective	diploidi
+nature	Adjective	nature (invariable)
+fulani	Adjective	fulani m
+pacati	Adjective	pacati
+lesti	Adjective	lesti
+carina	Adjective	carina f
+lisi	Adjective	lisi m
+materica	Adjective	materica
+congruo	Adjective	congruo (feminine singular congrua, masculine plural congrui, feminine plural congrue)
+tondi	Adjective	tondi
+matto	Adjective	matto (feminine singular matta, masculine plural matti, feminine plural matte)
+sanguinari	Adjective	sanguinari m pl
+maldisposto	Adjective	maldisposto (feminine singular maldisposta, masculine plural maldisposti, feminine plural maldisposte)
+pesti	Adjective	pesti
+voluto	Adjective	voluto (feminine singular voluta, masculine plural voluti, feminine plural volute)
+fisa	Adjective	fisa
+limonata	Adjective	limonata
+vasto	Adjective	vasto (feminine singular vasta, masculine plural vasti, feminine plural vaste)
+angla	Adjective	angla f sg
+fido	Adjective	fido (feminine singular fida, masculine plural fidi, feminine plural fide)
+medie	Adjective	medie f pl
+ordo	Adjective	ordo (feminine singular orda, masculine plural ordi, feminine plural orde)
+formoso	Adjective	formoso (feminine singular formosa, masculine plural formosi, feminine plural formose)
+vivuta	Adjective	vivuta f
+live	Adjective	live (invariable)
+privo	Adjective	privo (feminine singular priva, masculine plural privi, feminine plural prive)
+grama	Adjective	grama f
+atra	Adjective	atra
+curvo	Adjective	curvo (feminine singular curva, masculine plural curvi, feminine plural curve)
+zero	Adjective	zero m, f (invariable)
+materiale	Adjective	materiale (masculine and feminine plural materiali)
+protocollare	Adjective	protocollare (masculine and feminine plural protocollari)
+casta	Adjective	casta f sg
+alimentare	Adjective	alimentare (masculine and feminine plural alimentari)
+empiristi	Adjective	empiristi m
+gentil	Adjective	gentil m
+androide	Adjective	androide (masculine and feminine plural androidi)
+quieto	Adjective	quieto (feminine singular quieta, masculine plural quieti, feminine plural quiete)
+viscoso	Adjective	viscoso (feminine singular viscosa, masculine plural viscosi, feminine plural viscose)
+nitido	Adjective	nitido (feminine singular nitida, masculine plural nitidi, feminine plural nitide)
+cara	Adjective	cara f sg
+metrica	Adjective	metrica
+osmica	Adjective	osmica
+suo	Adjective	suo (feminine singular sua, masculine plural suoi, feminine plural sue)
+slava	Adjective	slava f
+belga	Adjective	belga (feminine singular belga, masculine plural belgi, feminine plural belghe)
+lento	Adjective	lento (feminine singular lenta, masculine plural lenti, feminine plural lente)
+beati	Adjective	beati
+realisti	Adjective	realisti
+salutare	Adjective	salutare (masculine and feminine plural salutari)
+rufa	Adjective	rufa f
+famoso	Adjective	famoso (feminine singular famosa, masculine plural famosi, feminine plural famose)
+magnifico	Adjective	magnifico (feminine singular magnifica, masculine plural magnifici, feminine plural magnifiche)
+derivata	Adjective	derivata
+ordi	Adjective	ordi
+none	Adjective	none f pl
+molare	Adjective	molare (masculine and feminine plural molari)
+reprobo	Adjective	reprobo (feminine singular reproba, masculine plural reprobi, feminine plural reprobe)
+troppi	Adjective	troppi
+lordi	Adjective	lordi
+morto	Adjective	morto (feminine singular morta, masculine plural morti, feminine plural morte)
+pilota	Adjective	pilota (invariable)
+certi	Adjective	certi
+adorno	Adjective	adorno (feminine singular adorna, masculine plural adorni, feminine plural adorne) (di)
+lineare	Adjective	lineare (masculine and feminine plural lineari)
+innato	Adjective	innato (feminine singular innata, masculine plural innati, feminine plural innate)
+prospero	Adjective	prospero (feminine singular prospera, masculine plural prosperi, feminine plural prospere)
+conciliare	Adjective	conciliare (masculine and feminine plural conciliari)
+tratti	Adjective	tratti m pl
+presi	Adjective	presi
+terreo	Adjective	terreo (feminine singular terrea, masculine plural terrei, feminine plural terree)
+nulla	Adjective	nulla
+quadruplo	Adjective	quadruplo (feminine singular quadrupla, masculine plural quadrupli, feminine plural quadruple)
+espresso	Adjective	espresso (feminine singular espressa, masculine plural espressi, feminine plural espresse)
+vegeto	Adjective	vegeto (feminine singular vegeta, masculine plural vegeti, feminine plural vegete)
+domiciliare	Adjective	domiciliare (masculine and feminine plural domiciliari)
+individualisti	Adjective	individualisti
+inquieto	Adjective	inquieto (feminine singular inquieta, masculine plural inquieti, feminine plural inquiete)
+finte	Adjective	finte f pl
+soft	Adjective	soft (invariable)
+sapiente	Adjective	sapiente (masculine and feminine plural sapienti)
+nova	Adjective	nova f sg
+arenti	Adjective	arenti m
+standar	Adjective	standar (invariable)
+unigena	Adjective	unigena
+monoteista	Adjective	monoteista (feminine singular monoteista, masculine plural monoteisti, feminine plural monoteiste)
+flou	Adjective	flou (invariable)
+intercalare	Adjective	intercalare (masculine and feminine plural intercalari)
+supina	Adjective	supina
+mantica	Adjective	mantica
+aramea	Adjective	aramea f
+cervina	Adjective	cervina
+pendolare	Adjective	pendolare (masculine and feminine plural pendolari)
+navale	Adjective	navale (masculine and feminine plural navali)
+figa	Adjective	figa f
+tutti	Adjective	tutti
+libero	Adjective	libero (feminine singular libera, masculine plural liberi, feminine plural libere)
+torvi	Adjective	torvi
+pieni	Adjective	pieni m
+casto	Adjective	casto (feminine singular casta, masculine plural casti, feminine plural caste)
+sereno	Adjective	sereno (feminine singular serena, masculine plural sereni, feminine plural serene)
+quadro	Adjective	quadro (feminine singular quadra, masculine plural quadri, feminine plural quadre)
+veri	Adjective	veri m
+cruento	Adjective	cruento (feminine singular cruenta, masculine plural cruenti, feminine plural cruente)
+liberalisti	Adjective	liberalisti m
+macero	Adjective	macero (feminine singular macera, masculine plural maceri, feminine plural macere)
+aperto	Adjective	aperto (feminine singular aperta, masculine plural aperti, feminine plural aperte)
+dio	Adjective	dio (feminine dia, masculine plural dii, feminine plural die) (obsolete, poetic)
+piena	Adjective	piena
+simboliste	Adjective	simboliste
+passata	Adjective	passata
+mendico	Adjective	mendico (feminine singular mendichi, masculine plural mendica, feminine plural mendiche)
+tuoi	Adjective	tuoi
+improbo	Adjective	improbo (feminine singular improba, masculine plural improbi, feminine plural improbe)
+figo	Adjective	figo (feminine singular figa, masculine plural fighi, feminine plural fighe)
+recente	Adjective	recente (masculine and feminine plural recenti)
+gravi	Adjective	gravi m, f
+tardo	Adjective	tardo (feminine singular tarda, masculine plural tardi, feminine plural tarde)
+calva	Adjective	calva
+parca	Adjective	parca
+conscio	Adjective	conscio (feminine singular conscia, masculine plural consci, feminine plural conscie)
+maestro	Adjective	maestro (feminine singular maestra, masculine plural maestri, feminine plural maestre)
+patrie	Adjective	patrie
+umbri	Adjective	umbri
+vera	Adjective	vera f sg
+orbo	Adjective	orbo (feminine singular orba, masculine plural orbi, feminine plural orbe)
+sedimentare	Adjective	sedimentare (masculine and feminine plural sedimentari)
+neutri	Adjective	neutri m
+nana	Adjective	nana
+alterno	Adjective	alterno (feminine singular alterna, masculine plural alterni, feminine plural alterne)
+somali	Adjective	somali
+grosso	Adjective	grosso (feminine singular grossa, masculine plural grossi, feminine plural grosse)
+refluo	Adjective	refluo (feminine singular reflua, masculine plural reflui, feminine plural reflue)
+telata	Adjective	telata
+crocea	Adjective	crocea
+azeri	Adjective	azeri
+umbro	Adjective	umbro (feminine singular umbra, masculine plural umbri, feminine plural umbre)
+rastafari	Adjective	rastafari
+meno	Adjective	meno
+ferma	Adjective	ferma f
+care	Adjective	care f pl
+poderoso	Adjective	poderoso (feminine singular poderosa, masculine plural poderosi, feminine plural poderose)
+bis	Adjective	bis (invariable)
+disciplinare	Adjective	disciplinare (masculine and feminine plural disciplinari)
+armata	Adjective	armata
+alternativa	Adjective	alternativa f sg
+patria	Adjective	patria
+tese	Adjective	tese
+molli	Adjective	molli m
+mirabile	Adjective	mirabile (masculine and feminine plural mirabili)
+vista	Adjective	vista f sg
+saggi	Adjective	saggi
+impune	Adjective	impune (masculine and feminine plural impuni)
+rotta	Adjective	rotta
+acri	Adjective	acri m
+minerale	Adjective	minerale (masculine and feminine plural minerali)
+flavi	Adjective	flavi
+albo	Adjective	albo (feminine singular alba, masculine plural albi, feminine plural albe)
+supero	Adjective	supero (feminine singular supera, masculine plural superi, feminine plural supere)
+ospitale	Adjective	ospitale (masculine and feminine plural ospitali)
+molle	Adjective	molle (masculine and feminine plural molli)
+banana	Adjective	banana (invariable)
+bacati	Adjective	bacati
+lesa	Adjective	lesa
+baie	Adjective	baie f pl
+grata	Adjective	grata
+sane	Adjective	sane
+isomorfi	Adjective	isomorfi
+nuda	Adjective	nuda f
+maturo	Adjective	maturo (feminine singular matura, masculine plural maturi, feminine plural mature)
+marxista	Adjective	marxista (feminine singular marxista, masculine plural marxisti, feminine plural marxiste)
+deliro	Adjective	deliro (feminine singular delira, masculine plural deliri, feminine plural delire)
+errata	Adjective	errata
+orbi	Adjective	orbi
+spiritualisti	Adjective	spiritualisti
+secreto	Adjective	secreto (feminine singular secreta, masculine plural secreti, feminine plural secrete)
+savi	Adjective	savi
+vivo	Adjective	vivo (feminine singular viva, masculine plural vivi, feminine plural vive)
+alto	Adjective	alto (feminine singular alta, masculine plural alti, feminine plural alte)
+merito	Adjective	merito (feminine singular merita, masculine plural meriti, feminine plural merite) (obsolete, literary)
+nulle	Adjective	nulle f pl
+lato	Adjective	lato (feminine singular lata, masculine plural lati, feminine plural late)
+planare	Adjective	planare (masculine and feminine plural planari)
+lessa	Adjective	lessa
+sol	Adjective	sol
+rasa	Adjective	rasa f sg
+calma	Adjective	calma f sg
+gretta	Adjective	gretta
+regolare	Adjective	regolare (masculine and feminine plural regolari)
+viola	Adjective	viola (invariable)
+ermi	Adjective	ermi
+invalide	Adjective	invalide
+salvo	Adjective	salvo (feminine singular salva, masculine plural salvi, feminine plural salve)
+abrasivo	Adjective	abrasivo (feminine singular abrasiva, masculine plural abrasivi, feminine plural abrasive)
+consono	Adjective	consono (feminine singular consona, masculine plural consoni, feminine plural consone)
+reverenda	Adjective	reverenda
+continuo	Adjective	continuo (feminine singular continua, masculine plural continui, feminine plural continue)
+ligi	Adjective	ligi m pl
+inviso	Adjective	inviso (feminine singular invisa, masculine plural invisi, feminine plural invise)
+formalista	Adjective	formalista (feminine singular formalista, masculine plural formalisti, feminine plural formaliste)
+denso	Adjective	denso (feminine singular densa, masculine plural densi, feminine plural dense)
+detta	Adjective	detta f
+metodista	Adjective	metodista (feminine singular metodista, masculine plural metodisti, feminine plural metodiste)
+sana	Adjective	sana f
+facili	Adjective	facili m, f
+ria	Adjective	ria f
+virtuoso	Adjective	virtuoso (feminine singular virtuosa, masculine plural virtuosi, feminine plural virtuose)
+corsa	Adjective	corsa f
+lata	Adjective	lata f
+nata	Adjective	nata
+revisionisti	Adjective	revisionisti
+rompi	Adjective	rompi
+carbonare	Adjective	carbonare f pl
+lauta	Adjective	lauta
+cana	Adjective	cana
+cautelare	Adjective	cautelare (masculine and feminine plural cautelari)
+traversa	Adjective	traversa
+afro	Adjective	afro (feminine singular afra, masculine plural afri, feminine plural afre)
+afro	Adjective	afro (invariable)
+cano	Adjective	cano (feminine singular cana, masculine plural cani, feminine plural cane)
+pravo	Adjective	pravo (feminine singular prava, masculine plural pravi, feminine plural prave) (archaic, literary)
+evergreen	Adjective	evergreen m, f (invariable)
+egoista	Adjective	egoista (feminine singular egoista, masculine plural egoisti, feminine plural egoiste)
+goti	Adjective	goti
+vaste	Adjective	vaste
+perusta	Adjective	perusta
+militare	Adjective	militare (masculine and feminine plural militari)
+strana	Adjective	strana
+disposto	Adjective	disposto (feminine singular disposta, masculine plural disposti, feminine plural disposte)
+vuoto	Adjective	vuoto (feminine singular vuota, masculine plural vuoti, feminine plural vuote)
+caro	Adjective	caro (feminine singular cara, masculine plural cari, feminine plural care)
+simili	Adjective	simili
+hutu	Adjective	hutu (invariable)
+unna	Adjective	unna f
+libera	Adjective	libera
+populista	Adjective	populista (feminine singular populista, masculine plural populisti, feminine plural populiste)
+viva	Adjective	viva f sg
+centriste	Adjective	centriste f
+civile	Adjective	civile (masculine and feminine plural civili)
+malfermi	Adjective	malfermi m pl
+uno	Adjective	uno (feminine singular una, masculine plural uni, feminine plural une)
+belligero	Adjective	belligero (feminine singular belligera, masculine plural belligeri, feminine plural belligere)
+pingue	Adjective	pingue (masculine and feminine plural pingui)
+nazista	Adjective	nazista (feminine singular nazista, masculine plural nazisti, feminine plural naziste)
+falsa	Adjective	falsa f sg
+trepido	Adjective	trepido (feminine singular trepida, masculine plural trepidi, feminine plural trepide)
+divino	Adjective	divino (feminine singular divina, masculine plural divini, feminine plural divine)
+secrete	Adjective	secrete
+dopata	Adjective	dopata
+tranquillo	Adjective	tranquillo (feminine singular tranquilla, masculine plural tranquilli, feminine plural tranquille)
+venata	Adjective	venata
+ime	Adjective	ime
+frigidi	Adjective	frigidi
+torta	Adjective	torta f sg
+pragmatisti	Adjective	pragmatisti
+atta	Adjective	atta
+tali	Adjective	tali
+laida	Adjective	laida
+meri	Adjective	meri
+vara	Adjective	vara
+fine	Adjective	fine (masculine and feminine plural fini)
+fine	Adjective	fine
+santo	Adjective	santo (feminine singular santa, masculine plural santi, feminine plural sante)
+centesimo	Adjective	centesimo (feminine singular centesima, masculine plural centesimi, feminine plural centesime)
+malsani	Adjective	malsani m pl
+pesta	Adjective	pesta
+piana	Adjective	piana
+stigi	Adjective	stigi
+navigera	Adjective	navigera
+vile	Adjective	vile (masculine and feminine plural vili)
+cupo	Adjective	cupo (feminine singular cupa, masculine plural cupi, feminine plural cupe)
+carnica	Adjective	carnica
+tetra	Adjective	tetra
+fu	Adjective	fu
+minaci	Adjective	minaci m f
+amari	Adjective	amari m
+amoroso	Adjective	amoroso (feminine singular amorosa, masculine plural amorosi, feminine plural amorose)
+fermi	Adjective	fermi m
+media	Adjective	media f sg
+lindo	Adjective	lindo (feminine singular linda, masculine plural lindi, feminine plural linde)
+morbide	Adjective	morbide
+brisati	Adjective	brisati
+isotermi	Adjective	isotermi
+pure	Adjective	pure f pl
+visti	Adjective	visti
+attero	Adjective	attero (feminine singular attera, masculine plural atteri, feminine plural attere)
+fidi	Adjective	fidi
+discontinuo	Adjective	discontinuo (feminine singular discontinua, masculine plural discontinui, feminine plural discontinue)
+pari	Adjective	pari (invariable)
+umbra	Adjective	umbra
+regi	Adjective	regi
+funesto	Adjective	funesto (feminine singular funesta, masculine plural funesti, feminine plural funeste)
+veicolare	Adjective	veicolare (masculine and feminine plural veicolari)
+granulare	Adjective	granulare (masculine and feminine plural granulari)
+fondi	Adjective	fondi m
+pia	Adjective	pia
+domestici	Adjective	domestici m
+linda	Adjective	linda f sg
+verde	Adjective	verde (masculine and feminine plural verdi)
+esperanto	Adjective	esperanto (invariable)
+tale	Adjective	tale (masculine and feminine plural tali)
+barbari	Adjective	barbari
+ratto	Adjective	ratto (feminine singular ratta, masculine plural ratti, feminine plural ratte) (obsolete)
+ratto	Adjective	ratto (feminine singular ratta, masculine plural ratti, feminine plural ratte)
+mute	Adjective	mute
+assiduo	Adjective	assiduo (feminine singular assidua, masculine plural assidui, feminine plural assidue)
+fideista	Adjective	fideista (feminine singular fideista, masculine plural fideisti, feminine plural fideiste)
+magne	Adjective	magne f
+sano	Adjective	sano (feminine singular sana, masculine plural sani, feminine plural sane)
+gotica	Adjective	gotica
+obliquo	Adjective	obliquo (feminine singular obliqua, masculine plural obliqui, feminine plural oblique)
+tenere	Adjective	tenere pl
+adultera	Adjective	adultera
+pesto	Adjective	pesto (feminine singular pesta, masculine plural pesti, feminine plural peste)
+benigni	Adjective	benigni m
+moratorio	Adjective	moratorio (feminine singular moratoria, masculine plural moratori, feminine plural moratorie)
+completa	Adjective	completa f
+animista	Adjective	animista (feminine singular animista, masculine plural animisti, feminine plural animiste)
+ibrida	Adjective	ibrida
+seria	Adjective	seria f sg
+altero	Adjective	altero (feminine singular altera, masculine plural alteri, feminine plural altere)
+propri	Adjective	propri
+insigne	Adjective	insigne (masculine and feminine plural insigni)
+laminare	Adjective	laminare (masculine and feminine plural laminari)
+concreto	Adjective	concreto (feminine singular concreta, masculine plural concreti, feminine plural concrete)
+circolare	Adjective	circolare (masculine and feminine plural circolari)
+liete	Adjective	liete
+perla	Adjective	perla (invariable)
+realista	Adjective	realista (feminine singular realista, masculine plural realisti, feminine plural realiste)
+medico	Adjective	medico (feminine singular medica, masculine plural medici, feminine plural mediche)
+publico	Adjective	publico (feminine singular publica, masculine plural publici, feminine plural publiche)
+tanti	Adjective	tanti
+salivare	Adjective	salivare (masculine and feminine plural salivari)
+agricola	Adjective	agricola
+umili	Adjective	umili m
+sexy	Adjective	sexy (invariable)
+nero	Adjective	nero (feminine singular nera, masculine plural neri, feminine plural nere)
+natio	Adjective	natio (feminine singular natia, masculine plural nati, feminine plural natie)
+raro	Adjective	raro (feminine singular rara, masculine plural rari, feminine plural rare)
+fratricida	Adjective	fratricida (feminine singular fratricida, masculine plural fratricidi, feminine plural fratricide)
+glabro	Adjective	glabro (feminine singular glabra, masculine plural glabri, feminine plural glabre)
+leso	Adjective	leso (feminine singular lesa, masculine plural lesi, feminine plural lese)
+ultramoderni	Adjective	ultramoderni
+solido	Adjective	solido (feminine singular solida, masculine plural solidi, feminine plural solide)
+vago	Adjective	vago (feminine singular vaga, masculine plural vaghi, feminine plural vaghe)
+viste	Adjective	viste f pl
+dia	Adjective	dia f
+puro	Adjective	puro (feminine singular pura, masculine plural puri, feminine plural pure)
+calamitoso	Adjective	calamitoso (feminine singular calamitosa, masculine plural calamitosi, feminine plural calamitose)
+empirica	Adjective	empirica
+bello	Adjective	bello m (see inflection for forms; superlative bellissimo)
+rada	Adjective	rada
+bravo	Adjective	bravo (feminine singular brava, masculine plural bravi, feminine plural brave) (superlative bravissimo)
+noti	Adjective	noti m
+litica	Adjective	litica
+matte	Adjective	matte pl
+decimo	Adjective	decimo (feminine singular decima, masculine plural decimi, feminine plural decime)
+beat	Adjective	beat (invariable)
+veglio	Adjective	veglio
+vacanti	Adjective	vacanti m
+sani	Adjective	sani
+adultero	Adjective	adultero (feminine singular adultera, masculine plural adulteri, feminine plural adultere)
+terrieri	Adjective	terrieri
+secure	Adjective	secure
+severo	Adjective	severo (feminine singular severa, masculine plural severi, feminine plural severe)
+regolamentare	Adjective	regolamentare (masculine and feminine plural regolamentari)
+araba	Adjective	araba
+matta	Adjective	matta f
+novello	Adjective	novello (feminine singular novella, masculine plural novelli, feminine plural novelle)
+altra	Adjective	altra f
+cremoso	Adjective	cremoso (feminine singular cremosa, masculine plural cremosi, feminine plural cremose)
+kaputt	Adjective	kaputt (invariable)
+pronto	Adjective	pronto (feminine singular pronta, masculine plural pronti, feminine plural pronte)
+infirmo	Adjective	infirmo (feminine singular infirma, masculine plural infirmi, feminine plural infirme)
+super	Adjective	super (invariable)
+perfide	Adjective	perfide
+porca	Adjective	porca
+pecorino	Adjective	pecorino (feminine singular pecorina, masculine plural pecorini, feminine plural pecorine)
+vicina	Adjective	vicina
+gravidi	Adjective	gravidi
+oratorio	Adjective	oratorio (feminine singular oratoria, masculine plural oratori, feminine plural oratorie)
+avara	Adjective	avara
+tutt	Adjective	tutt
+popolare	Adjective	popolare (masculine and feminine plural popolari)
+slave	Adjective	slave
+varî	Adjective	varî (alternative spelling vari)
+analfabeta	Adjective	analfabeta (feminine singular analfabeta, masculine plural analfabeti, feminine plural analfabete)
+netti	Adjective	netti
+negro	Adjective	negro (feminine singular negra, masculine plural negri, feminine plural negre)
+morale	Adjective	morale (masculine and feminine plural morali)
+inspiratore	Adjective	inspiratore (feminine singular inspiratrice, masculine plural inspiratori, feminine plural inspiratrici)
+tutte	Adjective	tutte
+tot	Adjective	tot (invariable)
+anglonormanni	Adjective	anglonormanni
+mediana	Adjective	mediana f sg
+vario	Adjective	vario (feminine singular varia, masculine plural vari, feminine plural varie)
+abilitate	Adjective	abilitate
+normanni	Adjective	normanni m
+standard	Adjective	standard (invariable)
+dii	Adjective	dii m pl
+lattea	Adjective	lattea
+separatisti	Adjective	separatisti
+cesso	Adjective	cesso (feminine singular cessa, masculine plural cessi, feminine plural cesse)
+oliva	Adjective	oliva (invariable)
+manifesto	Adjective	manifesto (feminine singular manifesta, masculine plural manifesti, feminine plural manifeste)
+sacro	Adjective	sacro (feminine singular sacra, masculine plural sacri, feminine plural sacre)
+nudo	Adjective	nudo (feminine singular nuda, masculine plural nudi, feminine plural nude)
+pio	Adjective	pio (feminine singular pia, masculine plural pi, feminine plural pie)
+snob	Adjective	snob (invariable)
+tremulo	Adjective	tremulo (feminine singular tremula, masculine plural tremuli, feminine plural tremule)
+equa	Adjective	equa
+lilla	Adjective	lilla (invariable)
+acerbo	Adjective	acerbo (feminine singular acerba, masculine plural acerbi, feminine plural acerbe)
+parlamentare	Adjective	parlamentare (masculine and feminine plural parlamentari)
+brutto	Adjective	brutto (feminine singular brutta, masculine plural brutti, feminine plural brutte)
+ultimo	Adjective	ultimo (feminine singular ultima, masculine plural ultimi, feminine plural ultime)
+benigne	Adjective	benigne
+dura	Adjective	dura f sg
+venusto	Adjective	venusto (feminine singular venusta, masculine plural venusti, feminine plural venuste)
+merita	Adjective	merita
+vane	Adjective	vane f pl
+mera	Adjective	mera
+ima	Adjective	ima
+medio	Adjective	medio (feminine singular media, masculine plural medi, feminine plural medie)
+augusto	Adjective	augusto (feminine singular augusta, masculine plural augusti, feminine plural auguste)
+pura	Adjective	pura f sg
+allomorfi	Adjective	allomorfi
+lieta	Adjective	lieta
+perpetuo	Adjective	perpetuo (feminine singular perpetua, masculine plural perpetui, feminine plural perpetue)
+amare	Adjective	amare f pl
+certa	Adjective	certa f sg
+blanda	Adjective	blanda f
+mila	Adjective	mila m f
+oro	Adjective	oro (invariable)
+superfluo	Adjective	superfluo (feminine singular superflua, masculine plural superflui, feminine plural superflue)
+vivi	Adjective	vivi
+spiccato	Adjective	spiccato (feminine singular spiccata, masculine plural spiccati, feminine plural spiccate)
+reduce	Adjective	reduce (masculine and feminine plural reduci) (da)
+alcun	Adjective	alcun
+cotta	Adjective	cotta f
+pigro	Adjective	pigro (feminine singular pigra, masculine plural pigri, feminine plural pigre)
+malo	Adjective	malo (feminine singular mala, masculine plural mali, feminine plural male)
+amarico	Adjective	amarico (feminine singular amarica, masculine plural amarici, feminine plural amariche)
+negri	Adjective	negri m pl
+nahuatl	Adjective	nahuatl m, f (invariable)
+baby	Adjective	baby (invariant)
+arabica	Adjective	arabica f
+intento	Adjective	intento (feminine singular intenta, masculine plural intenti, feminine plural intente)
+cappuccino	Adjective	cappuccino (feminine singular cappuccina, masculine plural cappuccini, feminine plural cappuccine)
+site	Adjective	site
+divin	Adjective	divin
+tumido	Adjective	tumido (feminine singular tumida, masculine plural tumidi, feminine plural tumide)
+pago	Adjective	pago (feminine singular paga, masculine plural paghi, feminine plural page)
+orba	Adjective	orba
+porno	Adjective	porno m, f (invariable)
+interlineare	Adjective	interlineare (masculine and feminine plural interlineari)
+khmer	Adjective	khmer (invariable)
+propinquo	Adjective	propinquo (feminine singular propinqua, masculine plural propinqui, feminine plural propinque)
+barbara	Adjective	barbara
+colonica	Adjective	colonica
+citrina	Adjective	citrina
+terrorista	Adjective	terrorista (feminine singular terrorista, masculine plural terroristi, feminine plural terroriste)
+vilia	Adjective	vilia f
+persica	Adjective	persica
+certo	Adjective	certo (feminine singular certa, masculine plural certi, feminine plural certe)
+solista	Adjective	solista (feminine singular solista, masculine plural solisti, feminine plural soliste)
+fero	Adjective	fero (feminine singular fera, masculine plural feri, feminine plural fere)
+sorridente	Adjective	sorridente (masculine and feminine plural sorridenti)
+falso	Adjective	falso (feminine singular falsa, masculine plural falsi, feminine plural false)
+bruni	Adjective	bruni
+lieti	Adjective	lieti
+santa	Adjective	santa f sg
+grande	Adjective	grande m, f (masculine and feminine plural grandi, comparative più grande or maggiore, superlative grandissimo or massimo or sommo)
+brune	Adjective	brune
+magre	Adjective	magre f pl
+triangolare	Adjective	triangolare (masculine and feminine plural triangolari)
+fugaci	Adjective	fugaci
+serie	Adjective	serie f pl
+surrealisti	Adjective	surrealisti m
+contente	Adjective	contente f
+ansio	Adjective	ansio (feminine singular ansia, masculine plural ansi, feminine plural ansie)
+publica	Adjective	publica
+fieri	Adjective	fieri
+noto	Adjective	noto (feminine singular nota, masculine plural noti, feminine plural note)
+rapidi	Adjective	rapidi
+mongoli	Adjective	mongoli
+mono	Adjective	mono
+buen	Adjective	buen (invariable)
+tabulare	Adjective	tabulare (masculine and feminine plural tabulari)
+moderni	Adjective	moderni (m)
+talari	Adjective	talari m
+matura	Adjective	matura f
+intimo	Adjective	intimo (feminine singular intima, masculine plural intimi, feminine plural intime)
+moderna	Adjective	moderna f sg
+plumbea	Adjective	plumbea
+leggere	Adjective	leggere
+attento	Adjective	attento (feminine singular attenta, masculine plural attenti, feminine plural attente)
+minima	Adjective	minima f
+ballerina	Adjective	ballerina
+gran	Adjective	gran m, f (apocopate)
+lindi	Adjective	lindi
+alieno	Adjective	alieno (feminine singular aliena, masculine plural alieni, feminine plural aliene)
+decima	Adjective	decima
+note	Adjective	note
+silvicola	Adjective	silvicola
+nemei	Adjective	nemei
+rauca	Adjective	rauca
+falisca	Adjective	falisca f sg
+primi	Adjective	primi
+erta	Adjective	erta
+extra	Adjective	extra (invariable)
+rea	Adjective	rea
+ostinato	Adjective	ostinato (feminine singular ostinata, masculine plural ostinati, feminine plural ostinate)
+fino	Adjective	fino (feminine singular fina, masculine plural fini, feminine plural fine)
+nota	Adjective	nota f
+fibrillare	Adjective	fibrillare (masculine and feminine plural fibrillari)
+basso	Adjective	basso (feminine singular bassa, masculine plural bassi, feminine plural basse)
+vaccine	Adjective	vaccine f pl
+rompe	Adjective	rompe
+superi	Adjective	superi
+bine	Adjective	bine f
+saturo	Adjective	saturo (feminine singular satura, masculine plural saturi, feminine plural sature)
+vegeti	Adjective	vegeti
+copta	Adjective	copta
+maligno	Adjective	maligno (feminine singular maligna, masculine plural maligni, feminine plural maligne)
+brava	Adjective	brava f sg
+pravi	Adjective	pravi
+automorfi	Adjective	automorfi
+albino	Adjective	albino (feminine singular albina, masculine plural albini, feminine plural albine)
+dritte	Adjective	dritte
+quel	Adjective	quel
+balde	Adjective	balde
+greve	Adjective	greve (masculine and feminine plural grevi)
+lente	Adjective	lente fpl
+vana	Adjective	vana
+titolare	Adjective	titolare (masculine and feminine plural titolari)
+distila	Adjective	distila
+arrogante	Adjective	arrogante (masculine and feminine plural arroganti)
+agra	Adjective	agra f
+vostre	Adjective	vostre
+una	Adjective	una f sg
+lobata	Adjective	lobata f
+andante	Adjective	andante (masculine and feminine plural andanti)
+imperialisti	Adjective	imperialisti
+graditi	Adjective	graditi
+bona	Adjective	bona f
+pulita	Adjective	pulita

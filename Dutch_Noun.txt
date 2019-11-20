@@ -1,0 +1,3268 @@
+tempo	Noun	tempo n (plural tempo's, diminutive tempootje n)
+hik	Noun	hik m (plural hikken, diminutive hikje n)
+uitroepen	Noun	uitroepen
+nak	Noun	nak c (plural nakken, diminutive nakje n)
+aanvangen	Noun	aanvangen
+variant	Noun	variant m (plural varianten, diminutive variantje n)
+delirium	Noun	delirium n (plural deliria or deliriums, diminutive deliriumpje n)
+jacht	Noun	jacht f (uncountable)
+jacht	Noun	jacht n (plural jachten, diminutive jachtje n)
+diftong	Noun	diftong f (plural diftongen, diminutive diftongetje n)
+boeien	Noun	boeien
+ideaal	Noun	ideaal n (plural idealen, diminutive ideaaltje n)
+ocelot	Noun	ocelot m (plural ocelotten, diminutive ocelotje n)
+more	Noun	more m, f (plural moren, diminutive moretje n)
+teken	Noun	teken n (plural tekenen or tekens, diminutive tekentje n)
+teken	Noun	teken
+afrit	Noun	afrit m (plural afritten, diminutive afritje n)
+kilogram	Noun	kilogram m (plural kilogrammen, diminutive kilogrammetje n)
+stud	Noun	stud m (plural studs, diminutive studje n)
+tang	Noun	tang f (plural tangen, diminutive tangetje n)
+virus	Noun	virus n (plural virussen, diminutive virusje n)
+sluikstorten	Noun	sluikstorten
+mentor	Noun	mentor m (plural mentors or mentoren, diminutive mentortje n)
+probleem	Noun	probleem n (plural problemen, diminutive probleempje n)
+oogsten	Noun	oogsten
+aker	Noun	aker m (plural akers, diminutive akertje n)
+aker	Noun	aker m (plural akers, diminutive akertje n)
+aker	Noun	aker m (plural akers, diminutive akertje n)
+hinder	Noun	hinder m (uncountable)
+drop	Noun	drop f (plural droppen, diminutive dropje n)
+drop	Noun	drop f, n (plural droppen, diminutive dropje n)
+val	Noun	val m (plural vallen, diminutive valletje n)
+val	Noun	val m (plural vallen, diminutive valletje n)
+droom	Noun	droom m (plural dromen, diminutive droompje n)
+oom	Noun	oom m (plural ooms, diminutive oompje n)
+historicus	Noun	historicus m (plural historici)
+ronden	Noun	ronden
+schatten	Noun	schatten
+vete	Noun	vete f (plural vetes or veten, diminutive vetetje n)
+vuisten	Noun	vuisten
+besparing	Noun	besparing f (plural besparingen, diminutive besparinkje n)
+smeren	Noun	smeren
+champignon	Noun	champignon m (plural champignons, diminutive champignonnetje n)
+vermogen	Noun	vermogen n (plural vermogens, diminutive vermogentje n)
+computer	Noun	computer m (plural computers, diminutive computertje n)
+continent	Noun	continent n (plural continenten)
+krukken	Noun	krukken
+kul	Noun	kul f (plural kullen, diminutive kulletje n)
+kul	Noun	kul m (uncountable)
+wensen	Noun	wensen
+vissen	Noun	vissen
+slavist	Noun	slavist m (plural slavisten, diminutive slavistje n)
+kalf	Noun	kalf n (plural kalveren, diminutive kalfje n)
+vlot	Noun	vlot n (plural vlotten, diminutive vlotje n)
+faxen	Noun	faxen
+tappen	Noun	tappen
+kartons	Noun	kartons
+kompres	Noun	kompres n (plural kompressen, diminutive kompresje n)
+kabel	Noun	kabel m (plural kabels, diminutive kabeltje n)
+bad	Noun	bad n (plural baden, diminutive badje n)
+lokaal	Noun	lokaal n (plural lokalen, diminutive lokaaltje n)
+liter	Noun	liter m (plural liters, diminutive litertje n)
+vilt	Noun	vilt n (uncountable, diminutive viltje n)
+moer	Noun	moer f (plural moeren, diminutive moertje n)
+moer	Noun	moer f (plural moeren, diminutive moertje n)
+moer	Noun	moer f (plural moeren, diminutive moertje n)
+moer	Noun	moer n (plural moeren, diminutive moertje n)
+moer	Noun	moer ?
+knop	Noun	knop m (plural knoppen, diminutive knopje n)
+pamflet	Noun	pamflet n (plural pamfletten, diminutive pamfletje n)
+pok	Noun	pok m (plural pokken, diminutive pokje n)
+lutetium	Noun	lutetium n (uncountable)
+stront	Noun	stront m (plural stronten, diminutive strontje n)
+spelen	Noun	spelen
+tij	Noun	tij n (plural tijen)
+oliën	Noun	oliën
+parfum	Noun	parfum n (plural parfums, diminutive parfumpje n)
+hydrant	Noun	hydrant m (plural hydranten, diminutive hydrantje n)
+mulat	Noun	mulat m (plural mulatten, diminutive mulatje n, feminine mulattin)
+tak	Noun	tak m (plural takken, diminutive takje n)
+hang	Noun	hang c (plural hangen, diminutive hangetje n)
+dans	Noun	dans m (plural dansen, diminutive dansje n)
+vloer	Noun	vloer m (plural vloeren, diminutive vloertje n)
+rus	Noun	rus m (plural russen, diminutive rusje n)
+rus	Noun	rus m (plural russen, diminutive rusje n)
+praseodymium	Noun	praseodymium n (uncountable)
+nardus	Noun	nardus c (uncountable)
+ozon	Noun	ozon m, n (uncountable)
+geheim	Noun	geheim n (plural geheimen, diminutive geheimpje n)
+mango	Noun	mango m (plural mango's, diminutive mangootje n)
+geweld	Noun	geweld n (uncountable)
+uitstoten	Noun	uitstoten
+pollen	Noun	pollen n (uncountable)
+pollen	Noun	pollen
+bank	Noun	bank m, f (plural banken, diminutive bankje n)
+niobium	Noun	niobium n (uncountable)
+pet	Noun	pet m (plural petten, diminutive petje n)
+bargen	Noun	bargen
+vuur	Noun	vuur n (plural vuren, diminutive vuurtje n)
+spindel	Noun	spindel m (plural spindels, diminutive spindeltje n)
+ijken	Noun	ijken
+bagatel	Noun	bagatel f, m (plural bagatellen, diminutive bagatelletje n)
+optativus	Noun	optativus m (plural optativi or optativussen, diminutive optativusje n)
+afschuwen	Noun	afschuwen n (uncountable)
+zeilen	Noun	zeilen
+grijs	Noun	grijs n (plural grijzen)
+hassium	Noun	hassium n (uncountable)
+gebod	Noun	gebod n (plural geboden, diminutive gebodje n)
+nest	Noun	nest n (plural nesten, diminutive nestje n)
+krab	Noun	krab f, m (plural krabben, diminutive krabbetje n)
+motto	Noun	motto n (plural motto's, diminutive mottootje n)
+Fin	Noun	Fin m (plural Finnen, diminutive Finnetje n, feminine Finse)
+vingeren	Noun	vingeren
+pot	Noun	pot m (plural potten, diminutive potje n)
+eg	Noun	eg f (plural eggen, diminutive egje n)
+spits	Noun	spits f, m (plural spitsen, diminutive spitsje n)
+grein	Noun	grein n (plural greinen, diminutive greintje n)
+mening	Noun	mening f (plural meningen, diminutive meninkje n)
+pis	Noun	pis m (uncountable)
+lasten	Noun	lasten
+kristal	Noun	kristal n (plural kristallen, diminutive kristalletje n)
+panorama	Noun	panorama n (plural panorama's, diminutive panoramaatje n)
+rog	Noun	rog m (plural roggen, diminutive rogje n or roggetje n)
+pluizen	Noun	pluizen
+europium	Noun	europium n (uncountable)
+ere	Noun	ere
+kant	Noun	kant m (plural kanten, diminutive kantje n)
+tolk	Noun	tolk m (plural tolken, diminutive tolkje n)
+tolk	Noun	tolk m (plural tolken, diminutive tolkje n)
+torero	Noun	torero m (plural torero's)
+beffen	Noun	beffen
+skate	Noun	skate m (plural skates, diminutive skateje n)
+april	Noun	april m (plural aprillen, diminutive aprilletje n)
+habitus	Noun	habitus m (plural habitussen)
+toedoen	Noun	toedoen n (uncountable)
+delict	Noun	delict n (plural delicten, diminutive delictje n)
+vorst	Noun	vorst m (uncountable)
+vorst	Noun	vorst m (plural vorsten, diminutive vorstje n, feminine vorstin)
+vorst	Noun	vorst m (plural vorsten, diminutive vorstje n)
+ding	Noun	ding n (plural dingen, diminutive dingetje n)
+verkopen	Noun	verkopen
+tabak	Noun	tabak m (plural tabakken, diminutive tabakje n)
+snek	Noun	snek c (plural snekken, diminutive snekje n)
+miss	Noun	miss f (plural missen, diminutive missje n)
+geboden	Noun	geboden
+lager	Noun	lager n (plural [please provide], diminutive [please provide])
+negligé	Noun	negligé n (plural negligés, diminutive negligeetje n)
+ramen	Noun	ramen
+ombudsman	Noun	ombudsman m (plural ombudsmannen, diminutive ombudsmannetje n)
+media	Noun	media
+stock	Noun	stock m (plural stocks, diminutive stockje n)
+explosief	Noun	explosief n (plural explosieven)
+krans	Noun	krans m (plural kransen, diminutive kransje n)
+aankopen	Noun	aankopen
+plank	Noun	plank f (plural planken, diminutive plankje n)
+ytterbium	Noun	ytterbium n (uncountable)
+tornado	Noun	tornado f, m (plural tornado's, diminutive tornadootje n)
+ouder	Noun	ouder m (plural ouders, diminutive oudertje n)
+embargo	Noun	embargo n (plural embargo's, diminutive embargootje n)
+ma	Noun	ma m (plural ma's, diminutive maatje n)
+stomp	Noun	stomp m (plural stompen, diminutive stompje n)
+scholen	Noun	scholen
+Panamees	Noun	Panamees m (plural Panamezen, diminutive Panameesje n)
+sok	Noun	sok f, m (plural sokken, diminutive sokje n)
+stek	Noun	stek m (plural stekken, diminutive stekje n)
+baby	Noun	baby m (plural baby's, diminutive baby'tje n)
+synagoge	Noun	synagoge f (plural synagogen or synagoges, diminutive synagogetje n)
+thema	Noun	thema n (plural themas or themata, diminutive themaatje n)
+rennen	Noun	rennen
+schroeven	Noun	schroeven
+voorhangen	Noun	voorhangen
+sagen	Noun	sagen
+vogel	Noun	vogel m (plural vogels or vogelen, diminutive vogeltje n or vogelijn n)
+kloten	Noun	kloten
+bieten	Noun	bieten
+venten	Noun	venten
+gebroed	Noun	gebroed n (uncountable)
+damp	Noun	damp m (plural dampen, diminutive dampje n)
+bibliofiel	Noun	bibliofiel m (plural bibliofielen, diminutive bibliofieltje n)
+dilemma	Noun	dilemma n (plural dilemma's, diminutive dilemmaatje n)
+spel	Noun	spel n (plural spellen or spelen, diminutive spelletje n)
+parricidium	Noun	parricidium n (plural parricidia or parricidiums)
+palm	Noun	palm m (plural palmen, diminutive palmpje n)
+ritus	Noun	ritus f (plural ritussen, diminutive ritusje n)
+pol	Noun	pol m (plural pollen, diminutive polletje n)
+sausen	Noun	sausen
+kol	Noun	kol f (plural kollen, diminutive kolletje n)
+kol	Noun	kol m (plural kollen, diminutive kolletje n)
+parking	Noun	parking f (plural parkings)
+narcis	Noun	narcis f (plural narcissen or narcissi, diminutive narcisje n)
+week	Noun	week f (plural weken, diminutive weekje n)
+mens	Noun	mens m (plural mensen, diminutive mensje n)
+mens	Noun	mens n (plural mensen, diminutive mensje n)
+magie	Noun	magie f (plural magies, diminutive magietje n)
+luizen	Noun	luizen
+liflaf	Noun	liflaf m (plural liflaffen, diminutive liflafje n)
+tandem	Noun	tandem m (plural tandems, diminutive tandempje n)
+gadolinium	Noun	gadolinium n (uncountable)
+sibilant	Noun	sibilant c (plural sibilanten, diminutive sibilantje n)
+mud	Noun	mud n (plural mudden, diminutive mudje n or muddeken n)
+skin	Noun	skin m, f (plural skins, diminutive skinnetje n)
+rapport	Noun	rapport n (plural rapporten, diminutive rapportje n)
+Geräuschemacher	Noun	Geräuschemacher m (plural Geräuschemachers)
+kunde	Noun	kunde f (plural kundes)
+filosofie	Noun	filosofie f (plural filosofieën, diminutive filosofietje n)
+ette	Noun	ette m (plural etten, diminutive etje n)
+hymne	Noun	hymne f (plural hymnes, diminutive hymnetje n)
+raven	Noun	raven
+muur	Noun	muur m (plural muren, diminutive muurtje n)
+muur	Noun	muur m (plural muren, diminutive muurtje n)
+poet	Noun	poet m (uncountable)
+jachten	Noun	jachten
+gelden	Noun	gelden
+weren	Noun	weren
+tender	Noun	tender m (plural tenders, diminutive tendertje n)
+propaganda	Noun	propaganda f (plural propaganda's, diminutive propagandaatje n)
+luiken	Noun	luiken
+goot	Noun	goot f (plural goten, diminutive gootje n)
+wijlen	Noun	wijlen
+wijlen	Noun	wijlen
+bikini	Noun	bikini m (plural bikini's, diminutive bikinietje n)
+brein	Noun	brein n (plural breinen, diminutive breintje n)
+Groenlands	Noun	Groenlands n (uncountable)
+wafel	Noun	wafel m (plural wafels, diminutive wafeltje n)
+pointer	Noun	pointer m (plural pointers, diminutive pointertje n)
+lilla	Noun	lilla ? (plural lilla's, diminutive lillatje n)
+cytoplasma	Noun	cytoplasma n (uncountable)
+xenofoob	Noun	xenofoob m (plural xenofoben, diminutive xenofoobje n)
+genus	Noun	genus n (plural genera)
+gitaar	Noun	gitaar f, m (plural gitaren, diminutive gitaartje n)
+eponiem	Noun	eponiem n (plural eponiemen, diminutive eponiempje n)
+Russisch	Noun	Russisch n (uncountable)
+lagune	Noun	lagune f (plural lagunes or lagunen, diminutive lagunetje n)
+verdacht	Noun	verdacht n (plural verdachten, diminutive verdachtje n)
+bodybuilder	Noun	bodybuilder m (plural bodybuilders, diminutive bodybuildertje n)
+moe	Noun	moe f (plural moeken, diminutive moeke n or moetje n)
+musea	Noun	musea
+typen	Noun	typen
+stappen	Noun	stappen
+vendel	Noun	vendel ? (plural vendels or vendelen, diminutive vendeltje n)
+lier	Noun	lier c (plural lieren, diminutive liertje n)
+ambulance	Noun	ambulance f (plural ambulances)
+histologie	Noun	histologie f (uncountable)
+genotype	Noun	genotype n (plural genotypen or genotypes, diminutive genotypetje n)
+sabra	Noun	sabra m (plural sabra's, diminutive sabraatje n)
+corpus	Noun	corpus n (plural corpussen, diminutive corpusje n)
+dank	Noun	dank m (uncountable)
+sporen	Noun	sporen
+eik	Noun	eik m (plural eiken, diminutive eikje n)
+mobiel	Noun	mobiel m (plural mobielen, diminutive mobieltje n)
+volt	Noun	volt m (plural volts, diminutive voltje n)
+blunder	Noun	blunder m (plural blunders, diminutive blundertje n)
+stol	Noun	stol m (plural stollen, diminutive stolletje n)
+veter	Noun	veter m (plural veters, diminutive vetertje n)
+vector	Noun	vector m (plural vectoren, diminutive vectortje n)
+auto	Noun	auto m (plural auto's, diminutive autootje n)
+brief	Noun	brief m (plural brieven, diminutive briefje n)
+speechen	Noun	speechen
+mamma	Noun	mamma f (plural mamma's or mammae)
+apostel	Noun	apostel m (plural apostelen or apostels, diminutive aposteltje n)
+seleen	Noun	seleen n (uncountable)
+omlopen	Noun	omlopen
+leed	Noun	leed n (uncountable)
+messen	Noun	messen
+consensus	Noun	consensus m (uncountable)
+boten	Noun	boten
+dubnium	Noun	dubnium n (uncountable)
+grondvesten	Noun	grondvesten pl (plurale tantum)
+gescheld	Noun	gescheld n (uncountable)
+image	Noun	image n (plural images)
+beelden	Noun	beelden
+ironie	Noun	ironie f (plural ironieën, diminutive ironietje n)
+spot	Noun	spot m (uncountable)
+spot	Noun	spot m (plural spots, diminutive spotje n)
+scheel	Noun	scheel m (plural schelen, diminutive scheeltje n)
+scheel	Noun	scheel m (plural schelen, diminutive scheeltje n)
+scheel	Noun	scheel n (plural schelen, diminutive scheeltje n)
+scheel	Noun	scheel m (plural schelen, diminutive scheeltje n)
+scheel	Noun	scheel n (plural schelen, diminutive scheeltje n)
+mede	Noun	mede f (uncountable)
+regiment	Noun	regiment n (plural regimenten, diminutive regimentje n)
+sonde	Noun	sonde m, f (plural sondes, diminutive sondetje n)
+sein	Noun	sein n (plural seinen, diminutive seintje n)
+krop	Noun	krop m (plural kroppen, diminutive kropje n)
+offensief	Noun	offensief n (plural offensieven, diminutive offensiefje n)
+flat	Noun	flat m (plural flats, diminutive flatje n)
+dansen	Noun	dansen
+objectief	Noun	objectief n (plural objectieven, diminutive objectiefje n)
+kisten	Noun	kisten
+knopen	Noun	knopen
+knots	Noun	knots f (plural knotsen, diminutive knotsje n)
+kwartet	Noun	kwartet n (plural kwartetten, diminutive kwartetje n)
+kadaver	Noun	kadaver n (plural kadavers, diminutive kadavertje n)
+fantoom	Noun	fantoom n (plural fantomen, diminutive fantoompje n)
+considerans	Noun	considerans m (plural consideransen or considerantia, diminutive consideransje n)
+meug	Noun	meug m (uncountable, diminutive meugske n)
+stiften	Noun	stiften
+diner	Noun	diner n (plural diners, diminutive dinertje n)
+dok	Noun	dok n (plural dokken, diminutive dokje n)
+alf	Noun	alf m (plural alven, diminutive alfje n, feminine alve)
+berkelium	Noun	berkelium n (uncountable)
+rag	Noun	rag n (plural raggen, diminutive ragje n)
+rag	Noun	rag n (plural rags, diminutive ragje n)
+assistent	Noun	assistent m (plural assistenten, diminutive assistentje n, feminine assistente)
+euvel	Noun	euvel n (plural euvels, diminutive euveltje n)
+stank	Noun	stank m (plural stanken, diminutive stankje n)
+vasten	Noun	vasten m, n (uncountable)
+dolk	Noun	dolk m (plural dolken, diminutive dolkje n)
+maximum	Noun	maximum n (plural maxima or maximums, diminutive maximumpje n)
+pandoeren	Noun	pandoeren
+snoeren	Noun	snoeren
+malt	Noun	malt m, n (plural malts, diminutive maltje n)
+cherub	Noun	cherub m (plural cherubs, diminutive cherubje n)
+shop	Noun	shop m (plural shops, diminutive shopje n)
+zone	Noun	zone f (plural zonen or zones, diminutive zonetje n)
+belligerent	Noun	belligerent m (plural belligerenten)
+kin	Noun	kin f (plural kinnen, diminutive kinnetje n)
+bericht	Noun	bericht n (plural berichten, diminutive berichtje n)
+stoelen	Noun	stoelen
+Marshallees	Noun	Marshallees m (plural Marshallezen, diminutive Marshalleesje n, feminine Marshallese)
+lieven	Noun	lieven
+astaat	Noun	astaat n (uncountable)
+groene	Noun	groene m, f (plural groenen)
+hof	Noun	hof n (plural hoven, diminutive hofje n)
+hof	Noun	hof m (plural hoven, diminutive hofje n)
+algoritme	Noun	algoritme n (plural algoritmen or algoritmes, diminutive algoritmetje n)
+graf	Noun	graf n (plural graven, diminutive grafje n)
+visa	Noun	visa
+kever	Noun	kever m (plural kevers, diminutive kevertje n)
+grap	Noun	grap f (plural grappen, diminutive grapje n)
+werk	Noun	werk n (plural werken, diminutive werkje n)
+lijmen	Noun	lijmen
+lijmen	Noun	lijmen
+citer	Noun	citer f (plural citers, diminutive citertje n)
+ethicus	Noun	ethicus m (plural ethici, feminine ethica)
+oever	Noun	oever m (plural oevers, diminutive oevertje n)
+helikopter	Noun	helikopter m (plural helikopters, diminutive helikoptertje n)
+rukken	Noun	rukken
+geestverwant	Noun	geestverwant m (plural geestverwanten, diminutive geestverwantje n)
+thulium	Noun	thulium n (uncountable)
+knipogen	Noun	knipogen
+maden	Noun	maden
+camion	Noun	camion m (plural camions, diminutive camionnetje n)
+mais	Noun	mais m (uncountable)
+proza	Noun	proza n (uncountable)
+diabetes	Noun	diabetes m (uncountable)
+doelen	Noun	doelen
+strik	Noun	strik m (plural strikken, diminutive strikje n)
+panne	Noun	panne c (uncountable)
+marter	Noun	marter m (plural marters, diminutive martertje n)
+jargon	Noun	jargon n (plural jargons, diminutive jargonnetje n)
+kudde	Noun	kudde f (plural kuddes or kudden, diminutive kuddetje n)
+uniform	Noun	uniform n (plural uniformen, diminutive uniformpje n)
+bogen	Noun	bogen
+ebbe	Noun	ebbe n (plural ebbes, diminutive ebbetje n)
+amfibie	Noun	amfibie m (plural amfibieën, diminutive amfibietje n)
+hagel	Noun	hagel m (uncountable)
+porrie	Noun	porrie f, m (uncountable)
+aanvoeren	Noun	aanvoeren
+genoten	Noun	genoten
+rat	Noun	rat f (plural ratten, diminutive ratje n)
+zon	Noun	zon f (plural zonnen, diminutive zonnetje n)
+sigaret	Noun	sigaret ? (plural sigaretten, diminutive sigaretje n)
+californium	Noun	californium n (uncountable)
+stapel	Noun	stapel m (plural stapels, diminutive stapeltje n)
+aardewerk	Noun	aardewerk n (uncountable)
+vocht	Noun	vocht n (uncountable)
+handicap	Noun	handicap m (plural handicaps, diminutive handicapje n)
+la	Noun	la f (plural la's, diminutive laatje n)
+la	Noun	la f (plural la's, diminutive laatje n)
+lage	Noun	lage f (plural [please provide], diminutive [please provide])
+astatium	Noun	astatium n (uncountable)
+mode	Noun	mode f (plural modes, diminutive modetje n)
+treden	Noun	treden
+treden	Noun	treden
+barometer	Noun	barometer m (plural barometers, diminutive barometertje n)
+pomerans	Noun	pomerans f (plural pomeransen, diminutive pomeransje n)
+bord	Noun	bord n (plural borden, diminutive bordje n)
+kosten	Noun	kosten
+kokospalm	Noun	kokospalm m (plural kokospalmen, diminutive kokospalmpje n)
+inbreiden	Noun	inbreiden n (uncountable)
+dessert	Noun	dessert n (plural desserts, diminutive dessertje n)
+vet	Noun	vet n (plural vetten)
+plexus	Noun	plexus m (plural plexussen)
+akker	Noun	akker m (plural akkers, diminutive akkertje n)
+wiki	Noun	wiki m (plural wiki's, diminutive wikietje n)
+selenium	Noun	selenium n (uncountable)
+drager	Noun	drager m (plural dragers, diminutive dragertje n, feminine draagster)
+bruten	Noun	bruten
+gemak	Noun	gemak n (plural gemakken, diminutive gemakje n)
+paren	Noun	paren
+patina	Noun	patina n (uncountable)
+bits	Noun	bits
+souvenir	Noun	souvenir n (plural souvenirs, diminutive souvenirtje n)
+briller	Noun	briller m (plural brillers)
+kassa	Noun	kassa f, m (plural kassa's, diminutive kassaatje n)
+peloton	Noun	peloton n (plural pelotons, diminutive pelotonnetje n)
+sloven	Noun	sloven
+persen	Noun	persen
+inkomst	Noun	inkomst f (plural inkomsten)
+waterpas	Noun	waterpas n (plural waterpassen, diminutive waterpasje n)
+jus	Noun	jus m (uncountable, diminutive justje n or sjuutje n)
+faro	Noun	faro n (uncountable)
+luik	Noun	luik n (plural luiken, diminutive luikje n)
+terbium	Noun	terbium n (uncountable)
+fork	Noun	fork f (plural forks, diminutive forkje n)
+stemmen	Noun	stemmen
+toeleiden	Noun	toeleiden
+spekken	Noun	spekken
+roentgenium	Noun	roentgenium n (uncountable)
+grenzen	Noun	grenzen
+geleden	Noun	geleden
+hoeden	Noun	hoeden
+kit	Noun	kit f (plural kitten, diminutive kitje n)
+kit	Noun	kit f, n (uncountable)
+kit	Noun	kit m (plural kits, diminutive kitje n)
+adres	Noun	adres n (plural adressen, diminutive adresje n)
+incubus	Noun	incubus m (plural incubussen or incubi, diminutive incubusje n)
+dochter	Noun	dochter f (plural dochters, diminutive dochtertje n)
+excursie	Noun	excursie f (plural excursies, diminutive excursietje n)
+narren	Noun	narren
+buizen	Noun	buizen
+grind	Noun	grind n (uncountable)
+grind	Noun	grind n (uncountable)
+periodiek	Noun	periodiek f (plural periodieken, diminutive periodiekje n)
+kim	Noun	kim f (plural kimmen, diminutive kimmetje n)
+verdrieten	Noun	verdrieten
+alp	Noun	alp m (plural alpen, diminutive alpje n)
+aroma	Noun	aroma n (plural aroma's, diminutive aromaatje n)
+talen	Noun	talen
+lek	Noun	lek n (plural lekken, diminutive lekje n)
+roman	Noun	roman m (plural romans, diminutive romannetje n)
+synoniem	Noun	synoniem n (plural synoniemen, diminutive synoniempje n)
+rutherfordium	Noun	rutherfordium n (uncountable)
+academicus	Noun	academicus m (plural academicussen or academici, diminutive academicusje n)
+blokken	Noun	blokken
+werken	Noun	werken
+stuwen	Noun	stuwen
+karton	Noun	karton n (plural kartons or kartonnen, diminutive kartonnetje n)
+dweilen	Noun	dweilen
+papieren	Noun	papieren
+agenda	Noun	agenda m (plural agenda's, diminutive agendaatje n)
+crimineel	Noun	crimineel m (plural criminelen, diminutive crimineeltje n)
+pederastie	Noun	pederastie f (uncountable)
+retina	Noun	retina f, m (plural retina's, diminutive retinaatje n)
+bonus	Noun	bonus m (plural bonussen or boni, diminutive bonusje n)
+voltmeter	Noun	voltmeter m (plural voltmeters, diminutive voltmetertje n)
+pagode	Noun	pagode c (plural pagodes)
+ruim	Noun	ruim n (plural ruimen, diminutive ruimpje n)
+integraal	Noun	integraal f, m (plural integralen, diminutive integraaltje n)
+stroken	Noun	stroken
+discus	Noun	discus m (plural discussen, diminutive discusje n)
+namen	Noun	namen
+plat	Noun	plat n (uncountable)
+maharadja	Noun	maharadja m (plural maharadja's, diminutive maharadjaatje n)
+wijs	Noun	wijs f (plural wijzen, diminutive wijsje n)
+psalm	Noun	psalm m (plural psalmen, diminutive psalmpje n)
+lat	Noun	lat f (plural latten, diminutive latje n)
+bier	Noun	bier n (plural bieren, diminutive biertje n)
+toosten	Noun	toosten
+gravida	Noun	gravida f (plural gravidae or gravida's, diminutive gravidaatje n)
+gelijk	Noun	gelijk n (uncountable)
+juni	Noun	juni m (plural juni's, diminutive junietje n)
+Belg	Noun	Belg m (plural Belgen, diminutive Belgje n, feminine Belgische)
+doden	Noun	doden
+indrukken	Noun	indrukken
+dubbelzinnig	Noun	dubbelzinnig (comparative dubbelzinniger, superlative dubbelzinnigst)
+lavabo	Noun	lavabo m (plural lavabo's, diminutive lavabootje n)
+komeet	Noun	komeet m (plural kometen, diminutive komeetje n)
+rock	Noun	rock m (uncountable)
+tips	Noun	tips
+rede	Noun	rede f (plural redes or reden, diminutive redetje n)
+dorsten	Noun	dorsten
+president	Noun	president m (plural presidenten, diminutive presidentje n)
+kroon	Noun	kroon f (plural kronen, diminutive kroontje n)
+posten	Noun	posten
+sol	Noun	sol f (plural sollen, diminutive solletje n)
+do	Noun	do m, f (plural do's)
+doctor	Noun	doctor m (plural doctors or doctoren, diminutive doctortje n)
+beer	Noun	beer m (plural beren, diminutive beertje n)
+beer	Noun	beer m (plural beren, diminutive beertje n)
+beer	Noun	beer m (plural beren, diminutive beertje n)
+abortus	Noun	abortus m (plural abortussen, diminutive abortusje n)
+bil	Noun	bil f (plural billen, diminutive billetje n)
+bil	Noun	bil f (plural billen, diminutive billetje n)
+tik	Noun	tik m (plural tikken, diminutive tikje n)
+factor	Noun	factor m (plural factoren, diminutive factortje n)
+ijs	Noun	ijs n (uncountable, diminutive ijsje n)
+wijzen	Noun	wijzen
+wijzen	Noun	wijzen
+trut	Noun	trut f (plural trutten, diminutive trutje n)
+bron	Noun	bron f (plural bronnen, diminutive bronnetje n)
+alkeen	Noun	alkeen m (plural alkenen, diminutive alkeentje n)
+pen	Noun	pen f (plural pennen, diminutive pennetje n)
+jazz	Noun	jazz m (uncountable)
+soezen	Noun	soezen
+gronden	Noun	gronden
+wand	Noun	wand m (plural wanden, diminutive wandje n)
+imago	Noun	imago n (plural imago's, diminutive imagootje n)
+taken	Noun	taken
+acht	Noun	acht f (uncountable)
+poema	Noun	poema m (plural poema's, diminutive poemaatje n)
+baden	Noun	baden
+spinnen	Noun	spinnen
+voorstellen	Noun	voorstellen
+podia	Noun	podia
+vot	Noun	vot f (plural votten, diminutive votje n)
+opstappen	Noun	opstappen
+gemalen	Noun	gemalen
+vervolgen	Noun	vervolgen
+holm	Noun	holm m (plural holmen, diminutive holmpje n)
+nep	Noun	nep m (uncountable)
+filter	Noun	filter m, n (plural filters, diminutive filtertje n)
+bomen	Noun	bomen
+imam	Noun	imam m (plural imams, diminutive imampje n)
+brunchen	Noun	brunchen
+valg	Noun	valg f (plural valgen, diminutive valgje n)
+duel	Noun	duel n (plural duels, diminutive duelletje n)
+kidnapper	Noun	kidnapper m (plural kidnappers, diminutive kidnappertje n)
+hallen	Noun	hallen
+treffen	Noun	treffen n (plural treffens, diminutive treffentje n)
+beraden	Noun	beraden
+jaguar	Noun	jaguar m (plural jaguars, diminutive jaguartje n)
+lover	Noun	lover n (plural lovers, diminutive lovertje n)
+korrespondent	Noun	korrespondent m (plural korrespondenten, diminutive korrespondentje n, feminine korrespondente)
+biet	Noun	biet f (plural bieten, diminutive bietje n)
+bled	Noun	bled m (uncountable)
+e-mail	Noun	e-mail m (plural e-mails, diminutive e-mailtje n)
+pulver	Noun	pulver n (uncountable)
+pats	Noun	pats m, f (plural patsen)
+keton	Noun	keton n (plural ketonen)
+salmiak	Noun	salmiak m (plural salmiakken, diminutive salmiakje n)
+vers	Noun	vers n (plural verzen, diminutive versje n)
+kopje	Noun	kopje n (plural kopjes)
+rover	Noun	rover m (plural rovers, diminutive rovertje n)
+curator	Noun	curator m (plural curatoren, diminutive curatortje n)
+actinium	Noun	actinium n (uncountable)
+wegen	Noun	wegen
+zeng	Noun	zeng m (plural zengen, diminutive zengetje n)
+alkali	Noun	alkali n (plural alkaliën)
+hypnose	Noun	hypnose f (plural hypnoses)
+periode	Noun	periode f (plural periodes or perioden, diminutive periodetje n)
+zagen	Noun	zagen
+anoa	Noun	anoa m (plural anoa's, diminutive anoaatje n)
+gymnasium	Noun	gymnasium n (plural gymnasia or gymnasiums, diminutive gymnasiumpje n)
+courant	Noun	courant n (plural couranten, diminutive courantje n)
+cabriolet	Noun	cabriolet m (plural cabrioletten or cabriolets, diminutive cabrioletje n)
+vaccin	Noun	vaccin n (plural vaccins, diminutive vaccintje n)
+min	Noun	min f (plural minnen, diminutive minnetje n)
+rek	Noun	rek n (plural rekken, diminutive rekje n)
+rek	Noun	rek m (uncountable)
+sepia	Noun	sepia f, m (uncountable)
+sepia	Noun	sepia n (uncountable)
+respect	Noun	respect n (uncountable)
+adem	Noun	adem m (uncountable)
+meur	Noun	meur m (plural meuren, diminutive meurtje n)
+drom	Noun	drom m (plural drommen)
+smout	Noun	smout n (plural smouten, diminutive smoutje n)
+hobby	Noun	hobby m (plural hobby's, diminutive hobby'tje n)
+octopus	Noun	octopus m (plural octopussen, diminutive octopusje n)
+snorren	Noun	snorren
+spiritus	Noun	spiritus m (plural spiritussen or spiritus, diminutive spiritusje n)
+enkel	Noun	enkel m (plural enkels, diminutive enkeltje n)
+wiel	Noun	wiel n (plural wielen, diminutive wieltje n or wieletje n)
+erven	Noun	erven
+bode	Noun	bode m, f (plural boden or bodes, diminutive bodetje n)
+dis	Noun	dis m (plural dissen, diminutive disje n)
+geselen	Noun	geselen
+maal	Noun	maal n (plural malen, diminutive maaltje n)
+maal	Noun	maal f (plural malen, diminutive maaltje n)
+maal	Noun	maal n (plural malen, diminutive maaltje n)
+maal	Noun	maal f (plural malen, diminutive maaltje n)
+winters	Noun	winters
+schouwen	Noun	schouwen
+dar	Noun	dar m (plural darren, diminutive darretje n)
+katten	Noun	katten
+tin	Noun	tin n (uncountable)
+eunuch	Noun	eunuch m (plural eunuchen, diminutive eunuchje n)
+flik	Noun	flik m (plural flikken, diminutive flikje n)
+kanon	Noun	kanon n (plural kanonnen or kanons, diminutive kanonnetje n)
+zomen	Noun	zomen
+dopen	Noun	dopen
+essen	Noun	essen
+pomp	Noun	pomp f (plural pompen, diminutive pompje n)
+gang	Noun	gang m (plural gangen, diminutive gangetje n)
+classicus	Noun	classicus m (plural historici, feminine classica)
+stroom	Noun	stroom m (plural stromen, diminutive stroompje n)
+turbine	Noun	turbine f (plural turbines, diminutive turbinetje n)
+homo	Noun	homo m (plural homo's, diminutive homootje n)
+eis	Noun	eis m (plural eisen, diminutive eisje n)
+pinnen	Noun	pinnen
+aanbouwen	Noun	aanbouwen
+chips	Noun	chips
+neutrino	Noun	neutrino n (plural neutrino's)
+romper	Noun	romper m (plural rompers, diminutive rompertje n)
+quiz	Noun	quiz m (plural quizzen, diminutive quizje n)
+zonnen	Noun	zonnen
+vrezen	Noun	vrezen
+sesamolie	Noun	sesamolie f (plural sesamoliën, diminutive sesamolietje n)
+klasse	Noun	klasse f (plural klassen, diminutive klassetje n)
+protest	Noun	protest n (plural protesten, diminutive protestje n)
+silicium	Noun	silicium n (uncountable)
+pisser	Noun	pisser m (plural pissers, diminutive pissertje n)
+maat	Noun	maat f (plural maten, diminutive maatje n)
+maat	Noun	maat m (plural maten or maats, diminutive maatje n)
+harpist	Noun	harpist m (plural harpisten, diminutive harpistje n, feminine harpiste)
+liberalisme	Noun	liberalisme n (plural liberalismen or liberalismes)
+poker	Noun	poker n (uncountable)
+poker	Noun	poker m (plural pokers, diminutive pokertje n)
+grammaticus	Noun	grammaticus m (plural grammatici, diminutive grammaticusje n)
+ton	Noun	ton f (plural tonnen, diminutive tonnetje n)
+here	Noun	here m (plural heren, diminutive heertje n)
+vis	Noun	vis m (plural vissen, diminutive visje n)
+tempel	Noun	tempel m (plural tempels or tempelen, diminutive tempeltje n)
+tinten	Noun	tinten
+fris	Noun	fris n (uncountable, diminutive frisje n)
+Portugees	Noun	Portugees m (plural Portugezen, diminutive Portugeesje n, feminine Portugese)
+drift	Noun	drift f (plural driften)
+museum	Noun	museum n (plural musea or museums, diminutive museumpje n)
+weder	Noun	weder n (uncountable, diminutive wedertje n)
+weder	Noun	weder m (plural weders, diminutive wedertje n)
+rapen	Noun	rapen
+kabinet	Noun	kabinet n (plural kabinetten, diminutive kabinetje n)
+zout	Noun	zout n (plural zouten, diminutive zoutje n)
+fikken	Noun	fikken
+eter	Noun	eter m (plural eters, diminutive etertje n)
+ontslagen	Noun	ontslagen
+steengoed	Noun	steengoed n (plural steengoederen)
+flens	Noun	flens m (plural flensen, diminutive flensje n)
+flens	Noun	flens m (plural flensen, diminutive flensje n)
+bokken	Noun	bokken
+glas	Noun	glas n (plural glazen, diminutive glaasje n)
+expert	Noun	expert m (plural experts or experten, diminutive expertje n)
+cyste	Noun	cyste f (plural cysten or cystes, diminutive cystetje n)
+streng	Noun	streng f, m (plural strengen, diminutive strengetje n)
+bal	Noun	bal m (plural ballen, diminutive balletje n)
+bal	Noun	bal n (plural bals, diminutive balletje n)
+nuf	Noun	nuf f (plural nuffen, diminutive nufje n)
+ruis	Noun	ruis m (uncountable)
+begin	Noun	begin n (uncountable, diminutive beginnetje n)
+stoppen	Noun	stoppen
+stieren	Noun	stieren
+boy	Noun	boy m (plural boys, diminutive boytje n)
+terugvallen	Noun	terugvallen
+dal	Noun	dal n (plural dalen, diminutive dalletje n)
+dal	Noun	dal m (plural dallen, diminutive dalletje n)
+drinken	Noun	drinken n (uncountable)
+berichten	Noun	berichten
+sul	Noun	sul m (plural sullen, diminutive sulleke n)
+criticus	Noun	criticus m (plural critici, diminutive criticusje n)
+ontstaan	Noun	ontstaan n (uncountable)
+hamster	Noun	hamster m (plural hamsters, diminutive hamstertje n)
+huilebalken	Noun	huilebalken
+gala	Noun	gala n (plural gala's, diminutive galaatje n)
+puin	Noun	puin n (plural puinen, diminutive puintje n)
+canon	Noun	canon m (plural canons, diminutive canonnetje n)
+grijnzen	Noun	grijnzen
+bot	Noun	bot n (plural botten, diminutive botje n)
+bot	Noun	bot m (plural botten, diminutive botje n)
+bot	Noun	bot m (plural botten, diminutive botje n)
+brada	Noun	brada m (plural braddas, diminutive braddatje n)
+college	Noun	college n (plural colleges, diminutive collegetje n)
+indicatief	Noun	indicatief m (plural indicatieven)
+zuur	Noun	zuur n (plural zuren, diminutive zuurtje n)
+baculum	Noun	baculum n (plural [please provide], diminutive [please provide])
+populist	Noun	populist n (plural populisten, diminutive populistje n)
+beeldhouwen	Noun	beeldhouwen n (uncountable)
+kruisen	Noun	kruisen
+kamer	Noun	kamer f (plural kamers, diminutive kamertje n)
+halsband	Noun	halsband m (plural halsbanden, diminutive halsbandje n)
+vaas	Noun	vaas f (plural vazen, diminutive vaasje n)
+meten	Noun	meten
+sperma	Noun	sperma n (uncountable)
+twisten	Noun	twisten
+curry	Noun	curry m (plural curry's, diminutive curry'tje n)
+top	Noun	top m (plural toppen, diminutive topje n)
+matrix	Noun	matrix f (plural matrices or matrixen, diminutive matrixje n)
+sik	Noun	sik m (plural sikken, diminutive sikje n)
+dom	Noun	dom m (plural dommen, diminutive dommetje n) (only domkerken,domkerkje)
+dom	Noun	dom m (plural dommen, diminutive dommetje n)
+dom	Noun	dom m (plural dommen, diminutive dommetje n)
+konst	Noun	konst f (plural konsten, diminutive konstje n)
+jood	Noun	jood m (plural joden, diminutive joodje n)
+jood	Noun	jood n
+bever	Noun	bever m (plural bevers, diminutive bevertje n)
+rank	Noun	rank f (plural ranken, diminutive rankje n)
+snuiten	Noun	snuiten
+accusativus	Noun	accusativus m (plural accusativi or accusativussen)
+echo	Noun	echo m (plural echo's, diminutive echootje n)
+houten	Noun	houten
+sage	Noun	sage f (plural sagen)
+nectar	Noun	nectar m (plural nectars)
+huishouden	Noun	huishouden n (plural huishoudens, diminutive huishoudentje n)
+druk	Noun	druk m (plural drukken, diminutive drukje n)
+molens	Noun	molens
+heden	Noun	heden n (uncountable)
+beden	Noun	beden
+lokken	Noun	lokken
+weiden	Noun	weiden
+zielen	Noun	zielen
+agens	Noun	agens m (plural agentes)
+agens	Noun	agens n (plural agentia)
+cardiologie	Noun	cardiologie f (uncountable)
+trend	Noun	trend f (plural trends, diminutive trendje n)
+gas	Noun	gas n (plural gassen, diminutive gasje n)
+gas	Noun	gas f (plural gassen, diminutive gasje n)
+grammatica	Noun	grammatica f (plural grammatica's, diminutive grammaticaatje n)
+aflevering	Noun	aflevering f (plural afleveringen, diminutive afleverinkje n)
+bazen	Noun	bazen
+teer	Noun	teer m, n (uncountable)
+teer	Noun	teer m (uncountable)
+teer	Noun	teer m (uncountable)
+teer	Noun	teer m (plural teren, diminutive teertje n)
+blok	Noun	blok n (plural blokken, diminutive blokje n)
+verlangen	Noun	verlangen n (plural verlangens)
+kronen	Noun	kronen
+sporten	Noun	sporten
+rolschaatsen	Noun	rolschaatsen
+revolutionair	Noun	revolutionair m (plural revolutionairen, diminutive revolutionairtje n)
+prut	Noun	prut f (uncountable)
+problematiek	Noun	problematiek f (plural problematieken, diminutive problematiekje n)
+vreemden	Noun	vreemden
+lepra	Noun	lepra m (uncountable)
+riet	Noun	riet n (plural rieten, diminutive rietje n)
+saldo	Noun	saldo n (plural saldi or saldo's, diminutive saldootje n)
+tolken	Noun	tolken
+schreeuwen	Noun	schreeuwen
+hafnium	Noun	hafnium n (uncountable)
+ufo	Noun	ufo m (plural ufo's, diminutive ufootje n)
+anatomie	Noun	anatomie f (uncountable)
+tel	Noun	tel m (plural tellen, diminutive telletje n)
+lijer	Noun	lijer m (plural lijers, diminutive lijertje n)
+regel	Noun	regel m (plural regels or regelen, diminutive regeltje n)
+tuinen	Noun	tuinen
+Hondurees	Noun	Hondurees m (plural Hondurezen, diminutive Hondureesje n)
+landen	Noun	landen
+heften	Noun	heften
+tentamen	Noun	tentamen n (plural tentamens, diminutive tentamentje n)
+schema	Noun	schema n (plural schema's or schemata, diminutive schemake n)
+vader	Noun	vader m (plural vaders or gevaderen, diminutive vadertje n, feminine moeder)
+aforisme	Noun	aforisme n (plural aforismen, diminutive aforismetje n)
+lui	Noun	lui pl (plurale tantum, diminutive luitjes n)
+camera	Noun	camera f (plural camera's, diminutive cameraatje n)
+dingen	Noun	dingen
+impulsmoment	Noun	impulsmoment n (plural impulsmomenten)
+palladium	Noun	palladium n (uncountable)
+angel	Noun	angel m (plural angels, diminutive angeltje n)
+reus	Noun	reus m (plural reuzen, diminutive reusje n, feminine reuzin)
+algebra	Noun	algebra f, m (uncountable)
+ring	Noun	ring m (plural ringen, diminutive ringetje n)
+digestief	Noun	digestief n (plural digestieven, diminutive digestiefje n)
+wc	Noun	wc m (plural wc's, diminutive wc'tje n)
+illegaal	Noun	illegaal m, f (plural illegalen, diminutive illegaaltje n)
+bloot	Noun	bloot n (uncountable, diminutive blootje n)
+bloot	Noun	bloot f (plural bloten, diminutive blootje n)
+zog	Noun	zog n (uncountable)
+topaas	Noun	topaas n (uncountable)
+topaas	Noun	topaas m (plural topazen, diminutive topaasje n)
+crux	Noun	crux f (plural cruces or cruxen)
+poppen	Noun	poppen
+nor	Noun	nor (only as singular, with definite article: de nor)
+series	Noun	series
+rif	Noun	rif n (plural riffen, diminutive rifje n)
+rif	Noun	rif n (plural reven, diminutive rifje n)
+git	Noun	git n, f (plural gitten, diminutive gitje n)
+pianist	Noun	pianist m (plural pianisten, diminutive pianistje n, feminine pianiste)
+symposium	Noun	symposium n (plural symposia or symposiums, diminutive symposiumpje n)
+ruin	Noun	ruin m (plural ruinen, diminutive ruintje n)
+laag	Noun	laag f (plural lagen, diminutive laagje n)
+pont	Noun	pont c (plural ponten, diminutive pontje n)
+mijn	Noun	mijn f (plural mijnen, diminutive mijntje n)
+bestiaal	Noun	bestiaal n (plural bestialen, diminutive bestiaaltje n)
+vinger	Noun	vinger m (plural vingers or vingeren, diminutive vingertje n)
+kus	Noun	kus m (plural kussen, diminutive kusje n)
+mond	Noun	mond m (plural monden, diminutive mondje n)
+mond	Noun	mond f (plural monden, diminutive mondje n)
+pose	Noun	pose f (plural posen or poses, diminutive posetje n)
+genitief	Noun	genitief m (plural genitieven, diminutive genitiefje n)
+ranch	Noun	ranch m (plural ranches or ranchen, diminutive ranchje n)
+hoop	Noun	hoop f (uncountable)
+hoop	Noun	hoop m (plural hopen, diminutive hoopje n)
+krik	Noun	krik f, m (plural krikken, diminutive krikje n)
+doppen	Noun	doppen
+mug	Noun	mug f, m (plural muggen, diminutive mugje n or muggetje n)
+ballon	Noun	ballon m (plural ballonnen or ballons, diminutive ballonnetje n)
+last	Noun	last m (plural lasten, diminutive lastje n)
+post	Noun	post m (plural posten, diminutive postje n)
+kleppen	Noun	kleppen
+dodo	Noun	dodo m (plural dodo's, diminutive dodootje n)
+dodo	Noun	dodo m (uncountable)
+autoradio	Noun	autoradio m (plural autoradio's, diminutive autoradiootje n)
+malen	Noun	malen
+docent	Noun	docent m (plural docenten, diminutive docentje n, feminine docente)
+kalender	Noun	kalender m (plural kalenders, diminutive kalendertje n)
+arsenicum	Noun	arsenicum n (uncountable)
+katholiek	Noun	katholiek m (plural katholieken, diminutive katholiekje n)
+eskimo	Noun	eskimo n (uncountable)
+wodka	Noun	wodka m (plural wodka's, diminutive wodkaatje n)
+pappen	Noun	pappen
+onrecht	Noun	onrecht n (uncountable)
+bel	Noun	bel m, f (plural bellen, diminutive belletje n)
+buikdansen	Noun	buikdansen
+favoriet	Noun	favoriet m, f (plural favorieten, diminutive favorietje n)
+titanium	Noun	titanium n (uncountable)
+kajakken	Noun	kajakken
+revolver	Noun	revolver m (plural revolvers, diminutive revolvertje n)
+rooien	Noun	rooien
+leer	Noun	leer n (plural leren, diminutive leertje n)
+leer	Noun	leer f, m (plural leren, diminutive leertje n)
+snob	Noun	snob m (plural snobs, diminutive snobje n)
+delen	Noun	delen
+schots	Noun	schots f (plural schotsen, diminutive schotsje n)
+ezel	Noun	ezel m (plural ezels, diminutive ezeltje n)
+klop	Noun	klop ? (plural [please provide], diminutive [please provide])
+zwart	Noun	zwart n (plural zwarten, diminutive zwartje n)
+voorkomen	Noun	voorkomen n (plural voorkomens)
+krassen	Noun	krassen
+greinen	Noun	greinen
+duivels	Noun	duivels
+uitverkopen	Noun	uitverkopen
+quisling	Noun	quisling m (plural quislingen, diminutive quislingetje n)
+meren	Noun	meren
+bruut	Noun	bruut m (plural bruten, diminutive bruutje n)
+middag	Noun	middag m (plural middagen, diminutive middagje n)
+lei	Noun	lei f (plural leien, diminutive leitje n)
+lummelen	Noun	lummelen n (uncountable)
+hamburgers	Noun	hamburgers
+neptunium	Noun	neptunium n (uncountable)
+buldog	Noun	buldog m (plural buldoggen or buldogs, diminutive buldogje n)
+bohrium	Noun	bohrium n (uncountable)
+lam	Noun	lam n (plural lammeren, diminutive lammetje n)
+puf	Noun	puf m (plural puffen, diminutive pufje n)
+test	Noun	test m (plural testen or tests, diminutive testje n)
+ploegen	Noun	ploegen
+tritium	Noun	tritium n (uncountable)
+vliegen	Noun	vliegen
+mei	Noun	mei m (uncountable)
+damasten	Noun	damasten
+september	Noun	september m (plural septembers, diminutive septembertje n)
+diefte	Noun	diefte f (uncountable)
+schade	Noun	schade f (uncountable)
+mand	Noun	mand f (plural manden, diminutive mandje n)
+hor	Noun	hor f (plural horren, diminutive horretje n)
+zenit	Noun	zenit n (uncountable)
+centrum	Noun	centrum n (plural centra or centrums, diminutive centrumpje n)
+aids	Noun	aids m (uncountable)
+smart	Noun	smart f, m (plural smarten)
+komst	Noun	komst f (uncountable)
+keren	Noun	keren
+totaal	Noun	totaal n (plural totalen, diminutive totaaltje n)
+planken	Noun	planken
+homofoob	Noun	homofoob m (plural homofoben, diminutive homofoobje n)
+tuigen	Noun	tuigen
+parasol	Noun	parasol m (plural parasols or parasollen, diminutive parasolletje n)
+rem	Noun	rem f (plural remmen, diminutive remmetje n)
+pleiten	Noun	pleiten
+go	Noun	go n (uncountable)
+barsten	Noun	barsten
+alken	Noun	alken
+look	Noun	look n, m (uncountable)
+look	Noun	look m (plural looks)
+flagellum	Noun	flagellum m (plural flagella)
+sinus	Noun	sinus m (plural sinussen, diminutive sinusje n)
+sinus	Noun	sinus m (plural sinussen, diminutive sinusje n)
+gelach	Noun	gelach n (uncountable)
+trollen	Noun	trollen
+marmelade	Noun	marmelade f (plural marmeladen or marmelades)
+gym	Noun	gym n (plural gymmen, diminutive gymmetje n)
+gym	Noun	gym m (uncountable)
+astronaut	Noun	astronaut m (plural astronauten, diminutive astronautje n)
+hes	Noun	hes m (plural hessen, diminutive hesje n)
+afbetaling	Noun	afbetaling f (plural afbetalingen, diminutive afbetalinkje n)
+instappen	Noun	instappen
+graven	Noun	graven
+graven	Noun	graven
+betaling	Noun	betaling f (plural betalingen, diminutive betalinkje n)
+arm	Noun	arm m (plural armen, diminutive armpje n)
+fakkel	Noun	fakkel f (plural fakkels, diminutive fakkeltje n)
+ballen	Noun	ballen
+hout	Noun	hout n (plural houten, diminutive houtje n)
+mathematicus	Noun	mathematicus m (plural mathematici or mathematicussen, diminutive mathematiscusje n)
+cavia	Noun	cavia f (plural cavia's, diminutive caviaatje n)
+blaffen	Noun	blaffen
+planetarium	Noun	planetarium n (plural planetaria or planetariums, diminutive planetariumpje n)
+koper	Noun	koper n (uncountable)
+baron	Noun	baron m (plural baronnen, diminutive baronnetje n, feminine barones)
+kuur	Noun	kuur f (plural kuren, diminutive kuurtje n)
+kuur	Noun	kuur f (plural kuren, diminutive kuurtje n)
+blij	Noun	blij n (plural blijen, diminutive blijtje n)
+classis	Noun	classis f (plural classes)
+senator	Noun	senator m (plural senatoren or senators, diminutive senatortje n)
+rand	Noun	rand m (plural randen, diminutive randje n)
+kille	Noun	kille f (plural killes, diminutive killetje n)
+kille	Noun	kille f (plural killen, diminutive killetje n)
+drillen	Noun	drillen
+been	Noun	been n (plural benen, diminutive beentje n)
+been	Noun	been n (plural beenderen or benen, diminutive beentje n)
+obesitas	Noun	obesitas f (uncountable)
+enten	Noun	enten
+festival	Noun	festival n (plural festivals, diminutive festivalletje n)
+ven	Noun	ven n (plural vennen, diminutive vennetje n)
+hozen	Noun	hozen
+lenden	Noun	lenden
+interrex	Noun	interrex m (plural interreges or interrexen, diminutive interrexje n)
+bosch	Noun	bosch
+weit	Noun	weit f (uncountable)
+glans	Noun	glans m (uncountable, diminutive glansje n)
+brie	Noun	brie m (uncountable)
+didgeridoo	Noun	didgeridoo m (plural didgeridoos, diminutive didgeridootje n)
+schuiven	Noun	schuiven
+album	Noun	album n (plural albums, diminutive albumpje n)
+niesen	Noun	niesen
+bak	Noun	bak m (plural bakken, diminutive bakje n)
+bak	Noun	bak m (plural bakken, diminutive bakje n)
+bak	Noun	bak m (plural bakken, diminutive bakje n)
+bak	Noun	bak m (plural bakken, diminutive bakje n)
+raam	Noun	raam n (plural ramen, diminutive raampje n)
+raam	Noun	raam m (plural ramen, diminutive raampje n)
+nerven	Noun	nerven
+none	Noun	none m (plural nonen, diminutive noontje n)
+kot	Noun	kot n (plural kotten or koten, diminutive kotje n or kotteke n)
+politiek	Noun	politiek f (plural politieken, diminutive politiekje n)
+team	Noun	team n (plural teams, diminutive teampje n)
+put	Noun	put m (plural putten, diminutive putje n)
+wit	Noun	wit n (plural witten, diminutive witje n)
+wit	Noun	wit n (plural witten, diminutive witje n)
+aanvragen	Noun	aanvragen
+sos	Noun	sos c (uncountable)
+ritueel	Noun	ritueel n (plural rituelen, diminutive ritueeltje n)
+genade	Noun	genade f, m (plural genaden or genades, diminutive genadetje n)
+wijn	Noun	wijn m (plural wijnen, diminutive wijntje n)
+pederast	Noun	pederast m (plural pederasten, diminutive pederastje n)
+helm	Noun	helm m (plural helmen, diminutive helmpje n)
+tekst	Noun	tekst m (plural teksten, diminutive tekstje n)
+klarinettist	Noun	klarinettist m (plural klarinettisten, diminutive klarinettistje n)
+alkyl	Noun	alkyl m (plural alkylen, diminutive alkyltje n)
+parken	Noun	parken
+heilige	Noun	heilige f, m (plural heiligen)
+hen	Noun	hen f (plural hennen, diminutive hennetje n)
+lepton	Noun	lepton n (plural leptonen)
+garen	Noun	garen n (uncountable)
+nar	Noun	nar m (plural narren, diminutive narretje n)
+rechter	Noun	rechter m (plural rechters, diminutive rechtertje n)
+ester	Noun	ester m (plural esters, diminutive estertje n)
+menu	Noun	menu n (plural menu's, diminutive menuutje n)
+lip	Noun	lip f (plural lippen, diminutive lipje n)
+yen	Noun	yen m (plural yens)
+croissant	Noun	croissant m (plural croissants, diminutive croissantje n)
+ketters	Noun	ketters
+cellist	Noun	cellist m (plural cellisten, diminutive cellistje n, feminine celliste)
+snee	Noun	snee m, f (plural sneden or snedes, diminutive sneetje n)
+omdraaien	Noun	omdraaien n (uncountable)
+toreador	Noun	toreador m (plural toreadors)
+snooker	Noun	snooker m (plural snookers, diminutive snookertje n)
+file	Noun	file f (plural files, diminutive filetje n)
+file	Noun	file m (plural files, diminutive filetje n)
+jaks	Noun	jaks
+beryllium	Noun	beryllium n (uncountable)
+ceder	Noun	ceder m (plural ceders, diminutive cedertje n)
+schrikken	Noun	schrikken
+labo	Noun	labo n (plural labo's, diminutive labootje n)
+glimlachen	Noun	glimlachen
+rossen	Noun	rossen
+jam	Noun	jam m (plural jams, diminutive jammetje n)
+motors	Noun	motors
+kilo	Noun	kilo c (plural kilo's, diminutive kilootje n)
+slagen	Noun	slagen
+peil	Noun	peil n (plural peilen, diminutive peiltje n)
+log	Noun	log n (plural loggen, diminutive logje n)
+log	Noun	log n (plural loggen)
+log	Noun	log m (plural loggen, diminutive logje n)
+log	Noun	log n (plural loggen, diminutive logje n)
+log	Noun	log n, m (plural logs, diminutive logje n)
+manen	Noun	manen
+manen	Noun	manen
+gabardine	Noun	gabardine f (plural gabardines, diminutive gabardinetje n)
+testament	Noun	testament n (plural testamenten, diminutive testamentje n)
+passer	Noun	passer m (plural passers, diminutive passertje n)
+bies	Noun	bies f (plural biezen, diminutive biesje n)
+epicentrum	Noun	epicentrum n (plural epicentrums or epicentra, diminutive epicentrumpje n)
+homoseksueel	Noun	homoseksueel m (plural homoseksuelen, diminutive homoseksueeltje n)
+kelder	Noun	kelder m (plural kelders, diminutive keldertje n)
+inferno	Noun	inferno n (plural inferno's, diminutive infernootje n)
+deo	Noun	deo m (plural deo's, diminutive deootje n)
+valuta	Noun	valuta m, f (plural valuta's)
+steken	Noun	steken
+pigment	Noun	pigment n (plural pigmenten, diminutive pigmentje n)
+kano	Noun	kano m (plural kano's, diminutive kanootje n)
+jak	Noun	jak m (plural jaks, diminutive jakje n)
+jak	Noun	jak n (plural jakken, diminutive jakje n)
+ovaal	Noun	ovaal n (plural ovalen, diminutive ovaaltje n)
+radon	Noun	radon n (uncountable)
+moeder	Noun	moeder f (plural moeders or gemoederen, diminutive moedertje n, masculine vader)
+abc	Noun	abc n (uncountable)
+nucleus	Noun	nucleus m (plural nucleussen or nuclei, diminutive nucleusje n)
+made	Noun	made f (plural maden, diminutive maadje n)
+made	Noun	made f (plural maden, diminutive maadje n)
+oorvegen	Noun	oorvegen
+zomers	Noun	zomers
+stand	Noun	stand m (plural standen, diminutive standje n)
+stand	Noun	stand m (plural stands, diminutive standje n)
+slechten	Noun	slechten
+soporatief	Noun	soporatief n (plural soporatieven, diminutive soporatiefje n)
+duvel	Noun	duvel m (plural duvels, diminutive duveltje n)
+nominaal	Noun	nominaal ? (plural nominalen)
+gaden	Noun	gaden
+as	Noun	as f (plural assen, diminutive asje n)
+as	Noun	as f (plural assen, diminutive asje n)
+röntgen	Noun	röntgen m (uncountable)
+madam	Noun	madam f (plural madammen or madams, diminutive madammeke n or madammeken n or madammetje n)
+grot	Noun	grot f (plural grotten, diminutive grotje n)
+biologie	Noun	biologie f (uncountable)
+embryo	Noun	embryo n (plural embryo's, diminutive embryootje n)
+titel	Noun	titel m (plural titels, diminutive titeltje n)
+buur	Noun	buur m (plural buren, diminutive buurtje n)
+filatelist	Noun	filatelist m (plural filatelisten, diminutive filatelistje n)
+kenmerken	Noun	kenmerken
+drank	Noun	drank m (plural dranken, diminutive drankje n)
+bedragen	Noun	bedragen
+kobold	Noun	kobold m (plural kobolden, diminutive koboldje n, feminine koboldin)
+pon	Noun	pon m (plural ponnen, diminutive ponnetje n)
+hokken	Noun	hokken
+klooster	Noun	klooster n (plural kloosters, diminutive kloostertje n)
+anus	Noun	anus m (plural anussen or ani, diminutive anusje n)
+dolfijn	Noun	dolfijn m (plural dolfijnen, diminutive dolfijntje n)
+niezen	Noun	niezen
+kering	Noun	kering f (plural keringen, diminutive kerinkje n)
+helium	Noun	helium n (uncountable)
+gen	Noun	gen n (plural genen)
+wachten	Noun	wachten
+vuurstenen	Noun	vuurstenen
+pennen	Noun	pennen
+gul	Noun	gul m, f (plural gullen, diminutive gulletje n)
+riek	Noun	riek f (plural rieken, diminutive riekje n)
+haar	Noun	haar n, c (plural haren, diminutive haartje n)
+sex	Noun	sex m (uncountable)
+stadium	Noun	stadium n (plural stadiums or stadia, diminutive stadiumpje n)
+klant	Noun	klant m (plural klanten, diminutive klantje n, feminine klante)
+geval	Noun	geval n (plural gevallen, diminutive gevalletje n)
+kristallen	Noun	kristallen
+manga	Noun	manga m (plural manga's, diminutive mangaatje n)
+bestand	Noun	bestand n (plural bestanden, diminutive bestandje n)
+bark	Noun	bark m (plural barken, diminutive barkje n)
+bark	Noun	bark f (plural barken, diminutive barkje n)
+rest	Noun	rest f (plural resten, diminutive restje n)
+wang	Noun	wang f (plural wangen, diminutive wangetje n)
+pieren	Noun	pieren
+fragment	Noun	fragment n (plural fragmenten, diminutive fragmentje n)
+sabotage	Noun	sabotage m (uncountable)
+referendum	Noun	referendum n (plural referenda or referendums, diminutive referendumpje n)
+bint	Noun	bint n (plural binten)
+halogeen	Noun	halogeen n (plural halogenen, diminutive halogeentje n)
+gast	Noun	gast m (plural gasten, diminutive gastje n)
+lies	Noun	lies f, m (plural liezen)
+winden	Noun	winden
+motten	Noun	motten
+fed	Noun	fed ? (plural [please provide], diminutive [please provide])
+Vietnamees	Noun	Vietnamees m (plural Vietnamezen, diminutive Vietnameesje n, feminine Vietnamese)
+onde	Noun	onde f (plural onden, diminutive ondje n)
+nekken	Noun	nekken
+tsaar	Noun	tsaar m (plural tsaren, diminutive tsaartje n)
+kil	Noun	kil f (plural killen, diminutive killetje n)
+beat	Noun	beat m (plural beats, diminutive beatje n)
+parallellogram	Noun	parallellogram n (plural parallellogrammen, diminutive parallellogrammetje n)
+trapezium	Noun	trapezium n (plural trapeziums or trapezia, diminutive trapeziumpje n)
+mirakel	Noun	mirakel n (plural mirakels, diminutive mirakeltje n)
+war	Noun	war f (plural warren, diminutive warretje n)
+kloven	Noun	kloven
+vloeken	Noun	vloeken
+gluten	Noun	gluten n (uncountable)
+lid	Noun	lid n (plural leden, diminutive lidje n)
+lid	Noun	lid n (plural leden, diminutive lidje n)
+duimen	Noun	duimen
+snor	Noun	snor f (plural snorren, diminutive snorretje n)
+snor	Noun	snor m (plural snorren, diminutive snorretje n)
+trouwen	Noun	trouwen
+wintersporten	Noun	wintersporten
+fundament	Noun	fundament n (plural fundamenten, diminutive fundamentje n)
+leger	Noun	leger n (plural legers, diminutive legertje n)
+xenon	Noun	xenon n (uncountable)
+kappen	Noun	kappen
+blauw	Noun	blauw n (plural blauwen, diminutive blauwtje n)
+toom	Noun	toom m, n (plural tomen, diminutive toompje n)
+poepen	Noun	poepen
+loge	Noun	loge f (plural loges, diminutive logetje n)
+sturen	Noun	sturen
+sneu	Noun	sneu f (plural sneuen, diminutive sneuke n)
+neodymium	Noun	neodymium n (uncountable)
+bod	Noun	bod n (plural boden, diminutive bodje n)
+sesam	Noun	sesam m (plural sesams, diminutive sesammetje n)
+teak	Noun	teak n (plural teaks)
+bedel	Noun	bedel m (plural bedels, diminutive bedeltje n)
+bedel	Noun	bedel m (plural bedels, diminutive bedeltje n)
+toilet	Noun	toilet n (plural toiletten, diminutive toiletje n)
+wombat	Noun	wombat m (plural wombats, diminutive wombatje n)
+plak	Noun	plak c (plural plakken, diminutive plakje n)
+plak	Noun	plak c (plural plakken, diminutive plakje n)
+regelen	Noun	regelen
+ypsilon	Noun	ypsilon m, f (uncountable)
+oprit	Noun	oprit m (plural opritten, diminutive opritje n)
+bij	Noun	bij f (plural bijen, diminutive bijtje n)
+fagot	Noun	fagot m (plural fagotten, diminutive fagotje n)
+middel	Noun	middel n (plural middelen, diminutive middeltje n)
+middel	Noun	middel n (plural middels, diminutive middeltje n)
+fabrieken	Noun	fabrieken
+smaragd	Noun	smaragd m (plural smaragden, diminutive smaragdje n)
+elektron	Noun	elektron n (plural elektronen, diminutive elektrontje n or elektronnetje n)
+uitlaten	Noun	uitlaten
+intellectueel	Noun	intellectueel m, f (plural intellectuelen, diminutive intellectueeltje n)
+student	Noun	student m (plural studenten, diminutive studentje n, feminine studente)
+aanvallen	Noun	aanvallen
+gok	Noun	gok m (plural gokken, diminutive gokje n)
+neoliberaal	Noun	neoliberaal m (plural neoliberalen, diminutive liberaaltje n)
+journalistiek	Noun	journalistiek f (uncountable)
+spil	Noun	spil f (plural spillen, diminutive spilletje n)
+vlas	Noun	vlas n (uncountable)
+lexicon	Noun	lexicon n (plural lexicons or lexica, diminutive lexiconnetje n)
+bader	Noun	bader m (plural baders, diminutive badertje n, feminine baadster)
+metalen	Noun	metalen
+Europees	Noun	Europees m (plural Europezen, diminutive Europeesje n, feminine Europese)
+geus	Noun	geus m, f (plural geuzen, diminutive geusje or geuzeke n)
+aspis	Noun	aspis m (plural aspides or aspides)
+galmen	Noun	galmen
+interesse	Noun	interesse f (plural interesses or interessen)
+hors	Noun	hors n (plural horsen, diminutive horsje n)
+po	Noun	po m (plural po's, diminutive pootje n)
+dikken	Noun	dikken
+zona	Noun	zona ? (plural zonas, diminutive zonake n)
+papier	Noun	papier n (plural papieren, diminutive papiertje n)
+eren	Noun	eren
+handel	Noun	handel m (uncountable, diminutive handeltje n)
+kurk	Noun	kurk n (plural kurken, diminutive kurkje n)
+ani	Noun	ani
+adagio	Noun	adagio n (plural adagio's, diminutive adagiootje n)
+adagio	Noun	adagio n (plural adagio's, diminutive adagiootje n)
+hoes	Noun	hoes f (plural hoezen, diminutive hoesje n)
+astronomie	Noun	astronomie f (plural astronomieën)
+kar	Noun	kar f (plural karren, diminutive karretje n)
+weglaten	Noun	weglaten
+oren	Noun	oren
+cesium	Noun	cesium n (uncountable)
+Brit	Noun	Brit m (plural Britten, diminutive Britje n)
+aaien	Noun	aaien
+gebaren	Noun	gebaren
+picknick	Noun	picknick m (plural picknicks, diminutive picknickje n)
+klappen	Noun	klappen
+consul	Noun	consul c (plural consuls)
+ananas	Noun	ananas f, m (plural ananassen, diminutive ananasje n)
+portret	Noun	portret n (plural portretten, diminutive portretje n)
+continua	Noun	continua
+taan	Noun	taan f (uncountable)
+lijf	Noun	lijf n (plural lijven, diminutive lijfje n)
+muide	Noun	muide f (plural muiden, diminutive muitje n)
+nirwana	Noun	nirwana n (uncountable)
+klieren	Noun	klieren
+koala	Noun	koala m (plural koala's, diminutive koalaatje n)
+wetten	Noun	wetten
+redenen	Noun	redenen
+stikkapot	Noun	stikkapot (comparative stikkapotter, superlative stikkapotst)
+actief	Noun	actief n (uncountable)
+nut	Noun	nut n (uncountable)
+cursus	Noun	cursus m (plural cursussen, diminutive cursusje n)
+textiel	Noun	textiel n, m (uncountable, diminutive textieltje n)
+walsen	Noun	walsen
+retentor	Noun	retentor m (plural retentoren or retentors or retentores, diminutive retentortje n)
+familie	Noun	familie f (plural families)
+rond	Noun	rond n (plural ronden, diminutive rondje n)
+rit	Noun	rit m (plural ritten, diminutive ritje n)
+verwant	Noun	verwant m (plural verwanten)
+jassen	Noun	jassen
+fan	Noun	fan m (plural fans, diminutive fannetje n)
+host	Noun	host m (plural hosts, diminutive hostje n)
+bas	Noun	bas f (plural bassen, diminutive basje n)
+militair	Noun	militair c (plural militairen, diminutive militairtje n)
+model	Noun	model n (plural modellen, diminutive modelletje n)
+dada	Noun	dada n (uncountable)
+wangeloven	Noun	wangeloven
+vesten	Noun	vesten
+muilperen	Noun	muilperen
+wees	Noun	wees m, f (plural wezen, diminutive weesje n)
+pluimen	Noun	pluimen
+soja	Noun	soja f (plural soja's, diminutive sojaatje n)
+kraaien	Noun	kraaien
+duo	Noun	duo n (plural duo's, diminutive duootje n)
+bacterie	Noun	bacterie f (plural bacteriën, diminutive bacterietje n)
+presenning	Noun	presenning f (plural presenningen, diminutive presenninkje n)
+novelle	Noun	novelle f (plural novelles or novellen, diminutive novelletje n)
+beleg	Noun	beleg n (uncountable)
+laten	Noun	laten
+oase	Noun	oase f (plural oasen or oases, diminutive oasetje n)
+fluwelen	Noun	fluwelen
+kuchen	Noun	kuchen
+vlieten	Noun	vlieten
+studio	Noun	studio m (plural studio's, diminutive studiootje n)
+ficus	Noun	ficus m (plural ficussen, diminutive ficusje n)
+elf	Noun	elf f (plural elven, diminutive elfje n)
+elf	Noun	elf m (plural elfen, diminutive elfje n, feminine elve)
+ghetto	Noun	ghetto n (plural ghetto's, diminutive ghettootje n)
+etiket	Noun	etiket n (plural etiketten, diminutive etiketje n)
+vouwen	Noun	vouwen
+producer	Noun	producer m (plural producers, diminutive producertje n)
+verdragen	Noun	verdragen
+loodsen	Noun	loodsen
+loodsen	Noun	loodsen
+interviewer	Noun	interviewer m (plural interviewers, diminutive interviewertje n)
+vloeren	Noun	vloeren
+krot	Noun	krot n (plural krotten, diminutive krotje n or krotteke n)
+klaver	Noun	klaver f, m (plural klavers, diminutive klavertje n)
+tunnel	Noun	tunnel m (plural tunnels, diminutive tunneltje n)
+kladden	Noun	kladden
+ergatief	Noun	ergatief m (plural ergatieven, diminutive ergatiefje n)
+faal	Noun	faal c (plural falen, diminutive faaltje n)
+musicus	Noun	musicus m, f (plural musici, diminutive musicusje n)
+asfalt	Noun	asfalt n (uncountable)
+gemeen	Noun	gemeen n (uncountable)
+nutten	Noun	nutten
+plombe	Noun	plombe f (plural plombes or plomben, diminutive plombetje n)
+balen	Noun	balen
+robot	Noun	robot m (plural robots or robotten, diminutive robotje n)
+tafelen	Noun	tafelen
+dalen	Noun	dalen
+feeën	Noun	feeën
+bagger	Noun	bagger f (uncountable)
+loon	Noun	loon n (plural lonen, diminutive loontje n)
+komiek	Noun	komiek m (plural komieken, diminutive komiekje n)
+scheten	Noun	scheten
+wurm	Noun	wurm m (plural wurmen, diminutive wurmpje n)
+korps	Noun	korps n (plural korpsen, diminutive korpsje n)
+air	Noun	air m (plural airs, diminutive airtje n)
+doen	Noun	doen n (uncountable)
+spons	Noun	spons f (plural sponsen or sponzen, diminutive sponsje n)
+gel	Noun	gel m, n (plural gels)
+succes	Noun	succes n (plural successen, diminutive succesje n)
+cactus	Noun	cactus m (plural cactussen, diminutive cactusje n)
+fakir	Noun	fakir m (plural fakirs, diminutive fakirtje n)
+optreden	Noun	optreden n (plural optredens, diminutive optredentje n)
+pul	Noun	pul f (plural pullen, diminutive pulletje n)
+vest	Noun	vest f (plural vesten, diminutive vestje n)
+vest	Noun	vest n (plural vesten, diminutive vestje n)
+affix	Noun	affix n (plural affixen, diminutive affixje n)
+Noors	Noun	Noors n (uncountable)
+lessen	Noun	lessen
+pluche	Noun	pluche n (plural pluches, diminutive pluchetje n)
+waren	Noun	waren
+standaard	Noun	standaard m (plural standaarden or standaards, diminutive standaardje n)
+ruimen	Noun	ruimen
+herbergier	Noun	herbergier m (plural herbergiers, diminutive herbergiertje n)
+bollen	Noun	bollen
+venter	Noun	venter m (plural venters, diminutive ventertje n)
+yeti	Noun	yeti m (plural yeti's, diminutive yetietje n)
+hap	Noun	hap m (plural happen, diminutive hapje n)
+tand	Noun	tand m (plural tanden, diminutive tandje n)
+zebra	Noun	zebra m (plural zebra's, diminutive zebraatje n)
+hoeven	Noun	hoeven
+hoeven	Noun	hoeven
+zinnen	Noun	zinnen
+kameleon	Noun	kameleon m (plural kameleons, diminutive kameleonnetje n)
+exordium	Noun	exordium n (plural exordia)
+asbest	Noun	asbest n (uncountable)
+flensen	Noun	flensen
+vulva	Noun	vulva f (plural vulva's or vulvae)
+Siciliaans	Noun	Siciliaans n (uncountable)
+lynx	Noun	lynx m (plural lynxen, diminutive lynxje n)
+frak	Noun	frak m (plural frakken, diminutive frakje n or fraksken n)
+gebieden	Noun	gebieden
+ja	Noun	ja m, n (plural ja's, diminutive jaatje n)
+ram	Noun	ram m (plural rammen, diminutive rammetje n)
+piszuur	Noun	piszuur n (plural piszuren, diminutive piszuurtje n)
+strop	Noun	strop m (plural stroppen, diminutive stropje n)
+liften	Noun	liften
+lijm	Noun	lijm m (plural lijmen)
+genomen	Noun	genomen
+rechten	Noun	rechten
+neutron	Noun	neutron n (plural neutronen, diminutive neutrontje n or neutroontje n)
+sla	Noun	sla f (uncountable, diminutive slaatje n)
+landmassa	Noun	landmassa f (plural landmassa's, diminutive landmassaatje n)
+li	Noun	li m (uncountable)
+romans	Noun	romans
+akademie	Noun	akademie f (plural akademiën or akademies, diminutive akademietje n)
+nacht	Noun	nacht m (plural nachten, diminutive nachtje n)
+kaas	Noun	kaas m (plural kazen, diminutive kaasje n)
+frituren	Noun	frituren
+fietsen	Noun	fietsen
+wis	Noun	wis f, m (plural wissen, diminutive wisje n)
+bazuinen	Noun	bazuinen
+pal	Noun	pal m (plural pallen, diminutive palletje n)
+marina	Noun	marina f (plural marina's, diminutive marinaatje n)
+wel	Noun	wel n (uncountable)
+wel	Noun	wel f (plural wellen, diminutive welletje n)
+wel	Noun	wel c (plural wellen, diminutive welletje n)
+baar	Noun	baar m (plural baren, diminutive baartje n)
+baar	Noun	baar m (plural baren, diminutive baartje n)
+ununquadium	Noun	ununquadium n (uncountable)
+varen	Noun	varen f (plural varens, diminutive varentje n)
+niveau	Noun	niveau n (plural niveaus, diminutive niveautje n)
+mot	Noun	mot f (plural motten, diminutive motje n)
+mot	Noun	mot f (plural motten, diminutive motje n)
+mot	Noun	mot f (plural motten, diminutive motje n)
+mot	Noun	mot f (plural motten, diminutive motje n)
+tsunami	Noun	tsunami m (plural tsunami's, diminutive tsunamietje n)
+a	Noun	a f (plural a's, diminutive aatje n)
+foton	Noun	foton n (plural fotonen, diminutive fotontje n)
+babyface	Noun	babyface m, n (plural babyfaces, diminutive babyfaceje n)
+finalist	Noun	finalist m (plural finalisten, diminutive finalistje n)
+gade	Noun	gade m, f (plural gaden, diminutive gadetje n)
+loket	Noun	loket n (plural loketten, diminutive loketje n)
+schaken	Noun	schaken n (uncountable)
+schulden	Noun	schulden
+orgasme	Noun	orgasme n (plural orgasmen or orgasmes, diminutive orgasmetje n)
+gladius	Noun	gladius m (plural gladii, diminutive gladiusje n)
+ruthenium	Noun	ruthenium n (uncountable)
+stibium	Noun	stibium n (uncountable)
+antidotum	Noun	antidotum n (plural antidota)
+falset	Noun	falset m (plural falsetten, diminutive falsetje n)
+hemel	Noun	hemel m (plural hemelen, diminutive hemeltje n)
+schorsen	Noun	schorsen
+fotografie	Noun	fotografie f (plural fotografieën or fotografies, diminutive fotografietje n)
+plassen	Noun	plassen
+entrecôte	Noun	entrecôte f (plural entrecôtes, diminutive entrecôtetje n)
+koeren	Noun	koeren
+dop	Noun	dop m (plural doppen, diminutive dopje n)
+gebruiken	Noun	gebruiken
+zee	Noun	zee f (plural zeeën, diminutive zeetje n)
+vuil	Noun	vuil n (uncountable, diminutive vuiltje n)
+leek	Noun	leek m (plural leken, diminutive leekje n)
+leek	Noun	leek ? (plural leken, diminutive leekje n)
+leek	Noun	leek ? (plural leken, diminutive leekje n)
+verzoeken	Noun	verzoeken
+jihad	Noun	jihad m (plural jihads, diminutive jihadje n)
+alpineskiën	Noun	alpineskiën n (uncountable)
+iris	Noun	iris c (plural irissen, diminutive irisje n)
+sport	Noun	sport f (plural sporten, diminutive sportje n)
+broos	Noun	broos f (plural brozen, diminutive broosje n)
+decor	Noun	decor n (plural decors, diminutive decortje n)
+failliet	Noun	failliet n (plural faillieten)
+kokosolie	Noun	kokosolie f (plural kokosoliën)
+karakter	Noun	karakter n (plural karakters, diminutive karaktertje n)
+kom	Noun	kom f (plural kommen, diminutive kommetje n)
+gedicht	Noun	gedicht n (plural gedichten, diminutive gedichtje n)
+november	Noun	november m (plural novembers, diminutive novembertje n)
+plutonium	Noun	plutonium n (uncountable)
+krypton	Noun	krypton n (uncountable)
+piste	Noun	piste f (plural pistes, diminutive pistetje n)
+seks	Noun	seks m (uncountable)
+gewassen	Noun	gewassen
+schal	Noun	schal m (plural schallen, diminutive schalletje n)
+kluiven	Noun	kluiven
+scheppen	Noun	scheppen
+designer	Noun	designer m (plural designers, diminutive designertje n)
+rollator	Noun	rollator m (plural rollators, diminutive rollatortje n)
+body	Noun	body m (plural body's, diminutive body'tje n)
+natrium	Noun	natrium n (uncountable)
+orbitaal	Noun	orbitaal c (plural orbitalen, diminutive orbitaaltje n)
+prefix	Noun	prefix n, m (plural prefixen, diminutive prefixje n)
+panter	Noun	panter m (plural panters, diminutive pantertje n)
+achterdenken	Noun	achterdenken n (plural achterdenkens)
+sjoelen	Noun	sjoelen n (uncountable)
+materie	Noun	materie f (plural materiën or materies)
+alarm	Noun	alarm n (plural alarmen, diminutive alarmpje n)
+banen	Noun	banen
+abces	Noun	abces n (plural abcessen, diminutive abcesje n)
+cent	Noun	cent m (plural centen, diminutive centje n)
+heim	Noun	heim n (plural heimen, diminutive heimpje n)
+Oekraïens	Noun	Oekraïens n (uncountable)
+procent	Noun	procent n (plural procenten, diminutive procentje n)
+imperium	Noun	imperium n (plural imperia, diminutive imperiumpje n)
+plaatsen	Noun	plaatsen
+beslagen	Noun	beslagen
+plooien	Noun	plooien
+diagram	Noun	diagram n (plural diagrammen, diminutive diagrammetje n)
+kist	Noun	kist f, m (plural kisten, diminutive kistje n)
+pejoratief	Noun	pejoratief m (plural pejoratieven, diminutive pejoratiefje n)
+sabel	Noun	sabel m (plural sabels, diminutive sabeltje n)
+termen	Noun	termen
+gevallen	Noun	gevallen
+homofobie	Noun	homofobie f (uncountable)
+sloffen	Noun	sloffen
+plafon	Noun	plafon n (plural plafons, diminutive plafonnetje n)
+alfabet	Noun	alfabet n (plural alfabetten, diminutive alfabetje n)
+geit	Noun	geit f (plural geiten, diminutive geitje n)
+messias	Noun	messias m (plural messiassen, diminutive messiasje n)
+prise	Noun	prise f (plural prises or prisen, diminutive prieske n)
+stout	Noun	stout m, n (uncountable)
+concept	Noun	concept n (plural concepten, diminutive conceptje n)
+rups	Noun	rups c (plural rupsen, diminutive rupsje n)
+wijf	Noun	wijf n (plural wijven, diminutive wijfje n)
+karma	Noun	karma n (uncountable)
+stangen	Noun	stangen
+spitsen	Noun	spitsen
+stress	Noun	stress m (uncountable)
+bult	Noun	bult m (plural bulten, diminutive bultje n)
+kip	Noun	kip f (plural kippen, diminutive kippetje n or kipje n)
+kip	Noun	kip m (uncountable)
+kuisen	Noun	kuisen
+lunchen	Noun	lunchen
+geheel	Noun	geheel n (plural gehelen)
+borg	Noun	borg m (plural borgen)
+pit	Noun	pit m, f (plural pitten, diminutive pitje n)
+serven	Noun	serven
+stollen	Noun	stollen
+god	Noun	god m (plural goden, diminutive godje n, feminine godin)
+samenhangen	Noun	samenhangen
+lullen	Noun	lullen
+lont	Noun	lont f (plural lonten, diminutive lontje n)
+bereiken	Noun	bereiken
+huizen	Noun	huizen
+hak	Noun	hak c (plural hakken, diminutive hakje n)
+geluid	Noun	geluid n (plural geluiden, diminutive geluidje n)
+schat	Noun	schat m (plural schatten, diminutive schatje n)
+ununseptium	Noun	ununseptium n (uncountable)
+slabakken	Noun	slabakken
+ruilen	Noun	ruilen
+wagen	Noun	wagen m (plural wagens, diminutive wagentje n)
+wagen	Noun	wagen
+kade	Noun	kade f (plural kades or kaden, diminutive kadetje n)
+luid	Noun	luid m (plural luiden, diminutive luidje n)
+perken	Noun	perken
+serie	Noun	serie f (plural series or seriën, diminutive serietje n)
+turner	Noun	turner m (plural turners, diminutive turnertje n)
+toer	Noun	toer m (plural toeren, diminutive toertje n)
+invallen	Noun	invallen
+starter	Noun	starter m (plural starters, diminutive startertje n)
+beurs	Noun	beurs f (plural beurzen, diminutive beursje n)
+Zoeloe	Noun	Zoeloe m (plural Zoeloes, diminutive Zoeloetje n)
+krater	Noun	krater m (plural kraters, diminutive kratertje n)
+zakken	Noun	zakken
+kas	Noun	kas f, m (plural kassen, diminutive kasje n)
+kater	Noun	kater m (plural katers, diminutive katertje n)
+fermium	Noun	fermium n (uncountable)
+skelet	Noun	skelet n (plural skeletten, diminutive skeletje n)
+metropolis	Noun	metropolis f (plural metropolissen, diminutive metropolisje n)
+opgave	Noun	opgave f (plural opgaven, diminutive opgavetje n)
+Chinese	Noun	Chinese f (plural Chinesen, masculine Chinees)
+conservator	Noun	conservator m (plural conservators or conservatoren, diminutive conservatortje n)
+marxisme	Noun	marxisme n (uncountable)
+oranje	Noun	oranje n (uncountable)
+chirurgie	Noun	chirurgie f (plural chirurgies, diminutive chirurgietje n)
+ruil	Noun	ruil m (plural ruilen, diminutive ruiltje n)
+schip	Noun	schip n (plural schepen, diminutive scheepje n)
+mes	Noun	mes n (plural messen, diminutive mesje n)
+xenofobie	Noun	xenofobie f (plural xenofobies, diminutive xenofobietje n)
+botten	Noun	botten
+kanten	Noun	kanten
+etage	Noun	etage f (plural etages, diminutive etagetje n)
+uitbraken	Noun	uitbraken
+fluor	Noun	fluor n (uncountable)
+autobus	Noun	autobus m (plural autobussen, diminutive autobusje n)
+borst	Noun	borst f (plural borsten, diminutive borstje n)
+chemicus	Noun	chemicus m (plural chemici, diminutive chemicusje n)
+pincet	Noun	pincet n (plural pincetten, diminutive pincetje n)
+schillen	Noun	schillen
+koren	Noun	koren n (uncountable)
+koren	Noun	koren
+labs	Noun	labs
+pool	Noun	pool c (plural polen, diminutive pooltje n)
+pool	Noun	pool m (plural pools, diminutive pooltje n)
+pool	Noun	pool c (plural polen, diminutive pooltje n)
+nift	Noun	nift f (plural niften, diminutive nifje n)
+zwak	Noun	zwak n (uncountable)
+nonsens	Noun	nonsens m (uncountable)
+kast	Noun	kast f (plural kasten, diminutive kastje n)
+psyche	Noun	psyche f (plural psyches)
+hals	Noun	hals m (plural halzen, diminutive halsje n)
+aarden	Noun	aarden
+stof	Noun	stof n (uncountable, diminutive stofje n)
+stof	Noun	stof f (plural stoffen, diminutive stofje n)
+sabbat	Noun	sabbat m (plural sabbats, diminutive sabbatje n)
+kaarten	Noun	kaarten
+reven	Noun	reven
+lepel	Noun	lepel m (plural lepels, diminutive lepeltje n)
+talk	Noun	talk m (uncountable)
+zeuren	Noun	zeuren
+tiran	Noun	tiran m (plural tirannen, diminutive tirannetje n)
+Galicisch	Noun	Galicisch n (uncountable)
+kust	Noun	kust f (plural kusten, diminutive kustje n)
+kust	Noun	kust m (uncountable)
+oktober	Noun	oktober m (plural oktobers, diminutive oktobertje n)
+emir	Noun	emir m (plural emirs)
+reizen	Noun	reizen
+baat	Noun	baat f (plural baten, diminutive baatje n)
+krimi	Noun	krimi m (plural krimi's, diminutive krimitje n)
+alt	Noun	alt m (plural alten, diminutive altje n)
+bast	Noun	bast f (plural basten, diminutive bastje n)
+lobben	Noun	lobben
+materies	Noun	materies
+ketchup	Noun	ketchup m (plural ketchups, diminutive ketchupje n)
+are	Noun	are f (plural aren or ares)
+dragon	Noun	dragon m (uncountable)
+dragon	Noun	dragon m (plural dragons, diminutive dragonnetje n)
+heiligen	Noun	heiligen
+krokodil	Noun	krokodil f, m (plural krokodillen, diminutive krokodilletje n)
+armband	Noun	armband m (plural armbanden, diminutive armbandje n)
+putter	Noun	putter m (plural putters, diminutive puttertje n)
+biepen	Noun	biepen
+absint	Noun	absint m, n (uncountable)
+wijken	Noun	wijken
+hemels	Noun	hemels
+patent	Noun	patent n (plural patenten, diminutive patentje n)
+vicepresident	Noun	vicepresident m (plural vicepresidenten)
+pepel	Noun	pepel m (plural pepels, diminutive pepeltje n)
+dysprosium	Noun	dysprosium n (uncountable)
+pneumothorax	Noun	pneumothorax m (plural pneumothoraxen, diminutive pneumothoraxje n)
+scheuren	Noun	scheuren
+vod	Noun	vod n (plural vodden, diminutive vodje n)
+rododendron	Noun	rododendron ? (plural rododendrons, diminutive rododendronnetje n)
+hum	Noun	hum n (plural hummen, diminutive hummetje n)
+budget	Noun	budget n (plural budgetten or budgets, diminutive budgetje n)
+scharen	Noun	scharen
+pols	Noun	pols m (plural polsen, diminutive polsje n)
+lonen	Noun	lonen
+kreten	Noun	kreten
+vaak	Noun	vaak f (uncountable)
+besluiten	Noun	besluiten
+strijden	Noun	strijden
+teilen	Noun	teilen
+stad	Noun	stad f (plural steden, diminutive stadje n)
+stroomlijnen	Noun	stroomlijnen
+cholera	Noun	cholera f, m (uncountable)
+trap	Noun	trap m (plural trappen, diminutive trapje n or trappetje n)
+trap	Noun	trap f (plural trappen, diminutive trapje n)
+huiken	Noun	huiken
+inleiden	Noun	inleiden
+bitten	Noun	bitten
+slurpen	Noun	slurpen
+cilinder	Noun	cilinder m (plural cilinders, diminutive cilindertje n)
+fierljeppen	Noun	fierljeppen n (uncountable)
+predikant	Noun	predikant m (plural predikanten, diminutive predikantje n)
+mineralogie	Noun	mineralogie f (uncountable)
+lijken	Noun	lijken
+banja	Noun	banja f (plural banja's, diminutive banjaatje n)
+aluminium	Noun	aluminium n (uncountable)
+basilica	Noun	basilica f (plural basilica's, diminutive basilicaatje n)
+mol	Noun	mol m (plural mollen, diminutive molletje n)
+loven	Noun	loven
+fokken	Noun	fokken
+verscheiden	Noun	verscheiden n (uncountable)
+stellen	Noun	stellen
+krokus	Noun	krokus f (plural krokussen, diminutive krokusje n)
+zuchten	Noun	zuchten
+vagina	Noun	vagina f (plural vagina's, diminutive vaginaatje n)
+thallium	Noun	thallium n (uncountable)
+ringen	Noun	ringen
+industrialisering	Noun	industrialisering f (plural industrialiseringen)
+moraal	Noun	moraal f (plural moralen, diminutive moraaltje n)
+vertrouwen	Noun	vertrouwen n (uncountable)
+biseksueel	Noun	biseksueel m (plural biseksuelen, diminutive biseksueeltje n)
+bijdragen	Noun	bijdragen
+rellen	Noun	rellen
+karakteristiek	Noun	karakteristiek f (plural karakteristieken, diminutive karakteristiekje n)
+demon	Noun	demon m (plural demonen or demons)
+stopper	Noun	stopper m (plural stoppers, diminutive stoppertje n)
+falen	Noun	falen
+produkt	Noun	produkt n (plural produkten, diminutive produktje n)
+status	Noun	status m (plural statussen, diminutive statusje n)
+ren	Noun	ren m (plural rennen, diminutive rennetje n)
+lamp	Noun	lamp f (plural lampen, diminutive lampje n)
+jubileum	Noun	jubileum n (plural jubilea, diminutive jubileumpje n)
+stam	Noun	stam m (plural stammen, diminutive stammetje n)
+rabbi	Noun	rabbi m (plural rabbi's, diminutive rabbietje n)
+slacht	Noun	slacht c (uncountable)
+baan	Noun	baan f (plural banen, diminutive baantje n)
+lagen	Noun	lagen
+strikken	Noun	strikken
+naasten	Noun	naasten
+boycotten	Noun	boycotten
+lucht	Noun	lucht f, m (plural luchten, diminutive luchtje n)
+cadmium	Noun	cadmium n (uncountable)
+professor	Noun	professor m (plural professoren or professors, diminutive professortje n)
+start	Noun	start m (plural starts, diminutive startje n)
+literatuur	Noun	literatuur f (plural literaturen)
+blikken	Noun	blikken
+massa	Noun	massa f, m (plural massa's, diminutive massaatje n)
+bridge	Noun	bridge n (uncountable)
+salami	Noun	salami m (plural salami's)
+zij	Noun	zij f (plural zijden, diminutive zijtje n)
+zij	Noun	zij f (uncountable)
+pastoor	Noun	pastoor m (plural pastoors, diminutive pastoortje n)
+herdrukken	Noun	herdrukken
+geologie	Noun	geologie f (plural geologieën)
+clou	Noun	clou m (plural clous)
+Fries	Noun	Fries m (plural Friezen, diminutive Friesje n, feminine Friese)
+vierkant	Noun	vierkant n (plural vierkanten, diminutive vierkantje n)
+kader	Noun	kader n (plural kaders, diminutive kadertje n)
+horizon	Noun	horizon m (plural horizonten or horizonnen)
+imperiaal	Noun	imperiaal n (plural imperialen, diminutive imperiaaltje n)
+islam	Noun	islam m (uncountable)
+kloppen	Noun	kloppen
+december	Noun	december m (plural decembers, diminutive decembertje n)
+chili	Noun	chili c (plural chilis)
+branden	Noun	branden
+malaria	Noun	malaria f (uncountable)
+pils	Noun	pils m, n (plural pilsen, diminutive pilsje n)
+zonderling	Noun	zonderling m (plural zonderlingen, diminutive zonderlingetje n)
+mutant	Noun	mutant m (plural mutanten, diminutive mutantje n)
+som	Noun	som f (plural sommen, diminutive sommetje n)
+pagina	Noun	pagina f (plural pagina's, diminutive paginaatje n)
+violet	Noun	violet n (plural violetten, diminutive violetje n)
+gaydar	Noun	gaydar m (plural gaydars, diminutive gaydartje n)
+aktie	Noun	aktie f (plural akties, diminutive aktietje n)
+fretten	Noun	fretten
+fretten	Noun	fretten
+opalen	Noun	opalen
+protector	Noun	protector m (plural protectoren, diminutive protectortje n)
+censor	Noun	censor m (plural censors, diminutive censortje n)
+meitnerium	Noun	meitnerium n (uncountable)
+passen	Noun	passen
+mest	Noun	mest m (uncountable)
+toeter	Noun	toeter m (plural toeters, diminutive toetertje n)
+roer	Noun	roer n (plural roeren, diminutive roertje n)
+kunstschaatsen	Noun	kunstschaatsen
+melding	Noun	melding f (plural meldingen, diminutive meldinkje n)
+golden retriever	Noun	golden retriever m (plural golden retrievers, diminutive golden retrievertje n)
+heil	Noun	heil n (uncountable)
+mal	Noun	mal f (plural mallen, diminutive malletje n)
+bijzitten	Noun	bijzitten
+melasse	Noun	melasse f (plural melassen, diminutive melassetje n)
+trainer	Noun	trainer m, f (plural trainers, diminutive trainertje n)
+trouw	Noun	trouw m (plural trouwen, diminutive trouwtje n)
+neger	Noun	neger m (plural negers, diminutive negertje n, feminine negerin)
+potten	Noun	potten
+vormen	Noun	vormen
+kunststof	Noun	kunststof f (plural kunststoffen, diminutive kunststofje n)
+firma	Noun	firma f (plural firma's, diminutive firmaatje n)
+sake	Noun	sake m (uncountable)
+halm	Noun	halm m (plural halmen, diminutive halmpje n)
+aluminiumfolie	Noun	aluminiumfolie f, n (plural aluminiumfolies, diminutive aluminiumfolietje n)
+basen	Noun	basen
+ununhexium	Noun	ununhexium n (uncountable)
+café	Noun	café n (plural cafés, diminutive cafeetje n)
+kalium	Noun	kalium n (uncountable)
+dentist	Noun	dentist m (plural dentisten, diminutive [please provide], feminine dentiste)
+blind	Noun	blind n (plural blinden, diminutive blindje n)
+planten	Noun	planten
+pep	Noun	pep c (uncountable)
+bestaan	Noun	bestaan n (uncountable)
+nobelium	Noun	nobelium n (uncountable)
+chef	Noun	chef m (plural chefs, diminutive chefje n, feminine cheffin)
+intrigant	Noun	intrigant m (plural intriganten, diminutive intrigantje n, feminine intrigante)
+zeugen	Noun	zeugen
+del	Noun	del n (plural dellen, diminutive delletje n)
+del	Noun	del f (plural dellen, diminutive delletje n)
+mixen	Noun	mixen
+balken	Noun	balken
+uraan	Noun	uraan n (uncountable)
+slop	Noun	slop n (plural sloppen, diminutive slopje n)
+tor	Noun	tor m (plural torren, diminutive torretje n)
+kerven	Noun	kerven
+titaan	Noun	titaan n (uncountable)
+titaan	Noun	titaan m (plural titanen, diminutive titaantje n)
+gedacht	Noun	gedacht n (uncountable)
+radium	Noun	radium n (uncountable)
+bijen	Noun	bijen
+bedrijven	Noun	bedrijven
+Tadzjieks	Noun	Tadzjieks n (uncountable)
+kussen	Noun	kussen n (plural kussens, diminutive kussentje n)
+kussen	Noun	kussen
+hoesten	Noun	hoesten
+motorboten	Noun	motorboten
+moker	Noun	moker m (plural mokers, diminutive mokertje n)
+basketbal	Noun	basketbal m, n (plural basketballen, diminutive basketballetje n)
+afvoeren	Noun	afvoeren
+tap	Noun	tap m (plural tappen, diminutive tapje n)
+munten	Noun	munten
+zink	Noun	zink n (uncountable)
+pointe	Noun	pointe f, m (plural pointes)
+bede	Noun	bede f (plural beden or bedes, diminutive bedetje n)
+beagle	Noun	beagle m (plural beagles, diminutive beagletje n)
+pies	Noun	pies m (uncountable)
+mallen	Noun	mallen
+zwijnen	Noun	zwijnen
+col	Noun	col m (plural cols, diminutive colletje n)
+col	Noun	col m (plural collen, diminutive colletje n)
+col	Noun	col f (uncountable)
+kwark	Noun	kwark m (uncountable, diminutive kwarkje n)
+vak	Noun	vak n (plural vakken, diminutive vakje n)
+slang	Noun	slang f (plural slangen, diminutive slangetje n)
+slang	Noun	slang n (plural slangs, diminutive slangetje n)
+milt	Noun	milt f (plural milten, diminutive miltje n)
+ohm	Noun	ohm m (plural ohms, diminutive ohmpje n)
+kat	Noun	kat f (plural katten, diminutive katje n, masculine kater or mannetjeskat)
+kat	Noun	kat m (uncountable)
+voornaam	Noun	voornaam m (plural voornamen, diminutive voornaampje n)
+telegram	Noun	telegram n (plural telegrammen, diminutive telegrammetje n)
+unbitrium	Noun	unbitrium n (uncountable)
+ket	Noun	ket m (plural ketten, diminutive ketje n)
+protestant	Noun	protestant m (plural protestanten, diminutive protestantje n)
+bleek	Noun	bleek c (uncountable)
+Liechtensteiner	Noun	Liechtensteiner m (plural Liechtensteiners, feminine Liechtensteinse)
+ammoniak	Noun	ammoniak m (uncountable)
+snack	Noun	snack m (plural snacks, diminutive snackje n)
+iridium	Noun	iridium n (uncountable)
+kalk	Noun	kalk m (uncountable)
+morgen	Noun	morgen m (plural morgens, diminutive morgentje n)
+raden	Noun	raden
+dame	Noun	dame f (plural dames, diminutive dametje n)
+atrofie	Noun	atrofie f (plural atrofieën)
+buste	Noun	buste f, m (plural busten or bustes, diminutive bustetje n)
+rapper	Noun	rapper m (plural rappers, diminutive rappertje n)
+loer	Noun	loer m (plural loeren, diminutive loertje n)
+germanium	Noun	germanium n (uncountable)
+rob	Noun	rob m (plural robben, diminutive robbetje n)
+moment	Noun	moment n (plural momenten, diminutive momentje n)
+salvo	Noun	salvo n (plural salvo's, diminutive salvootje n)
+nadar	Noun	nadar m (plural nadars, diminutive nadarke n)
+boter	Noun	boter f (plural boters, diminutive botertje n)
+rits	Noun	rits f, m (plural ritsen, diminutive ritsje n)
+heteroseksueel	Noun	heteroseksueel m (plural heteroseksuelen, diminutive heteroseksueeltje n)
+aa	Noun	aa f (plural aa's, diminutive aatje n)
+thesis	Noun	thesis f (plural theses or thesissen, diminutive thesisje n)
+tekenen	Noun	tekenen
+safari	Noun	safari m (plural safari's, diminutive safarietje n)
+page	Noun	page m (plural pages, diminutive pagetje n)
+inhouden	Noun	inhouden
+weken	Noun	weken
+doorsnee	Noun	doorsnee f (plural doorsneden, diminutive doorsneetje n)
+Maleis	Noun	Maleis n (uncountable)
+Kelt	Noun	Kelt m (plural Kelten, diminutive Keltje n)
+drek	Noun	drek m (uncountable)
+officier	Noun	officier m (plural officieren or officiers, diminutive officiertje n)
+complex	Noun	complex n (plural complexen, diminutive complexje n)
+telluur	Noun	telluur n (uncountable)
+fluiten	Noun	fluiten
+epos	Noun	epos n (plural epen or epossen, diminutive eposje n)
+kramen	Noun	kramen
+fantasie	Noun	fantasie f (plural fantasieën, diminutive fantasietje n)
+karren	Noun	karren
+papa	Noun	papa m (plural papa's, diminutive papaatje n)
+mare	Noun	mare f (plural maren, diminutive maartje n)
+mare	Noun	mare f (plural maren, diminutive maartje n)
+mare	Noun	mare f (plural mares, diminutive maartje n)
+kaf	Noun	kaf n (uncountable)
+wortelen	Noun	wortelen
+storten	Noun	storten
+schaven	Noun	schaven
+happen	Noun	happen
+steunen	Noun	steunen
+mutageen	Noun	mutageen n (plural mutagenen, diminutive mutageentje n)
+erbarmen	Noun	erbarmen n (uncountable)
+basis	Noun	basis f (plural basissen or bases, diminutive basisje n)
+rieten	Noun	rieten
+Rus	Noun	Rus m (plural Russen, diminutive Rusje n, feminine Russin)
+campus	Noun	campus m (plural campussen, diminutive campusje n)
+ark	Noun	ark f (plural arken, diminutive arkje n)
+panda	Noun	panda m (plural panda's, diminutive pandaatje n)
+francium	Noun	francium n (uncountable)
+koer	Noun	koer f, m (plural koeren, diminutive koertje n)
+koer	Noun	koer m (plural koeren, diminutive koertje n)
+wallen	Noun	wallen
+antropologie	Noun	antropologie f (uncountable)
+tests	Noun	tests
+organisme	Noun	organisme n (plural organismen or organismes, diminutive organismetje n)
+kammen	Noun	kammen
+darmstadtium	Noun	darmstadtium n (uncountable)
+lammeren	Noun	lammeren
+korset	Noun	korset n, m (plural korsetten or korsets, diminutive korsetje n)
+astma	Noun	astma n (uncountable)
+hand	Noun	hand f (plural handen, diminutive handje n)
+unbiunium	Noun	unbiunium n (uncountable)
+conjunctivus	Noun	conjunctivus m (plural conjunctivi or conjunctivussen, diminutive conjunctivusje n)
+ontheffen	Noun	ontheffen
+floppen	Noun	floppen
+vee	Noun	vee n (uncountable)
+comeback	Noun	comeback m (plural comebacks, diminutive comebackje n)
+entomologie	Noun	entomologie f (uncountable)
+draagbaar	Noun	draagbaar f (plural draagbaren, diminutive draagbaartje n)
+vandalisme	Noun	vandalisme n (uncountable)
+stork	Noun	stork m (plural storken, diminutive storkje n)
+kilometer	Noun	kilometer m (plural kilometers, diminutive kilometertje n)
+nationalist	Noun	nationalist m, f (plural nationalisten, diminutive nationalistje n)
+para	Noun	para f, m (plural para's)
+kassen	Noun	kassen
+deadline	Noun	deadline m (plural deadlines, diminutive deadlinetje n)
+aula	Noun	aula f (plural aula's, diminutive aulaatje n)
+otter	Noun	otter m (plural otters, diminutive ottertje n)
+mi	Noun	mi f (plural mi's)
+lief	Noun	lief n (plural lieven, diminutive liefje n)
+antwoorden	Noun	antwoorden
+laat	Noun	laat m (plural laten, diminutive laatje n)
+protium	Noun	protium n (uncountable)
+Agatha	Noun	Agatha f (uncountable)
+slot	Noun	slot n (plural sloten, diminutive slotje n)
+plug	Noun	plug m (plural pluggen, diminutive plugje n)
+confessioneel	Noun	confessioneel m (plural confessionelen, diminutive confessioneeltje n)
+meppen	Noun	meppen
+Bask	Noun	Bask m (plural Basken)
+gegeven	Noun	gegeven n (plural gegevens, diminutive gegeventje n)
+datum	Noun	datum m (plural datums or data, diminutive datumpje n)
+datum	Noun	datum n (plural data, diminutive datumpje n)
+proton	Noun	proton n (plural protonen)
+dam	Noun	dam m (plural dammen, diminutive dammetje n)
+Soedanees	Noun	Soedanees m (plural Soedanezen, diminutive Soedaneesje n)
+epsilon	Noun	epsilon m, f (plural epsilons, diminutive epsilonnetje n)
+raket	Noun	raket f, m (plural raketten, diminutive raketje n)
+raket	Noun	raket f, m (plural raketten, diminutive raketje n)
+raket	Noun	raket f, m (plural raketten, diminutive raketje n)
+theoreticus	Noun	theoreticus m (plural theoretici or theoreticussen, diminutive theoreticusje n)
+gehakt	Noun	gehakt n (uncountable)
+Albanees	Noun	Albanees m (plural Albanezen, diminutive Albaneesje n)
+ecliptica	Noun	ecliptica f (plural ecliptica's, diminutive eclipticaatje n)
+yttrium	Noun	yttrium n (uncountable)
+accent	Noun	accent n (plural accenten, diminutive accentje n)
+totem	Noun	totem m (plural totems, diminutive totempje n)
+baal	Noun	baal f (plural balen, diminutive baaltje n)
+religie	Noun	religie f (plural religies, diminutive religietje n)
+iglo	Noun	iglo m (plural iglo's, diminutive iglootje n)
+protactinium	Noun	protactinium n (uncountable)
+label	Noun	label n (plural labels, diminutive labeltje n)
+lifter	Noun	lifter m (plural lifters, diminutive liftertje n, feminine liftster)
+bodybuilding	Noun	bodybuilding n (uncountable)
+wenken	Noun	wenken
+waarnen	Noun	waarnen
+hom	Noun	hom f (plural hommen, diminutive hommetje n)
+trema	Noun	trema n (plural trema's, diminutive tremaatje n)
+credo	Noun	credo n (plural credo's, diminutive credootje n)
+alkyn	Noun	alkyn m (plural alkynen, diminutive alkyntje n)
+troon	Noun	troon m (plural tronen, diminutive troontje n)
+kost	Noun	kost m (plural kosten, diminutive kostje n)
+marimba	Noun	marimba c (plural marimba's, diminutive marimbaatje n)
+ale	Noun	ale m, n (uncountable)
+smetten	Noun	smetten
+pension	Noun	pension n (plural pensions, diminutive pensionnetje n)
+instrument	Noun	instrument n (plural instrumenten, diminutive instrumentje n)
+idioot	Noun	idioot m (plural idioten, diminutive idiootje n)
+alpaca	Noun	alpaca m (plural alpaca's, diminutive alpacaatje n)
+regio	Noun	regio f (plural regio's or regionen, diminutive regiootje n)
+tarra	Noun	tarra f (uncountable)
+ecologie	Noun	ecologie f (plural ecologieën)
+falafel	Noun	falafel m (plural falafels, diminutive falafeltje n)
+studie	Noun	studie f (plural studies, diminutive studietje n)
+lijnen	Noun	lijnen
+boson	Noun	boson n (plural bosonen, diminutive bosonnetje n)
+hart	Noun	hart n (plural harten, diminutive hartje n)
+drukken	Noun	drukken
+fenomenologie	Noun	fenomenologie f (plural fenomenologieën, diminutive fenomenologietje n)
+laarzen	Noun	laarzen
+verhalen	Noun	verhalen
+pech	Noun	pech m (uncountable)
+pasta	Noun	pasta f (plural pasta's, diminutive pastaatje n)
+pasta	Noun	pasta f (plural pasta's, diminutive pastaatje n)
+roeken	Noun	roeken
+apostrofs	Noun	apostrofs
+gemoet	Noun	gemoet n (uncountable)
+ros	Noun	ros n (plural rossen, diminutive rosje n)
+duur	Noun	duur m (uncountable)
+wedden	Noun	wedden
+premier	Noun	premier m (plural premiers, diminutive premiertje n)
+usurpator	Noun	usurpator m (plural usurpatoren or usurpators, diminutive usurpatortje n, feminine usurpatrix)
+evangelist	Noun	evangelist m (plural evangelisten, diminutive evangelistje n)
+ablativus	Noun	ablativus m (plural ablativi or ablativussen)
+pompen	Noun	pompen
+pester	Noun	pester m (plural pesters, diminutive pestertje n)
+technetium	Noun	technetium n (uncountable)
+galm	Noun	galm m (plural galmen, diminutive galmpje n)
+grill	Noun	grill m (plural grills, diminutive grilletje n)
+reidansen	Noun	reidansen
+koppel	Noun	koppel n (plural koppels, diminutive koppeltje n)
+inner	Noun	inner m (plural inners, diminutive innertje n)
+ontrouw	Noun	ontrouw f (uncountable)
+kajak	Noun	kajak m (plural kajaks or kajakken, diminutive kajakje n)
+spade	Noun	spade m (plural spaden or spades)
+mama	Noun	mama f (plural mama's, diminutive mamaatje n)
+bol	Noun	bol m (plural bollen, diminutive bolletje n or bolleke n)
+lab	Noun	lab n (plural labs, diminutive labje n)
+klussen	Noun	klussen
+lust	Noun	lust m (plural lusten, diminutive lustje n)
+orkaan	Noun	orkaan m, n (plural orkanen, diminutive orkaantje n)
+humanist	Noun	humanist m (plural humanisten, diminutive humanistje n)
+poster	Noun	poster m (plural posters, diminutive postertje n)
+poster	Noun	poster m (plural posters, diminutive postertje n)
+prins	Noun	prins m (plural prinsen, diminutive prinsje n, feminine prinses)
+zolen	Noun	zolen
+fax	Noun	fax m (plural faxen, diminutive faxje n)
+service	Noun	service f, m (plural services)
+romancier	Noun	romancier m (plural romanciers, diminutive romanciertje n)
+tureluurs	Noun	tureluurs
+ambassade	Noun	ambassade f (plural ambassades, diminutive ambassadetje n)
+ambassade	Noun	ambassade m (plural ambassaden, diminutive ambassaatje n)
+overlijden	Noun	overlijden n (uncountable)
+dirigent	Noun	dirigent m (plural dirigenten, diminutive dirigentje n)
+waarden	Noun	waarden
+pip	Noun	pip m (uncountable)
+ununoctium	Noun	ununoctium n (uncountable)
+dromen	Noun	dromen
+autochtoon	Noun	autochtoon m (plural autochtonen, diminutive autochtoontje n)
+luxe	Noun	luxe m (plural luxes, diminutive luxetje n)
+zijden	Noun	zijden
+piloot	Noun	piloot m (plural piloten, diminutive pilootje n)
+ultramarijn	Noun	ultramarijn n (uncountable)
+erbium	Noun	erbium n (uncountable)
+gods	Noun	gods
+tuig	Noun	tuig n (plural tuigen, diminutive tuigje n)
+theorema	Noun	theorema n (plural theorema's, diminutive theoremaatje n)
+sms'en	Noun	sms'en
+magnesium	Noun	magnesium n (uncountable)
+luster	Noun	luster m (plural lusters, diminutive lustertje n)
+oorloven	Noun	oorloven
+pools	Noun	pools
+verboden	Noun	verboden
+kits	Noun	kits
+ei	Noun	ei n (plural eieren, diminutive eitje n)
+singel	Noun	singel m (plural singels, diminutive singeltje n)
+dief	Noun	dief m (plural dieven, diminutive diefje n)
+waken	Noun	waken
+euro	Noun	euro f, m (plural euro's, diminutive eurootje n)
+leem	Noun	leem n, m (uncountable)
+orka	Noun	orka m (plural orka's, diminutive orkaatje n)
+man	Noun	man m (plural mannen or man, diminutive mannetje n or manneke n)
+vacuüm	Noun	vacuüm n (plural vacuüms or vacua, diminutive vacuümpje n)
+blazen	Noun	blazen
+talent	Noun	talent n (plural talenten, diminutive talentje n)
+berg	Noun	berg m (plural bergen, diminutive bergje n)
+visch	Noun	visch
+beton	Noun	beton n (uncountable)
+mist	Noun	mist m (plural misten, diminutive mistje n)
+verleden	Noun	verleden n (uncountable)
+hypotenusa	Noun	hypotenusa f (plural hypotenusa's, diminutive hypotenusaatje n)
+syntaxis	Noun	syntaxis f (uncountable)
+kuis	Noun	kuis m (uncountable)
+kuis	Noun	kuis f (plural kuizen, diminutive kuisje n)
+kuis	Noun	kuis m (plural kuizen, diminutive kuisje n)
+fosfor	Noun	fosfor n (uncountable)
+smog	Noun	smog m (uncountable)
+bankroet	Noun	bankroet n (plural bankroeten, diminutive bankroetje n)
+marginaal	Noun	marginaal m (plural marginalen, diminutive marginaaltje n)
+rel	Noun	rel m (plural rellen, diminutive relletje n)
+pater	Noun	pater m (plural paters, diminutive patertje n)
+kiemen	Noun	kiemen
+pilus	Noun	pilus m (plural pili)
+onweren	Noun	onweren
+grauw	Noun	grauw n (uncountable)
+grauw	Noun	grauw m (plural grauwen)
+hakken	Noun	hakken n (uncountable)
+hakken	Noun	hakken
+blauwgroen	Noun	blauwgroen n (plural blauwgroenen)
+oven	Noun	oven m (plural ovens, diminutive oventje n)
+gros	Noun	gros n (plural grossen, diminutive grosje n)
+bar	Noun	bar m (plural bars, diminutive barretje n)
+bar	Noun	bar
+degens	Noun	degens
+wonder	Noun	wonder n (plural wonderen, diminutive wondertje n)
+aam	Noun	aam n (plural amen)
+klauwen	Noun	klauwen
+species	Noun	species
+borsten	Noun	borsten
+belladonna	Noun	belladonna f, m (plural belladonna's, diminutive belladonnaatje n)
+lichtvat	Noun	lichtvat n (plural lichtvaten, diminutive lichtvaatje n)
+gil	Noun	gil m (plural gillen, diminutive gilletje n)
+orgel	Noun	orgel n (plural orgels, diminutive orgeltje n)
+duren	Noun	duren
+pitbull	Noun	pitbull m (plural pitbulls, diminutive pitbulletje n)
+prat	Noun	prat f (plural pratten, diminutive pratje n)
+muilen	Noun	muilen
+stal	Noun	stal m (plural stallen, diminutive stalletje n)
+twist	Noun	twist m (uncountable, diminutive twistje n)
+bang	Noun	bang m (plural bangen, diminutive bangetje n)
+argon	Noun	argon n (uncountable)
+cobra	Noun	cobra f (plural cobra's, diminutive cobraatje n)
+Canadees	Noun	Canadees m (plural Canadezen, diminutive Canadeesje n)
+Canadees	Noun	Canadees n (uncountable)
+polen	Noun	polen
+kurken	Noun	kurken
+kwartetten	Noun	kwartetten
+gewonden	Noun	gewonden
+positron	Noun	positron n (plural positronen)
+journalist	Noun	journalist m (plural journalisten, diminutive journalistje n)
+stoven	Noun	stoven
+bengel	Noun	bengel m (plural bengels, diminutive bengeltje n) m
+antenne	Noun	antenne f (plural antennes or antennen, diminutive antennetje n)
+gebeuren	Noun	gebeuren n (uncountable)
+voet	Noun	voet m (plural voeten, diminutive voetje n)
+chylus	Noun	chylus m (uncountable)
+locativus	Noun	locativus m (plural locativi or locativussen)
+podium	Noun	podium n (plural podia or podiums, diminutive podiumpje n)
+klad	Noun	klad n (plural kladden, diminutive kladje n)
+menora	Noun	menora f (plural menora's)
+eiken	Noun	eiken
+vlammen	Noun	vlammen
+collega	Noun	collega m, f (plural collega's or collegae, diminutive collegaatje n)
+zweren	Noun	zweren
+vierde	Noun	vierde f, m (plural vierden)
+vierde	Noun	vierde n (plural vierden)
+piano	Noun	piano c (plural piano's, diminutive pianootje n)
+cijferen	Noun	cijferen n (uncountable)
+debat	Noun	debat n (plural debatten, diminutive debatje n)
+bloeien	Noun	bloeien
+bloeien	Noun	bloeien
+lever	Noun	lever f (plural levers, diminutive levertje n)
+krach	Noun	krach m (plural krachen, diminutive krachje n)
+hopen	Noun	hopen
+stormen	Noun	stormen
+montage	Noun	montage f (plural montages, diminutive montagetje n)
+regering	Noun	regering f (plural regeringen, diminutive regerinkje n)
+zeer	Noun	zeer n (plural zeren, diminutive zeertje n)
+jota	Noun	jota f (plural jota's, diminutive jotaatje n)
+schreeuwlelijk	Noun	schreeuwlelijk ? (plural schreeuwlelijks, diminutive schreeuwlelijkje n)
+acacia	Noun	acacia m (plural acacia's, diminutive acaciaatje n)
+lans	Noun	lans f, m (plural lansen, diminutive lansje n)
+investeringsbank	Noun	investeringsbank f (plural investeringsbanken, diminutive investeringsbankje n)
+appelgroen	Noun	appelgroen n (uncountable)
+medium	Noun	medium n (plural media, diminutive mediumpje n)
+medium	Noun	medium n (plural mediums)
+domrechts	Noun	domrechts n (uncountable)
+wellen	Noun	wellen
+cultus	Noun	cultus m (plural cultussen, diminutive cultusje n)
+internationaal	Noun	internationaal m (plural internationalen, diminutive internationaaltje n)
+pieken	Noun	pieken
+devies	Noun	devies n (plural deviezen)
+Zuid-Soedanees	Noun	Zuid-Soedanees m (plural Zuid-Soedanezen, diminutive Zuid-Soedaneesje n)
+meting	Noun	meting f (plural metingen, diminutive metinkje n)
+fik	Noun	fik m (plural fikken, diminutive fikkie n)
+zeugma	Noun	zeugma n (plural zeugmata or zeugma's, diminutive zeugmaatje n)
+gerundium	Noun	gerundium n (plural gerundiums or gerundia, diminutive gerundiumpje n)
+flerovium	Noun	flerovium n (uncountable)
+gladiator	Noun	gladiator m (plural gladiatoren or gladiators, diminutive gladiatortje n)
+pakken	Noun	pakken
+bezwaren	Noun	bezwaren
+steen	Noun	steen m (plural stenen, diminutive steentje n)
+ulk	Noun	ulk m (plural ulken, diminutive ulkje n)
+morgengave	Noun	morgengave f (plural morgengaven or morgengaves, diminutive morgengaafje n or morgengavetje n)
+offer	Noun	offer n (plural offers, diminutive offertje n)
+nomade	Noun	nomade m, f (plural nomaden, diminutive nomadetje n)
+den	Noun	den m (plural dennen, diminutive dennetje n)
+polyfyletisch	Noun	polyfyletisch (not comparable)
+stompen	Noun	stompen
+vragen	Noun	vragen
+plaat	Noun	plaat f (plural platen, diminutive plaatje n)
+hamburger	Noun	hamburger m (plural hamburgers, diminutive hamburgertje n)
+pino	Noun	pino ? (plural pino's, diminutive pinootje n)
+bek	Noun	bek m (plural bekken, diminutive bekje n)
+koor	Noun	koor n (plural koren, diminutive koortje n)
+park	Noun	park n (plural parken, diminutive parkje n)
+links	Noun	links n (uncountable)
+links	Noun	links
+fossiel	Noun	fossiel n (plural fossielen, diminutive fossieltje n)
+kauwen	Noun	kauwen
+band	Noun	band m (plural banden, diminutive bandje n)
+band	Noun	band n (plural banden, diminutive bandje n)
+band	Noun	band m (plural bands, diminutive bandje n)
+tal	Noun	tal n (plural tallen)
+pere	Noun	pere ? (plural [please provide], diminutive [please provide])
+slokken	Noun	slokken
+blik	Noun	blik m (plural blikken, diminutive blikje n)
+blik	Noun	blik n (plural blikken, diminutive blikje n)
+stift	Noun	stift f (plural stiften, diminutive stiftje n)
+onvoldoende	Noun	onvoldoende m (plural onvoldoendes or onvoldoenden)
+repen	Noun	repen
+kies	Noun	kies m (plural kiezen, diminutive kiesje n)
+cirkel	Noun	cirkel m (plural cirkels, diminutive cirkeltje n)
+bergen	Noun	bergen
+ui	Noun	ui m (plural uien, diminutive uitje n)
+dier	Noun	dier n (plural dieren, diminutive diertje n)
+inval	Noun	inval m (plural invallen, diminutive invalletje n)
+messing	Noun	messing n (uncountable)
+walmen	Noun	walmen
+stronken	Noun	stronken
+epistel	Noun	epistel n (plural epistels, diminutive episteltje n)
+vos	Noun	vos m (plural vossen, diminutive vosje n, feminine vossin)
+proces	Noun	proces n (plural processen, diminutive procesje n)
+salon	Noun	salon m, n (plural salons, diminutive salonnetje n)
+albino	Noun	albino m, f (plural albino's, diminutive albino'tje n)
+sms	Noun	sms m (plural sms'en, diminutive sms'je n)
+atol	Noun	atol n, m (plural atollen, diminutive atolletje n)
+kraan	Noun	kraan m (plural kranen, diminutive kraantje n)
+kraan	Noun	kraan f (plural kranen, diminutive kraantje n)
+toppen	Noun	toppen
+humor	Noun	humor m (plural humoren or humores)
+tofelemoon	Noun	tofelemoon m (plural tofelemonen, diminutive tofelemoontje n)
+male	Noun	male
+straffen	Noun	straffen
+gesticht	Noun	gesticht n (plural gestichten, diminutive gestichtje n)
+os	Noun	os m (plural ossen, diminutive osje n)
+punt	Noun	punt n (plural punten, diminutive puntje n)
+punt	Noun	punt m (plural punten, diminutive puntje n)
+hint	Noun	hint f, m (plural hints, diminutive hintje n)
+vinken	Noun	vinken
+syllogisme	Noun	syllogisme n (plural syllogismen)
+Zwitsers	Noun	Zwitsers
+gal	Noun	gal f (uncountable)
+bom	Noun	bom f, m (plural bommen, diminutive bommetje n)
+bom	Noun	bom f (plural bommen, diminutive bommetje n)
+plan	Noun	plan n (plural plannen, diminutive plannetje n)
+curium	Noun	curium n (uncountable)
+stolp	Noun	stolp f (plural stolpen, diminutive stolpje n)
+land	Noun	land n (plural landen, diminutive landje n)
+groenblauw	Noun	groenblauw n (plural groenblauwen)
+patriot	Noun	patriot m (plural patriotten, diminutive patriotje n)
+bocht	Noun	bocht f, m (plural bochten, diminutive bochtje n)
+vlekken	Noun	vlekken
+bevelen	Noun	bevelen
+vruchten	Noun	vruchten
+aura	Noun	aura f (plural aura's, diminutive auraatje n)
+apenkooien	Noun	apenkooien
+lok	Noun	lok f (plural lokken, diminutive lokje n)
+opera	Noun	opera f (plural opera's, diminutive operaatje n)
+amnestie	Noun	amnestie f (plural amnestieën)
+sas	Noun	sas ? (uncountable)
+sas	Noun	sas n, f (plural sassen, diminutive sasje n)
+onderzoeken	Noun	onderzoeken
+schellen	Noun	schellen
+schellen	Noun	schellen
+vreten	Noun	vreten n (uncountable)
+ork	Noun	ork m (plural orks, diminutive orkje n, feminine orkin)
+halten	Noun	halten
+kritiek	Noun	kritiek f (plural kritieken, diminutive kritiekje n)
+worst	Noun	worst f (plural worsten, diminutive worstje n)
+kap	Noun	kap f (plural kappen, diminutive kapje n)
+kap	Noun	kap m (uncountable)
+rund	Noun	rund n (plural runderen, diminutive rundje n)
+leken	Noun	leken
+storm	Noun	storm m (plural stormen, diminutive stormpje n)
+tuit	Noun	tuit n (plural tuiten, diminutive tuitje n)
+radiaal	Noun	radiaal m (plural radialen, diminutive radiaaltje n)
+stang	Noun	stang m (plural stangen, diminutive stangetje n)
+bewijzen	Noun	bewijzen
+edelen	Noun	edelen
+ijsberen	Noun	ijsberen
+visum	Noun	visum n (plural visa or visums, diminutive visumpje n)
+dollar	Noun	dollar m (plural dollars, diminutive dollartje n)
+folder	Noun	folder m (plural folders, diminutive foldertje n)
+juk	Noun	juk n (plural jukken, diminutive jukje n)
+bib	Noun	bib f (uncountable)
+biceps	Noun	biceps m (plural bicepsen, diminutive bicepsje n)
+parameter	Noun	parameter m (plural parameters, diminutive parametertje n)
+ebben	Noun	ebben n (uncountable)
+glossarium	Noun	glossarium n (plural glossaria, diminutive glossariumpje n)
+metamorfose	Noun	metamorfose f (plural metamorfosen or metamorfoses, diminutive metamorfosetje n)
+fermion	Noun	fermion n (plural fermionen)
+roeren	Noun	roeren
+nikkel	Noun	nikkel n
+nominativus	Noun	nominativus m (plural nominativi or nominativussen)
+pudding	Noun	pudding m (plural puddingen, diminutive puddinkje n)
+uk	Noun	uk m (plural ukken, diminutive ukkie n or ukje n)
+gort	Noun	gort m (uncountable)
+oculair	Noun	oculair n (plural oculairs, diminutive oculairtje n)
+Leeuwarder	Noun	Leeuwarder m (plural Leeuwarders, diminutive Leeuwardertje n)
+weg	Noun	weg m (plural wegen, diminutive wegje n or weggetje n)
+pesten	Noun	pesten
+fanaticus	Noun	fanaticus m, f (plural fanatici)
+bes	Noun	bes f (plural bessen, diminutive besje n)
+bes	Noun	bes f (plural bessen, diminutive besje n)
+bes	Noun	bes f (plural bessen, diminutive besje n)
+borstel	Noun	borstel m (plural borstels, diminutive borsteltje n)
+hyena	Noun	hyena m (plural hyena's, diminutive hyenaatje n)
+temperament	Noun	temperament n (plural temperamenten, diminutive temperamentje n)
+gassen	Noun	gassen
+flag	Noun	flag m (plural flags, diminutive flagje n)
+beten	Noun	beten
+inslagen	Noun	inslagen
+farad	Noun	farad m (uncountable)
+mik	Noun	mik m (plural mikken, diminutive mikje n)
+betogen	Noun	betogen
+feta	Noun	feta m (uncountable)
+stippen	Noun	stippen
+rotten	Noun	rotten
+onus	Noun	onus m (plural onussen or oni, diminutive onusje n)
+stammen	Noun	stammen
+experiment	Noun	experiment n (plural experimenten, diminutive experimentje n)
+wouden	Noun	wouden
+doctorandus	Noun	doctorandus m (plural doctorandi or doctorandussen, diminutive doctorandusje n, feminine doctoranda)
+dol	Noun	dol m (plural dollen, diminutive dolletje n)
+platform	Noun	platform n (plural platformen or platforms, diminutive platformpje n)
+klip	Noun	klip f (plural klippen, diminutive klipje n)
+strontium	Noun	strontium n (uncountable)
+baren	Noun	baren
+neon	Noun	neon n (uncountable)
+allochtoon	Noun	allochtoon m (plural allochtonen, diminutive allochtoontje n)
+nabla	Noun	nabla c (plural nabla's)
+hadron	Noun	hadron n (plural hadronen)
+kozak	Noun	kozak m (plural kozakken, diminutive kozakje n)
+verschillen	Noun	verschillen
+belt	Noun	belt m (plural belten, diminutive beltje n)
+belt	Noun	belt m (plural belten, diminutive beltje n)
+biel	Noun	biel f (plural biels, diminutive bieltje n)
+index	Noun	index m (plural indexen or indices, diminutive indexje n)
+pijpen	Noun	pijpen
+kok	Noun	kok m (plural koks, diminutive kokje n, feminine kokkin)
+trio	Noun	trio n (plural trio's, diminutive triootje n)
+kleuren	Noun	kleuren
+lot	Noun	lot n (plural loten, diminutive lotje n)
+bussen	Noun	bussen
+gewrocht	Noun	gewrocht n (plural gewrochten, diminutive gewrochtje n)
+schoppen	Noun	schoppen m, f (plural schoppens or schoppen, diminutive schoppentje n)
+schoppen	Noun	schoppen
+opaal	Noun	opaal n
+klak	Noun	klak f (plural klakken, diminutive klakske n)
+video	Noun	video m (plural video's, diminutive videootje n)
+cosinus	Noun	cosinus m (plural cosinussen)
+paranoia	Noun	paranoia f (uncountable)
+kardinaal	Noun	kardinaal m (plural kardinalen, diminutive kardinaaltje n)
+robijnen	Noun	robijnen
+gram	Noun	gram n (plural grammen, diminutive grammetje n)
+gram	Noun	gram m (uncountable, diminutive grammetje n)
+antimonium	Noun	antimonium n (uncountable)
+analist	Noun	analist m (plural analisten, diminutive analistje n)
+geiser	Noun	geiser m (plural geisers, diminutive geisertje n)
+herbergen	Noun	herbergen
+ununennium	Noun	ununennium n (uncountable)
+radiator	Noun	radiator m (plural radiators or radiatoren, diminutive radiatortje n)
+chinchilla	Noun	chinchilla f, n (plural chinchilla's, diminutive chinchillaatje n)
+klemmen	Noun	klemmen
+kiwi	Noun	kiwi m (plural kiwi's, diminutive kiwietje n)
+extremist	Noun	extremist m (plural extremisten, diminutive extremistje n)
+plekke	Noun	plekke
+vorm	Noun	vorm m (plural vormen, diminutive vormpje n)
+helikopters	Noun	helikopters
+zeggen	Noun	zeggen
+schizofrenie	Noun	schizofrenie f (plural schizofrenieën, diminutive schizofrenietje n)
+Beiers	Noun	Beiers n (uncountable)
+taal	Noun	taal f (plural talen, diminutive taaltje n)
+bezoeken	Noun	bezoeken
+paal	Noun	paal m (plural palen, diminutive paaltje n)
+paal	Noun	paal f (plural palen, diminutive paaltje n)
+genitivus	Noun	genitivus m (plural genitivi or genitivussen)
+polonium	Noun	polonium n (uncountable)
+bolster	Noun	bolster m (plural bolsters, diminutive bolstertje n)
+knallen	Noun	knallen
+heem	Noun	heem n (plural hemen, diminutive heempje n)
+eten	Noun	eten n (uncountable, diminutive etentje n)
+plagen	Noun	plagen
+diamant	Noun	diamant n (uncountable)
+diamant	Noun	diamant m (plural diamanten, diminutive diamantje n)
+formalist	Noun	formalist m (plural formalisten, diminutive formalistje n)
+trapper	Noun	trapper m (plural trappers, diminutive trappertje n)
+ego	Noun	ego n (plural ego's, diminutive egootje n)
+geren	Noun	geren
+vuvuzela	Noun	vuvuzela c (plural vuvuzela's, diminutive vuvuzelaatje n)
+gokken	Noun	gokken
+echt	Noun	echt m (uncountable)
+beslag	Noun	beslag n (plural beslagen, diminutive beslagje n)
+dampen	Noun	dampen
+arts	Noun	arts m (plural artsen, diminutive artsje n, feminine artse)
+sneeuwwit	Noun	sneeuwwit n (plural sneeuwwitten)
+schalen	Noun	schalen
+haken	Noun	haken
+pizza	Noun	pizza f (plural pizza's, diminutive pizzaatje n)
+pest	Noun	pest f (uncountable)
+wolf	Noun	wolf m (plural wolven, diminutive wolfje n, feminine wolvin)
+molen	Noun	molen m (plural molens, diminutive molentje n)
+jong	Noun	jong n (plural jongen, diminutive jonkie n or jongske n)
+promovendus	Noun	promovendus m (plural promovendussen or promovendi, diminutive promovendusje n, feminine promovenda)
+kier	Noun	kier m, f (plural kieren, diminutive kiertje n)
+els	Noun	els m (plural elzen, diminutive elsje n)
+els	Noun	els f (plural elzen, diminutive elsje n)
+rijp	Noun	rijp m (uncountable)
+hel	Noun	hel f (plural hellen, diminutive helletje n)
+hel	Noun	hel ? (plural hellen, diminutive helletje n)
+fint	Noun	fint f (plural finten, diminutive fintje n)
+stralen	Noun	stralen
+kras	Noun	kras m, f (plural krassen, diminutive krasje n)
+nominatief	Noun	nominatief m (plural nominatieven, diminutive nominatiefje n)
+klooien	Noun	klooien
+gat	Noun	gat n (plural gaten, diminutive gaatje n)
+vat	Noun	vat n (plural vaten, diminutive vatje n or vaatje n)
+vat	Noun	vat m (uncountable)
+keten	Noun	keten f (plural ketenen or ketens, diminutive ketentje n)
+keten	Noun	keten
+brus	Noun	brus c (plural brussen, diminutive brusje n)
+pik	Noun	pik c (plural pikken, diminutive pikje n)
+pik	Noun	pik n, m (uncountable)
+tuil	Noun	tuil m (plural tuilen, diminutive tuiltje n)
+seaborgium	Noun	seaborgium n (uncountable)
+el	Noun	el f, m (plural ellen, diminutive elletje n)
+stadion	Noun	stadion n (plural stadions, diminutive stadionnetje n)
+lunch	Noun	lunch m (plural lunchen or lunches, diminutive lunchje n)
+boren	Noun	boren
+ununtrium	Noun	ununtrium n (uncountable)
+begonia	Noun	begonia m (plural begonia's, diminutive begoniaatje n)
+bourgeois	Noun	bourgeois m (plural bourgeois, diminutive bourgeoistje n)
+lila	Noun	lila n (plural lila's, diminutive lilaatje n)
+lila	Noun	lila ? (plural lila's, diminutive lilaatje n)
+reden	Noun	reden f (plural redenen, diminutive redentje n)
+reden	Noun	reden m (plural redens)
+reden	Noun	reden
+adventskalender	Noun	adventskalender m (plural adventskalenders, diminutive adventskalendertje n)
+publiek	Noun	publiek n (plural publieken, diminutive publiekje n)
+dollen	Noun	dollen
+fregat	Noun	fregat n (plural fregatten, diminutive fregatje n)
+kind	Noun	kind n (plural kinderen or kinders, diminutive kindje n or kindertje n or kindeken n or kindelijn n)
+torpedo	Noun	torpedo f, m (plural torpedo's, diminutive torpedootje n)
+stielen	Noun	stielen
+dicht	Noun	dicht n (plural dichten, diminutive dichtje n)
+liberaal	Noun	liberaal m (plural liberalen, diminutive liberaaltje n)
+catechismus	Noun	catechismus m (plural catechismussen)
+economie	Noun	economie f (plural economieën, diminutive economietje n)
+gids	Noun	gids m (plural gidsen, diminutive gidsje n)
+pink	Noun	pink m (plural pinken, diminutive pinkje n)
+hollen	Noun	hollen
+tamp	Noun	tamp m (plural tampen, diminutive tampje n)
+geslacht	Noun	geslacht n (plural geslachten)
+wissen	Noun	wissen
+velo	Noun	velo m (plural velos, diminutive velootje n)
+mis	Noun	mis f (plural missen, diminutive misje n)
+katapult	Noun	katapult m (plural katapulten, diminutive katapultje n)
+Nepalees	Noun	Nepalees m (plural Nepalezen, diminutive Nepaleesje n)
+missen	Noun	missen
+geuren	Noun	geuren
+blad	Noun	blad n (plural bladeren or blaren, diminutive blaadje n)
+blad	Noun	blad n (plural bladen, diminutive blaadje n)
+long	Noun	long c (plural longen, diminutive longetje n)
+ongelijk	Noun	ongelijk n (uncountable)
+dan	Noun	dan c (plural dans)
+banaan	Noun	banaan m, f (plural bananen, diminutive banaantje n)
+mof	Noun	mof f (plural moffen, diminutive mofje n)
+mof	Noun	mof m (plural moffen, diminutive mofje n, feminine moffe)
+decennium	Noun	decennium n (plural decennia or decenniën, diminutive decenniumpje n)
+centimeter	Noun	centimeter m (plural centimeters, diminutive centimetertje n)
+danser	Noun	danser m (plural dansers, diminutive dansertje n, feminine danseres)
+laden	Noun	laden
+mortuarium	Noun	mortuarium n (plural mortuariums or mortuaria, diminutive mortuariumpje n)
+omslag	Noun	omslag m, n (plural omslagen, diminutive omslagje n)
+horde	Noun	horde f (plural horden or hordes, diminutive hordetje n)
+horde	Noun	horde f (plural horden, diminutive hordetje n)
+minaret	Noun	minaret f, m (plural minaretten, diminutive minaretje n)
+urinezuur	Noun	urinezuur n (plural urinezuren, diminutive urinezuurtje n)
+diet	Noun	diet n (plural [please provide], diminutive dietje n)
+karamel	Noun	karamel m (plural karamels, diminutive karamelletje n)
+zwanzer	Noun	zwanzer m (plural zwanzers, diminutive zwanzertje n)
+klaverjassen	Noun	klaverjassen n (uncountable)
+sojaolie	Noun	sojaolie f (plural sojaoliën)
+reagens	Noun	reagens n (plural reagentia, diminutive reagensje n)
+ober	Noun	ober m (plural obers, diminutive obertje n)
+data	Noun	data
+baker	Noun	baker f (plural bakers, diminutive bakertje n)
+stoet	Noun	stoet m (plural stoeten, diminutive stoetje n)
+stoet	Noun	stoet f (plural stoeten, diminutive stoetje n)
+homofiel	Noun	homofiel m, f (plural homofielen, diminutive homofieltje n)
+burger	Noun	burger m (plural burgers, diminutive burgertje n, feminine burgerin)
+burger	Noun	burger m (plural burgers, diminutive burgertje n)
+Russin	Noun	Russin f (plural Russinnen, diminutive Russinnetje n, masculine Rus)
+borgen	Noun	borgen
+halva	Noun	halva f, m (plural halva's, diminutive halvaatje n)
+mokken	Noun	mokken
+volts	Noun	volts
+gissen	Noun	gissen
+trappen	Noun	trappen
+meter	Noun	meter m (plural meters, diminutive metertje n)
+meter	Noun	meter m (plural meters, diminutive metertje n)
+meter	Noun	meter f (plural meters, diminutive metertje n)
+groeven	Noun	groeven
+metabolisme	Noun	metabolisme n (uncountable)
+slippen	Noun	slippen
+gewaad	Noun	gewaad n (plural gewaden, diminutive gewaadje n)
+strepen	Noun	strepen
+reformator	Noun	reformator m (plural reformatoren or reformators, diminutive refomatortje n)
+kiosk	Noun	kiosk f (plural kiosken, diminutive kioskje n)
+tast	Noun	tast m (uncountable)
+premie	Noun	premie f (plural premies, diminutive premietje n)
+dammen	Noun	dammen n (uncountable)
+dammen	Noun	dammen
+koopje	Noun	koopje n (plural koopjes)
+kreuken	Noun	kreuken
+doping	Noun	doping f, m (uncountable)
+ham	Noun	ham f (plural hammen, diminutive hammetje n)
+roti	Noun	roti m (plural roti's, diminutive rotietje n)
+koppen	Noun	koppen
+prof	Noun	prof m (plural proffen, diminutive profje n)
+prof	Noun	prof m (plural profs, diminutive profje n)
+steden	Noun	steden
+gift	Noun	gift f (plural giften, diminutive giftje n)
+rang	Noun	rang m (plural rangen, diminutive rangetje n)
+espen	Noun	espen
+kastanje	Noun	kastanje m (plural kastanjes, diminutive kastanjetje n)
+selfie	Noun	selfie m (plural selfies, diminutive selfietje n)
+bajonet	Noun	bajonet f (plural bajonetten, diminutive bajonetje n)
+ontwerpen	Noun	ontwerpen
+vlak	Noun	vlak n (plural vlakken, diminutive vlakje n)
+vlak	Noun	vlak f (plural vlakken, diminutive vlakje n)
+net	Noun	net n (plural netten, diminutive netje n)
+komedie	Noun	komedie f (plural komedies, diminutive komedietje n)
+testen	Noun	testen
+vocativus	Noun	vocativus m (plural vocativi or vocativussen)
+anker	Noun	anker n (plural ankers, diminutive ankertje n)
+kam	Noun	kam m (plural kammen, diminutive kammetje n)
+vlies	Noun	vlies n (plural vliezen, diminutive vliesje n)
+pil	Noun	pil f (plural pillen, diminutive pilletje n)
+loten	Noun	loten
+boer	Noun	boer m (plural boeren, diminutive boertje n, feminine boerin)
+boer	Noun	boer m (plural boeren, diminutive boertje n)
+verhoren	Noun	verhoren
+veder	Noun	veder c (plural vederen or veders, diminutive vedertje n)
+bastion	Noun	bastion n (plural bastions, diminutive bastionnetje n)
+kraken	Noun	kraken
+frigo	Noun	frigo m (plural frigo's, diminutive frigootje n)
+komma	Noun	komma f (plural komma's, diminutive kommaatje n)
+veren	Noun	veren
+veren	Noun	veren
+leerlooien	Noun	leerlooien n (uncountable)
+winter	Noun	winter m (plural winters, diminutive wintertje n)
+doorsneden	Noun	doorsneden
+copernicium	Noun	copernicium n (uncountable)
+rug	Noun	rug m (plural ruggen, diminutive ruggetje n or rugje n)
+spieren	Noun	spieren
+trots	Noun	trots c (uncountable)
+voor	Noun	voor n (plural voors)
+voor	Noun	voor f (plural voren, diminutive voortje n)
+bekken	Noun	bekken n (plural bekkens, diminutive bekkentje n)
+bekken	Noun	bekken
+kopen	Noun	kopen
+derde	Noun	derde n (plural derden)
+derde	Noun	derde m, f (plural derden)
+brokken	Noun	brokken
+brons	Noun	brons n (uncountable)
+stromen	Noun	stromen
+juli	Noun	juli m (plural juli's, diminutive julietje n)
+wateren	Noun	wateren
+casus	Noun	casus m (plural casussen or casus, diminutive casusje n)
+moor	Noun	moor m (plural moren, diminutive moortje n)
+rollen	Noun	rollen
+zetten	Noun	zetten
+stalen	Noun	stalen
+bees	Noun	bees ? (plural [please provide], diminutive bezeke n)
+inslag	Noun	inslag m (plural inslagen, diminutive inslagje n)
+barium	Noun	barium n (uncountable)
+paus	Noun	paus m (plural pausen, diminutive pausje n)
+getto	Noun	getto n (plural getto's, diminutive gettootje n)
+ultimatum	Noun	ultimatum n (plural ultimatums, diminutive ultimatumpje n)
+toetsen	Noun	toetsen
+kleden	Noun	kleden
+recensent	Noun	recensent m (plural recensenten, diminutive recensentje n)
+lappen	Noun	lappen
+fans	Noun	fans
+geklad	Noun	geklad n (uncountable)
+jodium	Noun	jodium n (uncountable)
+cricket	Noun	cricket n (uncountable)
+water	Noun	water n (plural waters or wateren, diminutive watertje n)
+brand	Noun	brand m (plural branden, diminutive brandje n)
+studente	Noun	studente f (plural studentes, masculine student)
+medley	Noun	medley m (plural medleys, diminutive medleytje n)
+hemelen	Noun	hemelen
+dag	Noun	dag m (plural dagen, diminutive dagje n or daagje n)
+dag	Noun	dag f (plural daggen, diminutive dagje n)
+web	Noun	web n (plural webben, diminutive webje n)
+link	Noun	link m (plural links, diminutive linkje n)
+gebeden	Noun	gebeden
+bef	Noun	bef f (plural beffen, diminutive befje n)
+bef	Noun	bef f (plural beffen, diminutive befje n)
+westen	Noun	westen n (uncountable)
+ons	Noun	ons n (plural onsen or onzen, diminutive onsje n)
+bizon	Noun	bizon m (plural bizons, diminutive bizonnetje n)
+hamer	Noun	hamer m (plural hamers, diminutive hamertje n)
+schokken	Noun	schokken
+manifest	Noun	manifest n (plural manifesten, diminutive manifestje n)
+volks	Noun	volks
+kletsen	Noun	kletsen
+lift	Noun	lift m (plural liften, diminutive liftje n)
+radicaal	Noun	radicaal m (plural radicalen, diminutive radicaaltje n)
+kool	Noun	kool f (plural kolen, diminutive kooltje n)
+kool	Noun	kool f (plural kolen, diminutive kooltje n)
+stelen	Noun	stelen
+unbibium	Noun	unbibium n (uncountable)
+sortering	Noun	sortering f (plural sorteringen, diminutive sorterinkje n)
+kelner	Noun	kelner m (plural kelners, diminutive kelnertje n, feminine kelnerin or serveerster)
+los	Noun	los m (plural lossen, diminutive losje n)
+calcium	Noun	calcium n (uncountable)
+promethium	Noun	promethium n (uncountable)
+paprika	Noun	paprika f (plural paprika's, diminutive paprikaatje n)
+plakken	Noun	plakken
+emmer	Noun	emmer m (plural emmers, diminutive emmertje n)
+kof	Noun	kof f (plural koffen, diminutive kofje n)
+jurist	Noun	jurist m (plural juristen, diminutive juristje n)
+october	Noun	october m (plural octobers, diminutive octobertje n)
+Surinamer	Noun	Surinamer m (plural Surinamers, diminutive Surinamertje n, feminine Surinaamse)
+uranium	Noun	uranium n (uncountable)
+waar	Noun	waar f (plural waren)
+interval	Noun	interval n (plural intervallen, diminutive intervalletje n)
+impuls	Noun	impuls m (plural impulsen, diminutive impulsje n)
+territorium	Noun	territorium n (plural territoria or territoriums)
+gymnast	Noun	gymnast m (plural gymnasten, diminutive gymnastje n, feminine gymnaste)
+alligator	Noun	alligator m (plural alligators, diminutive alligatortje n)
+vellen	Noun	vellen
+term	Noun	term m (plural termen, diminutive termpje n)
+smaden	Noun	smaden
+Higgsboson	Noun	Higgsboson n (plural Higgsbosonen, diminutive Higgsbosonnetje n)
+bannen	Noun	bannen
+filet	Noun	filet m, n (plural filets, diminutive filetje n)
+overleven	Noun	overleven n (uncountable)
+mussen	Noun	mussen
+straf	Noun	straf f (plural straffen, diminutive strafje n)
+wiek	Noun	wiek f (plural wieken, diminutive wiekje n)
+zoet	Noun	zoet n (uncountable)
+zoet	Noun	zoet n (uncountable)
+daas	Noun	daas m (plural dazen, diminutive daasje n)
+balans	Noun	balans f (plural balansen, diminutive balansje n)
+tol	Noun	tol m (plural tollen, diminutive tolletje n)
+tol	Noun	tol m (plural tollen)
+kieren	Noun	kieren
+kaon	Noun	kaon n (plural kaonen)
+spoelen	Noun	spoelen
+Big Mac	Noun	Big Mac m (plural Big Macs, diminutive Big Macje n)
+fasen	Noun	fasen
+lap	Noun	lap m (plural lappen, diminutive lapje n)
+orden	Noun	orden
+judoka	Noun	judoka f, m (plural judoka's, diminutive judokaatje n)
+platina	Noun	platina n (uncountable)
+transformator	Noun	transformator m (plural transformatoren or transformators, diminutive transformatortje n)
+tag	Noun	tag n (plural tags, diminutive tagje n)
+damast	Noun	damast n (plural damasten)
+miauwen	Noun	miauwen
+bont	Noun	bont n (uncountable, diminutive bontje n)
+neuron	Noun	neuron n (plural neuronen or neurons)
+invalide	Noun	invalide c (plural invaliden, diminutive invalidetje n)
+transfer	Noun	transfer m, n (plural transfers, diminutive transfertje n)
+putten	Noun	putten
+nummer	Noun	nummer n (plural nummers, diminutive nummertje n)
+blaren	Noun	blaren
+blaren	Noun	blaren
+trompet	Noun	trompet f (plural trompetten, diminutive trompetje n)
+pan	Noun	pan f (plural pannen, diminutive pannetje n)
+beuken	Noun	beuken
+flamingo	Noun	flamingo m (plural flamingo's, diminutive flamingootje n)
+charme	Noun	charme m (plural charmes)
+briljant	Noun	briljant m (plural briljanten, diminutive briljantje n)
+laken	Noun	laken n (plural lakens, diminutive lakentje n)
+laken	Noun	laken
+heg	Noun	heg f (plural heggen, diminutive hegje n)
+hiel	Noun	hiel m (plural hielen, diminutive hieltje n)
+gein	Noun	gein m (uncountable, diminutive geintje n)
+wippen	Noun	wippen
+klif	Noun	klif n (plural kliffen, diminutive klifje n)
+amulet	Noun	amulet f, m (plural amuletten, diminutive amuletje n)
+bit	Noun	bit n (plural bitten, diminutive bitje n)
+bit	Noun	bit m (plural bits, diminutive bitje n)
+mat	Noun	mat m, f (plural matten, diminutive matje n)
+mat	Noun	mat n (plural matten)
+huiden	Noun	huiden
+oordelen	Noun	oordelen
+base	Noun	base f (plural basen, diminutive basetje n)
+coach	Noun	coach m (plural coaches or coachen, diminutive coachje n)
+nevel	Noun	nevel m (plural nevelen or nevels, diminutive neveltje n)
+buiten	Noun	buiten n (plural buitens, diminutive buitentje n)
+doven	Noun	doven
+rijk	Noun	rijk n (plural rijken, diminutive rijkje n)
+wan	Noun	wan f, m (plural wannen, diminutive wannetje n)
+stel	Noun	stel n (plural stellen, diminutive stelletje n)
+reis	Noun	reis f, m (plural reizen, diminutive reisje n)
+inkomen	Noun	inkomen n (plural inkomens, diminutive inkomentje n)
+strategie	Noun	strategie f (plural strategieën, diminutive strategietje n)
+sneeuwballen	Noun	sneeuwballen
+monitor	Noun	monitor m (plural monitors or monitorren, diminutive monitortje n)
+raster	Noun	raster n (plural rasters, diminutive rastertje n)
+drum	Noun	drum m (plural drums, diminutive drummetje n)
+aften	Noun	aften
+diamanten	Noun	diamanten
+wort	Noun	wort n (uncountable)
+schuren	Noun	schuren
+ridder	Noun	ridder m (plural ridders, diminutive riddertje n)
+tronen	Noun	tronen
+ernst	Noun	ernst m (uncountable)
+hemelsblauw	Noun	hemelsblauw n (uncountable)
+analemma	Noun	analemma n (plural analemma's, diminutive analemmaatje n)
+impala	Noun	impala m (plural impala's, diminutive impalaatje n)
+matten	Noun	matten
+matten	Noun	matten
+examen	Noun	examen n (plural examens or examina, diminutive examentje n)
+kapen	Noun	kapen
+house	Noun	house m (uncountable)
+boom	Noun	boom m (plural bomen, diminutive boompje n)
+boom	Noun	boom m (plural booms, diminutive boompje n)
+eerder	Noun	eerder m (plural eerders, diminutive eerdertje n)
+eerder	Noun	eerder m (plural eerders, diminutive eerdertje n)
+dorst	Noun	dorst m (uncountable)
+circuit	Noun	circuit n (plural circuits, diminutive circuitje n)
+vermoeden	Noun	vermoeden n (plural vermoedens)
+transparant	Noun	transparant n (plural transparanten, diminutive transparantje n)
+alg	Noun	alg f (plural algen, diminutive algje n)
+reuma	Noun	reuma n (plural reuma's, diminutive reumaatje n)
+klok	Noun	klok f (plural klokken, diminutive klokje n)
+es	Noun	es m (plural essen, diminutive esje n)
+es	Noun	es m (plural essen, diminutive esje n)
+mam	Noun	mam f (plural mammen, diminutive mammetje n)
+lente	Noun	lente f (plural lentes, diminutive lentetje n)
+spellen	Noun	spellen
+kont	Noun	kont m (plural konten, diminutive kontje n)
+gestalten	Noun	gestalten
+schaatsen	Noun	schaatsen
+kneuzen	Noun	kneuzen
+aja	Noun	aja f (plural aja's, diminutive ajaatje n)
+joker	Noun	joker m (plural jokers, diminutive jokertje n)
+meester	Noun	meester m (plural meesters, diminutive meestertje n)
+pas	Noun	pas m (plural passen, diminutive pasje n)
+kruk	Noun	kruk f (plural krukken, diminutive krukje n)
+klarinet	Noun	klarinet f (plural klarinetten, diminutive klarinetje n)
+pa	Noun	pa m (plural pa's, diminutive paatje n)
+juwelen	Noun	juwelen
+onderwerpen	Noun	onderwerpen
+diploma	Noun	diploma n (plural diploma's, diminutive diplomatje n or diplomaatje n)
+Welsh	Noun	Welsh n (uncountable)
+nihilisme	Noun	nihilisme n (plural nihilismes or nihilismes, diminutive nihilismethe n)
+juut	Noun	juut m (plural juten, diminutive juutje n)
+bate	Noun	bate
+dood	Noun	dood m (uncountable)
+krullen	Noun	krullen
+lithium	Noun	lithium n (uncountable)
+remmen	Noun	remmen
+mees	Noun	mees f (plural mezen, diminutive meesje n)
+ster	Noun	ster f (plural sterren, diminutive sterretje n)
+leven	Noun	leven n (plural levens, diminutive leventje n)
+ressource	Noun	ressource f (plural ressources)
+wonden	Noun	wonden
+establishment	Noun	establishment n (plural establishments, diminutive establishmentje n)
+verbonden	Noun	verbonden
+polis	Noun	polis f (plural polissen, diminutive polisje n)
+cast	Noun	cast m (plural casts, diminutive castje n)
+rok	Noun	rok m (plural rokken, diminutive rokje n)
+rok	Noun	rok m (plural rokken, diminutive rokje n)
+kieken	Noun	kieken n (plural kiekens, diminutive kiekentje n)
+kieken	Noun	kieken
+kieken	Noun	kieken
+smak	Noun	smak c (plural smakken, diminutive smakje n)
+kadet	Noun	kadet m (plural kadetten, diminutive kadetje n)
+klus	Noun	klus m (plural klussen, diminutive klusje n)
+laboratorium	Noun	laboratorium n (plural laboratoria, diminutive laboratoriumpje n)
+slee	Noun	slee f (plural sleeën, diminutive sleetje n)
+slee	Noun	slee m (plural sleeën, diminutive sleetje n)
+raja	Noun	raja m (plural raja's, diminutive rajaatje n)
+mangaan	Noun	mangaan n (uncountable)
+dichten	Noun	dichten
+borium	Noun	borium n (uncountable)
+apostrof	Noun	apostrof f, m (plural apostrofs or apostroffen, diminutive apostrofje n)
+hert	Noun	hert n (plural herten, diminutive hertje n)
+Katangees	Noun	Katangees m (plural Katangezen, diminutive Katangeesje n)
+design	Noun	design n (plural designs)
+lopen	Noun	lopen ? (uncountable, diminutive loopje n)
+lopen	Noun	lopen
+tandpasta	Noun	tandpasta m (plural tandpasta's, diminutive tandpastaatje n)
+kompas	Noun	kompas n (plural kompassen, diminutive kompasje n)
+jatten	Noun	jatten pl (plurale tantum)
+slip	Noun	slip f (plural slips, diminutive slipje n)
+slip	Noun	slip f (plural slips, diminutive slipje n)
+slip	Noun	slip m (uncountable)
+tyfus	Noun	tyfus m (uncountable)
+promille	Noun	promille n (uncountable)
+spa	Noun	spa m (plural spaden, diminutive spaatje n)
+spa	Noun	spa m (plural spa's, diminutive spaatje n)
+quaestor	Noun	quaestor m (plural quaestoren or quaestors or quaestores, diminutive quaestortje n, feminine quaestrix)
+tas	Noun	tas m
+tas	Noun	tas f (plural tassen, diminutive tasje n)
+tas	Noun	tas f (plural tassen, diminutive tasje n)
+ramp	Noun	ramp f (plural rampen, diminutive rampje n)
+ramp	Noun	ramp f (plural rampen, diminutive rampje n)
+ramp	Noun	ramp m (plural ramps, diminutive rampje n)
+hal	Noun	hal f (plural hallen, diminutive halletje n)
+hal	Noun	hal n (plural hallen, diminutive halletje n)
+muren	Noun	muren
+microbiologie	Noun	microbiologie f (uncountable)
+eb	Noun	eb n (uncountable)
+pad	Noun	pad n (plural paden, diminutive paadje n)
+pad	Noun	pad f (plural padden, diminutive padje n)
+diesel	Noun	diesel m (uncountable)
+dagen	Noun	dagen
+bieren	Noun	bieren
+front	Noun	front n (plural fronten, diminutive frontje n)
+gevoelen	Noun	gevoelen n (plural gevoelens, diminutive gevoelentje n)
+benen	Noun	benen
+boeken	Noun	boeken
+oma	Noun	oma f (plural oma's, diminutive omaatje n)
+pipo	Noun	pipo m (plural pipo's, diminutive pipootje n)
+werven	Noun	werven
+omroepen	Noun	omroepen
+rokken	Noun	rokken n, m (plural rokkens, diminutive rokkentje n)
+rokken	Noun	rokken
+transseksueel	Noun	transseksueel c (plural transseksuelen, diminutive transseksueeltje n)
+zet	Noun	zet c (plural zetten, diminutive zetje n)
+volk	Noun	volk n (plural volken or volkeren, diminutive volkje n)
+uiterlijk	Noun	uiterlijk n (plural uiterlijken, diminutive uiterlijkje n)
+list	Noun	list f (plural listen, diminutive listje n)
+gerecht	Noun	gerecht n (plural gerechten, diminutive gerechtje n)
+gulden	Noun	gulden m (plural guldens, diminutive guldentje n)
+fles	Noun	fles f (plural flessen, diminutive flesje n)
+haven	Noun	haven f (plural havens, diminutive haventje n)
+commilito	Noun	commilito m (plural commilito's, diminutive commilitootje n)
+drab	Noun	drab f, n (uncountable)
+las	Noun	las c (plural lassen, diminutive lasje n)
+referendums	Noun	referendums
+pap	Noun	pap m (plural pappen, diminutive papje n)
+decimeter	Noun	decimeter m (plural decimeters, diminutive decimetertje n)
+email	Noun	email n (uncountable)
+appel	Noun	appel m (plural appels or appelen, diminutive appeltje n)
+appel	Noun	appel n (plural appels, diminutive appelletje n)
+pauken	Noun	pauken
+anagram	Noun	anagram n (plural anagrammen, diminutive anagrammetje n)
+component	Noun	component f, m (plural componenten, diminutive componentje n)
+rubidium	Noun	rubidium n (uncountable)
+detail	Noun	detail n (plural details, diminutive detailtje n)
+adel	Noun	adel m (uncountable)
+kut	Noun	kut f (plural kutten, diminutive kutje n)
+wig	Noun	wig f (plural wiggen, diminutive wiggetje n)
+tragedie	Noun	tragedie f (plural tragediën or tragedies, diminutive tragedietje n)
+wannen	Noun	wannen
+aankloppen	Noun	aankloppen
+bus	Noun	bus m (plural bussen, diminutive busje n)
+bus	Noun	bus f (plural bussen, diminutive busje n)
+striemen	Noun	striemen
+tumor	Noun	tumor m (plural tumoren, diminutive tumortje n)
+vanadium	Noun	vanadium n (uncountable)
+peilen	Noun	peilen
+osmium	Noun	osmium n (uncountable)
+cerium	Noun	cerium n (uncountable)
+lucifer	Noun	lucifer m (plural lucifers, diminutive lucifertje n)
+ensemble	Noun	ensemble n (plural ensembles, diminutive ensembletje n)
+Maltese	Noun	Maltese f (plural Maltesen, diminutive Malteesje n, masculine Maltees)
+balkon	Noun	balkon n (plural balkons, diminutive balkonnetje n)
+cyaan	Noun	cyaan n (uncountable)
+party	Noun	party f, m (plural party's, diminutive party'tje n)
+lik	Noun	lik m (plural likken, diminutive likje n)
+lik	Noun	lik f (plural likken, diminutive likje n)
+fiskaal	Noun	fiskaal m (plural fiskalen, diminutive fiskaaltje n)
+stuiten	Noun	stuiten
+strip	Noun	strip m (plural strips, diminutive stripje n)
+listen	Noun	listen
+indium	Noun	indium n (uncountable)
+hip-hop	Noun	hip-hop m (uncountable)
+vrijgezel	Noun	vrijgezel m (plural vrijgezellen, diminutive vrijgezelletje n)
+agent	Noun	agent m (plural agenten, diminutive agentje n)
+imperativus	Noun	imperativus m (plural imperativi or imperativussen, diminutive imperativusje n)
+element	Noun	element n (plural elementen, diminutive elementje n)
+kabinetje	Noun	kabinetje n (plural kabinetjes)
+cel	Noun	cel f (plural cellen, diminutive celletje n)
+wantrouwen	Noun	wantrouwen n (uncountable)
+testosteron	Noun	testosteron m (uncountable)
+kalle	Noun	kalle f (plural kalles or kallen, diminutive kalletje n)
+kamp	Noun	kamp n (plural kampen, diminutive kampje n)
+kamp	Noun	kamp m (plural kampen, diminutive kampje n)
+bos	Noun	bos n (plural bossen, diminutive bosje n)
+hotel	Noun	hotel n (plural hotels, diminutive hotelletje n)
+dito	Noun	dito n (plural dito's)
+hemelblauw	Noun	hemelblauw n (uncountable)
+klasje	Noun	klasje n (plural klasjes)
+prik	Noun	prik f (plural prikken, diminutive prikje n)
+veto	Noun	veto n (plural veto's, diminutive vetootje n)
+pikken	Noun	pikken
+vossen	Noun	vossen
+groeten	Noun	groeten
+gutsen	Noun	gutsen
+civiel	Noun	civiel n (uncountable)
+paljas	Noun	paljas m (plural paljassen, diminutive paljasje n)
+hol	Noun	hol n (plural holen or hollen, diminutive holletje n)
+hol	Noun	hol m (plural hollen, diminutive holletje n)
+hol	Noun	hol f (plural hollen, diminutive holletje n)
+knippen	Noun	knippen
+grillen	Noun	grillen
+bruin	Noun	bruin n (uncountable)
+bruin	Noun	bruin c (uncountable)
+Westen	Noun	Westen n (uncountable)
+ångström	Noun	ångström ? (plural [please provide], diminutive [please provide])
+mos	Noun	mos n (plural mossen, diminutive mosje n)
+pulsar	Noun	pulsar c (plural pulsars)
+kimono	Noun	kimono m (plural kimono's, diminutive kimonootje n)
+indicativus	Noun	indicativus m (plural indicativi or indicativussen, diminutive indicativusje n)
+strand	Noun	strand n (plural stranden, diminutive strandje n)
+nagel	Noun	nagel m (plural nagels, diminutive nageltje n)
+olifant	Noun	olifant m (plural olifanten, diminutive olifantje n)
+keel	Noun	keel f (plural kelen, diminutive keeltje n)
+keel	Noun	keel n (uncountable)
+slab	Noun	slab f (plural slabben, diminutive slabbetje n)
+dolken	Noun	dolken
+coma	Noun	coma n (plural coma's)
+coma	Noun	coma f (plural coma's, diminutive comaatje n)
+loof	Noun	loof n (uncountable)
+broeder	Noun	broeder m (plural broeders, diminutive broedertje n)
+berliner	Noun	berliner m (plural berliners, diminutive berlinertje n)
+tennisracket	Noun	tennisracket m (plural tennisrackets, diminutive tennisracketje n)
+kop	Noun	kop m (plural koppen, diminutive kopje n)
+revers	Noun	revers m (plural revers)
+klas	Noun	klas f (plural klassen, diminutive klasje n)
+gras	Noun	gras n (plural grassen, diminutive grasje n)
+sluizen	Noun	sluizen
+magenta	Noun	magenta n (plural magenta's)
+bakstenen	Noun	bakstenen
+alternatief	Noun	alternatief n (plural alternatieven, diminutive alternatiefje n)
+vleien	Noun	vleien
+score	Noun	score m (plural scores, diminutive scoretje n)
+vair	Noun	vair n (uncountable)
+heli	Noun	heli m (plural heli's, diminutive helietje n)
+stallen	Noun	stallen
+kollen	Noun	kollen
+vrede	Noun	vrede f (uncountable)
+vlechten	Noun	vlechten
+feniks	Noun	feniks m (plural feniksen, diminutive feniksje n)
+navel	Noun	navel m (plural navels, diminutive naveltje n)
+ras	Noun	ras n (plural rassen, diminutive rasje n)
+kippen	Noun	kippen
+hecatombe	Noun	hecatombe f (plural hecatomben or hecatombes)
+olijfgroen	Noun	olijfgroen n (uncountable)
+bladeren	Noun	bladeren
+boring	Noun	boring f (plural boringen, diminutive borinkje n)
+hond	Noun	hond m (plural honden, diminutive hondje n)
+hond	Noun	hond n (plural honden, diminutive hondje n)
+pedel	Noun	pedel m (plural pedellen or pedels, diminutive pedelletje n)
+modem	Noun	modem m, n (plural modems, diminutive modempje n)
+dille	Noun	dille f (uncountable)
+leden	Noun	leden
+lak	Noun	lak m, n (plural lakken, diminutive lakje n)
+eisen	Noun	eisen
+smet	Noun	smet c (plural smetten, diminutive smetje n)
+foto	Noun	foto f (plural foto's, diminutive fotootje n)
+afstand	Noun	afstand m (plural afstanden, diminutive afstandje n)
+stranden	Noun	stranden
+slak	Noun	slak f, m (plural slakken, diminutive slakje n)
+regens	Noun	regens
+beseffen	Noun	beseffen
+zalven	Noun	zalven
+lijfeigen	Noun	lijfeigen m (plural lijfeigenen, diminutive lijfeigentje n)
+middelen	Noun	middelen
+pin	Noun	pin f (plural pinnen, diminutive pinnetje n)
+rap	Noun	rap m (uncountable)
+bars	Noun	bars
+verlies	Noun	verlies n (plural verliezen, diminutive verliesje n)
+lobbyist	Noun	lobbyist m (plural lobbyisten, diminutive lobbyistje n)
+dilettant	Noun	dilettant m (plural dilettanten, diminutive dilettantje n)
+mantel	Noun	mantel m (plural mantels, diminutive manteltje n)
+balk	Noun	balk m (plural balken, diminutive balkje n)
+gorilla	Noun	gorilla m (plural gorilla's, diminutive gorillaatje n)
+bellen	Noun	bellen
+manier	Noun	manier f (plural manieren, diminutive maniertje n)
+krijgen	Noun	krijgen
+camping	Noun	camping m (plural campings, diminutive campinkje n)
+luchten	Noun	luchten
+ent	Noun	ent m (plural enten, diminutive entje n)
+cyclus	Noun	cyclus m (plural cycli or cyclussen, diminutive cyclusje n)
+gezegen	Noun	gezegen n (uncountable)
+voegen	Noun	voegen
+centime	Noun	centime m (plural centimes)
+fabel	Noun	fabel f, m (plural fabels, diminutive fabeltje n)
+kaste	Noun	kaste f (plural kasten, diminutive kastetje n)
+fort	Noun	fort n (plural forten, diminutive fortje n)
+meer	Noun	meer n (plural meren, diminutive meertje n)
+kazen	Noun	kazen
+mars	Noun	mars m (plural marsen, diminutive marsje n)
+mars	Noun	mars f (plural marsen, diminutive marsje n)
+kaart	Noun	kaart f (plural kaarten, diminutive kaartje n)
+proeven	Noun	proeven
+rhodium	Noun	rhodium n (uncountable)
+energie	Noun	energie f (plural energieën)
+baaien	Noun	baaien
+indigo	Noun	indigo n (plural indigo's)
+baten	Noun	baten
+bassen	Noun	bassen
+lichten	Noun	lichten
+tranen	Noun	tranen
+florist	Noun	florist m (plural floristen, diminutive floristje n)
+medicus	Noun	medicus m (plural medici, diminutive medicusje n, feminine medica)
+thorium	Noun	thorium n (uncountable)
+getuigen	Noun	getuigen
+flap	Noun	flap m (plural flappen, diminutive flapje n)
+potas	Noun	potas f, m (uncountable)
+das	Noun	das m (plural dassen, diminutive dasje n)
+das	Noun	das f (plural dassen, diminutive dasje n)
+afwassen	Noun	afwassen
+causatief	Noun	causatief n, m (plural causatieven, diminutive causatiefje n)
+deuterium	Noun	deuterium n (uncountable)
+kram	Noun	kram c (plural krammen, diminutive krammetje n)
+ritten	Noun	ritten
+attest	Noun	attest n (plural attesten, diminutive attestje n)
+americium	Noun	americium n (uncountable)
+rune	Noun	rune f (plural runen, diminutive runetje n)
+waarheidsgetrouw	Noun	waarheidsgetrouw (comparative waarheidsgetrouwer, superlative waarheidsgetrouwst)
+antilope	Noun	antilope f (plural antilopen or antilopes, diminutive antiloopje n)
+nap	Noun	nap m (plural nappen, diminutive napje n)
+succulent	Noun	succulent m (plural succulenten, diminutive succulentje n)
+bob	Noun	bob m (plural bobs, diminutive bobje n)
+gojims	Noun	gojims
+wielen	Noun	wielen
+feit	Noun	feit n (plural feiten, diminutive feitje n)
+fricatief	Noun	fricatief m (plural fricatieven, diminutive fricatiefje n)
+triton	Noun	triton m (plural tritons)
+wad	Noun	wad n (plural wadden, diminutive wadje n)
+myriade	Noun	myriade f (plural myriaden)
+chirurg	Noun	chirurg m (plural chirurgen, diminutive chirurgje n)
+rokade	Noun	rokade f (uncountable)
+klutsen	Noun	klutsen
+klokken	Noun	klokken
+mus	Noun	mus f, m (plural mussen, diminutive musje n)
+harden	Noun	harden
+regen	Noun	regen m (plural regens, diminutive regentje n)
+buurten	Noun	buurten
+wanen	Noun	wanen
+Chinees	Noun	Chinees m, n (plural Chinezen, diminutive Chineesje n, feminine Chinese)
+neonatus	Noun	neonatus m (plural neonatussen or neonati, diminutive neonatusje n)
+les	Noun	les f (plural lessen, diminutive lesje n)
+aken	Noun	aken
+livermorium	Noun	livermorium n (uncountable)
+omelet	Noun	omelet f (plural omeletten, diminutive omeletje n)
+flater	Noun	flater m (plural flaters, diminutive flatertje n)
+nieten	Noun	nieten
+generaal	Noun	generaal m (plural generaals, diminutive generaaltje n)
+melodie	Noun	melodie f (plural melodieën, diminutive melodietje n)
+renium	Noun	renium n (uncountable)
+ivoren	Noun	ivoren
+ar	Noun	ar m, f (plural arren, diminutive arretje n)
+impetigo	Noun	impetigo m (uncountable)
+nes	Noun	nes f (plural nessen, diminutive nesje n)
+kitten	Noun	kitten m (plural kittens, diminutive kittentje n)
+kitten	Noun	kitten
+soa	Noun	soa f (plural soa's, diminutive soa'tje n)
+augustus	Noun	augustus m (uncountable)
+loe	Noun	loe ? (plural [please provide], diminutive [please provide])
+voetballen	Noun	voetballen
+porno	Noun	porno f (uncountable)
+fiche	Noun	fiche f (plural fiches or fichen)
+wille	Noun	wille
+ununpentium	Noun	ununpentium n (uncountable)
+song	Noun	song m (plural songs)
+dwaas	Noun	dwaas m (plural dwazen, diminutive dwaasje n, feminine dwazin)
+pauk	Noun	pauk m, f (plural pauken, diminutive paukje n)
+vin	Noun	vin f (plural vinnen, diminutive vinnetje n)
+kobalt	Noun	kobalt n (uncountable)
+pedofiel	Noun	pedofiel m (plural pedofielen, diminutive pedofieltje n)
+lawrencium	Noun	lawrencium n (uncountable)
+geheugen	Noun	geheugen n (plural geheugens, diminutive geheugentje n)
+fabrikant	Noun	fabrikant m (plural fabrikanten, diminutive fabrikantje n)
+gilde	Noun	gilde n, f (plural gilden or gildes)
+prikken	Noun	prikken
+neurochirurg	Noun	neurochirurg m (plural neurochirurgen, diminutive neurochirurgje n)
+animo	Noun	animo m, n (uncountable)
+makak	Noun	makak m (plural makakken, diminutive makakje n)
+leder	Noun	leder n (uncountable, diminutive ledertje n)
+cello	Noun	cello m (plural cello's, diminutive cellootje n)
+kiel	Noun	kiel m (plural kielen, diminutive kieltje n)
+dot	Noun	dot m, f (plural dotten, diminutive dotje n)
+stop	Noun	stop m (plural stoppen, diminutive stopje n)
+heterofiel	Noun	heterofiel m (plural heterofielen, diminutive heterofieltje n)
+station	Noun	station n (plural stations, diminutive stationnetje n)
+veer	Noun	veer c (plural veren, diminutive veertje n)
+veer	Noun	veer n (plural veren, diminutive veertje n)
+ijl	Noun	ijl f (uncountable)
+föhn	Noun	föhn m (plural föhns, diminutive föhntje n)
+dia	Noun	dia m (plural dia's, diminutive diaatje n)
+beken	Noun	beken
+sandaal	Noun	sandaal f (plural sandalen, diminutive sandaaltje n)
+idee	Noun	idee n (plural ideeën, diminutive ideetje n)
+hinde	Noun	hinde f (plural hindes, diminutive hindetje n)
+tip	Noun	tip m (plural tippen, diminutive tipje n)
+tip	Noun	tip m (plural tips, diminutive tipje n)
+visser	Noun	visser m (plural vissers, diminutive vissertje n)
+sponsor	Noun	sponsor m, f (plural sponsors or sponsoren, diminutive sponsortje n)
+afvallen	Noun	afvallen
+meiden	Noun	meiden
+eind	Noun	eind n (plural einden, diminutive eindje n)
+libretto	Noun	libretto m (plural libretto's or libretti, diminutive librettootje n)
+tapes	Noun	tapes
+initiaal	Noun	initiaal f, m (plural initialen, diminutive initiaaltje n)
+mendelevium	Noun	mendelevium n (uncountable)
+halo	Noun	halo m (plural halo's, diminutive halootje n)
+gillen	Noun	gillen
+genre	Noun	genre n (plural genres)
+scandium	Noun	scandium n (uncountable)
+tölt	Noun	tölt m (uncountable)
+kwaad	Noun	kwaad n (plural kwaden)
+internet	Noun	internet n (uncountable)
+slof	Noun	slof m (plural sloffen, diminutive slofje n)
+si	Noun	si m, f (plural si's, diminutive sietje n)
+recept	Noun	recept n (plural recepten, diminutive receptje n)
+basilicum	Noun	basilicum n (plural basilicums, diminutive basilicumpje n)
+pek	Noun	pek m (uncountable)
+taxi	Noun	taxi m (plural taxi's, diminutive taxietje n)
+marineblauw	Noun	marineblauw n (uncountable)
+mollen	Noun	mollen
+millennium	Noun	millennium n (plural millennia, diminutive milleniumtje n)
+kiezen	Noun	kiezen
+industrieel	Noun	industrieel m (plural industriëlen, diminutive industrieeltje n)
+guirlande	Noun	guirlande c (plural guirlandes, diminutive guirlandetje n)
+afgang	Noun	afgang m (plural afgangen, diminutive afgangetje n)
+cocktail	Noun	cocktail m (plural cocktails, diminutive cocktailtje n)
+roven	Noun	roven
+scheefhuren	Noun	scheefhuren n (uncountable)
+dreunen	Noun	dreunen
+edik	Noun	edik m (plural edikken, diminutive edikje n)
+spin	Noun	spin f (plural spinnen, diminutive spinnetje n)
+naakt	Noun	naakt n (plural naakten, diminutive naaktje n or nakie n)
+tendens	Noun	tendens f, m (plural tendensen, diminutive tendensje n)
+dativus	Noun	dativus m (plural dativi or dativussen)
+terzine	Noun	terzine f (plural terzinen)
+wild	Noun	wild n (uncountable)
+krommen	Noun	krommen
+boeren	Noun	boeren
+einsteinium	Noun	einsteinium n (uncountable)
+ellips	Noun	ellips f (plural ellipsen, diminutive ellipsje n)
+triftong	Noun	triftong m (plural triftongen, diminutive triftongetje n)
+gelaten	Noun	gelaten
+beg	Noun	beg m (plural beggen)
+holmium	Noun	holmium n (uncountable)
+wil	Noun	wil m (uncountable, diminutive willetje n)
+geeuwen	Noun	geeuwen
+bard	Noun	bard m (plural barden)
+peer	Noun	peer f (plural peren, diminutive peertje n)
+vooruitblikken	Noun	vooruitblikken
+tut	Noun	tut f (plural tutten, diminutive tutje n)
+knot	Noun	knot f, m (plural knotten, diminutive knotje n)
+knot	Noun	knot f, m (plural knotten, diminutive knotje n)
+feesten	Noun	feesten
+unbinilium	Noun	unbinilium n (uncountable)
+tra	Noun	tra c (plural tra's, diminutive traatje n)
+have	Noun	have f (plural haven)
+boor	Noun	boor f (plural boren, diminutive boortje n)
+boor	Noun	boor n (uncountable)
+immigrant	Noun	immigrant m (plural immigranten, diminutive immigrantje n, feminine immigrante)
+bomma	Noun	bomma f (plural bomma's, diminutive bommaatje n)
+gips	Noun	gips n (uncountable)
+kruiden	Noun	kruiden
+festivalisering	Noun	festivalisering f (uncountable)
+stille	Noun	stille m, f (plural stillen)
+trog	Noun	trog m (plural troggen, diminutive trogje n)
+schone	Noun	schone m, f (plural schonen, diminutive schoontje n)
+fagottist	Noun	fagottist m (plural fagottisten, diminutive fagottistje n)
+knechten	Noun	knechten
+mier	Noun	mier f (plural mieren, diminutive miertje n)
+part	Noun	part n (plural parten, diminutive partje n)
+tint	Noun	tint c (plural tinten, diminutive tintje n)
+loeren	Noun	loeren
+misandrie	Noun	misandrie f (uncountable)
+motor	Noun	motor m (plural motoren or motors, diminutive motortje n)
+paradox	Noun	paradox m (plural paradoxen, diminutive paradoxje n)
+vallen	Noun	vallen
+bon	Noun	bon m (plural bonnen or bons, diminutive bonnetje n)
+artikel	Noun	artikel n (plural artikelen or artikels, diminutive artikeltje n)
+blein	Noun	blein f (plural bleinen, diminutive bleintje n)
+zirkonium	Noun	zirkonium n (uncountable)
+kurkuma	Noun	kurkuma m (uncountable)
+blasfemie	Noun	blasfemie f (plural blasfemieën)
+mandag	Noun	mandag m (plural mandaggen, diminutive mandagje n)
+Oudnoors	Noun	Oudnoors n
+schetsen	Noun	schetsen
+kraker	Noun	kraker m (plural krakers, diminutive krakertje n)
+merken	Noun	merken
+beduid	Noun	beduid n (uncountable)
+dadel	Noun	dadel m, f (plural dadels, diminutive dadeltje n)
+overvallen	Noun	overvallen
+goed	Noun	goed n (plural goederen, diminutive goedje n)
+jol	Noun	jol f (plural jollen, diminutive jolletje n)
+morfologie	Noun	morfologie f (uncountable)
+licht	Noun	licht n (plural lichten, diminutive lichtje n)
+deem	Noun	deem m (plural demen, diminutive deemke n)
+lusten	Noun	lusten
+lippen	Noun	lippen
+misten	Noun	misten
+stoffen	Noun	stoffen
+saai	Noun	saai c (uncountable)
+slag	Noun	slag m (plural slagen, diminutive slagje n)
+slag	Noun	slag n (plural slagen, diminutive slagje n)
+bok	Noun	bok m (plural bokken, diminutive bokje n)
+vuren	Noun	vuren n (uncountable)
+vuren	Noun	vuren
+genever	Noun	genever m (plural genevers, diminutive genevertje n)
+lus	Noun	lus f (plural lussen, diminutive lusje n)
+kwadraat	Noun	kwadraat n (plural kwadraten, diminutive kwadraatje n)
+moppen	Noun	moppen
+verzet	Noun	verzet n (uncountable, diminutive verzetje n)
+tikken	Noun	tikken
+wee	Noun	wee f (plural weeën, diminutive weetje n)
+apartheid	Noun	apartheid f (plural apartheden, diminutive apartheidje n)
+apartheid	Noun	apartheid f (uncountable)
+cervix	Noun	cervix m (plural cervixen or cervices, diminutive cervixje n)
+spoken	Noun	spoken
+ebbenhouten	Noun	ebbenhouten
+weekend	Noun	weekend n (plural weekenden or weekends, diminutive weekendje n)
+aanverwant	Noun	aanverwant m (plural aanverwanten, diminutive aanverwantje n)
+dosis	Noun	dosis f (plural doses or dosissen, diminutive dosisje n)
+regent	Noun	regent m (plural regenten, diminutive regentje n, feminine regentes)
+schermen	Noun	schermen
+tonen	Noun	tonen
+golven	Noun	golven
+billen	Noun	billen
+puffen	Noun	puffen
+tegel	Noun	tegel m (plural tegels, diminutive tegeltje n)
+reder	Noun	reder m (plural reders, diminutive redertje n)
+axioma	Noun	axioma n (plural axioma's, diminutive axiomaatje n)
+diameter	Noun	diameter m (plural diameters, diminutive diametertje n)
+schepen	Noun	schepen m (plural schepenen, diminutive schepentje n)
+schepen	Noun	schepen
+pistolet	Noun	pistolet m (plural pistolets, diminutive pistoletje n)
+koe	Noun	koe f (plural koeien, diminutive koetje n)
+fout	Noun	fout f (plural fouten, diminutive foutje n)
+kunst	Noun	kunst f (plural kunsten, diminutive kunstje n)
+oorlogen	Noun	oorlogen
+pekel	Noun	pekel m (uncountable)
+chemie	Noun	chemie f (plural chemies, diminutive chemietje n)
+pessimist	Noun	pessimist m (plural pessimisten, diminutive pessimistje n, feminine pessimiste)
+monster	Noun	monster n (plural monsters, diminutive monstertje n)
+monster	Noun	monster n (plural monsters, diminutive monstertje n)
+baryon	Noun	baryon n (plural baryonen)
+engel	Noun	engel m (plural engelen, diminutive engeltje n)
+kantelen	Noun	kantelen
+spatten	Noun	spatten
+jongen	Noun	jongen m (plural jongens, diminutive jongetje n)
+jongen	Noun	jongen
+tapir	Noun	tapir m (plural tapirs, diminutive tapirtje n)
+kegel	Noun	kegel m (plural kegels, diminutive kegeltje n)
+vorsen	Noun	vorsen
+olie	Noun	olie f (plural oliën or olies)
+roepen	Noun	roepen
+abonnement	Noun	abonnement n (plural abonnementen, diminutive abonnementje n)
+Kazachs	Noun	Kazachs n (uncountable)
+ee	Noun	ee f (uncountable)
+villa	Noun	villa f (plural villa's, diminutive villaatje n)
+babyboom	Noun	babyboom m (plural babybooms, diminutive babyboompje n)
+zeven	Noun	zeven
+foetus	Noun	foetus n, m (plural foetussen, diminutive foetusje n)
+lava	Noun	lava c (uncountable)
+nul	Noun	nul m (plural nullen, diminutive nulletje n)
+traliën	Noun	traliën
+transport	Noun	transport n (plural transporten, diminutive transportje n)
+basten	Noun	basten
+gevaren	Noun	gevaren
+aanzien	Noun	aanzien n (uncountable)
+verloven	Noun	verloven
+spektakel	Noun	spektakel n (plural spektakels, diminutive spektakeltje n)
+supporter	Noun	supporter m (plural supporters, diminutive supportertje n)
+scanner	Noun	scanner m (plural scanners, diminutive scannertje n)
+gespen	Noun	gespen
+kommen	Noun	kommen
+bed	Noun	bed n (plural bedden, diminutive bedje n)
+ogen	Noun	ogen
+tellen	Noun	tellen
+afdeling	Noun	afdeling f (plural afdelingen, diminutive afdelinkje n)
+prijzen	Noun	prijzen
+massage	Noun	massage f (plural massages, diminutive massagetje n)
+pinda	Noun	pinda m (plural pinda's, diminutive pindaatje n)
+vazal	Noun	vazal m (plural vazallen, diminutive vazalletje n)
+dictator	Noun	dictator m (plural dictatoren or dictators, diminutive dictatortje n)
+alcohol	Noun	alcohol m (plural alcoholen)
+optimist	Noun	optimist m (plural optimisten, diminutive optimistje n, feminine optimiste)
+geweten	Noun	geweten n (plural gewetens, diminutive gewetentje n)
+registrator	Noun	registrator m (plural registrators, diminutive registratortje n)
+kolonel	Noun	kolonel m (plural kolonels, diminutive kolonelletje n)
+sultan	Noun	sultan m (plural sultans, feminine sultane)
+rad	Noun	rad n (plural raderen, diminutive raadje n or radertje n or radje n)
+dinosaurus	Noun	dinosaurus m (plural dinosaurussen, diminutive dinosaurusje n)
+lama	Noun	lama m (plural lama's, diminutive lamaatje n)
+port	Noun	port m, n (plural porten)
+port	Noun	port m (uncountable, diminutive portje n)
+pekari	Noun	pekari ? (plural pekari's, diminutive pekarietje n)
+film	Noun	film m (plural films, diminutive filmpje n)
+trauma	Noun	trauma n (plural trauma's or traumata, diminutive traumaatje n)
+vulkaan	Noun	vulkaan m (plural vulkanen, diminutive vulkaantje n)
+papaja	Noun	papaja m (plural papaja's, diminutive papajaatje n)
+instrumentalis	Noun	instrumentalis m (plural instrumentalissen, diminutive instrumentalisje n)
+hil	Noun	hil m (plural hillen, diminutive hilletje n)
+race	Noun	race m (plural races, diminutive racejes n)
+barak	Noun	barak f (plural barakken, diminutive barakje n)
+nat	Noun	nat n (uncountable)
+recht	Noun	recht n (plural rechten, diminutive rechtje n)
+bescheiden	Noun	bescheiden
+preken	Noun	preken
+bigamist	Noun	bigamist m (plural bigamisten, diminutive bigamistje n, feminine bigamiste)
+mast	Noun	mast m (plural masten, diminutive mastje n)
+mast	Noun	mast m (plural masten, diminutive mastje n)
+zwepen	Noun	zwepen
+epidemie	Noun	epidemie f (plural epidemieën, diminutive epidemietje n)
+tante	Noun	tante f (plural tantes, diminutive tantetje n)
+kan	Noun	kan f (plural kannen, diminutive kannetje n)
+samarium	Noun	samarium n (uncountable)
+tantaal	Noun	tantaal n (uncountable)
+flikken	Noun	flikken
+pion	Noun	pion m (plural pionnen, diminutive pionnetje n)
+pion	Noun	pion n (plural pionen)
+aktief	Noun	aktief n (uncountable)
+radio	Noun	radio m (plural radio's, diminutive radiootje n)
+harp	Noun	harp f, m (plural harpen, diminutive harpje n)
+klimmen	Noun	klimmen
+broom	Noun	broom n (uncountable)
+dualis	Noun	dualis m (plural dualissen, diminutive dualisje n)
+albatros	Noun	albatros m (plural albatrossen, diminutive albatrosje n)
+eksamen	Noun	eksamen n (plural eksamens or eksamina, diminutive eksamentje n)
+whisky	Noun	whisky m (plural whisky's, diminutive whisky'tje n)
+peen	Noun	peen f, m (plural penen, diminutive peentje n)
+sector	Noun	sector m (plural sectoren or sectors, diminutive sectortje n)
+smaragden	Noun	smaragden
+baken	Noun	baken n (plural bakens, diminutive bakentje n)
+chaos	Noun	chaos m (uncountable)
+import	Noun	import m (plural importen, diminutive importje n)
+politicus	Noun	politicus m (plural politici, diminutive politicusje n, feminine politica)
+stenen	Noun	stenen
+boa	Noun	boa m (plural boa's, diminutive boaatje n)
+farao	Noun	farao m (plural farao's, diminutive faraootje n)
+katalysator	Noun	katalysator m (plural katalysatoren or katalysators)
+golf	Noun	golf f (plural golven, diminutive golfje n)
+golf	Noun	golf n (uncountable)
+finale	Noun	finale f (plural finales, diminutive finaletje n)
+trekken	Noun	trekken
+gans	Noun	gans f (plural ganzen, diminutive gansje n)
+balts	Noun	balts m (uncountable)
+lof	Noun	lof m (uncountable)
+lof	Noun	lof n (uncountable)
+bonzen	Noun	bonzen
+bonzen	Noun	bonzen
+merg	Noun	merg n (uncountable)
+laar	Noun	laar n (plural laren, diminutive laartje n)
+gevangen	Noun	gevangen
+candela	Noun	candela m, f (plural candela's)
+vlooien	Noun	vlooien
+legenda	Noun	legenda c (plural legenda's, diminutive legendaatje n)
+plannen	Noun	plannen
+kramp	Noun	kramp f (plural krampen, diminutive krampje n)
+trol	Noun	trol m (plural trollen, diminutive trolletje n)
+roos	Noun	roos f (plural rozen, diminutive roosje n)
+roos	Noun	roos f (uncountable)
+couscous	Noun	couscous f, m (uncountable)
+database	Noun	database f (plural databases, diminutive databaseje n)
+rijmen	Noun	rijmen
+mannequin	Noun	mannequin m (plural mannequins)
+helden	Noun	helden
+remake	Noun	remake m (plural remakes, diminutive remakeje n)
+flessen	Noun	flessen
+penis	Noun	penis m (plural penissen, diminutive penisje n)
+monument	Noun	monument n (plural monumenten, diminutive monumentje n)
+tank	Noun	tank m (plural tanks, diminutive tankje n)
+hein	Noun	hein m (plural heinen, diminutive heintje n)
+hein	Noun	hein m (plural heinen, diminutive heintje n)
+schaduwen	Noun	schaduwen
+linnen	Noun	linnen n (plural linnens, diminutive linnentje n)
+dogma	Noun	dogma n (plural dogma's, diminutive dogmaatje n)
+gallium	Noun	gallium n (uncountable)
+leien	Noun	leien
+globalisering	Noun	globalisering f (uncountable)
+knut	Noun	knut f, m (plural knutten, diminutive knutje n)
+okapi	Noun	okapi m (plural okapi's, diminutive okapietje n)
+geoloog	Noun	geoloog m (plural geologen, diminutive geoloogje n)
+nier	Noun	nier f (plural nieren, diminutive niertje n)
+ranken	Noun	ranken
+decibel	Noun	decibel m (plural decibels, diminutive decibeltje n)
+spar	Noun	spar m (plural sparren, diminutive sparretje n)
+fok	Noun	fok m (plural fokken, diminutive fokje n)
+poten	Noun	poten
+var	Noun	var m (plural varren, diminutive varretje n)
+scheren	Noun	scheren
+rot	Noun	rot n (plural rotten, diminutive rotje n)
+gek	Noun	gek m (plural gekken, diminutive gekje n, feminine gekkin)
+zorgen	Noun	zorgen
+insekt	Noun	insekt m (plural insekten, diminutive insektje n)
+rekken	Noun	rekken
+demiurg	Noun	demiurg m (plural demiurgen, diminutive demiurgje n)
+tellurium	Noun	tellurium n (uncountable)
+tred	Noun	tred m (plural treden)
+minnen	Noun	minnen
+rente	Noun	rente f (plural rentes or renten, diminutive rentetje n)
+kinderlijk	Noun	kinderlijk n (plural kinderlijken, diminutive kinderlijkje n)
+haver	Noun	haver m (uncountable, diminutive havertje n)
+ban	Noun	ban m (plural bannen)
+ventilator	Noun	ventilator m (plural ventilatoren or ventilators, diminutive ventilatortje n)
+rotor	Noun	rotor m (plural rotoren or rotors, diminutive rotortje n)
+blijken	Noun	blijken
+arseen	Noun	arseen n (uncountable)
+pop	Noun	pop f, m (plural poppen, diminutive popje n or poppetje n)
+pop	Noun	pop f (uncountable)
+lade	Noun	lade f (plural laden or lades, diminutive ladetje n)
+giraf	Noun	giraf f (plural giraffen, diminutive girafje n)
+bo	Noun	bo m (plural bo's, diminutive boke n)
+shampoo	Noun	shampoo m (plural shampoos, diminutive shampootje n)
+lens	Noun	lens f (plural lenzen, diminutive lensje n)
+lens	Noun	lens m (plural lenzen, diminutive lensje n)
+lens	Noun	lens f (plural lenzen, diminutive lensje n)
+trom	Noun	trom f, m (plural trommen, diminutive trommetje n)
+legering	Noun	legering f (plural legeringen, diminutive legerinkje n)
+legering	Noun	legering f (uncountable)
+knar	Noun	knar m (plural knarren, diminutive knarretje n)
+muilkorven	Noun	muilkorven
+koralen	Noun	koralen
+nieren	Noun	nieren
+klonen	Noun	klonen
+wagon	Noun	wagon m (plural wagons, diminutive wagonnetje n)
+kapiteel	Noun	kapiteel n (plural kapitelen, diminutive kapiteeltje n)
+hypocriet	Noun	hypocriet m (plural hypocrieten, diminutive hypocrietje n)
+ontbreken	Noun	ontbreken n (uncountable)
+minister	Noun	minister m (plural ministers, diminutive ministertje n)
+aantalen	Noun	aantalen
+bestellen	Noun	bestellen
+robben	Noun	robben

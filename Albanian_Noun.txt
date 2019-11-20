@@ -1,0 +1,749 @@
+vit	Noun	vit m (indefinite plural vite or vjet, definite singular viti, definite plural vjetit)
+orgji	Noun	orgji f (indefinite plural orgji, definite singular orgjia, definite plural orgjitë)
+heteroseksualitet	Noun	heteroseksualitet m (definite singular heteroseksualiteti)
+çekiç	Noun	çekiç m
+mik	Noun	mik m (indefinite plural miq, definite singular miku, definite plural miqtë)
+dore	Noun	dore f
+liqen	Noun	liqen m (indefinite plural liqene, definite singular liqeni, definite plural liqenet)
+bac	Noun	bac ?
+vend	Noun	vend m
+Kalium	Noun	Kalium n
+lakim	Noun	lakim m (indefinite plural lakime, definite singular lakimi, definite plural lakimet)
+shkencëtar	Noun	shkencëtar m (indefinite plural shkencëtarë, definite singular shkencëtari, definite plural shkencëtarët)
+anëtar	Noun	anëtar m (indefinite plural anëtarë, definite singular anëtari, definite plural anëtarët)
+bambu	Noun	bambu
+kap	Noun	kap f
+argat	Noun	argat m
+dhelpër	Noun	dhelpër f (indefinite plural dhelpra, definite singular dhelpra, definite plural dhelprat)
+mbret	Noun	mbret m (indefinite plural mbretër, definite singular mbreti, definite plural mbretërit)
+dorë	Noun	dorë f (indefinite plural duar, definite singular dora, definite plural duartë)
+burrëri	Noun	burrëri f (definite singular burrëria)
+ang	Noun	ang m (definite singular angu)
+analogji	Noun	analogji f (indefinite plural analogji, definite singular analogjia, definite plural analogjitë)
+homonim	Noun	homonim m (indefinite plural homonime, definite singular homonimi, definite plural homonimet)
+bostan	Noun	bostan m
+zemër	Noun	zemër f (indefinite plural zemra, definite singular zemra, definite plural zemrat)
+këmbë	Noun	këmbë f (indefinite plural këmbë, definite singular këmba, definite plural këmbët)
+ur	Noun	ur ?
+flamur	Noun	flamur m (indefinite plural flamurë, definite singular flamuri, definite plural flamurët)
+thithkë	Noun	thithkë f (indefinite plural thithka, definite singular thithka, definite plural thithkat)
+hallat	Noun	hallat m
+institucion	Noun	institucion m (indefinite plural institucione, definite singular institucioni, definite plural institucionet)
+byrektore	Noun	byrektore f (indefinite plural byrektore, definite singular byrektorja, definite plural byrektoret)
+vito	Noun	vito f (indefinite plural vito, definite singular vitua, definite plural vitot)
+poligon	Noun	poligon ?
+radiolog	Noun	radiolog m (indefinite plural radiologë, definite singular radiologu, definite plural radiologët)
+murg	Noun	murg m
+thithë	Noun	thithë f (indefinite plural thitha, definite singular thitha, definite plural thithat)
+gjak	Noun	gjak m (definite singular gjaku)
+kënaqësi	Noun	kënaqësi f (indefinite plural kënaqësi, definite singular kënaqësia, definite plural kënaqësitë)
+piano	Noun	piano f (indefinite plural piano, definite singular pianoja, definite plural pianot)
+xhelozi	Noun	xhelozi f (definite singular xhelozia)
+teknologji	Noun	teknologji f (indefinite plural teknologji, definite singular teknologjia, definite plural teknologjitë)
+bekim	Noun	bekim m
+lise	Noun	lise f
+fik	Noun	fik m (indefinite plural fiq, definite singular fiku, definite plural fiqet)
+qendër	Noun	qendër f (indefinite plural qendra, definite singular qendra, definite plural qendrat)
+gra	Noun	gra
+zanafillë	Noun	zanafillë f (indefinite plural zanafilla, definite singular zanafilla, definite plural zanafillat)
+patologji	Noun	patologji f (indefinite plural patologjia)
+varr	Noun	varr m (indefinite plural varre, definite singular varri, definite plural varret)
+vakt	Noun	vakt m (indefinite plural vakta, definite singular vakti, definite plural vaktat) [1] [2]
+zar	Noun	zar ?
+gjeologji	Noun	gjeologji f (definite singular gjeologjia)
+ftohtësi	Noun	ftohtësi f (definite singular ftohtësia)
+mami	Noun	mami
+gjuhë	Noun	gjuhë f (indefinite plural gjuhë, definite singular gjuha, definite plural gjuhët)
+raft	Noun	raft m
+shah	Noun	shah m
+hoxhë	Noun	hoxhë m (indefinite plural hoxhë, definite singular hoxha, definite plural hoxhët)
+pjekuni	Noun	pjekuni f (definite singular pjekunia)
+rrezik	Noun	rrezik ? (indefinite plural rreziku, definite singular rreqiqet)
+gjeometri	Noun	gjeometri f (definite singular gjeometria)
+bijë	Noun	bijë f (indefinite plural bija, definite singular bija, definite plural bijat)
+sqarim	Noun	sqarim m (indefinite plural sqarime, definite singular sqarimi, definite plural sqarimet)
+peshë	Noun	peshë ?
+pasqyrë	Noun	pasqyrë f (indefinite plural pasqyra, definite singular pasqyra, definite plural pasqyrat)
+ugar	Noun	ugar
+kalli	Noun	kalli m (indefinite plural kallinj, definite singular kalliu)
+europ	Noun	europ ?
+çift	Noun	çift m (indefinite plural çifte, definite singular çifti, definite plural çiftet)
+prag	Noun	prag m
+pjeshkë	Noun	pjeshkë f
+mis	Noun	mis m (indefinite plural misa, definite singular misi, definite plural misat)
+duk	Noun	duk
+dialekt	Noun	dialekt m (indefinite plural dialekte, definite singular dialekti, definite plural dialektet)
+kek	Noun	kek n
+larmi	Noun	larmi f (indefinite plural larmi, definite singular larmia, definite plural larmit)
+djalë	Noun	djalë m (indefinite plural djem, definite singular djali, definite plural djemtë)
+merimangë	Noun	merimangë f (indefinite plural merimanga, definite singular merimanga, definite plural merimangat)
+mang	Noun	mang m (indefinite plural mangje, definite singular mangu, definite plural mangjet)
+reagim	Noun	reagim m (indefinite plural reagime, definite singular reagimi, definite plural reagime)
+biolog	Noun	biolog
+penis	Noun	penis m (indefinite plural penisë, definite singular penisi, definite plural penisët)
+pornograf	Noun	pornograf m (indefinite plural pornografë, definite singular pornografi, definite plural pornografët)
+baba	Noun	baba m (definite singular babi, definite plural baballarë)
+udhëzim	Noun	udhëzim m (indefinite plural udhëzime, definite singular udhëzimi, definite plural udhëzimet)
+aheng	Noun	aheng m (indefinite plural ahengje, definite singular ahengu, definite plural ahengjet)
+brom	Noun	brom
+pik	Noun	pik m (indefinite plural pikë, definite singular piku, definite plural pikët)
+arkeologji	Noun	arkeologji f (definite singular arkeologjia)
+ekologji	Noun	ekologji f (definite singular ekologjia)
+lot	Noun	lot m (indefinite plural lotë, definite singular loti, definite plural lotët)
+copë	Noun	copë f (indefinite plural copa, definite singular copa, definite plural copat)
+veri	Noun	veri m (definite singular veriu)
+soj	Noun	soj m (definite singular soji)
+antropologji	Noun	antropologji f (definite singular antropologjia)
+shtet	Noun	shtet m (indefinite plural shtete, definite singular shteti, definite plural shtetet)
+bile	Noun	bile f
+trekëndësh	Noun	trekëndësh m (indefinite plural trekëndësha, definite singular trekëndëshi)
+ora	Noun	ora f
+fis	Noun	fis m (indefinite plural fise, definite singular fisi, definite plural fiset)
+pederasti	Noun	pederasti f (definite singular pederastia)
+mare	Noun	mare f (definite singular marja)
+numër	Noun	numër m (indefinite plural numra, definite singular numri, definite plural numrat)
+skrotum	Noun	skrotum m (definite singular skrotumi)
+teze	Noun	teze f (indefinite plural teze, definite singular tezja, definite plural tezet)
+lis	Noun	lis m (indefinite plural lisa, definite singular lisi)
+bakteriologji	Noun	bakteriologji f (definite singular bakteriologjia)
+zë	Noun	zë m (indefinite plural zëra, definite singular zëri, definite plural zërat)
+mi	Noun	mi m
+kem	Noun	kem m
+fillim	Noun	fillim m (indefinite plural fillime, definite singular fillimi, definite plural fillimet)
+kalë	Noun	kalë m (indefinite plural kuaj, definite singular kali, definite plural kuajt)
+kat	Noun	kat m (indefinite plural kate, definite singular kati, definite plural katit)
+zonjë	Noun	zonjë f (indefinite plural zonja, definite singular zonja, definite plural zonjat)
+fink	Noun	fink m (indefinite plural finkë, definite singular finku, definite plural finkët)
+ushqim	Noun	ushqim m (indefinite plural ushqime, definite singular ushqimi, definite plural ushqimet)
+morfologji	Noun	morfologji f (definite singular morfologjia)
+mill	Noun	mill m (indefinite plural mije, definite singular milli, definite plural mijet)
+bej	Noun	bej ?
+ateist	Noun	ateist (definite ateisti, indefinite plural ateistё, indefinite plural ateistёt)
+çorap	Noun	çorap m [2]
+rrugë	Noun	rrugë f (indefinite plural rrugë, definite singular rruga, definite plural rrugët)
+mesazh	Noun	mesazh m (indefinite plural mesazhe, definite singular mesazhi, definite plural mesazhet)
+dëshirë	Noun	dëshirë f (indefinite plural dëshira, definite singular dëshira, definite plural dëshirat)
+krep	Noun	krep m (indefinite plural krepa, definite singular krepi)
+laps	Noun	laps m (indefinite plural lapsa, definite singular lapsi, definite plural lapsat)
+dry	Noun	dry m (indefinite plural dryna, definite singular dryni, definite plural drynat)
+debil	Noun	debil m
+java	Noun	java f pl
+vagjinë	Noun	vagjinë f (indefinite plural vagjina, definite singular vagjina, definite plural vagjinat)
+kriket	Noun	kriket
+Arap	Noun	Arap
+hall	Noun	hall m (indefinite plural halle, definite singular halli, definite plural hallet)
+trajtë	Noun	trajtë f (indefinite plural trajta, definite singular trajta, definite plural trajtat)
+islam	Noun	islam m (definite singular islami)
+ind	Noun	ind m
+ndjesi	Noun	ndjesi f (indefinite plural ndjesi, definite singular ndjesia, definite plural ndjesitë)
+pasuri	Noun	pasuri m (indefinite plural pasuri, definite singular pasuria, definite plural pasuritë)
+biseksual	Noun	biseksual m (indefinite plural biseksualë, definite singular biseksuali, definite plural biseksualët)
+legjendë	Noun	legjendë f (indefinite plural legjenda, definite singular legjenda, definite plural legjendat)
+arsenik	Noun	arsenik
+pornografia	Noun	pornografia
+rezultat	Noun	rezultat m (indefinite plural rezultate, definite singular rezultati)
+mal	Noun	mal m (indefinite plural male, definite singular mali, definite plural malet)
+thi	Noun	thi m (indefinite plural thi, definite singular thiu)
+bar	Noun	bar m (indefinite plural barna, definite singular bari)
+veti	Noun	veti f (indefinite plural veti, definite singular vetia, definite plural vetitë)
+fe	Noun	fe f (indefinite plural fe, definite singular feja, definite plural fetë)
+hyrje	Noun	hyrje f (indefinite plural hyrje, definite singular hyrja, definite plural hyrjet)
+bis	Noun	bis ?
+lafshë	Noun	lafshë f (indefinite plural lafsha, definite singular lafsha, definite plural lafshat)
+parlament	Noun	parlament m
+çifut	Noun	çifut m (indefinite plural çifutë, definite singular çifuti, definite plural çifutët)
+madhësi	Noun	madhësi f (definite singular madhësia)
+hallë	Noun	hallë f
+çakmak	Noun	çakmak m (indefinite plural çakmakë, definite singular çakmaku, definite plural çakmakët)
+peshkaqen	Noun	peshkaqen m (indefinite plural peshkaqena, definite singular peshkaqeni)
+orgazmë	Noun	orgazmë f (indefinite plural orgazma, definite singular orgazma, definite plural orgazmat)
+postel	Noun	postel m
+lesh	Noun	lesh m
+arkeolog	Noun	arkeolog m
+kazan	Noun	kazan m
+ze	Noun	ze f (indefinite plural ze, definite singular zeja, definite plural zejet)
+këpushë	Noun	këpushë f (indefinite plural këpusha, definite singular këpusha, definite plural këpushat)
+çelik	Noun	çelik
+sociologji	Noun	sociologji f (definite singular sociologjia)
+lajthi	Noun	lajthi f (indefinite plural lajthi, definite singular lajthia, definite plural lajthitë)
+zonë	Noun	zonë f (indefinite plural zona, definite singular zona, definite plural zonat)
+kuptim	Noun	kuptim m (indefinite plural kuptime, definite singular kuptimi, definite plural kuptimet)
+autokrat	Noun	autokrat m
+pasthirrmë	Noun	pasthirrmë f (indefinite plural pasthirrma, definite singular pasthirrma, definite plural pasthirrmat)
+strategji	Noun	strategji f (indefinite plural strategji, definite singular strategjia, definite plural strategjitë)
+lab	Noun	lab ?
+arar	Noun	arar m
+shkak	Noun	shkak n (indefinite plural shkaqe, definite singular shkaku, definite plural shkaqet)
+pip	Noun	pip f (indefinite plural pipa, definite singular pipa, definite plural pipat)
+balet	Noun	balet m
+kryqëzatë	Noun	kryqëzatë f (indefinite plural kryqëzata, definite singular kryqëzata, definite plural kryqëzatat)
+testikul	Noun	testikul m (indefinite plural testikuj, definite singular testikuli, definite plural testikujt)
+shok	Noun	shok m (indefinite plural shokë, definite singular shoku, definite plural shokët)
+çadër	Noun	çadër f (indefinite plural çadra, definite singular çadra, definite plural çadrat)
+bli	Noun	bli m (indefinite plural blirë, definite singular bliri)
+bli	Noun	bli m (indefinite plural blij, definite singular blini)
+hu	Noun	hu m (indefinite plural hunj, definite singular huri)
+luftë	Noun	luftë f (indefinite plural lufta, definite singular lufta, definite plural luftat)
+bor	Noun	bor
+tatuazh	Noun	tatuazh m (indefinite plural tatuazhe, definite singular tatuazhi, definite plural tatuazhet)
+çast	Noun	çast m (indefinite plural çaste, definite singular çasti, definite plural çastet)
+afrikan	Noun	afrikan
+tog	Noun	tog f (indefinite plural togje, definite singular togu, definite plural togjet)
+tra	Noun	tra m (indefinite plural trenj, definite singular trau, definite plural trenjët)
+rende	Noun	rende f (indefinite plural rende, definite singular rendeja, definite plural rendet)
+pite	Noun	pite f (indefinite plural pite, definite singular pita, definite plural pitet)
+rreth	Noun	rreth m (indefinite plural rrathë, definite singular rrethi, definite plural rrathët)
+akrobat	Noun	akrobat ?
+shfuqizim	Noun	shfuqizim m (indefinite plural shfuqizime, definite singular shfuqizimi, definite plural shfuqizimet)
+bir	Noun	bir m (indefinite plural bij, definite singular biri, definite plural bijtë)
+hierarki	Noun	hierarki f (indefinite plural hierarki, definite singular hierarkia, definite plural hierarkitë)
+ter	Noun	ter m (indefinite plural terë, definite singular tera)
+mirësi	Noun	mirësi f (indefinite plural mirësi, definite singular mirësia, definite plural mirësitë)
+bisedë	Noun	bisedë f (indefinite plural biseda, definite singular biseda, definite plural bisedat)
+krim	Noun	krim m (indefinite plural krime, definite singular krimi, definite plural krimet)
+paradoks	Noun	paradoks m
+trup	Noun	trup m
+bioteknologji	Noun	bioteknologji f (definite singular bioteknologjia)
+akord	Noun	akord m
+burra	Noun	burra m pl
+pranverë	Noun	pranverë f (indefinite plural pranvera, definite singular pranvera, definite plural pranverat)
+ar	Noun	ar m (definite singular ari)
+plori	Noun	plori ?
+aktivist	Noun	aktivist m (indefinite plural aktivistë, definite singular aktivisti, definite plural aktivistët)
+yjësi	Noun	yjësi f (indefinite plural yjësi, definite singular yjësia, definite plural yjësitë)
+qytet	Noun	qytet m (indefinite plural qytete, definite singular qyteti, definite plural qytetet)
+akrep	Noun	akrep m (indefinite plural akrepa, definite singular akrepi, definite plural akrepat)
+muskul	Noun	muskul m (indefinite plural muskuj, definite singular muskuli, definite plural muskujt)
+titull	Noun	titull m (indefinite plural tituj, definite singular titulli, definite plural titujt)
+bumerang	Noun	bumerang
+skllavëri	Noun	skllavëri f (definite singular skllavëria)
+fund	Noun	fund m
+zëmër	Noun	zëmër f (indefinite plural zëmra, definite singular zëmra, definite plural zëmrat)
+zëmër	Noun	zëmër f (indefinite plural zëmëra, definite singular zëmëra, definite plural zëmërat)
+maj	Noun	maj m
+mars	Noun	mars m
+lar	Noun	lar m
+çantë	Noun	çantë f (indefinite plural çanta, definite singular çanta, definite plural çantat)
+abdikim	Noun	abdikim m (indefinite plural abdikime, definite singular abdikimi, definite plural abdikimet)
+fyt	Noun	fyt m (indefinite plural fyte, definite singular fyti, definite plural fytet)
+harc	Noun	harc m (indefinite plural harca, definite singular harci, definite plural harcat)
+usta	Noun	usta m
+buzëqeshje	Noun	buzëqeshje f (indefinite plural buzëqeshje, definite singular buzëqeshja, definite plural buzëqeshjet)
+shpëtim	Noun	shpëtim
+hie	Noun	hie f
+rend	Noun	rend m
+koleg	Noun	koleg m (indefinite plural kolegë, definite singular kolegu, definite plural kolegët); feminine equivalent kolege
+autoritet	Noun	autoritet
+grua	Noun	grua f (indefinite plural gra, definite singular gruaja, definite plural gratë)
+gjeografi	Noun	gjeografi f (definite singular gjeografia)
+njeri	Noun	njeri m (indefinite plural njerëz, definite singular njeriu, definite plural njerëzit)
+gjakmarrje	Noun	gjakmarrje f
+det	Noun	det m (indefinite plural dete, definite singular deti)
+galaktikë	Noun	galaktikë f (indefinite plural galaktika, definite singular galaktika, definite plural galaktikat)
+aktivizëm	Noun	aktivizëm m (definite singular aktivizmi)
+drejtim	Noun	drejtim m (indefinite plural drejtime, definite singular drejtimi, definite plural drejtimet)
+astrobiologji	Noun	astrobiologji f (definite singular astrobiologjia)
+dra	Noun	dra m
+shëndet	Noun	shëndet m (definite singular shëndeti)
+kos	Noun	kos m (indefinite plural kosë, definite singular kosi, definite plural kosët)
+muaj	Noun	muaj m (indefinite plural muaj, definite singular muaji, definite plural muajt)
+finale	Noun	finale f (plural finale)
+përdorim	Noun	përdorim m (indefinite plural përdorime, definite singular përdorimi, definite plural përdorimet)
+pyll	Noun	pyll m (indefinite plural pyje, definite singular pylli, definite plural pyjet)
+litar	Noun	litar ?
+plog	Noun	plog m
+nxehtësi	Noun	nxehtësi f (definite singular nxehtësia)
+lend	Noun	lend f
+gren	Noun	gren m
+astrobiolog	Noun	astrobiolog m (indefinite plural astrobiologë, definite singular astrobiologu, definite plural astrobiologët)
+thjeshtësi	Noun	thjeshtësi f (definite singular thjeshtësia)
+zhvirgjërim	Noun	zhvirgjërim m (indefinite plural zhvirgjërime, definite singular zhvirgjërimi, definite plural zhvirgjërimet)
+krahasim	Noun	krahasim m (indefinite plural krahasime, definite singular krahasimi, definite plural krahasimet)
+botë	Noun	botë f (indefinite plural bota, definite singular bota, definite plural botat)
+mjekërr	Noun	mjekërr f (indefinite plural mjekrra, definite singular mjekrra, definite plural mjekrrat)
+ilaç	Noun	ilaç m (indefinite plural ilaçe, definite singular ilaçi, definite plural ilaçet)
+rast	Noun	rast m (indefinite plural raste, definite singular rasti, definite plural rastet)
+universitet	Noun	universitet m (indefinite plural universitete, definite singular universiteti, definite plural universitetet)
+abece	Noun	abece
+avantazh	Noun	avantazh m (indefinite plural avantazhe, definite singular avantazhi, definite plural avantazhet)
+err	Noun	err m
+planet	Noun	planet m (indefinite plural planete, definite singular planeti, definite plural planetet)
+art	Noun	art m (definite singular arti)
+port	Noun	port m (indefinite plural porte, definite singular porti, definite plural portet)
+cjap	Noun	cjap m (indefinite plural cjape, definite singular cjapi, definite plural cjapet)
+papaja	Noun	papaja f
+potpuri	Noun	potpuri
+gjylpanë	Noun	gjylpanë f (indefinite plural gjylpana, definite singular gjylpana, definite plural gjylpanat)
+luginë	Noun	luginë f (indefinite plural lugina, definite singular lugina, definite plural luginat)
+mjellmë	Noun	mjellmë f (indefinite plural mjellma, definite singular mjellma, definite plural mjellmat)
+ger	Noun	ger m
+adjektiv	Noun	adjektiv
+herdhe	Noun	herdhe f pl (nominative/accusative definite herdhet, dative herdheve)
+herdhe	Noun	herdhe f (indefinite plural herdhe)
+psikologji	Noun	psikologji f (definite singular psikologjia)
+elefant	Noun	elefant ?
+kusur	Noun	kusur m
+heteroseksual	Noun	heteroseksual m (indefinite plural heteroseksualë, definite singular heteroseksuali, definite plural heteroseksualët)
+fall	Noun	fall ?
+lut	Noun	lut
+sodomi	Noun	sodomi f (definite singular sodomia)
+ples	Noun	ples f
+gjeolog	Noun	gjeolog m (indefinite plural gjeologë, definite singular gjeologu, definite plural gjeologët)
+demokraci	Noun	demokraci f (indefinite plural demokraci, definite singular demokracia, definite plural demokracitë)
+bashkëveprim	Noun	bashkëveprim m (indefinite plural bashkëveprime, definite singular bashkëveprimi, definite plural bashkëveprimet)
+punëtor	Noun	punëtor m (indefinite plural punëtorë, definite singular punëtori, definite plural punëtorët)
+ferma	Noun	ferma f
+qipi	Noun	qipi m
+autonomi	Noun	autonomi f
+berilium	Noun	berilium
+ereksion	Noun	ereksion m (indefinite plural ereksione, definite singular ereksioni, definite plural ereksionet)
+yndyrë	Noun	yndyrë f (indefinite plural yndyra, definite singular yndyra, definite plural yndyrat)
+strukturë	Noun	strukturë f (indefinite plural struktura, definite singular struktura, definite plural strukturat)
+fill	Noun	fill m (plural fije)
+tap	Noun	tap
+embriologji	Noun	embriologji f (definite singular embriologjia)
+lexim	Noun	lexim m (indefinite plural lexime, definite singular leximi, definite plural leximet)
+mace	Noun	mace m (indefinite plural mace, definite singular macja, definite plural macet)
+natrium	Noun	natrium
+hi	Noun	hi m (-ri)
+vajzë	Noun	vajzë f (indefinite plural vajza, definite singular vajza, definite plural vajzat)
+derdhje	Noun	derdhje f
+çakall	Noun	çakall m (indefinite plural çakaj, definite singular çakalli, definite plural çakajt)
+breg	Noun	breg
+mund	Noun	mund m
+arab	Noun	arab
+vaginë	Noun	vaginë f (indefinite plural vagina, definite singular vagina, definite plural vaginat)
+fushatë	Noun	fushatë f (indefinite plural fushata, definite singular fushata, definite plural fushatat)
+pornografi	Noun	pornografi f (definite singular pornografia)
+bashkëpunim	Noun	bashkëpunim m (indefinite plural bashkëpunime, definite singular bashkëpunimi, definite plural bashkëpunimet)
+majmun	Noun	majmun m
+seksolog	Noun	seksolog m (indefinite plural seksologë, definite singular seksologu, definite plural seksologët)
+term	Noun	term m (indefinite plural terma, definite singular terma, definite plural termat)
+shpallje	Noun	shpallje f (indefinite plural shpallje, definite singular shpallja, definite plural shpalljet)
+shkencë	Noun	shkencë f (indefinite plural shkenca, definite singular shkenca, definite plural shkencat)
+vej	Noun	vej (first-person singular past tense vejta, participle vejur)
+legen	Noun	legen m (indefinite plural legena, definite singular legeni, definite plural legenat)
+telefon	Noun	telefon m
+shahist	Noun	shahist m (indefinite plural shahistë, definite singular shahisti, definite plural shahistët)
+flug	Noun	flug m (indefinite plural flugje, definite singular flugu, definite plural flugjet)
+shqiptar	Noun	shqiptar m (indefinite plural shqiptarë, definite singular shqiptari, definite plural shqiptarët)
+afinitet	Noun	afinitet
+batalion	Noun	batalion m
+bizon	Noun	bizon m (indefinite plural bizone, definite singular bizoni, definite plural bizonet)
+automat	Noun	automat m
+lëng	Noun	lëng m (indefinite plural lëngje, definite singular lëngu, definite plural lëngjet)
+gjahtar	Noun	gjahtar m (indefinite plural gjahtarë, definite singular gjahtari, definite plural gjahtarët)
+feniks	Noun	feniks m (definite singular feniksi)
+dermatologji	Noun	dermatologji f (definite singular dermatologjia)
+doktor	Noun	doktor m (indefinite plural doktorë, definite singular doktori, definite plural doktorët); feminine equivalent doktoreshë
+vjeshtë	Noun	vjeshtë f (indefinite plural vjeshta, definite singular vjeshta, definite plural vjeshtat)
+mall	Noun	mall m
+mall	Noun	mall m (indefinite plural malle, definite singular malli, definite plural mallet)
+lak	Noun	lak m
+sklep	Noun	sklep m
+hum	Noun	hum m (indefinite plural humi, definite singular huma)
+pill	Noun	pill
+lëvizje	Noun	lëvizje f
+vdekje	Noun	vdekje f (indefinite plural vdekje, definite singular vdekja, definite plural vdekjet)
+çok	Noun	çok m (indefinite plural çoka, definite singular çoku, definite plural çokat)
+adet	Noun	adet
+shembull	Noun	shembull m (indefinite plural shembuj, definite singular shembulli, definite plural shembujt)
+treg	Noun	treg m (indefinite plural tregje, definite singular tregu, definite plural tregjet)
+shkollë	Noun	shkollë f
+kri	Noun	kri f (indefinite plural kri, definite singular kria)
+zoolog	Noun	zoolog m (indefinite plural zoologë, definite singular zoologu, definite plural zoologët)
+fiziolog	Noun	fiziolog m (indefinite plural fiziologë, definite singular fiziologu, definite plural fiziologët)
+raki	Noun	raki f (indefinite plural raki, definite singular rakia, definite plural rakitë)
+xhagajdur	Noun	xhagajdur m (indefinite plural xhagajdurë, definite singular xhagajduri, definite plural xhagajdurët)
+ane	Noun	ane f
+çoban	Noun	çoban m
+lag	Noun	lag m
+êmën	Noun	êmën m (indefinite plural emna, definite singular emni, definite plural emnat)
+vapor	Noun	vapor
+atësi	Noun	atësi f (definite singular atësia)
+krah	Noun	krah m (indefinite plural krahë, definite singular krahu, definite plural krahët)
+mbretëri	Noun	mbretëri f (indefinite plural mbretëri, definite singular mbretëria, definite plural mbretëritë)
+kalcium	Noun	kalcium
+tarok	Noun	tarok m (indefinite plural tarokë, definite singular taroku)
+harmi	Noun	harmi f (indefinite plural harmi, definite singular harmia, definite plural harmit)
+ajër	Noun	ajër m (indefinite plural ajra, definite singular ajri, definite plural ajrat)
+prezervativ	Noun	prezervativ m (indefinite plural prezervative, definite singular prezervativi, definite plural prezervativet)
+bask	Noun	bask
+dynja	Noun	dynja f (definite singular dynjaja)
+pus	Noun	pus m
+apostrof	Noun	apostrof m
+bari	Noun	bari m
+duf	Noun	duf m
+byrek	Noun	byrek m (indefinite plural byrekë, definite singular byreku, definite plural byrekët)
+anemi	Noun	anemi ?
+azot	Noun	azot m; determinate: azoti
+mut	Noun	mut m
+puthje	Noun	puthje f (indefinite plural puthje, definite singular puthja, definite plural puthjet)
+çukë	Noun	çukë f (indefinite plural çuka, definite singular çuka, definite plural çukat)
+çelës	Noun	çelës m (indefinite plural çelësa, definite singular çelësi, definite plural çelësat)
+kurriz	Noun	kurriz m (indefinite plural kurrizë, definite singular kurrizi, definite plural kurrizët)
+drom	Noun	drom ?
+rasë	Noun	rasë f (indefinite plural rasa, definite singular rasa, definite plural rasat)
+perineum	Noun	perineum m (definite singular perineumi)
+gjëlpërë	Noun	gjëlpërë f (indefinite plural gjëlpëra, definite singular gjëlpëra, definite plural gjëlpërat)
+vol	Noun	vol ?
+organizëm	Noun	organizëm m (indefinite plural organizma, definite singular organizmi, definite plural organizmat)
+kala	Noun	kala f (indefinite plural kala, definite singular kalaja)
+frikë	Noun	frikë f (indefinite plural frika, definite singular frika, definite plural frikat)
+lingg	Noun	lingg m (definite singular lingu)
+para	Noun	para f (indefinite plural para, definite singular paraja, definite plural paratë)
+anatomi	Noun	anatomi f
+rrepë	Noun	rrepë f (indefinite plural rrepa, definite singular rrepa, definite plural rrepat)
+dritare	Noun	dritare f (indefinite plural dritare, definite singular dritarja, definite plural dritaret)
+aftësi	Noun	aftësi f (indefinite plural aftësi, definite singular aftësia, definite plural aftësitë)
+arkitekt	Noun	arkitekt m
+imam	Noun	imam m (indefinite plural imamë, definite singular imami, definite plural imamët)
+motër	Noun	motër f (indefinite plural motra, definite singular motra, definite plural motrat)
+pris	Noun	pris ?
+far	Noun	far m
+himn	Noun	himn m
+kërthizë	Noun	kërthizë f (indefinite plural kërthiza, definite singular kërthiza, definite plural kërthizat)
+gropë	Noun	gropë f (indefinite plural gropa, definite singular gropa, definite plural gropat)
+gjarpër	Noun	gjarpër m (indefinite plural gjarpërinj, definite singular gjarpëri, definite plural gjarpërinjtë)
+orë	Noun	orë f (indefinite plural orë, definite singular ora, definite plural orët)
+orë	Noun	orë f
+zarf	Noun	zarf ?
+feje	Noun	feje ?
+kërkesë	Noun	kërkesë f (indefinite plural kërkesa, definite singular kërkesa, definite plural kërkesat)
+atlet	Noun	atlet m
+sinonim	Noun	sinonim m (indefinite plural sinonime, definite singular sinonimi, definite plural sinonimet)
+berr	Noun	berr m (indefinite plural berra)
+mandarinë	Noun	mandarinë f
+halla	Noun	halla f
+shpejtësi	Noun	shpejtësi f (indefinite plural shpejtësi, definite singular shpejtësia, definite plural shpejtësitë)
+dajë	Noun	dajë f (indefinite plural daja, definite singular daja, definite plural dajat)
+tempull	Noun	tempull m (indefinite plural tempuj, definite singular tempulli, definite plural tempujt)
+xhaxha	Noun	xhaxha m (indefinite plural xhaxhallarë, definite singular xhaxhai, definite plural xhaxhallarët)
+forcë	Noun	forcë f (indefinite plural forca, definite singular forca, definite plural forcat)
+përgjithësim	Noun	përgjithësim m (indefinite plural përgjithësime, definite singular përgjithësimi, definite plural përgjithësimet)
+lek	Noun	lek m (indefinite plural lekë, definite singular leku)
+kafshë	Noun	kafshë f (indefinite plural kafshë, definite singular kafsha, definite plural kafshët)
+njoftim	Noun	njoftim m (indefinite plural njoftime, definite singular njoftimi, definite plural njoftimet)
+asistent	Noun	asistent m
+galaktika	Noun	galaktika
+qafë	Noun	qafë f (indefinite plural qafa, definite singular qafa, definite plural qafat)
+leje	Noun	leje f
+urinë	Noun	urinë f (definite singular urina)
+mort	Noun	mort m
+zog	Noun	zog m (indefinite plural zogj, definite singular zogu, definite plural zogjtë)
+hardhucë	Noun	hardhucë f (indefinite plural hardhuca, definite singular hardhuca, definite plural hardhucat)
+ndryshim	Noun	ndryshim m (indefinite plural ndryshime, definite singular ndryshimi, definite plural ndryshimet)
+mag	Noun	mag m (indefinite plural magë, definite singular magu, definite plural magët)
+trëndafil	Noun	trëndafil m (indefinite plural trëndafila, definite singular trëndafili, definite plural trëndafilat)
+mug	Noun	mug m (indefinite plural mugje, definite singular mugu, definite plural mugjet)
+biseksualitet	Noun	biseksualitet m (definite singular biseksualiteti)
+farë	Noun	farë f (indefinite plural fara, definite singular fara, definite plural farat)
+man	Noun	man m (indefinite plural mana, definite singular mani, definite plural manat)
+sup	Noun	sup m (indefinite plural supe, definite singular supi)
+hënë	Noun	hënë f (indefinite plural hëna, definite singular hëna, definite plural hënat)
+dac	Noun	dac ?
+barna	Noun	barna f
+leksikologji	Noun	leksikologji f (definite singular leksikologjia)
+tel	Noun	tel
+dimër	Noun	dimër m (indefinite plural dimra, definite singular dimri, definite plural dimrat)
+fiziologji	Noun	fiziologji f (definite singular fiziologjia)
+orientim	Noun	orientim m (indefinite plural orientime, definite singular orientimi, definite plural orientimet)
+ekonomist	Noun	ekonomist m (indefinite plural ekonomistë, definite singular ekonomisti, definite plural ekonomistët)
+fjalë	Noun	fjalë f (indefinite plural fjalë, definite singular fjala, definite plural fjalët)
+dhe	Noun	dhe m (indefinite plural dhera, definite singular dheu, definite plural dherat)
+oficer	Noun	oficer
+dua	Noun	dua m
+plug	Noun	plug ?
+atribut	Noun	atribut
+bend	Noun	bend m
+top	Noun	top
+astrologji	Noun	astrologji f (definite singular astrologjia)
+fortësi	Noun	fortësi f (indefinite plural fortësi, definite singular fortësia, definite plural fortësitë)
+bythë	Noun	bythë f (indefinite plural bythë, definite singular bytha, definite plural bythët)
+duhan	Noun	duhan
+liri	Noun	liri f (indefinite plural liri, definite singular liria, definite plural liritë)
+funksion	Noun	funksion m (indefinite plural funksione, definite singular funksioni, definite plural funksionet)
+niob	Noun	niob
+aristokrat	Noun	aristokrat ?
+larva	Noun	larva
+shtëpi	Noun	shtëpi f (indefinite plural shtëpi, definite singular shtëpia, definite plural shtëpitë)
+bretkosë	Noun	bretkosë f (indefinite plural bretkosa, definite singular bretkosa, definite plural bretkosat)
+gjilpërë	Noun	gjilpërë f (indefinite plural gjilpëra, definite singular gjilpëra, definite plural gjilpërat)
+avull	Noun	avull m (indefinite plural avuj, definite singular avulli, definite plural avujt)
+vis	Noun	vis m (indefinite plural vise, definite singular visi, definite plural viset)
+kuti	Noun	kuti
+kuti	Noun	kuti m
+skllav	Noun	skllav m (indefinite plural skllavë, definite singular skllavi, definite plural skllavët); feminine equivalent skllave
+biologji	Noun	biologji f (definite singular biologjia)
+nektarinë	Noun	nektarinë f
+bal	Noun	bal m (indefinite plural bala, definite singular bali, definite plural balat)
+abazhur	Noun	abazhur m
+pjekuri	Noun	pjekuri f (definite singular pjekuria)
+tërësi	Noun	tërësi f (definite singular tërësia)
+delfin	Noun	delfin n (indefinite plural delfine, definite singular delfini, definite plural delfinet)
+kotec	Noun	kotec m
+bashkëpunëtor	Noun	bashkëpunëtor m (indefinite plural bashkëpunëtorë, definite singular bashkëpunëtori, definite plural bashkëpunëtorët)
+bakter	Noun	bakter m (indefinite plural baktere, definite singular bakteri, definite plural bakteret)
+axhë	Noun	axhë f (indefinite plural axha, definite singular axha, definite plural axhat)
+valixhe	Noun	valixhe f (indefinite plural valixhe, definite singular valixhja, definite plural valixhet)
+përvojë	Noun	përvojë f (indefinite plural përvoja, definite singular përvoja, definite plural përvojat)
+antimon	Noun	antimon ?
+qen	Noun	qen m (indefinite plural qene, definite singular qeni, definite plural qenet)
+not	Noun	not m
+matematikan	Noun	matematikan m (indefinite plural matematikanë, definite singular matematikani, definite plural matematikanët)
+veprim	Noun	veprim m (indefinite plural veprime, definite singular veprimi, definite plural veprimet)
+cup	Noun	cup ?
+tipar	Noun	tipar m (indefinite plural tipare, definite singular tipari, definite plural tiparet)
+panorama	Noun	panorama
+fier	Noun	fier m
+shqiponjë	Noun	shqiponjë f (indefinite plural shqiponja, definite singular shqiponja, definite plural shqiponjat)
+minuta	Noun	minuta f pl
+loc	Noun	loc m (indefinite plural loce, definite singular locja, definite plural locet)
+gjenealogji	Noun	gjenealogji f (indefinite plural gjenealogji, definite singular gjenealogjia, definite plural gjenealogjitë)
+orr	Noun	orr ?
+vrimë	Noun	vrimë f (indefinite plural vrima, definite singular vrima, definite plural vrimat)
+krap	Noun	krap m
+krap	Noun	krap m
+psikolog	Noun	psikolog m (indefinite plural psikologë, definite singular psikologu, definite plural psikologët)
+dhuratë	Noun	dhuratë f (indefinite plural dhurata, definite singular dhurata, definite plural dhuratat)
+rrëmujaxhi	Noun	rrëmujaxhi m (indefinite plural rrëmujaxhinj, definite singular rrëmujaxhiu, definite plural rrëmujaxhinjtë)
+zbulim	Noun	zbulim m (indefinite plural zbulime, definite singular zbulimi, definite plural zbulimet)
+lajm	Noun	lajm m (indefinite plural lajme, definite singular lajmi, definite plural lajmet)
+ulk	Noun	ulk m
+idealist	Noun	idealist m (indefinite plural idealistë, definite singular idealisti, definite plural idealistët)
+grek	Noun	grek m (feminine equivalent greke)
+epshmëri	Noun	epshmëri f (definite singular epshmëria)
+mangan	Noun	mangan ?
+bors	Noun	bors m (indefinite plural borsa)
+ironi	Noun	ironi f (definite singular ironi)
+shkronjë	Noun	shkronjë f (indefinite plural shkronja, definite singular shkronja, definite plural shkronjat)
+pot	Noun	pot m (indefinite plural pota, definite singular poti, definite plural potat)
+prapanicë	Noun	prapanicë f (indefinite plural prapanica, definite singular prapanica, definite plural prapanicat)
+virgjëreshë	Noun	virgjëreshë f (indefinite plural virgjëresha, definite singular virgjëresha, definite plural virgjëreshat)
+mys	Noun	mys m
+zdrukthëtar	Noun	zdrukthëtar m (indefinite plural zdrukthëtarë, definite singular zdrukthëtari, definite plural zdrukthëtarët)
+mjekër	Noun	mjekër f (indefinite plural mjekra, definite singular mjekra, definite plural mjekrat)
+qeveri	Noun	qeveri f (indefinite plural qeveri, definite singular qeveria, definite plural qeveritë)
+kombësi	Noun	kombësi f
+parazit	Noun	parazit m
+ve	Noun	ve f
+ve	Noun	ve f
+bilur	Noun	bilur ?
+harap	Noun	harap
+dem	Noun	dem m (indefinite plural dema, definite singular demi)
+ago	Noun	ago m
+lug	Noun	lug m
+mullar	Noun	mullar m
+kalla	Noun	kalla ?
+bolle	Noun	bolle m pl
+autor	Noun	autor m
+zhdukje	Noun	zhdukje f (indefinite plural zhdukje, definite singular zhdukja, definite plural zhdukjet)
+kore	Noun	kore f (indefinite plural kore, definite singular korja, definite plural koret)
+artist	Noun	artist m
+unë	Noun	unë f
+autograf	Noun	autograf
+vig	Noun	vig m (indefinite plural vigje, definite singular vigu, definite plural vigjet)
+skandal	Noun	skandal ?
+ver	Noun	ver m (plural verra)
+tres	Noun	tres (first-person singular past tense treta, participle tretur)
+grep	Noun	grep m
+zonë erogjene	Noun	zonë erogjene f (indefinite plural zona erogjene, definite singular zona erogjene, definite plural zonat erogjene)
+zot	Noun	zot m (indefinite plural zotër, definite singular zoti, definite plural zotat)
+zot	Noun	zot m (indefinite plural zotët, definite singular zoti)
+astronom	Noun	astronom
+grafik	Noun	grafik m (indefinite plural grafikë, definite singular grafiku, definite plural grafikët)
+gju	Noun	gju m (indefinite plural gjunjë, definite singular gjuri, definite plural gjunjtë)
+an	Noun	an m
+histori	Noun	histori f (indefinite plural histori, definite singular historia, definite plural historitë)
+bori	Noun	bori ?
+mali	Noun	mali ?
+turk	Noun	turk m (indefinite plural turq, definite singular turku, definite plural turqit)
+saç	Noun	saç ?
+stuhi	Noun	stuhi f (indefinite plural stuhi, definite singular stuhia, definite plural stuhitë)
+autopsi	Noun	autopsi
+pyetje	Noun	pyetje ?
+biograf	Noun	biograf ?
+gojë	Noun	gojë f (indefinite plural gojë, definite singular goja, definite plural gojët)
+ag	Noun	ag m (indefinite plural agje)
+mat	Noun	mat m
+hell	Noun	hell m
+qejf	Noun	qejf
+seks	Noun	seks m
+kurve	Noun	kurve f
+birë	Noun	birë f (indefinite plural bira, definite singular bira, definite plural birat)
+bagazh	Noun	bagazh m
+sëmundje	Noun	sëmundje f (indefinite plural sëmundje, definite singular sëmundja, definite plural sëmundjet)
+et	Noun	et f (indefinite plural etje, definite singular etja, definite plural etjet)
+shigjetë	Noun	shigjetë f (indefinite plural shigjeta, definite singular shigjeta, definite plural shigjetat)
+gjuhësi	Noun	gjuhësi f (definite singular gjuhësia)
+bum	Noun	bum ?
+jug	Noun	jug m (definite singular jugu)
+homoseksual	Noun	homoseksual m (indefinite plural homoseksualë, definite singular homoseksuali, definite plural homoseksualët)
+astronomi	Noun	astronomi f (definite singular astronomia)
+aeroport	Noun	aeroport ?
+mot	Noun	mot m
+zvarranik	Noun	zvarranik m (indefinite plural zvarranikë, definite singular zvarraniku, definite plural zvarranikët)
+dritë	Noun	dritë f (indefinite plural drita, definite singular drita, definite plural dritat)
+ekonomi	Noun	ekonomi f (indefinite plural ekonomi, definite singular ekonomia, definite plural ekonomitë)
+sy	Noun	sy m (indefinite plural sy, definite singular syri, definite plural sytë)
+uretër	Noun	uretër f (definite singular uretra)
+lakuriqësi	Noun	lakuriqësi f (definite singular lakuriqësia)
+lezbike	Noun	lezbike f (indefinite plural lezbike, definite singular lezbikja, definite plural lezbiket)
+bukë	Noun	bukë f (indefinite plural bukë, definite singular buka, definite plural bukët)
+verë	Noun	verë f
+verë	Noun	verë f (indefinite plural vera, definite singular vera, definite plural verat)
+cep	Noun	cep m (indefinite plural cepa, definite singular cepi)
+rrah	Noun	rrah m (indefinite plural rrahe, definite singular rrahu, definite plural rrahet)
+mënyrë	Noun	mënyrë f (indefinite plural mënyra, definite singular mënyra, definite plural mënyrat)
+mashkull	Noun	mashkull m (indefinite plural meshkuj, definite singular mashkulli, definite plural meshkujt)
+li	Noun	li f
+li	Noun	li m
+ligj	Noun	ligj m (indefinite plural ligje, definite singular ligji, definite plural ligjet)
+ejakulacion	Noun	ejakulacion m (indefinite plural ejakulacione, definite singular ejakulacioni, definite plural ejakulacionet)
+qirje	Noun	qirje f (indefinite plural qirje, definite singular qirja, definite plural qirjet)
+pleh	Noun	pleh m (indefinite plural plehra, definite singular plehu)
+apologji	Noun	apologji f (indefinite plural apologji, definite singular apologjia, definite plural apologjitë)
+xhami	Noun	xhami f (indefinite plural xhami, definite singular xhamia, definite plural xhamitë)
+aktor	Noun	aktor ?
+takat	Noun	takat m (indefinite plural takata, definite singular takati, definite plural takatat) [2][3]
+marihuana	Noun	marihuana f
+kulturë	Noun	kulturë f (indefinite plural kultura, definite singular kultura, definite plural kulturat)
+stan	Noun	stan m
+emtë	Noun	emtë f (indefinite plural emta, definite singular emta, definite plural emtat)
+mysliman	Noun	mysliman m (indefinite plural myslimanë, definite singular myslimani, definite plural myslimanët); feminine equivalent myslimane
+shtrembërim	Noun	shtrembërim m (indefinite plural shtrembërime, definite singular shtrembërimi, definite plural shtrembërimet)
+abak	Noun	abak
+homoseksualitet	Noun	homoseksualitet m (definite singular homoseksualiteti)
+haber	Noun	haber m
+aeroplan	Noun	aeroplan ?
+ari	Noun	ari m (indefinite plural arinj, definite singular ariu, definite plural arinjtë)
+bashkëndodhi	Noun	bashkëndodhi f (indefinite plural bashkëndodhi, definite singular bashkëndodhia, definite plural bashkëndodhitë)
+hidrat	Noun	hidrat m (indefinite plural hidrate, definite singular hidrati, definite plural hidratet)
+lem	Noun	lem m
+turp	Noun	turp m
+tu	Noun	tu ?
+pako	Noun	pako ?
+automobil	Noun	automobil
+përkthim	Noun	përkthim m (indefinite plural përkthime, definite singular përkthimi, definite plural përkthimet)
+ishull	Noun	ishull m (indefinite plural ishuj, definite singular ishulli, definite plural ishujt)
+trap	Noun	trap m
+mrekulli	Noun	mrekulli f (indefinite plural mrekulli, definite singular mrekullia, definite plural mrekullitë)
+qark	Noun	qark m (indefinite plural qarqe, definite singular qarku, definite plural qarqet)
+stinë	Noun	stinë f (indefinite plural stinë, definite singular stina, definite plural stinët)
+urinim	Noun	urinim m (indefinite plural urinime, definite singular urinimi, definite plural urinimet)
+skelet	Noun	skelet m (indefinite plural skeletë, definite singular skeleti, definite plural skeletët)
+vrimë e zezë	Noun	vrimë e zezë f (indefinite plural vrima të zeza, definite singular vrima e zezë, definite plural vrimat e zeza)
+byk	Noun	byk m
+sistem	Noun	sistem m (indefinite plural sisteme, definite singular sistemi, definite plural sistemet)
+mes	Noun	mes m
+lëndim	Noun	lëndim m (indefinite plural lëndime, definite singular lëndimi, definite plural lëndimet)
+varg	Noun	varg m
+autobus	Noun	autobus ?
+farmakologji	Noun	farmakologji f
+biznes	Noun	biznes m
+ngjyrë	Noun	ngjyrë f (indefinite plural ngjyra, definite singular ngjyra, definite plural ngjyrat)
+burrë	Noun	burrë m (indefinite plural burra, definite singular burri, definite plural burrat)
+dashuri	Noun	dashuri f (indefinite plural dashuri, definite singular dashuria, definite plural dashuritë)
+alfabet	Noun	alfabet m (definite singular alfabeti)
+keqkuptim	Noun	keqkuptim m (indefinite plural keqkuptime, definite singular keqkuptimi, definite plural keqkuptimet)
+kut	Noun	kut m
+be	Noun	be f (indefinite plural be, definite singular beja, definite plural betë)
+faturë	Noun	faturë f (indefinite plural fatura, definite singular fatura, definite plural faturat)
+shigjetar	Noun	shigjetar m (indefinite plural shigjetarë, definite singular shigjetari, definite plural shigjetarët)
+fitore	Noun	fitore f (indefinite plural fitore, definite singular fitorja, definite plural fitoret)
+hile	Noun	hile f (indefinite plural hile, definite singular hilja, definite plural hilet)
+kuçedër	Noun	kuçedër f (indefinite plural kuçedra, definite singular kuçedra, definite plural kuçedrat)
+peng	Noun	peng m (indefinite plural pengje, definite singular pengu, definite plural pengjet)
+urim	Noun	urim m (indefinite plural urime, definite singular urimi, definite plural urimet)
+zoologji	Noun	zoologji f (definite singular zoologjia)
+hak	Noun	hak f (indefinite plural haka, definite singular haka, definite plural hakat)
+enigmë	Noun	enigmë f (indefinite plural enigma, definite singular enigma, definite plural enigmat)
+partner	Noun	partner m (indefinite plural partnerë, definite singular partneri, definite plural partnerët)
+xixëllonjë	Noun	xixëllonjë f (indefinite plural xixëllonja, definite singular xixëllonja, definite plural xixëllonjat)
+pe	Noun	pe m (indefinite plural penjë, definite singular peri, definite plural penjtë)
+ngritje	Noun	ngritje f
+biletë	Noun	biletë f (indefinite plural bileta, definite singular bileta, definite plural biletat)
+qelizë	Noun	qelizë f (indefinite plural qeliza, definite singular qeliza, definite plural qelizat)
+log	Noun	log m (indefinite plural logje, definite singular logu, definite plural logët)
+kthetër	Noun	kthetër f (indefinite plural kthetra, definite singular kthetra, definite plural kthetrat)
+sulmim	Noun	sulmim m (indefinite plural sulmime, definite singular sulmimi, definite plural sulmimet)
+kurvë	Noun	kurvë f (indefinite plural kurva, definite singular kurva, definite plural kurvat)
+vlug	Noun	vlug m (indefinite plural vlugje, definite singular vlugu, definite plural vlugjet)
+kronologji	Noun	kronologji f (indefinite plural kronologji, definite singular kronologjia, definite plural kronologjitë)
+bjond	Noun	bjond m (indefinite plural bjondë, definite singular bjondi, definite plural bjondët); feminine equivalent bjonde
+parabolë	Noun	parabolë f (indefinite plural parabola, definite singular parabola, definite plural parabolat)
+fat	Noun	fat m
+kot	Noun	kot m
+bak	Noun	bak m (indefinite plural baqe, definite singular baku, definite plural baqet)
+helm	Noun	helm m
+pederast	Noun	pederast m
+rajon	Noun	rajon m (indefinite plural rajone, definite singular rajoni, definite plural rajonet)
+emër	Noun	emër m (indefinite plural emra, definite singular emri, definite plural emrat)
+sandali	Noun	sandali ?
+veçanti	Noun	veçanti f (indefinite plural veçanti, definite singular veçantia, definite plural veçantitë)
+bole	Noun	bole ?
+viti	Noun	viti pl
+dardhë	Noun	dardhë f (indefinite plural dardha, definite singular dardha)
+lule	Noun	lule f (indefinite plural lule, definite singular lulja, definite plural lulet)
+kapak	Noun	kapak m (indefinite plural kapakë, definite singular kapaku, definite plural kapakët)
+rrahje	Noun	rrahje f (definite singular rrahja)
+antonim	Noun	antonim m (indefinite plural antonime, definite singular antonimi, definite plural antonimet)
+paradigmë	Noun	paradigmë f (indefinite plural paradigma, definite singular paradigma, definite plural paradigmat)
+astronaut	Noun	astronaut
+zyrë	Noun	zyrë f (indefinite plural zyra, definite singular zyra, definite plural zyrat)
+absurditet	Noun	absurditet
+femër	Noun	femër f (indefinite plural femra, definite singular femra, definite plural femrat)
+punësi	Noun	punësi f (definite singular punësia)
+bel	Noun	bel m
+luftëtar	Noun	luftëtar m (indefinite plural luftëtarë, definite singular luftëtari, definite plural luftëtarët)
+gjithësi	Noun	gjithësi f (indefinite plural gjithësi, definite singular gjithësia, definite plural gjithësitë)
+fluer	Noun	fluer m
+anë	Noun	anë f
+anë	Noun	anë f
+anë	Noun	anë f
+vile	Noun	vile f (indefinite plural vile, definite singular vilja, definite plural vilet)
+barut	Noun	barut m
+abanoz	Noun	abanoz
+deve	Noun	deve ? (indefinite plural deveja)
+seksologji	Noun	seksologji f (definite singular seksologjia)
+beqar	Noun	beqar m (indefinite plural beqarë, definite singular beqari, definite plural beqarët)
+aerodrom	Noun	aerodrom m
+mendje	Noun	mendje f (indefinite plural mendje, definite singular mendja, definite plural mendjet)
+acetilen	Noun	acetilen
+burg	Noun	burg m (indefinite plural burgje, definite singular burgu, definite plural burgjet)
+rit	Noun	rit ?
+pohim	Noun	pohim m (indefinite plural pohime, definite singular pohimi, definite plural pohimet)
+bun	Noun	bun f
+plak	Noun	plak m (feminine equivalent plakë)
+vaj	Noun	vaj m (indefinite plural vajra, definite singular vaji, definite plural vajrat)
+ves	Noun	ves m
+haje	Noun	haje f (indefinite plural haje, definite singular haja, definite plural hajet)
+plumb	Noun	plumb m
+fytyrë	Noun	fytyrë f (indefinite plural fytyra, definite singular fytyra, definite plural fytyrat)
+gjenocid	Noun	gjenocid m (indefinite plural gjenocide, definite singular gjenocidi, definite plural gjenocidet)
+rade	Noun	rade f (indefinite plural rade, definite singular radeja, definite plural radejat)
+kar	Noun	kar m (indefinite plural kar, definite singular kari, definite plural karet)
+bark	Noun	bark m (indefinite plural barqe, definite singular barku, definite plural barqet)
+lodër	Noun	lodër f (indefinite plural lodra, definite singular lodra, definite plural lodrat)
+shqyptar	Noun	shqyptar m (indefinite plural shqyptar, definite singular shqyptari, definite plural shqyptarat) [1]
+mulli	Noun	mulli m
+zhvillim	Noun	zhvillim m (indefinite plural zhvillime, definite singular zhvillimi, definite plural zhvillimet)
+gaz	Noun	gaz m
+tul	Noun	tul f (indefinite plural tule, definite singular tulja, definite plural tulet)
+vampir	Noun	vampir m (indefinite plural vampirë, definite singular vampiri, definite plural vampirët)
+ujë	Noun	ujë m (indefinite plural ujëra, definite singular uji, definite plural ujërat)
+pavarësi	Noun	pavarësi f (definite singular pavarësia)
+hasmëri	Noun	hasmëri f (indefinite plural hasmëri, definite singular hasmëria, definite plural hasmëritë)
+libër	Noun	libër m (indefinite plural libra, definite singular libri, definite plural librat)
+hir	Noun	hir m
+ëndërr	Noun	ëndërr f (indefinite plural ëndrra, definite singular ëndrra, definite plural ëndrrat)
+manaferrë	Noun	manaferrë f (indefinite plural manaferra, definite singular manaferra, definite plural manaferrat)
+porr	Noun	porr m (indefinite plural porrce, definite singular porrci, definite plural porrcet)
+porr	Noun	porr m
+dorashkë	Noun	dorashkë f (indefinite plural dorashka, definite singular dorashka, definite plural dorashkat)
+kurva	Noun	kurva f
+filxhan	Noun	filxhan m (indefinite plural filxhanë, definite singular filxhani, definite plural filxhanët)
+arg	Noun	arg m
+anus	Noun	anus m
+ber	Noun	ber m (indefinite plural berë, definite singular beri, definite plural berët)
+mel	Noun	mel m (definite singular meli)

@@ -1,0 +1,69 @@
+general	Adjective	general m (feminine singular generala, masculine plural generai, feminine plural generales)
+nia	Adjective	nia
+certa	Adjective	certa f sg
+si	Adjective	si
+santa	Adjective	santa
+vint	Adjective	vint
+fedeles	Adjective	fedeles f pl
+dut	Adjective	dut m (feminine duta)
+granda	Adjective	granda
+mesan	Adjective	mesan m (feminine singular mesana, masculine plural mesans, feminine plural mesanes)
+uni	Adjective	uni (invariable)
+populer	Adjective	populer m (feminine singular populera, masculine plural populers, feminine plural populeres)
+bon	Adjective	bon m (feminine singular bona, masculine plural bons, feminine plural bones)
+piens	Adjective	piens m pl
+militer	Adjective	militer m (feminine singular militra, masculine plural militri, feminine plural militres)
+economic	Adjective	economic m pl
+legitim	Adjective	legitim m (feminine singular legitima, masculine plural legitims, feminine plural legitimes)
+set	Adjective	set
+piena	Adjective	piena
+privat	Adjective	privat m (feminine singular privada, masculine plural privac, feminine plural privadas)
+cert	Adjective	cert m (feminine singular certa, masculine plural certs, feminine plural certes)
+normal	Adjective	normal m (feminine singular normala, masculine plural normai, feminine plural normales)
+fisic	Adjective	fisic m pl
+moral	Adjective	moral m (feminine singular morala, masculine plural morai, feminine plural morales)
+present	Adjective	present m (feminine singular presenta, masculine plural presenc, feminine plural presentes)
+unic	Adjective	unic m (feminine singular unica, masculine plural unic, feminine plural uniches)
+apost	Adjective	apost m (feminine singular aposta, masculine plural aposts, feminine plural apostes)
+ultim	Adjective	ultim m (feminine singular ultima, masculine plural ultimi, feminine plural ultimes)
+aut	Adjective	aut m (feminine singular auta, masculine plural auc, feminine plural autes)
+fat	Adjective	fat m (feminine singular fata, masculine plural fats, feminine plural fates)
+un	Adjective	un
+piec	Adjective	piec
+leal	Adjective	leal m (feminine singular leala, masculine plural leai, feminine plural leales)
+trei	Adjective	trei
+sanc	Adjective	sanc m pl
+uman	Adjective	uman m (feminine singular umana, masculine plural umans, feminine plural umanes)
+prim	Adjective	prim m (feminine singular prima, masculine plural primi, feminine plural primes)
+parlamenter	Adjective	parlamenter m (feminine singular parlamentera, masculine plural parlamenters, feminine plural parlamenteres)
+democratic	Adjective	democratic m pl
+final	Adjective	final m (feminine singular finala, masculine plural finai, feminine plural finales)
+fata	Adjective	fata
+autonom	Adjective	autonom m (feminine singular autonoma, masculine plural autonoms, feminine plural autonomes)
+materiel	Adjective	materiel m (feminine singular materiela, masculine plural materiei, feminine plural materieles)
+bones	Adjective	bones f pl
+permanent	Adjective	permanent m (feminine singular permanenta, masculine plural permanents, feminine plural permanentes)
+ritual	Adjective	ritual m (feminine singular rituala, masculine plural rituai, feminine plural rituales)
+statistic	Adjective	statistic m pl
+ot	Adjective	ot
+ultima	Adjective	ultima
+bona	Adjective	bona f
+minima	Adjective	minima
+gran	Adjective	gran m (feminine singular granda, masculine plural gragn, feminine plural grandes)
+ampla	Adjective	ampla
+local	Adjective	local m (feminine singular locala, masculine plural locai, feminine plural locales)
+talians	Adjective	talians m pl
+primi	Adjective	primi m pl
+talian	Adjective	talian m (feminine singular taliana, masculine plural talians, feminine plural talianes)
+ester	Adjective	ester m (feminine singular estera, masculine plural esters, feminine plural esteres)
+chel	Adjective	chel m (feminine singular chela, masculine plural chei, feminine plural cheles)
+snel	Adjective	snel
+otanta	Adjective	otanta
+una	Adjective	una f
+artistisch	Adjective	artistisch m (feminine singular artistiscia, masculine plural artistisc, feminine plural artistisces)
+nuef	Adjective	nuef m (feminine singular nueva, masculine plural nuefs, feminine plural nueves)
+nuef	Adjective	nuef
+cater	Adjective	cater
+discipliner	Adjective	discipliner m (feminine singular disciplinera, masculine plural disciplinei, feminine plural disciplineres)
+critic	Adjective	critic m pl
+minim	Adjective	minim m (feminine singular minima, masculine plural minims, feminine plural minimes)

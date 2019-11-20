@@ -1,0 +1,94 @@
+niedzela	Noun	niedzela
+żona	Noun	żona f
+góra	Noun	góra f
+europ	Noun	europ
+broda	Noun	broda f
+dama	Noun	dama f
+noc	Noun	noc f
+człowiek	Noun	człowiek m
+głowa	Noun	głowa f
+jachta	Noun	jachta f
+jadro	Noun	jadro n
+bót	Noun	bót
+rujan	Noun	rujan
+dôwôcz	Noun	dôwôcz
+serce	Noun	serce n
+narzãdzôcz	Noun	narzãdzôcz
+pszczoła	Noun	pszczoła f
+roda	Noun	roda f
+cél	Noun	cél m
+himn	Noun	himn m
+słowo	Noun	słowo n
+latawiskò	Noun	latawiskò n
+róg	Noun	róg m
+paja	Noun	paja f
+abecadło	Noun	abecadło
+wòłiwôcz	Noun	wòłiwôcz
+gard	Noun	gard m
+lëstopadnik	Noun	lëstopadnik
+fela	Noun	fela f
+wtórk	Noun	wtórk
+piątk	Noun	piątk
+zélnik	Noun	zélnik
+rek	Noun	rek m
+klucz	Noun	klucz m
+sklep	Noun	sklep m
+barzda	Noun	barzda f
+rum	Noun	rum m
+rodzôcz	Noun	rodzôcz
+pòniedzôłk	Noun	pòniedzôłk
+krew	Noun	krew f
+Jastra	Noun	Jastra n pl
+łżëkwiôt	Noun	łżëkwiôt
+głos	Noun	głos m
+kam	Noun	kam m
+brat	Noun	brat m
+samar	Noun	samar
+nos	Noun	nos m
+las	Noun	las m
+arbata	Noun	arbata f
+bóg	Noun	bóg m
+żaba	Noun	żaba f
+datiw	Noun	datiw m
+pùjk	Noun	pùjk m
+lato	Noun	lato n
+tidzéń	Noun	tidzéń m
+séwnik	Noun	séwnik
+gòdnik	Noun	gòdnik
+strumiannik	Noun	strumiannik
+planéta	Noun	planéta
+stëcznik	Noun	stëcznik
+strzoda	Noun	strzoda
+piec	Noun	piec m
+môlnik	Noun	môlnik
+fana	Noun	fana f
+barda	Noun	barda f
+noga	Noun	noga f
+kapka	Noun	kapka f
+winowôcz	Noun	winowôcz
+miech	Noun	miech m
+stolem	Noun	stolem m (plural stolemë)
+złoto	Noun	złoto n
+camer	Noun	camer m
+chléb	Noun	chléb
+rënk	Noun	rënk m (plural rënczi)
+jajco	Noun	jajco n
+môj	Noun	môj
+kóń	Noun	kóń m
+czerwińc	Noun	czerwińc
+dóm	Noun	dóm m
+ząb	Noun	ząb m
+lëpinc	Noun	lëpinc
+haka	Noun	haka f
+klin	Noun	klin m
+akùzatiw	Noun	akùzatiw m
+czwôrtk	Noun	czwôrtk
+òjc	Noun	òjc m
+chłop	Noun	chłop m
+aka	Noun	aka
+Jastrë	Noun	Jastrë f pl
+barna	Noun	barna f
+kòt	Noun	kòt m
+sobòta	Noun	sobòta f
+gromicznik	Noun	gromicznik
+nazéwôcz	Noun	nazéwôcz m

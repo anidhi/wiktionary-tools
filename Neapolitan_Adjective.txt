@@ -1,0 +1,11 @@
+sujo	Adjective	sujo (third-person singular possessive of masculine singular, of feminine singular soja, of masculine plural suoje, of feminine plural soje)
+soja	Adjective	soja
+mìa	Adjective	mìa f (first person singular possessive)
+auto	Adjective	auto m (feminine auta, m plural auti, f plural aute) (Cleanup of this inflection is being sought) 
+curto	Adjective	curto
+mèe	Adjective	mèe f pl (first person singular possessive)
+nòste	Adjective	nòste f pl (first-person plural possessive)
+míccio	Adjective	míccio (feminine singular miccia, plural micce)
+mìo	Adjective	mìo (first-person singular possessive of masculine singular, of feminine singular mìa, of masculine plural mìeje, of feminine plural mèje or mèe)
+longa	Adjective	longa f sg
+chille	Adjective	chille

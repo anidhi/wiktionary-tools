@@ -1,0 +1,66 @@
+pære	Noun	pære (plural pærit)
+pana	Noun	pana (plural panat)
+inuit	Noun	inuit
+biografi	Noun	biografi (plural biografit)
+anaana	Noun	anaana (plural anaanat)
+boksit	Noun	boksit
+ui	Noun	ui (plural uit)
+æblejuice	Noun	æblejuice
+bussi	Noun	bussi (plural bussit)
+qulleq	Noun	qulleq (plural qulliit)
+taxa	Noun	taxa
+guuti	Noun	guuti (plural guutit)
+inuk	Noun	inuk (plural inuit)
+tii	Noun	tii
+danskeq	Noun	danskeq
+ikinngut	Noun	ikinngut (plural ikinngutit)
+angut	Noun	angut (plural angutit)
+æbleskive	Noun	æbleskive (plural æbleskivit)
+nakorsaataarniarfik	Noun	nakorsaataarniarfik (plural nakorsaataarniarfiit)
+batteri	Noun	batteri (plural batterit)
+bakteria	Noun	bakteria
+sava	Noun	sava (plural savat)
+bakki	Noun	bakki (plural bakkit)
+imaq	Noun	imaq (plural imat)
+boksi	Noun	boksi (plural boksit)
+ataata	Noun	ataata (plural ataatat)
+blanketti	Noun	blanketti (plural blankettit)
+kommunisti	Noun	kommunisti (plural kommunistit)
+whisky	Noun	whisky (plural whiskyt)
+qarasaasiaq	Noun	qarasaasiaq (plural qarasaasiat)
+pilu	Noun	pilu
+meeraq	Noun	meeraq (plural meeqqat)
+ini	Noun	ini (plural init)
+basaari	Noun	basaari (plural basaarit)
+bingo	Noun	bingo
+matu	Noun	matu (plural matut)
+qaqqaq	Noun	qaqqaq (plural qaqqat)
+pølse	Noun	pølse (plural pølsit)
+banjo	Noun	banjo
+beton	Noun	beton
+raaja	Noun	raaja (plural raajat)
+kondomi	Noun	kondomi
+ajaa	Noun	ajaa
+bamse	Noun	bamse
+nikkeli	Noun	nikkeli
+taggit	Noun	taggit (plural taggisit)
+børnehave	Noun	børnehave (plural børnehavit)
+frimærke	Noun	frimærke (plural frimærkit)
+biologi	Noun	biologi (plural biologit)
+ulloq	Noun	ulloq (plural ullut)
+ukioq	Noun	ukioq (plural ukiut)
+nuna	Noun	nuna (plural nunat)
+napparsimmavik	Noun	napparsimmavik (plural napparsimmaviit)
+bronze	Noun	bronze
+isi	Noun	isi (plural isit)
+isi	Noun	isi (plural isit)
+ani	Noun	ani
+tupilak	Noun	tupilak (plural tupilaat)
+uimi	Noun	uimi
+aviisi	Noun	aviisi (plural aviisit)
+uit	Noun	uit
+arnaq	Noun	arnaq (plural arnat)
+blokki	Noun	blokki (plural blokkit)
+nuka	Noun	nuka
+banki	Noun	banki (plural bankit)
+illu	Noun	illu (plural illut)

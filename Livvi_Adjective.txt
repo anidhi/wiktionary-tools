@@ -1,0 +1,4 @@
+kymmenes	Adjective	kymmenes
+kaheksas	Adjective	kaheksas
+kolmas	Adjective	kolmas
+toine	Adjective	toine

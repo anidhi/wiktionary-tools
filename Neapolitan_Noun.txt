@@ -1,0 +1,34 @@
+sora	Noun	sora
+pisto	Noun	pisto m (plural piste)
+piste	Noun	piste m
+tuppo	Noun	tuppo m (please add the plural)
+blo	Noun	blo m
+accio	Noun	accio m
+tata	Noun	tata
+milo	Noun	milo m
+apa	Noun	apa f (plural ape)
+vite	Noun	vite
+rota	Noun	rota f (plural rote)
+luna	Noun	luna f (please add the plural)
+bite	Noun	bite
+paro	Noun	paro m
+ape	Noun	ape
+mano	Noun	mano f (plural mmane)
+cape	Noun	cape f
+pressa	Noun	pressa
+acchiare	Noun	acchiare m pl
+mana	Noun	mana f
+ble	Noun	ble ? (please add the plural)
+bita	Noun	bita f (plural bite)
+nonna	Noun	nonna f (please add the plural)
+vita	Noun	vita f (plural vite)
+punio	Noun	punio m (please add the plural)
+terra	Noun	terra f (plural terre)
+nenna	Noun	nenna f (please add the plural)
+pili	Noun	pili m
+lapa	Noun	lapa f (please add the plural)
+seca	Noun	seca f
+mare	Noun	mare
+rica	Noun	rica f (please add the plural)
+anno	Noun	anno m (plural anne)
+frate	Noun	frate m

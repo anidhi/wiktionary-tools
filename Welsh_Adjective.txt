@@ -1,0 +1,59 @@
+du	Adjective	du (feminine singular du, plural duon, equative dued, comparative duach, superlative duaf)
+gul	Adjective	gul
+oren	Adjective	oren (feminine singular oren, plural oren)
+trom	Adjective	trom
+onest	Adjective	onest
+pen	Adjective	pen (equative penned, comparative pennach, superlative pennaf)
+duon	Adjective	duon pl
+horen	Adjective	horen
+galed	Adjective	galed
+phur	Adjective	phur
+well	Adjective	well
+gref	Adjective	gref
+hud	Adjective	hud (feminine singular hud, plural hud)
+bur	Adjective	bur
+bob	Adjective	bob
+union	Adjective	union (feminine singular union, plural union)
+ber	Adjective	ber
+lai	Adjective	lai
+pur	Adjective	pur (feminine singular pur, plural pur, equative pured, comparative purach, superlative puraf)
+clou	Adjective	clou (feminine singular clou, plural clou, equative cloued, comparative clouach, superlative clouaf)
+sech	Adjective	sech
+hir	Adjective	hir (feminine singular hir, plural hirion, equative cyhyd, comparative hwy, superlative hwyaf)
+hir	Adjective	hir
+ofer	Adjective	ofer (feminine singular ofer, plural ofer, equative ofered, comparative oferach, superlative oferaf)
+del	Adjective	del
+dim	Adjective	dim
+mad	Adjective	mad (feminine singular mad, plural mad)
+dal	Adjective	dal
+can	Adjective	can
+un	Adjective	un
+mach	Adjective	mach
+glas	Adjective	glas (feminine singular glas, plural gleision, equative glased, comparative glasach, superlative glasaf)
+myr	Adjective	myr
+gryf	Adjective	gryf
+wen	Adjective	wen
+teg	Adjective	teg (feminine singular teg, plural teg, equative teced, comparative tecach, superlative tecaf)
+trist	Adjective	trist (feminine singular trist, plural trist, equative tristed, comparative tristach, superlative tristaf)
+de	Adjective	de (feminine singular de, plural de)
+nes	Adjective	nes (superlative nesaf)
+da	Adjective	da (feminine singular da, plural da, equative cystal, comparative gwell, superlative gorau)
+tal	Adjective	tal (feminine singular tal, plural tal)
+gan	Adjective	gan
+buan	Adjective	buan (feminine singular buan, plural buain, equative buaned, comparative buanach, superlative buanaf)
+cu	Adjective	cu (feminine singular cu, plural cu)
+dew	Adjective	dew
+deg	Adjective	deg
+fer	Adjective	fer
+braith	Adjective	braith f
+gwin	Adjective	gwin (feminine singular gwin, plural gwin)
+gwir	Adjective	gwir (feminine singular gwir, plural gwir)
+las	Adjective	las
+pert	Adjective	pert (feminine singular pert, plural pert)
+cau	Adjective	cau (feminine singular cau, plural cau, equative ceued, comparative ceuach, superlative ceuaf)
+hoff	Adjective	hoff (feminine singular hoff, plural hoff)
+mer	Adjective	mer
+hen	Adjective	hen (feminine singular hen, plural hen, equative hened, comparative henach, superlative henaf)
+ail	Adjective	ail (feminine singular ail, plural ail, not comparable)
+ir	Adjective	ir (feminine singular ir, plural irion, equative ired, comparative irach, superlative iraf)
+fyr	Adjective	fyr

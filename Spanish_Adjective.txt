@@ -1,0 +1,739 @@
+militar	Adjective	militar (plural militares)
+regulativa	Adjective	regulativa f
+acordado	Adjective	acordado (feminine singular acordada, masculine plural acordados, feminine plural acordadas)
+inglés	Adjective	inglés (feminine singular inglesa, masculine plural ingleses, feminine plural inglesas)
+leve	Adjective	leve (plural leves)
+adverbial	Adjective	adverbial (plural adverbiales)
+armada	Adjective	armada f sg
+oculto	Adjective	oculto (feminine singular oculta, masculine plural ocultos, feminine plural ocultas)
+lateral	Adjective	lateral (plural laterales)
+linear	Adjective	linear (plural lineares)
+racista	Adjective	racista (plural racistas)
+franca	Adjective	franca f sg
+hexagonal	Adjective	hexagonal (plural hexagonales)
+atrevido	Adjective	atrevido (feminine singular atrevida, masculine plural atrevidos, feminine plural atrevidas)
+lila	Adjective	lila (plural lilas)
+armenia	Adjective	armenia f sg
+formular	Adjective	formular (plural formulares)
+parco	Adjective	parco (feminine singular parca, masculine plural parcos, feminine plural parcas)
+malva	Adjective	malva (plural malvas)
+abacial	Adjective	abacial (plural abaciales)
+lógico	Adjective	lógico (feminine singular lógica, masculine plural lógicos, feminine plural lógicas)
+alemán	Adjective	alemán (feminine singular alemana, masculine plural alemanes, feminine plural alemanas)
+rusa	Adjective	rusa f sg
+media	Adjective	media f sg
+bretón	Adjective	bretón (plural bretones)
+remoto	Adjective	remoto (feminine singular remota, masculine plural remotos, feminine plural remotas)
+plural	Adjective	plural (plural plurales)
+klingon	Adjective	klingon (invariable)
+territorial	Adjective	territorial (plural territoriales)
+rudo	Adjective	rudo (feminine singular ruda, masculine plural rudos, feminine plural rudas)
+filipino	Adjective	filipino (feminine singular filipina, masculine plural filipinos, feminine plural filipinas)
+extra	Adjective	extra (plural extras)
+chato	Adjective	chato (feminine singular chata, masculine plural chatos, feminine plural chatas)
+maligno	Adjective	maligno (feminine singular maligna, masculine plural malignos, feminine plural malignas)
+principal	Adjective	principal (plural principales)
+frontal	Adjective	frontal (plural frontales)
+bisexual	Adjective	bisexual (plural bisexuales)
+lechar	Adjective	lechar (plural lechares)
+triangular	Adjective	triangular (plural triangulares)
+extrasolar	Adjective	extrasolar (plural extrasolares)
+tusa	Adjective	tusa f pl
+sereno	Adjective	sereno (feminine singular serena, masculine plural serenos, feminine plural serenas)
+orientalista	Adjective	orientalista (plural orientalistas)
+cultas	Adjective	cultas f pl
+casta	Adjective	casta f sg
+catalán	Adjective	catalán (feminine singular catalana, masculine plural catalanes, feminine plural catalanas)
+barbera	Adjective	barbera (plural barberas)
+surrealista	Adjective	surrealista (plural surrealistas)
+alternativa	Adjective	alternativa f sg
+focal	Adjective	focal (plural focales)
+transversal	Adjective	transversal (plural transversales)
+bemol	Adjective	bemol (plural bemoles)
+problemático	Adjective	problemático (feminine singular problemática, masculine plural problemáticos, feminine plural problemáticas)
+perineal	Adjective	perineal (plural perineales)
+definido	Adjective	definido (feminine singular definida, masculine plural definidos, feminine plural definidas)
+sacro	Adjective	sacro (feminine singular sacra, masculine plural sacros, feminine plural sacras)
+corrector	Adjective	corrector (feminine singular correctora, masculine plural correctores, feminine plural correctoras)
+quieto	Adjective	quieto (feminine singular quieta, masculine plural quietos, feminine plural quietas)
+plata	Adjective	plata (plural platas)
+chic	Adjective	chic (plural chics)
+anual	Adjective	anual (plural anuales)
+puto	Adjective	puto (feminine singular puta, masculine plural putos, feminine plural putas)
+erótico	Adjective	erótico (feminine singular erótica, masculine plural eróticos, feminine plural eróticas)
+delicado	Adjective	delicado (feminine singular delicada, masculine plural delicados, feminine plural delicadas)
+buga	Adjective	buga (plural bugas)
+meticuloso	Adjective	meticuloso (feminine singular meticulosa, masculine plural meticulosos, feminine plural meticulosas)
+traductor	Adjective	traductor (feminine singular traductora, masculine plural traductores, feminine plural traductoras)
+azulado	Adjective	azulado (feminine singular azulada, masculine plural azulados, feminine plural azuladas)
+bebido	Adjective	bebido (feminine singular bebida, masculine plural bebidos, feminine plural bebidas)
+barato	Adjective	barato (feminine singular barata, masculine plural baratos, feminine plural baratas)
+casto	Adjective	casto (feminine singular casta, masculine plural castos, feminine plural castas)
+hutu	Adjective	hutu (plural hutus)
+lolo	Adjective	lolo (feminine singular lola, masculine plural lolos, feminine plural lolas)
+pasas	Adjective	pasas f pl
+administrativa	Adjective	administrativa f sg
+caros	Adjective	caros m pl
+malitas	Adjective	malitas
+puro	Adjective	puro (feminine singular pura, masculine plural puros, feminine plural puras)
+gradual	Adjective	gradual (plural graduales)
+plácido	Adjective	plácido (feminine singular plácida, masculine plural plácidos, feminine plural plácidas)
+cara	Adjective	cara f sg
+deicida	Adjective	deicida (plural deicidas)
+salvo	Adjective	salvo (feminine singular salva, masculine plural salvos, feminine plural salvas)
+excitado	Adjective	excitado (feminine singular excitada, masculine plural excitados, feminine plural excitadas)
+global	Adjective	global (plural globales)
+bi	Adjective	bi (invariable)
+baptista	Adjective	baptista (plural baptistas)
+bomba	Adjective	bomba f sg
+minimalista	Adjective	minimalista (plural minimalistas)
+oral	Adjective	oral (plural orales)
+cardinal	Adjective	cardinal (plural cardinales)
+genial	Adjective	genial (plural geniales)
+marxista	Adjective	marxista (plural marxistas)
+bonitas	Adjective	bonitas f pl
+verde	Adjective	verde (plural verdes)
+hard	Adjective	hard (invariable)
+aborigen	Adjective	aborigen (plural aborígenes)
+tetragonal	Adjective	tetragonal (plural tetragonales)
+leves	Adjective	leves
+lector	Adjective	lector (feminine singular lectora, masculine plural lectores, feminine plural lectoras)
+lenta	Adjective	lenta f sg
+ajada	Adjective	ajada
+testicular	Adjective	testicular (plural testiculares)
+mayor	Adjective	mayor (plural mayores)
+tano	Adjective	tano (feminine singular tana, masculine plural tanos, feminine plural tanas)
+decimal	Adjective	decimal (plural decimales)
+fino	Adjective	fino (feminine singular fina, masculine plural finos, feminine plural finas)
+censor	Adjective	censor (feminine singular censora, masculine plural censores, feminine plural censoras)
+aviar	Adjective	aviar (plural aviares)
+inquieto	Adjective	inquieto (feminine singular inquieta, masculine plural inquietos, feminine plural inquietas)
+egeo	Adjective	egeo (feminine singular egea, masculine plural egeos, feminine plural egeas)
+curro	Adjective	curro (feminine singular curra, masculine plural curros, feminine plural curras)
+episcopal	Adjective	episcopal (plural episcopales)
+magistral	Adjective	magistral (plural magistrales)
+virtuoso	Adjective	virtuoso (feminine singular virtuosa, masculine plural virtuosos, feminine plural virtuosas)
+virtuoso	Adjective	virtuoso (feminine singular virtuosa, masculine plural virtuosos, feminine plural virtuosas)
+distal	Adjective	distal (plural distales)
+pompa	Adjective	pompa
+tal	Adjective	tal (plural tales)
+darwinista	Adjective	darwinista (plural darwinistas)
+cuidadoso	Adjective	cuidadoso (feminine singular cuidadosa, masculine plural cuidadosos, feminine plural cuidadosas)
+dual	Adjective	dual (plural duales)
+vital	Adjective	vital (plural vitales)
+auxiliar	Adjective	auxiliar (plural auxiliares)
+caras	Adjective	caras f pl
+gris	Adjective	gris (plural grises)
+serbia	Adjective	serbia f sg
+continuo	Adjective	continuo (feminine singular continua, masculine plural continuos, feminine plural continuas)
+apropriado	Adjective	apropriado (feminine singular apropriada, masculine plural apropriados, feminine plural apropriadas)
+accidental	Adjective	accidental (plural accidentales)
+copta	Adjective	copta
+iletrado	Adjective	iletrado (feminine singular iletrada, masculine plural iletrados, feminine plural iletradas)
+alba	Adjective	alba f sg
+acerbo	Adjective	acerbo (feminine singular acerba, masculine plural acerbos, feminine plural acerbas)
+medio	Adjective	medio (feminine singular media, masculine plural medios, feminine plural medias)
+subversivo	Adjective	subversivo (feminine singular subversiva, masculine plural subversivos, feminine plural subversivas)
+literal	Adjective	literal (plural literales)
+realista	Adjective	realista (plural realistas)
+constrictor	Adjective	constrictor (feminine singular constrictora, masculine plural constrictores, feminine plural constrictoras)
+novena	Adjective	novena f sg
+sano	Adjective	sano (feminine singular sana, masculine plural sanos, feminine plural sanas)
+pueril	Adjective	pueril (plural pueriles)
+mucha	Adjective	mucha f sg
+falso	Adjective	falso (feminine singular falsa, masculine plural falsos, feminine plural falsas)
+revisor	Adjective	revisor (feminine singular revisora, masculine plural revisores, feminine plural revisoras)
+nono	Adjective	nono (feminine singular nona, masculine plural nonos, feminine plural nonas)
+colla	Adjective	colla (plural collas)
+piscis	Adjective	piscis (invariant)
+bestial	Adjective	bestial (plural bestiales)
+loco	Adjective	loco (feminine singular loca, masculine plural locos, feminine plural locas)
+nuclear	Adjective	nuclear (plural nucleares)
+súper	Adjective	súper (plural súper)
+seco	Adjective	seco (feminine singular seca, masculine plural secos, feminine plural secas)
+violento	Adjective	violento (feminine singular violenta, masculine plural violentos, feminine plural violentas)
+standard	Adjective	standard (plural standardes)
+anterior	Adjective	anterior (plural anteriores)
+moral	Adjective	moral (plural morales)
+rota	Adjective	rota f sg
+nacionalista	Adjective	nacionalista (plural nacionalistas)
+molar	Adjective	molar (plural molares)
+rural	Adjective	rural (plural rurales)
+planar	Adjective	planar (plural planares)
+granular	Adjective	granular (plural granulares)
+roma	Adjective	roma
+boreal	Adjective	boreal (plural boreales)
+dental	Adjective	dental (plural dentales)
+sola	Adjective	sola f sg
+wapa	Adjective	wapa f sg
+terrorista	Adjective	terrorista (plural terroristas)
+dispar	Adjective	dispar (plural dispares)
+irlandés	Adjective	irlandés (feminine singular irlandesa, masculine plural irlandeses, feminine plural irlandesas)
+continental	Adjective	continental (plural continentales)
+capital	Adjective	capital (plural capitales)
+probo	Adjective	probo (feminine singular proba, masculine plural probos, feminine plural probas)
+rengas	Adjective	rengas f pl
+nazis	Adjective	nazis m pl, f pl
+lesa	Adjective	lesa
+determinado	Adjective	determinado (feminine singular determinada, masculine plural determinados, feminine plural determinadas)
+monumental	Adjective	monumental (plural monumentales)
+rudas	Adjective	rudas f pl
+absurdo	Adjective	absurdo (feminine singular absurda, masculine plural absurdos, feminine plural absurdas)
+delicioso	Adjective	delicioso (feminine singular deliciosa, masculine plural deliciosos, feminine plural deliciosas)
+sita	Adjective	sita
+infantil	Adjective	infantil (plural infantiles)
+peludo	Adjective	peludo (feminine singular peluda, masculine plural peludos, feminine plural peludas)
+blanda	Adjective	blanda f
+binocular	Adjective	binocular (plural binoculares)
+diferente	Adjective	diferente (plural diferentes)
+general	Adjective	general (plural generales)
+limonada	Adjective	limonada f sg
+jara	Adjective	jara
+azur	Adjective	azur (plural azures)
+federal	Adjective	federal (plural federales)
+grosa	Adjective	grosa f sg
+mongo	Adjective	mongo (feminine singular monga, masculine plural mongos, feminine plural mongas)
+lento	Adjective	lento (feminine singular lenta, masculine plural lentos, feminine plural lentas)
+oro	Adjective	oro (plural oros)
+tímido	Adjective	tímido (feminine singular tímida, masculine plural tímidos, feminine plural tímidas)
+populista	Adjective	populista (plural populistas)
+español	Adjective	español (feminine singular española, masculine plural españoles, feminine plural españolas)
+estas	Adjective	estas f pl
+analfabeta	Adjective	analfabeta f sg
+fido	Adjective	fido (feminine singular fida, masculine plural fidos, feminine plural fidas)
+nominal	Adjective	nominal (plural nominales)
+fundamental	Adjective	fundamental (plural fundamentales)
+feudal	Adjective	feudal (plural feudales)
+abertzale	Adjective	abertzale (plural abertzales)
+divertido	Adjective	divertido (feminine singular divertida, masculine plural divertidos, feminine plural divertidas)
+linda	Adjective	linda f sg
+escalar	Adjective	escalar (plural escalares)
+regio	Adjective	regio (feminine singular regia, masculine plural regios, feminine plural regias)
+macular	Adjective	macular (plural maculares)
+macular	Adjective	macular (plural maculares)
+pesado	Adjective	pesado (feminine singular pesada, masculine plural pesados, feminine plural pesadas)
+regular	Adjective	regular (plural regulares)
+muda	Adjective	muda f sg
+autista	Adjective	autista (plural autistas)
+habanera	Adjective	habanera f sg
+maldito	Adjective	maldito (feminine singular maldita, masculine plural malditos, feminine plural malditas)
+ebrio	Adjective	ebrio (feminine singular ebria, masculine plural ebrios, feminine plural ebrias)
+viscoso	Adjective	viscoso (feminine singular viscosa, masculine plural viscosos, feminine plural viscosas)
+imperial	Adjective	imperial (plural imperiales)
+pía	Adjective	pía f sg
+abrasivo	Adjective	abrasivo (feminine singular abrasiva, masculine plural abrasivos, feminine plural abrasivas)
+runo	Adjective	runo (feminine singular runa, masculine plural runos, feminine plural runas)
+homicida	Adjective	homicida (plural homicidas)
+homo	Adjective	homo (invariable)
+cansado	Adjective	cansado (feminine singular cansada, masculine plural cansados, feminine plural cansadas)
+vivo	Adjective	vivo (feminine singular viva, masculine plural vivos, feminine plural vivas)
+semifinal	Adjective	semifinal (plural semifinales)
+cantor	Adjective	cantor (feminine singular cantora, masculine plural cantores, feminine plural cantoras)
+amado	Adjective	amado (feminine singular amada, masculine plural amados, feminine plural amadas)
+afganas	Adjective	afganas f pl
+inferior	Adjective	inferior (plural inferiores)
+mental	Adjective	mental (plural mentales)
+sentimental	Adjective	sentimental (plural sentimentales)
+anormal	Adjective	anormal (plural anormales)
+blao	Adjective	blao (plural blaos)
+ainu	Adjective	ainu (plural ainus)
+neutral	Adjective	neutral (plural neutrales)
+pura	Adjective	pura f sg
+bonito	Adjective	bonito (feminine singular bonita, masculine plural bonitos, feminine plural bonitas)
+consultor	Adjective	consultor (feminine singular consultora, masculine plural consultores, feminine plural consultoras)
+lao	Adjective	lao (plural laos)
+malvado	Adjective	malvado (feminine singular malvada, masculine plural malvados, feminine plural malvadas)
+solas	Adjective	solas f pl
+criminal	Adjective	criminal (plural criminales)
+sexy	Adjective	sexy (plural sexys) (or invariable)
+funesto	Adjective	funesto (feminine singular funesta, masculine plural funestos, feminine plural funestas)
+blanca	Adjective	blanca
+abdominal	Adjective	abdominal (plural abdominales)
+simpático	Adjective	simpático (feminine singular simpática, masculine plural simpáticos, feminine plural simpáticas)
+social	Adjective	social (plural sociales)
+circular	Adjective	circular (plural circulares)
+cerebral	Adjective	cerebral (plural cerebrales)
+digital	Adjective	digital (plural digitales)
+calar	Adjective	calar (plural calares)
+seductor	Adjective	seductor (feminine singular seductora, masculine plural seductores, feminine plural seductoras)
+pando	Adjective	pando (feminine singular panda, masculine plural pandos, feminine plural pandas)
+juvenil	Adjective	juvenil (plural juveniles)
+lelo	Adjective	lelo (feminine singular lela, masculine plural lelos, feminine plural lelas)
+animal	Adjective	animal (plural animales)
+mam	Adjective	mam (plural mames)
+tercer	Adjective	tercer m (apocopate, standard form tercero)
+loca	Adjective	loca f
+lista	Adjective	lista
+sensorial	Adjective	sensorial (plural sensoriales)
+alveolar	Adjective	alveolar (plural alveolares)
+apto	Adjective	apto (feminine singular apta, masculine plural aptos, feminine plural aptas)
+musical	Adjective	musical (plural musicales)
+gordo	Adjective	gordo (feminine singular gorda, masculine plural gordos, feminine plural gordas)
+preocupado	Adjective	preocupado (feminine singular preocupada, masculine plural preocupados, feminine plural preocupadas)
+severo	Adjective	severo (feminine singular severa, masculine plural severos, feminine plural severas)
+dura	Adjective	dura f sg
+heterosexual	Adjective	heterosexual (plural heterosexuales)
+horizontal	Adjective	horizontal (plural horizontales)
+primer	Adjective	primer m (apocopate, standard form primero)
+ruda	Adjective	ruda f sg
+viral	Adjective	viral (plural virales)
+mi	Adjective	mi (first-person singular possessive of singular, of plural mis)
+insigne	Adjective	insigne (plural insignes)
+andante	Adjective	andante (plural andantes)
+andante	Adjective	andante (plural andantes)
+nítido	Adjective	nítido (feminine singular nítida, masculine plural nítidos, feminine plural nítidas)
+tutelar	Adjective	tutelar (plural tutelares)
+porno	Adjective	porno m, f (invariable)
+mensa	Adjective	mensa
+cavo	Adjective	cavo (feminine singular cava, masculine plural cavos, feminine plural cavas)
+pilla	Adjective	pilla
+tranquilo	Adjective	tranquilo (feminine singular tranquila, masculine plural tranquilos, feminine plural tranquilas)
+alegre	Adjective	alegre (plural alegres)
+amarantas	Adjective	amarantas f pl
+bacán	Adjective	bacán (feminine singular bacana, masculine plural bacanes, feminine plural bacanas)
+profano	Adjective	profano (feminine singular profana, masculine plural profanos, feminine plural profanas)
+hedonista	Adjective	hedonista (plural hedonistas)
+primordial	Adjective	primordial (plural primordiales)
+desleal	Adjective	desleal (plural desleales)
+oratorio	Adjective	oratorio (feminine singular oratoria, masculine plural oratorios, feminine plural oratorias)
+ex	Adjective	ex (indeclinable)
+rasca	Adjective	rasca (plural rascas)
+unilateral	Adjective	unilateral (plural unilaterales)
+rusas	Adjective	rusas f pl
+evidente	Adjective	evidente (plural evidentes)
+super	Adjective	super (invariable)
+bicolor	Adjective	bicolor (plural bicolores)
+nula	Adjective	nula
+diametral	Adjective	diametral (plural diametrales)
+pastoral	Adjective	pastoral (plural pastorales)
+interno	Adjective	interno (feminine singular interna, masculine plural internos, feminine plural internas)
+astral	Adjective	astral (plural astrales)
+leal	Adjective	leal (plural leales)
+acabado	Adjective	acabado (feminine singular acabada, masculine plural acabados, feminine plural acabadas)
+vaginal	Adjective	vaginal (plural vaginales)
+viril	Adjective	viril (plural viriles)
+adverso	Adjective	adverso (feminine singular adversa, masculine plural adversos, feminine plural adversas)
+destructor	Adjective	destructor (feminine singular destructora, masculine plural destructores, feminine plural destructoras)
+cautelar	Adjective	cautelar (plural cautelares)
+pansexual	Adjective	pansexual (plural pansexuales)
+temporal	Adjective	temporal (plural temporales)
+falsa	Adjective	falsa f sg
+impulsor	Adjective	impulsor (feminine singular impulsora, masculine plural impulsores, feminine plural impulsoras)
+continua	Adjective	continua f sg
+mera	Adjective	mera
+original	Adjective	original (plural originales)
+circenses	Adjective	circenses
+multicolor	Adjective	multicolor (plural multicolores)
+deprimido	Adjective	deprimido (feminine singular deprimida, masculine plural deprimidos, feminine plural deprimidas)
+astur	Adjective	astur (plural astures)
+burda	Adjective	burda
+axial	Adjective	axial (plural axiales)
+dorsal	Adjective	dorsal (plural dorsales)
+suborbital	Adjective	suborbital (plural suborbitales)
+pillo	Adjective	pillo (feminine singular pilla, masculine plural pillos, feminine plural pillas)
+tus	Adjective	tus pl
+azul	Adjective	azul (plural azules)
+sanas	Adjective	sanas f pl
+duro	Adjective	duro (feminine singular dura, masculine plural duros, feminine plural duras)
+diagonal	Adjective	diagonal (plural diagonales)
+feroz	Adjective	feroz (plural feroces)
+wena	Adjective	wena f sg
+posterior	Adjective	posterior (plural posteriores)
+final	Adjective	final (plural finales)
+inuit	Adjective	inuit (plural inuit)
+elevado	Adjective	elevado (feminine singular elevada, masculine plural elevados, feminine plural elevadas)
+honestas	Adjective	honestas f pl
+singular	Adjective	singular (plural singulares)
+optimistas	Adjective	optimistas m pl, f pl
+terminal	Adjective	terminal (plural terminales)
+formalista	Adjective	formalista (plural formalistas)
+feroés	Adjective	feroés (feminine singular feroesa, masculine plural feroeses, feminine plural feroesas)
+meras	Adjective	meras
+civilista	Adjective	civilista (plural civilistas)
+brutal	Adjective	brutal (plural brutales)
+pronto	Adjective	pronto (feminine singular pronta, masculine plural prontos, feminine plural prontas)
+regia	Adjective	regia f sg
+planas	Adjective	planas f pl
+palmar	Adjective	palmar (plural palmares)
+viva	Adjective	viva f sg
+motor	Adjective	motor (feminine singular motora, masculine plural motores, feminine plural motoras)
+toda	Adjective	toda f sg
+pasa	Adjective	pasa
+tanos	Adjective	tanos
+rasa	Adjective	rasa f sg
+verbal	Adjective	verbal (plural verbales)
+ruin	Adjective	ruin (plural ruines)
+postnatal	Adjective	postnatal (plural postnatales)
+medial	Adjective	medial (plural mediales)
+baja	Adjective	baja f
+proba	Adjective	proba f
+sensual	Adjective	sensual (plural sensuales)
+infernal	Adjective	infernal (plural infernales)
+franco	Adjective	franco (feminine singular franca, masculine plural francos, feminine plural francas)
+macho	Adjective	macho (feminine singular macha, masculine plural machos, feminine plural machas)
+fomes	Adjective	fomes m pl, f pl
+mundial	Adjective	mundial (plural mundiales)
+agonista	Adjective	agonista (plural agonistas)
+grata	Adjective	grata
+curvo	Adjective	curvo (feminine singular curva, masculine plural curvos, feminine plural curvas)
+puta	Adjective	puta
+analfabeto	Adjective	analfabeto (feminine singular analfabeta, masculine plural analfabetos, feminine plural analfabetas)
+avara	Adjective	avara f sg
+poderoso	Adjective	poderoso (feminine singular poderosa, masculine plural poderosos, feminine plural poderosas)
+obvio	Adjective	obvio (feminine singular obvia, masculine plural obvios, feminine plural obvias)
+mole	Adjective	mole (plural moles)
+funky	Adjective	funky (invariable)
+vil	Adjective	vil (plural viles)
+gran	Adjective	gran m, f (apocopate, standard form grande)
+chata	Adjective	chata f
+abstruso	Adjective	abstruso (feminine singular abstrusa, masculine plural abstrusos, feminine plural abstrusas)
+fratricida	Adjective	fratricida (plural fratricidas)
+reo	Adjective	reo (feminine singular rea, masculine plural reos, feminine plural reas)
+un	Adjective	un m (apocopate, standard form uno)
+reseco	Adjective	reseco (feminine singular reseca, masculine plural resecos, feminine plural resecas)
+mal	Adjective	mal m (apocopate, standard form malo)
+cruento	Adjective	cruento (feminine singular cruenta, masculine plural cruentos, feminine plural cruentas)
+café	Adjective	café (plural cafés)
+vago	Adjective	vago (feminine singular vaga, masculine plural vagos, feminine plural vagas)
+negro	Adjective	negro (feminine singular negra, masculine plural negros, feminine plural negras)
+asexual	Adjective	asexual (plural asexuales)
+renal	Adjective	renal (plural renales)
+floral	Adjective	floral (plural florales)
+tridimensional	Adjective	tridimensional (plural tridimensionales)
+albino	Adjective	albino (feminine singular albina, masculine plural albinos, feminine plural albinas)
+ultra	Adjective	ultra (plural ultras)
+zambo	Adjective	zambo (feminine singular zamba, masculine plural zambos, feminine plural zambas)
+aragonés	Adjective	aragonés (feminine singular aragonesa, masculine plural aragoneses, feminine plural aragonesas)
+abrupto	Adjective	abrupto (feminine singular abrupta, masculine plural abruptos, feminine plural abruptas)
+consular	Adjective	consular (plural consulares)
+aimara	Adjective	aimara (plural aimaras)
+calma	Adjective	calma f sg
+vario	Adjective	vario (feminine singular varia, masculine plural varios, feminine plural varias)
+vasta	Adjective	vasta f sg
+solar	Adjective	solar (plural solares)
+beige	Adjective	beige (plural beige)
+universal	Adjective	universal (plural universales)
+belga	Adjective	belga (plural belgas)
+aguado	Adjective	aguado (feminine singular aguada, masculine plural aguados, feminine plural aguadas)
+concreto	Adjective	concreto (feminine singular concreta, masculine plural concretos, feminine plural concretas)
+tabular	Adjective	tabular (plural tabulares)
+glas	Adjective	glas (invariable)
+banal	Adjective	banal (plural banales)
+mongol	Adjective	mongol (feminine singular mongola, masculine plural mongoles, feminine plural mongolas)
+mediana	Adjective	mediana f sg
+semita	Adjective	semita (plural semitas)
+mono	Adjective	mono (feminine singular mona, masculine plural monos, feminine plural monas)
+adnato	Adjective	adnato (feminine singular adnata, masculine plural adnatos, feminine plural adnatas)
+material	Adjective	material (plural materiales)
+imaginativo	Adjective	imaginativo (feminine singular imaginativa, masculine plural imaginativos, feminine plural imaginativas)
+frisón	Adjective	frisón (feminine singular frisona, masculine plural frisones, feminine plural frisonas)
+formal	Adjective	formal (plural formales)
+parca	Adjective	parca
+apetitoso	Adjective	apetitoso (feminine singular apetitosa, masculine plural apetitosos, feminine plural apetitosas)
+panda	Adjective	panda f sg
+perinatal	Adjective	perinatal (plural perinatales)
+moderna	Adjective	moderna f sg
+árabe	Adjective	árabe (plural árabes)
+vehicular	Adjective	vehicular (plural vehiculares)
+picosa	Adjective	picosa
+jaro	Adjective	jaro (feminine singular jara, masculine plural jaros, feminine plural jaras)
+nato	Adjective	nato (feminine singular nata, masculine plural natos, feminine plural natas)
+puras	Adjective	puras f pl
+sumo	Adjective	sumo (feminine singular suma, masculine plural sumos, feminine plural sumas)
+tardo	Adjective	tardo (feminine singular tarda, masculine plural tardos, feminine plural tardas)
+homosexual	Adjective	homosexual (plural homosexuales)
+sarcástico	Adjective	sarcástico (feminine singular sarcástica, masculine plural sarcásticos, feminine plural sarcásticas)
+completa	Adjective	completa f
+vista	Adjective	vista f sg
+trunco	Adjective	trunco (feminine singular trunca, masculine plural truncos, feminine plural truncas)
+sito	Adjective	sito (feminine singular sita, masculine plural sitos, feminine plural sitas)
+nebulosa	Adjective	nebulosa f sg
+cremoso	Adjective	cremoso (feminine singular cremosa, masculine plural cremosos, feminine plural cremosas)
+discontinuo	Adjective	discontinuo (feminine singular discontinua, masculine plural discontinuos, feminine plural discontinuas)
+paternal	Adjective	paternal (plural paternales)
+rica	Adjective	rica f sg
+irracional	Adjective	irracional (plural irracionales)
+lego	Adjective	lego (feminine singular lega, masculine plural legos, feminine plural legas)
+tabú	Adjective	tabú (plural tabúes)
+impune	Adjective	impune (plural impunes)
+mamona	Adjective	mamona
+perfecta	Adjective	perfecta
+amoroso	Adjective	amoroso (feminine singular amorosa, masculine plural amorosos, feminine plural amorosas)
+finlandés	Adjective	finlandés (feminine singular finlandesa, masculine plural finlandeses, feminine plural finlandesas)
+lola	Adjective	lola
+legal	Adjective	legal (plural legales)
+albo	Adjective	albo (feminine singular alba, masculine plural albos, feminine plural albas)
+afamado	Adjective	afamado (feminine singular afamada, masculine plural afamados, feminine plural afamadas)
+bravo	Adjective	bravo (feminine singular brava, masculine plural bravos, feminine plural bravas)
+amplio	Adjective	amplio (feminine singular amplia, masculine plural amplios, feminine plural amplias)
+minera	Adjective	minera
+cool	Adjective	cool (plural cools or cool)
+intencional	Adjective	intencional (plural intencionales)
+lunga	Adjective	lunga f
+perpetuo	Adjective	perpetuo (feminine singular perpetua, masculine plural perpetuos, feminine plural perpetuas)
+cultural	Adjective	cultural (plural culturales)
+calamitoso	Adjective	calamitoso (feminine singular calamitosa, masculine plural calamitosos, feminine plural calamitosas)
+malandrino	Adjective	malandrino (feminine singular malandrina, masculine plural malandrinos, feminine plural malandrinas)
+fatalista	Adjective	fatalista (plural fatalistas)
+superfluo	Adjective	superfluo (feminine singular superflua, masculine plural superfluos, feminine plural superfluas)
+albanés	Adjective	albanés (feminine singular albanesa, masculine plural albaneses, feminine plural albanesas)
+prudente	Adjective	prudente (plural prudentes)
+tamil	Adjective	tamil (plural tamiles)
+ritual	Adjective	ritual (plural rituales)
+integral	Adjective	integral (plural integrales)
+atrasado	Adjective	atrasado (feminine singular atrasada, masculine plural atrasados, feminine plural atrasadas)
+paleta	Adjective	paleta
+holandés	Adjective	holandés (feminine singular holandesa, masculine plural holandeses, feminine plural holandesas)
+tinta	Adjective	tinta f sg
+mozo	Adjective	mozo (feminine singular moza, masculine plural mozos, feminine plural mozas)
+caro	Adjective	caro (feminine singular cara, masculine plural caros, feminine plural caras)
+navajo	Adjective	navajo (feminine singular navaja, masculine plural navajos, feminine plural navajas)
+nazista	Adjective	nazista (plural nazistas)
+reverenda	Adjective	reverenda f
+divino	Adjective	divino (feminine singular divina, masculine plural divinos, feminine plural divinas)
+ulterior	Adjective	ulterior (plural ulteriores)
+anular	Adjective	anular (plural anulares)
+morena	Adjective	morena f sg
+gratis	Adjective	gratis (plural gratis)
+plena	Adjective	plena f sg
+delgado	Adjective	delgado (feminine singular delgada, masculine plural delgados, feminine plural delgadas)
+ilegal	Adjective	ilegal (plural ilegales)
+gil	Adjective	gil (feminine singular gila, masculine plural giles, feminine plural gilas)
+alta	Adjective	alta f sg
+atento	Adjective	atento (feminine singular atenta, masculine plural atentos, feminine plural atentas)
+rival	Adjective	rival (plural rivales)
+somero	Adjective	somero (feminine singular somera, masculine plural someros, feminine plural someras)
+ene	Adjective	ene (plural ene)
+hebrea	Adjective	hebrea f
+arrogante	Adjective	arrogante (plural arrogantes)
+falaz	Adjective	falaz (plural falaces)
+ese	Adjective	ese m (feminine esa, masculine plural esos, feminine plural esas)
+raro	Adjective	raro (feminine singular rara, masculine plural raros, feminine plural raras)
+potable	Adjective	potable (plural potables)
+triste	Adjective	triste (plural tristes)
+mineral	Adjective	mineral (plural minerales)
+socialistas	Adjective	socialistas m pl, f pl
+ralo	Adjective	ralo (feminine singular rala, masculine plural ralos, feminine plural ralas)
+rubia	Adjective	rubia f sg
+sus	Adjective	sus pl
+pinta	Adjective	pinta f sg
+portugués	Adjective	portugués (feminine singular portuguesa, masculine plural portugueses, feminine plural portuguesas)
+bosnia	Adjective	bosnia f sg
+apagado	Adjective	apagado (feminine singular apagada, masculine plural apagados, feminine plural apagadas)
+golfas	Adjective	golfas f pl
+orbital	Adjective	orbital (plural orbitales)
+particular	Adjective	particular (plural particulares)
+seria	Adjective	seria f sg
+cano	Adjective	cano (feminine singular cana, masculine plural canos, feminine plural canas)
+fatal	Adjective	fatal (plural fatales)
+normal	Adjective	normal (plural normales)
+senil	Adjective	senil (plural seniles)
+yugular	Adjective	yugular (plural yugulares)
+moratorio	Adjective	moratorio (feminine singular moratoria, masculine plural moratorios, feminine plural moratorias)
+malo	Adjective	malo (feminine singular mala, masculine plural malos, feminine plural malas)
+simpatizante	Adjective	simpatizante (plural simpatizantes)
+galas	Adjective	galas f pl
+dialectal	Adjective	dialectal (plural dialectales)
+rauda	Adjective	rauda
+caótico	Adjective	caótico (feminine singular caótica, masculine plural caóticos, feminine plural caóticas)
+maja	Adjective	maja
+rastafari	Adjective	rastafari (plural rastafaris)
+tanta	Adjective	tanta
+tricolor	Adjective	tricolor (plural tricolores)
+más	Adjective	más (plural más)
+justo	Adjective	justo (feminine singular justa, masculine plural justos, feminine plural justas)
+salina	Adjective	salina f sg
+quebrado	Adjective	quebrado (feminine singular quebrada, masculine plural quebrados, feminine plural quebradas)
+tibia	Adjective	tibia
+secreto	Adjective	secreto (feminine singular secreta, masculine plural secretos, feminine plural secretas)
+articular	Adjective	articular (plural articulares)
+roto	Adjective	roto (feminine singular rota, masculine plural rotos, feminine plural rotas)
+magna	Adjective	magna
+radial	Adjective	radial (plural radiales)
+habilidoso	Adjective	habilidoso (feminine singular habilidosa, masculine plural habilidosos, feminine plural habilidosas)
+vistas	Adjective	vistas f pl
+magra	Adjective	magra
+hetero	Adjective	hetero (invariable)
+intelectual	Adjective	intelectual (plural intelectuales)
+lunar	Adjective	lunar (plural lunares)
+asteroide	Adjective	asteroide (plural asteroides)
+mona	Adjective	mona f sg
+santo	Adjective	santo (feminine singular santa, masculine plural santos, feminine plural santas)
+bobas	Adjective	bobas f pl
+vulgar	Adjective	vulgar (plural vulgares)
+fallera	Adjective	fallera
+titular	Adjective	titular (plural titulares)
+denso	Adjective	denso (feminine singular densa, masculine plural densos, feminine plural densas)
+pompo	Adjective	pompo (feminine singular pompa, masculine plural pompos, feminine plural pompas)
+modal	Adjective	modal (plural modales)
+alto	Adjective	alto (feminine singular alta, masculine plural altos, feminine plural altas)
+conciliar	Adjective	conciliar (plural conciliares)
+optimista	Adjective	optimista (plural optimistas)
+indonesia	Adjective	indonesia f
+bianual	Adjective	bianual (plural bianuales)
+famoso	Adjective	famoso (feminine singular famosa, masculine plural famosos, feminine plural famosas)
+cuadricular	Adjective	cuadricular (plural cuadriculares)
+cerdo	Adjective	cerdo (feminine singular cerda, masculine plural cerdos, feminine plural cerdas)
+mundano	Adjective	mundano (feminine singular mundana, masculine plural mundanos, feminine plural mundanas)
+brava	Adjective	brava f sg
+innato	Adjective	innato (feminine singular innata, masculine plural innatos, feminine plural innatas)
+mudo	Adjective	mudo (feminine singular muda, masculine plural mudos, feminine plural mudas)
+liberal	Adjective	liberal (plural liberales)
+marginal	Adjective	marginal (plural marginales)
+dulce	Adjective	dulce (plural dulces)
+parricida	Adjective	parricida (plural parricidas)
+elegante	Adjective	elegante (plural elegantes)
+vero	Adjective	vero (feminine singular vera, masculine plural veros, feminine plural veras)
+par	Adjective	par (plural pares)
+central	Adjective	central (plural centrales)
+rector	Adjective	rector (plural rectores)
+capsular	Adjective	capsular (plural capsulares)
+libertina	Adjective	libertina
+patrullera	Adjective	patrullera
+canicular	Adjective	canicular (plural caniculares)
+velar	Adjective	velar (plural velares)
+sioux	Adjective	sioux (plural sioux)
+angular	Adjective	angular (plural angulares)
+digno	Adjective	digno (feminine singular digna, masculine plural dignos, feminine plural dignas)
+una	Adjective	una f sg
+febril	Adjective	febril (plural febriles)
+tensa	Adjective	tensa
+local	Adjective	local (plural locales)
+cervical	Adjective	cervical (plural cervicales)
+instrumental	Adjective	instrumental (plural instrumentales)
+privado	Adjective	privado (feminine singular privada, masculine plural privados, feminine plural privadas)
+interior	Adjective	interior (plural interiores)
+verdes	Adjective	verdes m f pl
+burdo	Adjective	burdo (feminine singular burda, masculine plural burdos, feminine plural burdas)
+bajas	Adjective	bajas f pl
+vera	Adjective	vera f sg
+gay	Adjective	gay (plural gais)
+smart	Adjective	smart (invariable)
+tenar	Adjective	tenar (plural tenares)
+idiota	Adjective	idiota (plural idiotas)
+trivial	Adjective	trivial (plural triviales)
+gracioso	Adjective	gracioso (feminine singular graciosa, masculine plural graciosos, feminine plural graciosas)
+verso	Adjective	verso (feminine singular versa, masculine plural versos, feminine plural versas)
+anal	Adjective	anal (plural anales)
+rotundo	Adjective	rotundo (feminine singular rotunda, masculine plural rotundos, feminine plural rotundas)
+pedo	Adjective	pedo (plural pedos)
+vetustas	Adjective	vetustas f pl
+vertebral	Adjective	vertebral (plural vertebrales)
+manual	Adjective	manual (plural manuales)
+real	Adjective	real (plural reales)
+real	Adjective	real (plural reales)
+educado	Adjective	educado (feminine singular educada, masculine plural educados, feminine plural educadas)
+potencial	Adjective	potencial (plural potenciales)
+superior	Adjective	superior (plural superiores)
+San	Adjective	San
+contradictor	Adjective	contradictor (feminine singular contradictora, masculine plural contradictores, feminine plural contradictoras)
+oficial	Adjective	oficial (plural oficiales)
+mortal	Adjective	mortal (plural mortales)
+parenteral	Adjective	parenteral (plural parenterales)
+submarinas	Adjective	submarinas f pl
+maula	Adjective	maula (plural maulas)
+minucioso	Adjective	minucioso (feminine singular minuciosa, masculine plural minuciosos, feminine plural minuciosas)
+augusto	Adjective	augusto (feminine singular augusta, masculine plural augustos, feminine plural augustas)
+letal	Adjective	letal (plural letales)
+maya	Adjective	maya (plural mayas)
+bello	Adjective	bello (feminine singular bella, masculine plural bellos, feminine plural bellas)
+protector	Adjective	protector (feminine singular protectora, masculine plural protectores, feminine plural protectoras)
+or
+protector (feminine singular protectriz, masculine plural protectores, feminine plural protectrices)
+total	Adjective	total (plural totales)
+tutsi	Adjective	tutsi (plural tutsis)
+san	Adjective	san m (apocopate, standard form santo)
+nihilista	Adjective	nihilista (plural nihilistas)
+gratuitas	Adjective	gratuitas f pl
+runa	Adjective	runa f sg
+adenín	Adjective	adenín (plural adenines)
+profundo	Adjective	profundo (feminine singular profunda, masculine plural profundos, feminine plural profundas)
+maestro	Adjective	maestro (feminine singular maestra, masculine plural maestros, feminine plural maestras)
+antisemita	Adjective	antisemita (plural antisemitas)
+porras	Adjective	porras f pl
+magenta	Adjective	magenta (plural magenta)
+especial	Adjective	especial (plural especiales)
+piramidal	Adjective	piramidal (plural piramidales)
+este	Adjective	este (feminine singular esta, masculine plural estos, feminine plural estas)
+bipolar	Adjective	bipolar (plural bipolares)
+dimensional	Adjective	dimensional (plural dimensionales)
+islandés	Adjective	islandés (feminine singular islandesa, masculine plural islandeses, feminine plural islandesas)
+santa	Adjective	santa f sg
+intestinal	Adjective	intestinal (plural intestinales)
+labial	Adjective	labial (plural labiales)
+civil	Adjective	civil (plural civiles)
+gala	Adjective	gala
+grave	Adjective	grave (plural graves)
+mega	Adjective	mega f sg
+modular	Adjective	modular (plural modulares)
+su	Adjective	su (third person possessive of singular, plural sus)
+crítico	Adjective	crítico (feminine singular crítica, masculine plural críticos, feminine plural críticas)
+vana	Adjective	vana f sg
+marina	Adjective	marina f sg
+buen	Adjective	buen m (apocopate, standard form bueno)
+latina	Adjective	latina (plural latinas)
+solitas	Adjective	solitas f pl
+monas	Adjective	monas
+estrellar	Adjective	estrellar (plural estrellares)
+lacio	Adjective	lacio (feminine singular lacia, masculine plural lacios, feminine plural lacias)
+frágil	Adjective	frágil (plural frágiles)
+exigente	Adjective	exigente (plural exigentes)
+albinos	Adjective	albinos m pl
+novel	Adjective	novel (plural noveles)
+supina	Adjective	supina
+talar	Adjective	talar (plural talares)
+funcional	Adjective	funcional (plural funcionales)
+papal	Adjective	papal (plural papales)
+neoliberal	Adjective	neoliberal (plural neoliberales)
+eximia	Adjective	eximia f
+mis	Adjective	mis (p)
+exterior	Adjective	exterior (plural exteriores)
+progres	Adjective	progres
+serios	Adjective	serios m pl
+sana	Adjective	sana f sg
+rítmico	Adjective	rítmico (feminine singular rítmica, masculine plural rítmicos, feminine plural rítmicas)
+leso	Adjective	leso (feminine singular lesa, masculine plural lesos, feminine plural lesas)
+obscuro	Adjective	obscuro (feminine singular obscura, masculine plural obscuros, feminine plural obscuras)
+belgas	Adjective	belgas pl
+basal	Adjective	basal (plural basales)
+chele	Adjective	chele (plural cheles)
+tu	Adjective	tu (second person singular possessive of singular, of plural tus)
+ideal	Adjective	ideal (plural ideales)
+escondido	Adjective	escondido (feminine singular escondida, masculine plural escondidos, feminine plural escondidas)
+danés	Adjective	danés (feminine singular danesa, masculine plural daneses, feminine plural danesas)
+fluvial	Adjective	fluvial (plural fluviales)
+rasta	Adjective	rasta (plural rastas)
+anti	Adjective	anti (plural antis)
+estipular	Adjective	estipular (plural estipulares)
+mongolas	Adjective	mongolas f pl
+honesto	Adjective	honesto (feminine singular honesta, masculine plural honestos, feminine plural honestas)
+atonal	Adjective	atonal
+lindo	Adjective	lindo (feminine singular linda, masculine plural lindos, feminine plural lindas)
+plana	Adjective	plana f sg
+reptil	Adjective	reptil (feminine singular reptila, masculine plural reptiles, feminine plural reptilas)
+claro	Adjective	claro (feminine singular clara, masculine plural claros, feminine plural claras)
+laminar	Adjective	laminar (plural laminares)
+gentil	Adjective	gentil (plural gentiles)
+polar	Adjective	polar (plural polares)
+mala	Adjective	mala f sg
+euskera	Adjective	euskera (plural euskeras)
+altruista	Adjective	altruista (plural altruistas)
+guinea	Adjective	guinea f sg
+impar	Adjective	impar (plural impares)
+bien	Adjective	bien (plural bien)
+animado	Adjective	animado (feminine singular animada, masculine plural animados, feminine plural animadas)
+narigudo	Adjective	narigudo (feminine singular nariguda, masculine plural narigudos, feminine plural narigudas)
+popular	Adjective	popular (plural populares)
+sexual	Adjective	sexual (plural sexuales)
+filial	Adjective	filial (plural filiales)
+vasto	Adjective	vasto (feminine singular vasta, masculine plural vastos, feminine plural vastas)
+alterno	Adjective	alterno (feminine singular alterna, masculine plural alternos, feminine plural alternas)
+defensor	Adjective	defensor (feminine singular defensora, masculine plural defensores, feminine plural defensoras)
+claritas	Adjective	claritas f pl
+fofo	Adjective	fofo (feminine singular fofa, masculine plural fofos, feminine plural fofas)
+sincero	Adjective	sincero (feminine singular sincera, masculine plural sinceros, feminine plural sinceras)
+francés	Adjective	francés (feminine singular francesa, masculine plural franceses, feminine plural francesas)
+paranormal	Adjective	paranormal (plural paranormales)
+borrachas	Adjective	borrachas f pl
+regional	Adjective	regional (plural regionales)
+mini	Adjective	mini (plural minis)

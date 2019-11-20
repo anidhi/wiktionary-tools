@@ -1,0 +1,107 @@
+pornografija	Noun	pornografija f
+natura	Noun	natura f (plural naturi)
+keff	Noun	keff ?
+kamra	Noun	kamra f (plural kmamar)
+stilla	Noun	stilla f (plural stilel)
+karpa	Noun	karpa
+prostata	Noun	prostata f
+landa	Noun	landa ?
+banda	Noun	banda
+banana	Noun	banana f
+argon	Noun	argon m
+fenka	Noun	fenka f (plural fniek)
+bank	Noun	bank m (plural banek)
+bank	Noun	bank m (plural bankijiet)
+sinna	Noun	sinna f (plural snien)
+mera	Noun	mera f (plural mirja)
+alla	Noun	alla m (plural allat)
+labra	Noun	labra f (plural labar)
+but	Noun	but m (plural bwiet)
+bomba	Noun	bomba f (plural bombi)
+eżerċita	Noun	eżerċita (imperfect jeżerċita)
+foresta	Noun	foresta f (plural foresti)
+barka	Noun	barka f (plural barkiet)
+futbol	Noun	futbol m
+rixa	Noun	rixa f (plural rixiet)
+belt	Noun	belt f (plural bliet)
+sistema	Noun	sistema f (plural sistemi)
+kaktus	Noun	kaktus m
+boru	Noun	boru m
+bint	Noun	bint f (plural ulied or bniet)
+bombi	Noun	bombi
+soru	Noun	soru f (plural sorijiet)
+sess	Noun	sess m (plural sessi)
+ippromwova	Noun	ippromwova (imperfect jippromwovi)
+sultan	Noun	sultan m (plural slaten)
+sur	Noun	sur m (plural swar)
+sur	Noun	sur m (nopl)
+sur	Noun	sur f
+serp	Noun	serp m (plural sriep)
+suf	Noun	suf m
+labar	Noun	labar
+fotografija	Noun	fotografija f
+figura	Noun	figura f
+sperma	Noun	sperma f
+skola	Noun	skola f (plural skejjel)
+tin	Noun	tin m (collective plural)
+magna	Noun	magna f
+dar	Noun	dar f (plural djar)
+nar	Noun	nar m (plural nirien)
+borra	Noun	borra f
+rota	Noun	rota f
+passat	Noun	passat m
+kultura	Noun	kultura f
+fenek	Noun	fenek m (plural fniek, feminine fenka)
+sejf	Noun	sejf m (plural sjuf)
+liba	Noun	liba f
+art	Noun	art f
+ilma	Noun	ilma m
+dinja	Noun	dinja f (plural dinjiet)
+mart	Noun	mart f
+arka	Noun	arka f
+sema	Noun	sema f (plural smewwiet)
+bies	Noun	bies m
+rand	Noun	rand m
+duda	Noun	duda f
+lok	Noun	lok m (plural lokijiet)
+kolera	Noun	kolera f
+pinna	Noun	pinna f
+far	Noun	far m (plural firien)
+tut	Noun	tut m
+tarka	Noun	tarka f
+melodija	Noun	melodija f (plural melodiji)
+sena	Noun	sena f (plural snin)
+kokk	Noun	kokk f (pl)
+patata	Noun	patata f
+dib	Noun	dib m
+sigarett	Noun	sigarett m (plural sigaretti)
+ħu-	Noun	ħu- m (pl aħwa)
+metru	Noun	metru m
+palma	Noun	palma f (determinate plural: palmiet, collective plural: palm)
+ras	Noun	ras f (plural rjus)
+wild	Noun	wild ?
+tabella	Noun	tabella f (plural tabelli)
+duka	Noun	duka m (plural duki)
+nemus	Noun	nemus f (pl)
+rokna	Noun	rokna f (plural rokon or rkejjen)
+blinka	Noun	blinka f
+tina	Noun	tina f (plural tinat)
+kolon	Noun	kolon m
+ful	Noun	ful
+uman	Noun	uman m (plural umani, feminine umana)
+sura	Noun	sura f (plural sur)
+neon	Noun	neon m
+sorm	Noun	sorm m (plural srum)
+plural	Noun	plural m
+ross	Noun	ross m
+kokka	Noun	kokka f (plural kokok), (Alternative plural: kokkiet)
+dada	Noun	dada f (plural dadi)
+minuta	Noun	minuta f (plural minuti)
+lag	Noun	lag m
+bir	Noun	bir m (plural bjar)
+flus	Noun	flus m pl
+mara	Noun	mara f (plural nisa)
+kaptan	Noun	kaptan m (plural kaptani)
+ram	Noun	ram m
+esperjenza	Noun	esperjenza f (plural epserjenzi)
+warda	Noun	warda f (determinate plural: wardiet, collective plural: ward)

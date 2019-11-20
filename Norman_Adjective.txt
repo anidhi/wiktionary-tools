@@ -1,0 +1,67 @@
+digital	Adjective	digital m
+purs	Adjective	purs
+ravis	Adjective	ravis m pl
+faux	Adjective	faux m
+gri	Adjective	gri m
+brun	Adjective	brun m
+idéal	Adjective	idéal m
+favori	Adjective	favori m
+fré	Adjective	fré m
+civil	Adjective	civil m
+sauvage	Adjective	sauvage m, f
+rude	Adjective	rude m, f
+man	Adjective	man (feminine ma)
+direct	Adjective	direct m
+cuit	Adjective	cuit m
+laid	Adjective	laid m
+fort	Adjective	fort m
+tendre	Adjective	tendre m, f
+rose	Adjective	rose m, f
+biau	Adjective	biau m
+futur	Adjective	futur m
+su	Adjective	su
+sage	Adjective	sage m, f
+rond	Adjective	rond m
+grande	Adjective	grande
+fréi	Adjective	fréi m
+pur	Adjective	pur m
+fin	Adjective	fin m
+mort	Adjective	mort m
+absent	Adjective	absent m
+net	Adjective	net m
+hautain	Adjective	hautain m
+fondue	Adjective	fondue
+mal	Adjective	mal
+hardi	Adjective	hardi m
+contente	Adjective	contente
+molle	Adjective	molle
+orange	Adjective	orange m, f
+vite	Adjective	vite m, f
+raide	Adjective	raide m, f
+forte	Adjective	forte f
+grise	Adjective	grise
+ravi	Adjective	ravi m
+pale	Adjective	pale m, f
+gras	Adjective	gras m
+brillant	Adjective	brillant m
+rigide	Adjective	rigide m, f
+franc	Adjective	franc m
+gris	Adjective	gris m
+mo	Adjective	mo m
+lente	Adjective	lente
+vaert	Adjective	vaert m
+neir	Adjective	neir m
+saint	Adjective	saint m
+dreit	Adjective	dreit m
+fiar	Adjective	fiar m
+ligi	Adjective	ligi
+bas	Adjective	bas m
+gros	Adjective	gros m
+neu	Adjective	neu m
+tron	Adjective	tron m
+grand	Adjective	grand m
+long	Adjective	long m
+vif	Adjective	vif m
+poli	Adjective	poli m
+civile	Adjective	civile f
+triste	Adjective	triste m, f

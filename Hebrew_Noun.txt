@@ -1,0 +1,969 @@
+שֵׁן	Noun	שֵׁן • (shén) f (plural indefinite שיניים \ שִׁנַּיִם‏, singular construct שֵׁן־, plural construct שיני \ שִׁנֵּי־‏) [pattern: קֵטֶל] 
+
+פְּקָק	Noun	פְּקָק • (p'kák) m (plural indefinite פְּקָקִים‏)
+
+שֶׁלֶג	Noun	שֶׁלֶג • (shéleg) m (plural indefinite שְׁלָגִים‏, singular construct שֶׁלֶג־, plural construct שִׁלְגֵי־‏, Biblical Hebrew pausal form שָׁלֶג) [pattern: קֶטֶל] 
+
+דֹּר	Noun	דֹּר • (dór) m (plural indefinite דֹּרוֹת‏, singular construct דֹּר־)
+
+דַּר	Noun	דַּר • (dar) m [pattern: קֶטֶל] 
+
+מָחוֹג	Noun	מָחוֹג • (makhog) m (plural indefinite מְחוֹגִים‏, singular construct מְחוֹג־)
+
+פְּאֵר	Noun	פְּאֵר • (pe'er) m (plural indefinite פְּאֵרִים‏, plural construct פְּאֵרֵי־‏)
+
+שֶׁלַח	Noun	שֶׁלַח • (transliteration needed) m [pattern: קֶטֶל] 
+
+שֶׁלַח	Noun	שֶׁלַח • (shélach) m [pattern: קֶטֶל] 
+
+עֶבֶד	Noun	עֶבֶד • ('éved) m (plural indefinite עֲבָדִים‏, singular construct עֶבֶד־) [pattern: קֶטֶל] 
+
+פינה \ פִּנָּה	Noun	פינה \ פִּנָּה • (piná) f (plural indefinite פינות‏, singular construct פינת־‏, plural construct פינות־‏)
+
+עֲרִיכָה	Noun	עֲרִיכָה • (ʿarikhá) f (plural indefinite עֲרִיכוֹת‏, singular construct עֲרִיכַת־‏)
+
+אֵם	Noun	אֵם • (em) f (plural indefinite אימהות \ אִמָּהוֹת‏, singular construct אֵם־, masculine counterpart אָב‏) [pattern: קֵטֶל] 
+
+פְּרוֹטֶקְצְיָה	Noun	פְּרוֹטֶקְצְיָה • (protéktzya) f (plural indefinite פְּרוֹטֶקְצְיוֹת‏)
+
+יְשׁוּת	Noun	יְשׁוּת • (yeshút) m (plural indefinite ישויות \ יְשֻׁיּוֹת‏, singular construct יְשׁוּת־)
+
+מְדוּרָה	Noun	מְדוּרָה • (medurá) f (plural indefinite מְדוּרוֹת‏, singular construct מְדוּרַת־‏, plural construct מְדוּרוֹת־‏)
+
+תפילה \ תְּפִלָּה	Noun	תפילה \ תְּפִלָּה • (t'filá) f (plural indefinite תפילות \ תְּפִלּוֹת‏, singular construct תפילת \ תְּפִלַּת־‏, plural construct תפילות \ תְּפִלּוֹת־‏)
+
+בְּנָהּ	Noun	בְּנָהּ • (b'náh)
+
+חָם	Noun	חָם • (khám) m (plural indefinite חָמִים‏, singular construct חֲמִי־‏, plural construct חֲמֵי־‏, feminine counterpart חָמוֹת‏)
+
+כֶּבֶשׂ	Noun	כֶּבֶשׂ • (kéves) m (plural indefinite כְּבָשִׂים‏, singular construct כֶּבֶשׂ־, plural construct כִּבְשֵׂי־‏, feminine counterpart כִּבְשָׂה‏) [pattern: קֶטֶל] 
+
+כֶּבֶשׁ	Noun	כֶּבֶשׁ • (kevesh) m (plural indefinite כְּבָשִׁים‏) [pattern: קֶטֶל] 
+
+צְדָקָה	Noun	צְדָקָה • (ts'daká) f (plural indefinite צְדָקוֹת‏, singular construct צִדְקַת־‏, plural construct צִדְקוֹת־‏)
+
+מְלוּכָה	Noun	מְלוּכָה • (m'lukhá) f (plural indefinite מְלוּכוֹת‏, singular construct מְלוּכַת־‏)
+
+אָלֶף	Noun	אָלֶף • (álef) f
+
+אֶלֶף	Noun	אֶלֶף • (élef) m (dual indefinite אלפיים \ אַלְפַּיִם‏, plural indefinite אֲלָפִים‏, singular construct אֶלֶף־, plural construct אַלְפֵי־‏) [pattern: קֶטֶל] 
+
+מָגֵן	Noun	מָגֵן • (magén) m (plural indefinite מגינים \ מָגִנִּים‏, singular construct מָגֵן־, plural construct מגיני \ מָגִנֵּי־‏) [pattern: מַקְטֵל] 
+
+לָשׁוֹן	Noun	לָשׁוֹן • (lashón) f (plural indefinite לְשׁוֹנוֹת‏, singular construct לְשׁוֹן־, plural construct לְשׁוֹנוֹת־‏)
+
+זְמַן	Noun	זְמַן • (z'mán) m (plural indefinite זְמַנִּים‏, singular construct זְמַן־, plural construct זְמַנֵּי־‏)
+
+בָּנָנָה	Noun	בָּנָנָה • (banána) f (plural indefinite בָּנָנוֹת‏, singular construct בָּנָנַת־‏)
+
+שריפה \ שְׂרֵפָה	Noun	שריפה \ שְׂרֵפָה • (srefá) f (plural indefinite שְׂרֵפוֹת‏, singular construct שְׂרֵפַת־‏) [pattern: קְטֵלָה] 
+
+בַּעַר	Noun	בַּעַר • (bá'ar) m [pattern: קֶטֶל] 
+
+סְחוֹרָה	Noun	סְחוֹרָה • (sḥorāh) f (plural indefinite סְחוֹרוֹת‏, singular construct סְחוֹרַת־‏)
+
+כַּמּוּת	Noun	כַּמּוּת • (kamút) f (plural indefinite כמויות‏, singular construct כמות־, plural construct כמויות־‏)
+
+שַׂר	Noun	שַׂר • (sár) m (plural indefinite שָׂרִים‏, singular construct שַׂר־, feminine counterpart שָׂרָה‏) [pattern: קֶטֶל] 
+
+מוות \ מָוֶת	Noun	מוות \ מָוֶת • (mávet) m (singular construct מוֹת־‏) [pattern: קֶטֶל] 
+
+שֵׁמַע	Noun	שֵׁמַע • (shéma') m (plural indefinite שמעים‏, singular construct שמע־, plural construct שמעי־‏) [pattern: קֵטֶל] 
+
+כָּרִית	Noun	כָּרִית • (karít) f
+
+כותונת \ כֻּתֹּנֶת	Noun	כותונת \ כֻּתֹּנֶת • (kutónet) f (plural indefinite כותונות \ כֻּתֳּנֹת‏, singular construct כתונת \ כְּתֹנֶת־‏, plural construct כותנות \ כָּתְנוֹת־‏)
+
+עיקר \ עִקָּר	Noun	עיקר \ עִקָּר • ('ikár) m (plural indefinite עיקרים \ עִקָּרִים‏, singular construct עיקר \ עִקַּר־, plural construct עיקרי \ עִקְּרֵי־‏)
+
+טוֹן	Noun	טוֹן • (ton) m
+
+טוֹן	Noun	טוֹן • (ton) ?
+
+עַיִן	Noun	עַיִן • (áyin) f (dual indefinite עיניים \ עֵינַיִם‏, singular construct עֵין־, dual construct עֵינֵי־‏) [pattern: קֶטֶל] 
+
+עַיִן	Noun	עַיִן • (áyin) f
+
+חוטם \ חֹטֶם	Noun	חוטם \ חֹטֶם • (khótem) m (plural indefinite חוטמים \ חֳטָמִים‏, singular construct חוטם \ חֹטֶם־, plural construct חוטמי \ חָטְמֵי־‏) [pattern: קֹטֶל] 
+
+אִישׁ	Noun	אִישׁ • ('ish) m (plural indefinite אֲנָשִׁים‏, singular construct אִישׁ־, plural construct אַנְשֵׁי־‏, feminine counterpart אישה \ אִשָּׁה‏)
+
+הוֹרֶה	Noun	הוֹרֶה • (horé) m (plural indefinite הוֹרִים‏, plural construct הוֹרֵי־‏, feminine counterpart הוֹרָה)
+
+הוֹרָה	Noun	הוֹרָה • (horá) f (plural indefinite הוֹרוֹת‏, plural construct הוֹרוֹת־‏, masculine counterpart הוֹרֶה)
+
+הוֹרָה	Noun	הוֹרָה • (hóra) f
+
+שָׁלוֹם	Noun	שָׁלוֹם • (shalóm) m (no plural forms, singular construct שְׁלוֹם־)
+
+הַחְלָטָה	Noun	הַחְלָטָה • (hakhlatá) f (plural indefinite הַחְלָטוֹת‏, singular construct החלטת־‏, plural construct החלטות־‏)
+
+נִרְצָח	Noun	נִרְצָח • (nirtsákh) m (plural indefinite נרצחים‏, feminine counterpart נרצחת‏)
+
+גְּבִינָה	Noun	גְּבִינָה • (g'viná) f (plural indefinite גְּבִינוֹת‏, singular construct גְּבִינַת־‏, plural construct גְּבִינוֹת־‏) [pattern: קְטִילָה] 
+
+פֶּסֶל	Noun	פֶּסֶל • (pésel) m (plural indefinite פְּסָלִים‏, singular construct פֶּסֶל־, plural construct פִּסְלֵי־‏) [pattern: קֶטֶל] 
+
+פַּסָּל	Noun	פַּסָּל • (pasál) m (plural indefinite פַּסָּלִים‏, feminine counterpart פַּסֶּלֶת‏)
+
+אָהוּב	Noun	אָהוּב • (ahúv) m (plural indefinite אֲהוּבִים‏, singular construct אֲהוּב־, plural construct אֲהוּבֵי־‏, feminine counterpart אֲהוּבָה‏)
+
+שֵׁשׁ	Noun	שֵׁשׁ • (shésh) m
+
+נָהָר	Noun	נָהָר • (nahár) m (plural indefinite נְהָרוֹת‏, singular construct נְהַר־, plural construct נַהֲרוֹת־‏)
+
+סֵפֶר	Noun	סֵפֶר • (séfer) m (plural indefinite סְפָרִים‏, singular construct סֵפֶר־, plural construct סִפְרֵי־‏) [pattern: קֵטֶל] 
+
+סַפָּר	Noun	סַפָּר • (sapár) m
+
+כַּף	Noun	כַּף • (kaf) f (dual indefinite כפיים \ כַּפַּיִם‏, plural indefinite כַּפּוֹת‏, singular construct כַּף־, dual construct כַּפֵּי־‏, plural construct כַּפּוֹת־‏) [pattern: קֶטֶל] 
+
+חֵטְא	Noun	חֵטְא • (khet) m (plural indefinite חֲטָאִים‏, singular construct חֵטְא־, plural construct חֲטָאֵי־‏)
+
+חַטָּא	Noun	חַטָּא • (khatá) m (plural indefinite חַטָּאִים‏)
+
+חַשָּׁב	Noun	חַשָּׁב • (khasháv) m
+
+אֶבֶן	Noun	אֶבֶן • (éven) f (plural indefinite אֲבָנִים‏, plural construct אַבְנֵי־‏) [pattern: קֶטֶל] 
+
+אבן	Noun	אבן • (ibn) m (no plural forms, singular construct אבן־)
+מַכְשִׁיר	Noun	מַכְשִׁיר • (makhshír) m (plural indefinite מַכְשִׁירִים‏, singular construct מַכְשִׁיר־, plural construct מַכְשִׁירֵי־‏)
+
+אַיָּה	Noun	אַיָּה • (ayá) f
+
+מִגְדָּל	Noun	מִגְדָּל • (migdál) m (plural indefinite מִגְדָּלִים‏, singular construct מִגְדַּל־, plural construct מִגְדְּלֵי־‏) [pattern: מִקְטָל] 
+
+פְּלִישָׁה	Noun	פְּלִישָׁה • (plishá) f (plural indefinite פְּלִישׁוֹת‏, singular construct פְּלִישַׁת־‏) [pattern: קְטִילָה] 
+
+ריבון \ רִבּוֹן	Noun	ריבון \ רִבּוֹן • (ribón) m
+
+בְּרָכָה	Noun	בְּרָכָה • (b'rakhá) f (plural indefinite בְּרָכוֹת‏, singular construct בִּרְכַּת־‏, plural construct בִּרְכוֹת־‏)
+
+חֹל	Noun	חֹל • (ḥol) m (plural indefinite חֻלִּין‏)
+
+ניצב \ נִצָּב	Noun	ניצב \ נִצָּב • (nitsáv) m
+
+ניצב \ נִצָּב	Noun	ניצב \ נִצָּב • (nitsáv) m (feminine counterpart ניצבת \ נִצֶּבֶת‏)
+
+ניצב \ נִצָּב	Noun	ניצב \ נִצָּב • (nitsáv) m
+
+ניצב \ נִצָּב	Noun	ניצב \ נִצָּב • (nitsáv) m
+
+שֹׂבַע	Noun	שֹׂבַע • (sóva') ? [pattern: קֹטֶל] 
+
+חֲלוֹם	Noun	חֲלוֹם • (khalóm) m (plural indefinite חֲלוֹמוֹת‏, singular construct חֲלוֹם־)
+
+אֹכֶל	Noun	אֹכֶל • ('ókhel) m
+
+דְּבַשׁ	Noun	דְּבַשׁ • (dvash) m (singular construct דְּבַשׁ־)
+
+שַׁחַר	Noun	שַׁחַר • (shakhar) m (plural indefinite שְׁחָרִים‏, singular construct שַׁחַר־, plural construct שַׁחֲרֵי־‏) [pattern: קֶטֶל] 
+
+עוֹלָם	Noun	עוֹלָם • ('olám) m (plural indefinite עוֹלָמִים‏, singular construct עוֹלַם־, plural construct עוֹלְמֵי־‏)
+
+בִּלּוּי	Noun	בִּלּוּי • (bilúy) m
+
+אחווה \ אַחֲוָה	Noun	אחווה \ אַחֲוָה • (akhava) f (singular construct אחוות \ אַחְוַת־‏) [pattern: קַטְלָה] 
+
+מַקֵּל	Noun	מַקֵּל • (makél) m (plural indefinite מַקְּלוֹת‏, singular construct מַקֵּל־) [pattern: מַקְטֵל] 
+
+פָּנָס	Noun	פָּנָס • (panás) m (plural indefinite פָּנָסִים‏, singular construct פָּנַס־, plural construct פָּנָסֵי־‏)
+
+שָׁכֵן	Noun	שָׁכֵן • (shakhén) m (plural indefinite שְׁכֵנִים‏, feminine counterpart שְׁכֵנָה‏)
+
+זָקָן	Noun	זָקָן • (zaqán) m (plural indefinite זקנים‏, singular construct זקן־)
+
+זָקֵן	Noun	זָקֵן • (zaqén) m (plural indefinite זקנים‏, singular construct זקן־)
+
+כִּפָּה	Noun	כִּפָּה • (kipá) f
+
+כַּפָּהּ	Noun	כַּפָּהּ • (kapáh)
+
+נְשִׁיפָה	Noun	נְשִׁיפָה • (n'shifá) f (plural indefinite נְשִׁיפוֹת‏, singular construct נְשִׁיפַת־‏)
+
+יוֹנָה	Noun	יוֹנָה • (yoná) f (plural indefinite יוֹנִים‏, singular construct יוֹנַת־‏, plural construct יוֹנֵי־‏)
+
+מָקוֹם	Noun	מָקוֹם • (makóm) m (plural indefinite מְקוֹמוֹת‏, singular construct מְקוֹם־) [pattern: מִקְטָל] 
+
+כֶּתֶר	Noun	כֶּתֶר • (kéter) m (plural indefinite כְּתָרִים‏, singular construct כֶּתֶר־, plural construct כִּתְרֵי־‏) [pattern: קֶטֶל] 
+
+שֶׁבֶר	Noun	שֶׁבֶר • (shéver) m (plural indefinite שְׁבָרִים‏, singular construct שֶׁבֶר־) [pattern: קֶטֶל] 
+
+לֶקַח	Noun	לֶקַח • (lékakh) m
+
+פֶּה	Noun	פֶּה • (pe) m (singular construct פִּי־‏)
+
+רֹאֶה	Noun	רֹאֶה • (ro'é) m
+
+רֵאָה	Noun	רֵאָה • (re'á) f (plural indefinite רֵאוֹת‏, singular construct רֵאַת־‏)
+
+זָכָר	Noun	זָכָר • (zachár) m (plural indefinite זְכָרִים‏, plural construct זִכְרֵי־‏)
+
+זֵכֶר	Noun	זֵכֶר • (zécher) m [pattern: קֵטֶל] 
+
+שִׁחְזוּר	Noun	שִׁחְזוּר • (shikh'zúr) m (plural indefinite שִׁחְזוּרִים‏, plural construct שִׁחְזוּרֵי־‏)
+
+רָעָה	Noun	רָעָה • (ra'á) f
+
+רֵעָה	Noun	רֵעָה • (re'á) f (plural indefinite רֵעוֹת‏)
+
+מַצָּב	Noun	מַצָּב • (matsáv) m (plural indefinite מַצָּבִים‏)
+
+שינה \ שֵׁנָה	Noun	שינה \ שֵׁנָה • (sheiná) f (plural indefinite שינות \ שֵׁנוֹת‏, singular construct שְׁנַת־‏, plural construct שְׁנוֹת־‏)
+
+אֱמֶת	Noun	אֱמֶת • (emét) f (plural indefinite אֲמִתּוֹת‏, singular construct אֱמֶת־, plural construct אֲמִתּוֹת־‏)
+
+הַצְלָחָה	Noun	הַצְלָחָה • (hatzlakhá) f (plural indefinite הַצְלָחוֹת‏, singular construct הַצְלָחַת־‏, plural construct הַצְלָחוֹת־‏) [pattern: הַקְטָלָה] 
+
+מִבְטָא	Noun	מִבְטָא • (mivtá) m (plural indefinite מִבְטָאִים‏) [pattern: מִקְטָל] 
+
+חָבֵר	Noun	חָבֵר • (khavér) m (plural indefinite חֲבֵרִים‏, singular construct חֲבֵר־, plural construct חַבְרֵי־‏, feminine counterpart חֲבֵרָה‏)
+
+חֶבֶר	Noun	חֶבֶר • (khéver) m [pattern: קֶטֶל] 
+
+פָּרָה	Noun	פָּרָה • (pará) f (plural indefinite פָּרוֹת‏, singular construct פָּרַת־‏, plural construct פָּרוֹת־‏) [pattern: קַטְלָה] 
+
+דֶּרֶךְ	Noun	דֶּרֶךְ • (dérekh) f (plural indefinite דְּרָכִים‏, singular construct דֶּרֶךְ־, plural construct דַּרְכֵי־‏) [pattern: קֶטֶל] 
+
+חנוכייה \ חֲנֻכִּיָּה	Noun	חנוכייה \ חֲנֻכִּיָּה • (khanukiyá) f (plural indefinite חנוכיות \ חֲנֻכִּיּוֹת‏)
+
+אִזְמֵל	Noun	אִזְמֵל • (izmel) m
+
+מִזְמוֹר	Noun	מִזְמוֹר • (mizmór) m (plural indefinite מִזְמוֹרִים‏, plural construct מִזְמוֹרֵי־‏)
+
+מֶרְכָּב	Noun	מֶרְכָּב • (merkáv) m (plural indefinite מֶרְכָּבִים‏, singular construct מֶרְכַּב־, plural construct מֶרְכְּבֵי־‏) [pattern: מִקְטָל] 
+
+יְבָמָה	Noun	יְבָמָה • (y'vamá) f (plural indefinite יְבָמוֹת‏, singular construct יְבֶמֶת־‏, plural construct יִבְמוֹת־‏, masculine counterpart יָבָם‏)
+
+יְבָמָהּ	Noun	יְבָמָהּ • (y'vamáh) m sg indef. 
+
+עַקְרָב	Noun	עַקְרָב • ('akráv) m (plural indefinite עַקְרַבִּים‏, singular construct עַקְרַב־, plural construct עַקְרַבֵּי־‏)
+
+הֶרֶג	Noun	הֶרֶג • (héreg) m [pattern: קֶטֶל] 
+
+מִשְׁפָּחָה	Noun	מִשְׁפָּחָה • (mishpakhá) f (plural indefinite מִשְׁפָּחוֹת‏, singular construct מִשְׁפַּחַת־‏)
+
+צֹאן	Noun	צֹאן • (tsón, ṣōn) m
+
+מַטְבֵּעַ	Noun	מַטְבֵּעַ • (matbéa') m (plural indefinite מַטְבְּעוֹת‏) [pattern: מַקְטֵל] 
+
+מַדָּד	Noun	מַדָּד • (mádad) m (plural indefinite מַדָּדִים‏, singular construct מַדַּד־, plural construct מַדָּדֵי־‏)
+
+כֵּפֶל	Noun	כֵּפֶל • (kéfel) m [pattern: קֵטֶל] 
+
+מֶרֶד	Noun	מֶרֶד • (méred) m (plural indefinite מְרָדִים‏, singular construct מֶרֶד־) [pattern: קֶטֶל] 
+
+עֵרֶךְ	Noun	עֵרֶךְ • ('érekh) m (plural indefinite ערכים \ עֲרָכִים‏, singular construct עֵרֶךְ־, plural construct עֶרְכֵי־‏) [pattern: קֵטֶל] 
+
+בָּשָׂר	Noun	בָּשָׂר • (basár) m (plural indefinite בְּשָׂרִים‏, singular construct בְּשַׂר־, plural construct בִּשְׂרֵי־‏)
+
+תְּקִיעָה	Noun	תְּקִיעָה • (t'ki'á) f (plural indefinite תְּקִיעוֹת‏, singular construct תְּקִיעַת־‏) [pattern: קְטִילָה] 
+
+סָב	Noun	סָב • (sav) m (plural indefinite סָבִים‏, singular construct סַב־, plural construct סָבֵי־‏, feminine counterpart סָבָה‏)
+
+תַּפְקִיד	Noun	תַּפְקִיד • (tafqíd) m (plural indefinite תַּפְקִידִים‏, singular construct תַּפְקִיד־, plural construct תַּפְקִידֵי־‏)
+
+רָץ	Noun	רָץ • (rats) m
+
+רֶצַח	Noun	רֶצַח • (rétzakh) m [pattern: קֶטֶל] 
+
+קָצִיר	Noun	קָצִיר • (katsír) m (plural indefinite קְצִירִים‏, singular construct קְצִיר־, plural construct קְצִירֵי־‏) [pattern: קָטִיל] 
+
+תִּיקָן	Noun	תִּיקָן • (tikán) m (plural indefinite תִּיקָנִים‏)
+
+גֹּדֶל	Noun	גֹּדֶל • (gódel) m (singular construct גֹּדֶל־)
+
+חוזק \ חֹזֶק	Noun	חוזק \ חֹזֶק • (khózek) m [pattern: קֹטֶל] 
+
+בּוּמֶרַנְג	Noun	בּוּמֶרַנְג • (bumerang) m (plural indefinite בּוּמֶרָנְגִּים‏, plural construct בּוּמֶרָנְגֵּי־‏)
+
+שֵׁם	Noun	שֵׁם • (shém) m (plural indefinite שֵׁמוֹת‏, singular construct שֵׁם־, plural construct שְׁמוֹת־‏)
+
+עֶצֶם	Noun	עֶצֶם • (étsem) m (plural indefinite עֲצָמוֹת‏) [pattern: קֶטֶל] 
+
+שָׂרָף	Noun	שָׂרָף • (saráf) m (plural indefinite שְׂרָפִים‏, singular construct שְׂרַף־, plural construct שַׂרְפֵי־‏)
+
+שְׂרָף	Noun	שְׂרָף • (sráf) m (plural indefinite שְׂרָפִים‏, singular construct שְׂרַף־)
+
+‎הַפָּר	Noun	‎הַפָּר • (hapár)
+
+שַׁרְשֶׁרֶת	Noun	שַׁרְשֶׁרֶת • (sharshéret) f (plural indefinite שַׁרְשְׁרָאוֹת‏, singular construct שַׁרְשֶׁרֶת־)
+
+אונן	Noun	אונן • (unan) m (plural indefinite אוננים‏, singular construct אונן־)
+
+רָעָב	Noun	רָעָב • (ra'áv) m
+
+אַמָּה	Noun	אַמָּה • ('amá) f (plural indefinite אַמּוֹת‏)
+
+אָמָה	Noun	אָמָה • ('amá) f (plural indefinite אֲמָהוֹת‏ or אָמוֹת‏, singular construct אֲמַת־‏, plural construct אַמְהוֹת־‏ or אֲמוֹת־‏)
+
+אֻמָּה	Noun	אֻמָּה • ('umá) f
+
+אִמָּה	Noun	אִמָּה • ('imá) f
+
+אַף	Noun	אַף • (af) m [pattern: קֶטֶל] 
+
+אֹת	Noun	אֹת • (ot) m (plural אֹתֹת‏ or אֹתוֹת‏)
+
+אֵת	Noun	אֵת • (et) m (plural indefinite אִתִּים‏, singular construct אֵת־, plural construct אִתֵּי־‏)
+
+שֶׁטֶף	Noun	שֶׁטֶף • (shetéf) m [pattern: קֶטֶל] 
+
+אָב	Noun	אָב • ('áv) m (plural indefinite אָבוֹת‏, singular construct אֲבִי־‏, feminine counterpart אֵם‏)
+
+אֵב	Noun	אֵב • ('év) m (plural indefinite איבים \ אִבִּים‏) [pattern: קֵטֶל] 
+
+חֲזָרָה	Noun	חֲזָרָה • (khazará) f (plural indefinite חֲזָרוֹת‏, singular construct חזרת־‏, plural construct חזרות־‏)
+
+כָּרֵת	Noun	כָּרֵת • (karét) m
+
+גֵּר	Noun	גֵּר • (ger) m (plural indefinite גֵּרִים‏, feminine counterpart גיורת‏)
+
+שִׂיחָה	Noun	שִׂיחָה • (sikhá) f (plural indefinite שִׂיחוֹת‏, singular construct שִׂיחַת־‏)
+
+חוק \ חֹק	Noun	חוק \ חֹק • (khók) m (plural indefinite חוקים \ חֻקִּים‏, plural construct חוקי \ חֻקֵּי־‏) [pattern: קֹטֶל] 
+
+חָמוֹת	Noun	חָמוֹת • (khamót) f (plural indefinite חֲמָיוֹת‏, singular construct חֲמוֹת־, plural construct חַמְיוֹת־‏, masculine counterpart חָם‏)
+
+טֶכְנוֹלוֹגְיָה	Noun	טֶכְנוֹלוֹגְיָה • (tekhnológia) f (plural indefinite טֶכְנוֹלוֹגְיוֹת‏, singular construct טכנולוגיית \ טֶכְנוֹלוֹגְיַת־‏)
+
+חָלָב	Noun	חָלָב • (khaláv) m (plural indefinite חֲלָבִים‏, singular construct חֲלֵב־)
+
+חֵלֶב	Noun	חֵלֶב • (khélev) m (singular construct חֵלֶב־) [pattern: קֵטֶל] 
+
+נַחַל	Noun	נַחַל • (nákhal) m (plural indefinite נְחָלִים‏, plural construct נַחֲלֵי־‏, Biblical Hebrew pausal form נָחַל) [pattern: קֶטֶל] 
+
+הַתְרָאָה	Noun	הַתְרָאָה • (hat'ra'á) f
+
+טַעַם	Noun	טַעַם • (tá'am) m (plural indefinite טְעָמִים‏, plural construct טַעֲמֵי־‏) [pattern: קֶטֶל] 
+
+תְּשׁוּקָה	Noun	תְּשׁוּקָה • (t'shuká) f (plural indefinite תְּשׁוּקוֹת‏, singular construct תְּשׁוּקַת־‏)
+
+דָּבָר	Noun	דָּבָר • (davár) m (plural indefinite דְּבָרִים‏, singular construct דְּבַר־, plural construct דִּבְרֵי־‏)
+
+דֶּבֶר	Noun	דֶּבֶר • (déver) m (Biblical Hebrew pausal form דָּבֶר) [pattern: קֶטֶל] 
+
+גָּמָל	Noun	גָּמָל • (gamál) m (plural indefinite גְּמַלִּים‏, singular construct גְּמַל־, plural construct גְּמַלֵּי־‏, feminine counterpart נָאקָה‏)
+
+גַּמָּל	Noun	גַּמָּל • (gamál) m (plural indefinite גַּמָּלִים‏, singular construct גַּמַּל־, plural construct גַּמָּלֵי־‏)
+
+צורך \ צֹרֶךְ	Noun	צורך \ צֹרֶךְ • (tsórekh) m (plural indefinite צְרָכִים‏, singular construct צורך \ צֹרֶךְ־, plural construct צורכי \ צָרְכֵי־‏) [pattern: קֹטֶל] 
+
+גַּנָּב	Noun	גַּנָּב • (ganáv)
+
+אִשָּׁה	Noun	אִשָּׁה • (ishá) f (plural indefinite נָשִׁים‏, singular construct אֵשֶׁת־‏, plural construct נְשׁוֹת־‏ or נְשֵׁי־‏, masculine counterpart אִישׁ‏) [pattern: קִטְלָה] 
+
+דַּקָּר	Noun	דַּקָּר • (dakar) m
+
+דֶּקֶר	Noun	דֶּקֶר • (deker) m [pattern: קֶטֶל] 
+
+חוקה \ חֻקָּה	Noun	חוקה \ חֻקָּה • (khuká) f (plural indefinite חוקות \ חֻקּוֹת‏, singular construct חוקת \ חֻקַּת־‏)
+
+אוזן \ אֹזֶן	Noun	אוזן \ אֹזֶן • (ózen) f (dual indefinite אוזניים \ אָזְנַיִם‏, singular construct אוזן \ אֹזֶן־, plural construct אוזני \ אָזְנֵי־‏) [pattern: קֹטֶל] 
+
+דַּחַף	Noun	דַּחַף • (dákhaf) m (plural indefinite דְּחָפִים‏) [pattern: קֶטֶל] 
+
+פְּרִיבִילֶגְיָה	Noun	פְּרִיבִילֶגְיָה • (transliteration needed) f (plural indefinite פְּרִיבִילֶגְיוֹת‏)
+
+עָקֵב	Noun	עָקֵב • ('akév) m (plural indefinite עֲקֵבִים‏ or עֲקֵבוֹת‏, singular construct עֲקֵב־, plural construct עִקְבֵי־‏ or עִקְבוֹת־‏)
+
+רֶקַע	Noun	רֶקַע • (réka) m (plural indefinite רְקָעִים‏, singular construct רֶקַע־, plural construct רִקְעֵי־‏) [pattern: קֶטֶל] 
+
+צייר \ צַיָּר	Noun	צייר \ צַיָּר • (tsayár) m (plural indefinite צַיָּירִים‏)
+
+מַגֶּבֶת	Noun	מַגֶּבֶת • (magévet) f (plural indefinite מַגָּבוֹת‏, plural construct מַגְּבוֹת־‏)
+
+יָד	Noun	יָד • (yád) f (dual indefinite ידיים \ יָדַיִם‏, plural indefinite יָדוֹת‏, singular construct יַד־, dual construct יְדֵי־‏, plural construct יְדוֹת־‏)
+
+סַיָּע	Noun	סַיָּע • (sayá') m (feminine counterpart סייעת \ סַיַּעַת‏)
+
+צוּק	Noun	צוּק • (tzuk) m (plural indefinite צוּקִים‏, plural construct צוּקֵי־‏)
+
+עֶרֶב	Noun	עֶרֶב • (érev) m (dual indefinite ערביים \ עַרְבַּיִם‏, plural indefinite עֲרָבִים‏, singular construct עֶרֶב־, plural construct עַרְבֵי־‏, Biblical Hebrew pausal form עָרֶב) [pattern: קֶטֶל] 
+
+עָרֵב	Noun	עָרֵב • (arév) m
+
+עֵרֶב	Noun	עֵרֶב • (érev) m [pattern: קֵטֶל] 
+
+טְרִיבּוּנָה	Noun	טְרִיבּוּנָה • (tribuná) f (plural indefinite טְרִיבּוּנוֹת‏, singular construct טְרִיבּוּנַת־‏, plural construct טְרִיבּוּנוֹת־‏)
+
+תֵּמַהּ	Noun	תֵּמַהּ • (témah) m [pattern: קֵטֶל] 
+
+תֶּמָה	Noun	תֶּמָה • (téma) f
+
+לֵב	Noun	לֵב • (lev) m (plural indefinite לְבָבוֹת‏) [pattern: קֵטֶל] 
+
+דִּמְעָה	Noun	דִּמְעָה • (dim'á) f (plural indefinite דְּמָעוֹת‏, singular construct דִּמְעַת־‏, plural construct דִּמְעוֹת־‏) [pattern: קִטְלָה] 
+
+כַּלָּה	Noun	כַּלָּה • (kalá) f (plural indefinite כַּלּוֹת‏, singular construct כַּלַּת־‏, plural construct כַּלּוֹת־‏) [pattern: קַטְלָה] 
+
+בְּרִית	Noun	בְּרִית • (brit) f (plural indefinite בְּרִיתוֹת‏, singular construct בְּרִית־, plural construct בְּרִיתוֹת־‏)
+
+בְּכוֹר	Noun	בְּכוֹר • (b'khór) m (plural indefinite בְּכוֹרִים‏ or בְּכוֹרוֹת‏, feminine counterpart בְּכוֹרָה‏)
+
+שְׁזִיף	Noun	שְׁזִיף • (sh'zíf) m (plural indefinite שְׁזִיפִים‏, plural construct שְׁזִיפֵי־‏) [pattern: קְטִיל] 
+
+פְּסַנְתֵּר	Noun	פְּסַנְתֵּר • (p'santér) m (plural indefinite פְּסַנְתֵּרִים‏, singular construct פְּסַנְתֵּר־, plural construct פְּסַנְתֵּרֵי־‏)
+
+שִׂמְחָה	Noun	שִׂמְחָה • (simkhá) f (plural indefinite שְׂמָחוֹת‏, singular construct שִׂמְחַת־‏, plural construct שִׂמְחוֹת־‏) [pattern: קִטְלָה] 
+
+כְּלִי	Noun	כְּלִי • (k'lí) m (plural indefinite כֵּלִים‏, singular construct כְּלִי־, plural construct כְּלֵי־) [pattern: קֶטֶל] 
+
+נֵס	Noun	נֵס • (nés) m (plural indefinite ניסים \ נִסִּים‏, singular construct נֵס־) [pattern: קֵטֶל] 
+
+
+נֵס	Noun	נֵס • (nes) m (plural indefinite נִסִּים‏, singular construct נֵס־) [pattern: קֵטֶל] 
+
+נֵס	Noun	נֵס • (nes) m (no construct forms)
+
+אִיִּים	Noun	אִיִּים • (iyim)
+
+שָׂפָה	Noun	שָׂפָה • (safá) f (dual indefinite שפתיים \ שְׂפָתַיִם‏, plural indefinite שָׂפוֹת‏, singular construct שְׂפַת־‏)
+
+תְּבוּסָה	Noun	תְּבוּסָה • (t'vusá) f (plural indefinite תְּבוּסוֹת‏, singular construct תְּבוּסַת־‏) [pattern: תַּקְטֵלָה] 
+
+נטייה \ נְטִיָּה	Noun	נטייה \ נְטִיָּה • (n'tiyá) f (plural indefinite נְטִיּוֹת‏, singular construct נטיית \ נְטִיַּת־‏, plural construct נְטִיּוֹת־‏)
+
+כַּמָּת	Noun	כַּמָּת • (kamát) m (plural indefinite כַּמָּתִים‏, singular construct כַּמַּת־, plural construct כַּמָּתֵי־‏)
+
+גולגולת \ גֻּלְגֹּלֶת	Noun	גולגולת \ גֻּלְגֹּלֶת • (gulgólet) f (plural indefinite גולגולות \ גֻּלְגֹּלוֹת‏, plural construct גולגלות \ גֻּלְגְּלוֹת־‏)
+
+שֶׁרֶץ	Noun	שֶׁרֶץ • (shérets) m (plural indefinite שְׁרָצִים‏) [pattern: קֶטֶל] 
+
+פֶּטֶר	Noun	פֶּטֶר • (péter) m (singular construct פֶּטֶר־)
+
+גַּז	Noun	גַּז • (gaz) m (plural indefinite גַּזִּים‏, plural construct גַּזֵּי־‏) [pattern: קֶטֶל] 
+
+גֵּז	Noun	גֵּז • (gez) m [pattern: קֵטֶל] 
+
+צֶלֶם	Noun	צֶלֶם • (tsélem) m [pattern: קֶטֶל] 
+
+צַלָּם	Noun	צַלָּם • (tsalám) m
+
+צַמָּה	Noun	צַמָּה • (tsamá) f (plural indefinite צַמּוֹת‏, singular construct צַמַּת־‏, plural construct צַמּוֹת־‏) [pattern: קַטְלָה] 
+
+כָּנָף	Noun	כָּנָף • (kanáf) f (dual indefinite כנפיים \ כְּנָפַיִם‏, plural indefinite כְּנָפוֹת‏, singular construct כְּנַף־, dual construct כַּנְפֵי־‏, plural construct כַּנְפוֹת־‏)
+
+כּוֹס	Noun	כּוֹס • (kos) (plural indefinite כּוֹסוֹת‏, singular construct כּוֹס־, plural construct כּוֹסוֹת־‏)
+
+כּוֹס	Noun	כּוֹס • (kos) m
+
+כּוּס	Noun	כּוּס • (kus) m
+
+כֶּלֶב	Noun	כֶּלֶב • (kélev) m (plural indefinite כְּלָבִים‏, singular construct כֶּלֶב־, plural construct כַּלְבֵי־‏, feminine counterpart כַּלְבָּה‏) [pattern: קֶטֶל] 
+
+זיין / זַיָּן	Noun	זיין / זַיָּן • (zayán) m (plural indefinite זיינים‏)
+
+נְשִׁימָה	Noun	נְשִׁימָה • (n'shimá) f (plural indefinite נְשִׁימוֹת‏)
+
+צַד	Noun	צַד • (tsád) m (plural indefinite צְדָדִים‏, singular construct צַד־, plural construct צִדֵּי־‏) [pattern: קֶטֶל] 
+
+סְפִינָה	Noun	סְפִינָה • (sfiná) f (plural indefinite סְפִינוֹת‏, singular construct סְפִינַת־‏) [pattern: קְטִילָה] 
+
+פֶּרֶץ	Noun	פֶּרֶץ • (pérets) m [pattern: קֶטֶל] 
+
+יוּבַל	Noun	יוּבַל • (yuvál) m (plural indefinite יוּבַלִּים‏, singular construct יוּבַל־, plural construct יוּבַלֵּי־‏)
+
+יוֹבֵל	Noun	יוֹבֵל • (yovél) m (plural indefinite יוֹבְלִים‏, singular construct יוֹבֵל־, plural construct יוֹבְלֵי־‏)
+
+יוֹבֵל	Noun	יוֹבֵל • (yovél) m (plural indefinite יוֹבְלִים‏ or יוֹבְלוֹת‏, singular construct יוֹבֵל־, plural construct יוֹבְלֵי־‏ or יוֹבְלוֹת־‏)
+
+יוֹם	Noun	יוֹם • (yom) m (dual indefinite יומיים \ יוֹמַיִם‏, plural indefinite יָמִים‏, singular construct יוֹם־, plural construct יְמֵי־‏)
+
+יְחִידָה	Noun	יְחִידָה • (yeḥidá) f (plural indefinite יְחִידוֹת‏, singular construct יְחִידַת־‏) [pattern: קְטִילָה] 
+
+פַּחַד	Noun	פַּחַד • (pákhad) m
+
+כְּאֵב	Noun	כְּאֵב • (ke'év) m (plural indefinite כְּאֵבִים‏)
+
+וֶרֶד	Noun	וֶרֶד • (véred) m (plural indefinite וְרָדִים‏, singular construct ורד־, plural construct וַרְדֵּי־‏) [pattern: קֶטֶל] 
+
+פֶּתַח	Noun	פֶּתַח • (pétakh) m (plural indefinite פתחים‏, singular construct פתח־, plural construct פתחי־‏) [pattern: קֶטֶל] 
+
+פַּתַח	Noun	פַּתַח • (patákh) m
+
+אֶצְבַּע	Noun	אֶצְבַּע • ('etsbá') f (plural indefinite אֶצְבָּעוֹת‏, singular construct אֶצְבַּע־, plural construct אֶצְבְּעוֹת־‏)
+
+פִּיצָה	Noun	פִּיצָה • (pítsa) f (plural indefinite פִּיצוֹת‏, singular construct פִּיצַת־‏, plural construct פִּיצוֹת־‏)
+
+אֵל	Noun	אֵל • (el) m (plural indefinite אלים‏, singular construct אל־, feminine counterpart אֵלָה‏)
+
+אֵל	Noun	אֵל • (el) m
+
+אל	Noun	אל • (el) m
+
+אַל	Noun	אַל • ('ál)
+
+בֶּגֶד	Noun	בֶּגֶד • (béged) m (plural indefinite בְּגָדִים‏, singular construct בֶּגֶד־, plural construct בִּגְדֵי־‏) [pattern: קֶטֶל] 
+
+יֶדַע	Noun	יֶדַע • (yéda) m (no plural forms, singular construct יֶדַע־) [pattern: קֶטֶל] 
+
+גּוּף	Noun	גּוּף • (guf) m (plural indefinite גּוּפִים‏, singular construct גּוּף־)
+
+דָּם	Noun	דָּם • (dam) m (plural indefinite דָּמִים‏, singular construct דַּם־, plural construct דְּמֵי־‏)
+
+תַּחַת	Noun	תַּחַת • (tákhat) m [pattern: קֶטֶל] 
+
+הַבְטָחָה	Noun	הַבְטָחָה • (havtakhá) f (plural indefinite הַבְטָחוֹת‏, singular construct הַבְטָחַת־‏, plural construct הַבְטָחוֹת־‏)
+
+רֶמֶז	Noun	רֶמֶז • (rémez) m [pattern: קֶטֶל] 
+
+חֵלֶק	Noun	חֵלֶק • (khélek) m (plural indefinite חֲלָקִים‏, singular construct חֵלֶק־, plural construct חֶלְקֵי־‏) [pattern: קֵטֶל] 
+
+תחילה \ תְּחִלָּה	Noun	תחילה \ תְּחִלָּה • (tḥilá) f
+
+קוצר \ קֹצֶר	Noun	קוצר \ קֹצֶר • (kótser) m (plural indefinite קְצָרִים‏, singular construct קוצר \ קֹצֶר־, plural construct קוצרי \ קָצְרֵי־‏) [pattern: קֹטֶל] 
+
+מַאֲכָל	Noun	מַאֲכָל • (ma'akhál) f (plural indefinite מַאֲכָלִים‏ or מַאֲכָלוֹת‏, singular construct מַאֲכַל־, plural construct מַאַכְלֵי־‏ or מַאַכְלוֹת־‏) [pattern: מִקְטָל] 
+
+מַלְכוּת	Noun	מַלְכוּת • (malkhút) f
+
+מלכות	Noun	מלכות • (transliteration needed)
+
+דֶּשֶׁא	Noun	דֶּשֶׁא • (déshe) m (plural indefinite דְּשָׁאִים‏, plural construct דִּשְׁאֵי־‏) [pattern: קֶטֶל] 
+
+הולדת \ הֻלֶּדֶת	Noun	הולדת \ הֻלֶּדֶת • (hulédet) f
+
+מוֹלֶדֶת	Noun	מוֹלֶדֶת • (molédet) f (plural indefinite מוֹלָדוֹת‏, singular construct מוֹלֶדֶת־, plural construct מוֹלְדוֹת־‏)
+
+הֶפֶךְ	Noun	הֶפֶךְ • (héfekh) m (plural indefinite הֲפָכִים‏, singular construct הֶפֶךְ־, plural construct הַפְכֵי־‏)
+
+תּוֹר	Noun	תּוֹר • (tor) m (plural indefinite תּוֹרוֹת‏, plural construct תּוֹרֵי־‏)
+
+תּוֹר	Noun	תּוֹר • (tor) m (plural indefinite תּוֹרִים‏)
+
+חנוכה \ חֲנֻכָּה	Noun	חנוכה \ חֲנֻכָּה • (khanuká) f (plural indefinite חנוכות \ חֲנֻכּוֹת‏, singular construct חנוכת \ חֲנֻכַּת־‏, plural construct חנוכות \ חֲנֻכּוֹת־‏) [pattern: קְטֻלָּה] 
+
+זֶרַע	Noun	זֶרַע • (zéra‛) m (plural indefinite זְרָעִים‏) [pattern: קֶטֶל] 
+
+תקווה \ תִּקְוָה	Noun	תקווה \ תִּקְוָה • (tikvá) f (plural indefinite תִּקְווֹת‏, singular construct תקוות \ תִּקְוַת־‏) [pattern: תַּקְטֵלָה] 
+
+אלוהים \ אֱלֹהִים	Noun	אלוהים \ אֱלֹהִים • (elohím)
+
+אֱלוֹהִים \ אֱלֹהִים	Noun	אֱלוֹהִים \ אֱלֹהִים • (elohím) m (singular construct אלוהי \ אֱלֹהֵי־‏)
+
+תְּשׁוּבָה	Noun	תְּשׁוּבָה • (t'shuvá) f (plural indefinite תְּשׁוּבוֹת‏, singular construct תְּשׁוּבַת־‏, plural construct תְּשׁוּבוֹת־‏) [pattern: תַּקְטֵלָה] 
+
+זַן	Noun	זַן • (zan) m (plural indefinite זָנִים‏, plural construct זְנֵי־‏)
+
+בַּיִת	Noun	בַּיִת • (báyit) m (plural indefinite בָּתִּים‏, singular construct בֵּית־, plural construct בָּתֵּי־‏, Biblical Hebrew pausal form בָּיִת) [pattern: קֶטֶל] 
+
+בַּיִת	Noun	בַּיִת • (báyit) m (plural indefinite בָּתִּים‏)
+
+פְּגִיעָה	Noun	פְּגִיעָה • (p'gi'á) f (plural indefinite פְּגִיעוֹת‏, singular construct פְּגִיעַת־‏) [pattern: קְטִילָה] 
+
+סְפִירָה	Noun	סְפִירָה • (s'firá) f (plural indefinite סְפִירוֹת‏, singular construct סְפִירַת־‏)
+
+חֶמֶד	Noun	חֶמֶד • (khémed) m [pattern: קֶטֶל] 
+
+פְּרַקְלִיט	Noun	פְּרַקְלִיט • (praklít) m (plural indefinite פְּרַקְלִיטִים‏, singular construct פְּרַקְלִיט־, plural construct פְּרַקְלִיטֵי־‏, feminine counterpart פְּרַקְלִיטָה‏)
+
+זְנִיחָה	Noun	זְנִיחָה • (z'nikhá) f (plural indefinite זְנִיחוֹת‏, singular construct זְנִיחַת־‏)
+כַּעַס	Noun	כַּעַס • (ká'as) m (plural indefinite כְּעָסִים‏) [pattern: קֶטֶל] 
+
+פוּטֶר	Noun	פוּטֶר • (fúter) m
+
+חֲצִי	Noun	חֲצִי or חֵצִי • (khatsí or khétsi) (plural indefinite חֲצָאִים‏, singular construct חֲצִי־, plural construct חֲצָאֵי־‏) [pattern: קֵטֶל] 
+
+חֲמוֹר	Noun	חֲמוֹר • (kh'amor) m (plural indefinite חֲמוֹרִים‏, feminine counterpart אָתוֹן‏)
+
+בַּעַל	Noun	בַּעַל • (bá`al) m (plural indefinite בְּעָלִים‏, singular construct בַּעַל־, plural construct בַּעֲלֵי־‏, feminine counterpart בַּעֲלָה‏) [pattern: קֶטֶל] 
+
+חֶדֶר	Noun	חֶדֶר • (khéder) m (plural indefinite חֲדָרִים‏, singular construct חֲדַר־, plural construct חַדְרֵי־‏) [pattern: קֶטֶל] 
+
+פִּזְמוֹן	Noun	פִּזְמוֹן • (pizmón) m (plural indefinite פִּזְמוֹנִים‏, plural construct פִּזְמוֹנֵי־‏)
+
+בַּת	Noun	בַּת • (bat) f (plural indefinite בָּנוֹת‏, singular construct בַּת־, plural construct בְּנוֹת־‏, masculine counterpart בֶּן‏)
+
+פָּנִים	Noun	פָּנִים • (paním) f pl (plural construct פְּנֵי־‏)
+
+סִדְרָה	Noun	סִדְרָה • (sidrá) f (plural indefinite סְדָרוֹת‏, singular construct סִדְרַת־‏, plural construct סִדְרוֹת־‏) [pattern: קִטְלָה] 
+
+הָרַע	Noun	הָרַע • (hará')
+
+הַשְׁתָּנָה	Noun	הַשְׁתָּנָה • (hashtaná) f
+
+פֶּגַע	Noun	פֶּגַע • (péga') m (plural indefinite פְּגָעִים‏, singular construct פֶּגַע־, plural construct פִּגְעֵי־‏) [pattern: קֶטֶל] 
+
+עָבָר	Noun	עָבָר • (avár) m
+
+עֵבֶר	Noun	עֵבֶר • ('éver) m [pattern: קֵטֶל] 
+
+בֶּלֶם	Noun	בֶּלֶם • (bélem) m (plural indefinite בְּלָמִים‏) [pattern: קֶטֶל] 
+
+בַּלָּם	Noun	בַּלָּם • (balám) m (plural indefinite בַּלָּמִים‏)
+
+כֶּסֶף	Noun	כֶּסֶף • (késef) m (plural indefinite כְּסָפִים‏, singular construct כֶּסֶף־, plural construct כַּסְפֵי־‏) [pattern: קֶטֶל] 
+
+פִּקֵּחַ	Noun	פִּקֵּחַ • (pikéach) m (plural indefinite פקחים‏, feminine counterpart פקחת‏)
+
+‎קָדְקוֹד \ קָדְקֹד	Noun	‎קָדְקוֹד \ קָדְקֹד • (kodkód) m (plural indefinite קָדְקוֹדִים \ קָדְקֳדִים‏, singular construct קָדְקוֹד \ קָדְקֹד־, plural construct קָדְקוֹדֵי \ קָדְקֳדֵי־‏)
+
+פְּרוֹבִינְצְיָה	Noun	פְּרוֹבִינְצְיָה • (províntsya) f (plural indefinite פְּרוֹבִינְצְיוֹת‏, singular construct פְּרוֹבִינְצְיַת־‏, plural construct פְּרוֹבִינְצְיוֹת־‏)
+
+מְסִירָה	Noun	מְסִירָה • (m'sirá) f (plural indefinite מְסִירוֹת‏, singular construct מְסִירַת־‏, plural construct מְסִירוֹת־‏) [pattern: קְטִילָה] 
+
+פִּלְפֵּל	Noun	פִּלְפֵּל • (pilpel) m (plural indefinite פִּלְפְּלִים‏, singular construct פִּלְפֵּל־, plural construct פִּלְפְּלֵי־‏)
+
+שֶׁפַע	Noun	שֶׁפַע • (shéfa') m [pattern: קֶטֶל] 
+
+חַיִּים	Noun	חַיִּים • (ḥayím) m pl (plural construct חַיֵּי־‏)
+מַרְבָד	Noun	מַרְבָד • (marvád) m (plural indefinite מַרְבַדִּים‏, singular construct מַרְבַד־, plural construct מַרְבַדֵּי־‏) [pattern: מַקְטָל] 
+
+דֶּמֶה	Noun	דֶּמֶה • (deme) ?
+
+נֶשֶׁר	Noun	נֶשֶׁר • (nésher) m (plural indefinite נְשָׁרִים‏, plural construct נִשְׁרֵי־‏) [pattern: קֶטֶל] 
+
+נשר	Noun	נשר • (transliteration needed) ?
+
+שָׁמַיִם	Noun	שָׁמַיִם • (shamáyim) m pl (singular construct שְׁמֵי־‏, Biblical Hebrew pausal form שָׁמָיִם)
+
+כְּתָב	Noun	כְּתָב • (k'táv) m (plural indefinite כְּתָבִים‏, singular construct כְּתַב־, plural construct כִּתְבֵי־‏)
+
+כַּתָּב	Noun	כַּתָּב • (katáv) m (plural indefinite כַּתָּבִים‏, plural construct כַּתָּבֵי־‏, feminine counterpart כַּתֶּבֶת‏)
+
+בַּז	Noun	בַּז • (baz) m [pattern: קֶטֶל] 
+
+עָלֶה	Noun	עָלֶה • (alé) m (plural indefinite עָלִים‏, singular construct עֲלֵה־)
+
+שִׁכְתֵּב	Noun	שִׁכְתֵּב • (shikh'tév) (pi'el construction, passive counterpart שוכתב \ שֻׁכְתַּב‏)
+
+שְׁחִיטָה	Noun	שְׁחִיטָה • (sh'khitá) f (plural indefinite שְׁחִיטוֹת‏, singular construct שְׁחִיטַת־‏)
+
+צֶמַח	Noun	צֶמַח • (tsémakh) m (plural indefinite צְמָחִים‏, singular construct צֶמַח־, plural construct צִמְחֵי־‏) [pattern: קֶטֶל] 
+
+בוקר \ בֹּקֶר	Noun	בוקר \ בֹּקֶר • (bóker) m (plural indefinite בְּקָרִים‏, singular construct בוקר \ בֹּקֶר־, plural construct בָּקְרֵי־‏) [pattern: קֹטֶל] 
+
+בּוֹקֵר	Noun	בּוֹקֵר • (bokér) m (plural indefinite בּוֹקְרִים‏, singular construct בוקר־, feminine counterpart בּוֹקֶרֶת‏)
+
+רֶכֶב	Noun	רֶכֶב • (rechev) m
+
+נָזִיד	Noun	נָזִיד • (nazíd) m (plural indefinite נְזִידִים‏, singular construct נְזִיד־, plural construct נְזִידֵי־‏) [pattern: קָטִיל] 
+
+שֶׁטַח	Noun	שֶׁטַח • (shétakh) m (plural indefinite שְׁטָחִים‏, singular construct שְׁטַח־, plural construct שִׁטְחֵי־‏) [pattern: קֶטֶל] 
+
+גֶּזֶר	Noun	גֶּזֶר • (gézer) m (plural indefinite גְּזָרִים‏, singular construct גֶּזֶר־, plural construct גִּזְרֵי־‏) [pattern: קֶטֶל] 
+
+תֶּלֶם	Noun	תֶּלֶם • (telem) m (plural indefinite תְּלָמִים‏, singular construct תֶּלֶם־, plural construct תַּלְמֵי־‏) [pattern: קֶטֶל] 
+
+תֶּפֶס	Noun	תֶּפֶס • (transliteration needed) m [pattern: קֶטֶל] 
+
+מֶשֶׁךְ	Noun	מֶשֶׁךְ • (méshekh) m (singular construct מֶשֶׁךְ־) [pattern: קֶטֶל] 
+
+דָּג	Noun	דָּג • (dág) m (plural indefinite דָּגִים‏, singular construct דַּג־, plural construct דְּגֵי־‏)
+
+שְׁרִיר	Noun	שְׁרִיר • (sh'rir) m (plural indefinite שְׁרִירִים‏, singular construct שְׁרִיר־, plural construct שְׁרִירֵי־‏)
+
+יַקִּיר	Noun	יַקִּיר • (yakír) ? (plural indefinite יַקִּירִים‏, singular construct יַקִּיר־, plural construct יַקִּירֵי־‏, feminine counterpart יַקִּירָה‏)
+
+נֶטַע	Noun	נֶטַע • (neṭa‘) m
+
+גִּילָה	Noun	גִּילָה • (gilá) f
+
+כּוֹכָב	Noun	כּוֹכָב • (kokháv) m (plural indefinite כּוֹכָבִים‏, singular construct כּוֹכַב־, plural construct כּוֹכְבֵי־‏)
+
+יָבָם	Noun	יָבָם • (yavám) m (plural indefinite יְבָמִים‏, singular construct יְבַם־, plural construct יִבְמֵי־‏, feminine counterpart יְבָמָה‏)
+
+עַם	Noun	עַם • (am) m (plural indefinite עַמִּים‏, singular construct עַם־, plural construct עַמֵּי־‏, Biblical Hebrew pausal form עָם) [pattern: קֶטֶל] 
+
+קוֹל	Noun	קוֹל • (kol) m (plural indefinite קוֹלוֹת‏, singular construct קוֹל־)
+
+כיסא \ כִּסֵּא	Noun	כיסא \ כִּסֵּא • (kisé) m (plural indefinite כיסאות \ כִּסְּאוֹת‏)
+
+זיכרון \ זִכָּרוֹן	Noun	זיכרון \ זִכָּרוֹן • (zikarón) m (plural indefinite זיכרונות \ זִכְרוֹנוֹת‏, singular construct זיכרון \ זִכְרוֹן־, plural construct זיכרונות \ זִכְרוֹנוֹת־‏) [pattern: קִטָּלוֹן] 
+
+יְרִידָה	Noun	יְרִידָה • (y'ridá) f (plural indefinite יְרִידוֹת‏, singular construct יְרִידַת־‏) [pattern: קְטִילָה] 
+
+גֶּלֶד	Noun	גֶּלֶד • (géled) m (plural indefinite גְלָדִים‏, plural construct גִּלְדֵי־‏) [pattern: קֶטֶל] 
+
+קֶרֶן	Noun	קֶרֶן • (kéren) f (plural indefinite קרניים \ קַרְנַיִם‏) [pattern: קֶטֶל] 
+
+קֶרֶן	Noun	קֶרֶן • (kéren) f (plural indefinite קְרָנוֹת‏, singular construct קֶרֶן־, plural construct קַרְנוֹת־‏) [pattern: קֶטֶל] 
+
+רֹאשׁ	Noun	רֹאשׁ • (rosh) m (plural indefinite רָאשִׁים‏, singular construct רֹאשׁ־, plural construct רָאשֵׁי־‏)
+
+רֹאשׁ	Noun	רֹאשׁ • (rosh) m (singular construct רֹאשׁ־)
+
+סַיְדֶּר	Noun	סַיְדֶּר • (sáider) m
+
+בּוֹדֵד	Noun	בּוֹדֵד • (bodéd) m (plural indefinite בּוֹדְדִים‏, feminine counterpart בּוֹדְדָה‏)
+
+צַעֲצוּעַ	Noun	צַעֲצוּעַ • (tsa'atsúa) m (plural indefinite צַעֲצוּעִים‏, plural construct צַעֲצוּעֵי־‏)
+
+צִעְצוּעַ	Noun	צִעְצוּעַ • (transliteration needed) m (plural indefinite צִעְצוּעִים‏, plural construct צִעְצוּעֵי־‏)
+
+מַאֲגָר	Noun	מַאֲגָר • (maagár) m (plural indefinite מַאֲגָרִים‏, singular construct מַאֲגַר־, plural construct מַאֲגְרֵי־‏)
+
+מַלְאָךְ	Noun	מַלְאָךְ • (mal'ákh) m (plural indefinite מַלְאָכִים‏, singular construct מַלְאַךְ־, plural construct מַלְאֲכֵי־‏)
+
+עֲבוֹט	Noun	עֲבוֹט • ('avot) m
+
+עֹנֶג	Noun	עֹנֶג • ('óneg) m [pattern: קֹטֶל] 
+
+נַגָּד	Noun	נַגָּד • (nagád) m
+
+נִבְחָר	Noun	נִבְחָר • (nivkhár) m (plural indefinite נִבְחָרִים‏, plural construct נִבְחָרֵי־‏, feminine counterpart נִבְחֶרֶת‏)
+
+בְּרוֹךְ	Noun	בְּרוֹךְ • (brokh) m
+
+קֶבַע	Noun	קֶבַע • (transliteration needed) m [pattern: קֶטֶל] 
+
+סֶרֶט	Noun	סֶרֶט • (séret) m (plural indefinite סְרָטִים‏, singular construct סֶרֶט־, plural construct סִרְטֵי־‏) [pattern: קֶטֶל] 
+
+זֶרֶם	Noun	זֶרֶם • (zerem) m (plural indefinite זְרָמִים‏, plural construct זרמי־‏) [pattern: קֶטֶל] 
+
+מָקוֹר	Noun	מָקוֹר • (makór) m (plural indefinite מְקוֹרוֹת‏, singular construct מְקוֹר־, plural construct מְקוֹרוֹת־‏) [pattern: מִקְטָל] 
+
+מַקּוֹר	Noun	מַקּוֹר • (makór) m (plural indefinite מַקּוֹרִים‏, singular construct מַקּוֹר־, plural construct מַקּוֹרֵי־‏)
+
+אֱלוֹהַּ \ אֱלֹהַּ	Noun	אֱלוֹהַּ \ אֱלֹהַּ • (elóah) m (plural indefinite אלוהים \ אֱלֹהִים‏, singular construct אֱלוֹהַּ \ אֱלֹהַּ־, plural construct אלוהי \ אֱלֹהֵי־‏)
+
+מְשִׁיכָה	Noun	מְשִׁיכָה • (meshikha) f (plural indefinite מְשִׁיכוֹת‏, singular construct מְשִׁיכַת־‏) [pattern: קְטִילָה] 
+
+נֶשֶׁק	Noun	נֶשֶׁק • (nésheq) m [pattern: קֶטֶל] 
+
+אַיִן	Noun	אַיִן • ('áyin) m [pattern: קֶטֶל] 
+
+אָחוֹת	Noun	אָחוֹת • (akhót) f (plural indefinite אֲחָיוֹת‏, singular construct אֲחוֹת־, plural construct אַחְיוֹת־‏, masculine counterpart אָח‏)
+
+גינה \ גִּנָּה	Noun	גינה \ גִּנָּה • (gina) f (plural indefinite גינות‏, singular construct גינת־‏, plural construct גינות־‏) [pattern: קִטְלָה] 
+
+כֹּל	Noun	כֹּל • (kól) (singular construct כָּל־) [pattern: קֹטֶל] 
+
+חַלָּה	Noun	חַלָּה • (khalá) f (plural indefinite חַלּוֹת‏) [pattern: קַטְלָה] 
+
+טֶבַע	Noun	טֶבַע • (téva) m [pattern: קֶטֶל] 
+
+בֶּטֶן	Noun	בֶּטֶן • (béten) f (singular construct בֶּטֶן־) [pattern: קֶטֶל] 
+
+בֹּטֶן	Noun	בֹּטֶן • (bóten) m (plural indefinite בטנים‏, singular construct בֹּטֶן־)
+
+תּוֹלָדָה	Noun	תּוֹלָדָה • (toladá) f (plural indefinite תּוֹלָדוֹת‏, singular construct תּוֹלְדַת־‏, plural construct תּוֹלְדוֹת־‏)
+
+נַהָג	Noun	נַהָג or נֶהָג • (nahág or nehág) m (plural indefinite נַהָגִים‏ or נֶהָגִים‏)
+
+ניצן \ נִצָּן	Noun	ניצן \ נִצָּן • (nitzan) m
+
+כּוֹנָן	Noun	כּוֹנָן • (konán) m
+
+כּוֹנָן	Noun	כּוֹנָן • (konán) m
+
+כָּבוֹד	Noun	כָּבוֹד • (kavód) m (plural indefinite כְּבוֹדִים‏, singular construct כְּבוֹד־, plural construct כְּבוֹדֵי־‏)
+
+מִפְתָּן	Noun	מִפְתָּן • (miftán) m (plural indefinite מִפְתָּנִים‏, singular construct מִפְתַּן־, plural construct מִפְתְּנֵי־‏) [pattern: מִקְטָל] 
+
+יֶלֶד	Noun	יֶלֶד • (yéled) m (plural indefinite יְלָדִים‏, singular construct יֶלֶד־, plural construct יַלְדֵי־‏, feminine counterpart יַלְדָּה‏) [pattern: קֶטֶל] 
+
+לָמֶד	Noun	לָמֶד • (lámed) f
+
+גָּלִיל	Noun	גָּלִיל • (galíl) m (plural indefinite גְּלִילִים‏, singular construct גְּלִיל־, plural construct גְּלִילֵי־‏) [pattern: קָטִיל] 
+
+זָנָב	Noun	זָנָב • (zanáv) m (plural indefinite זְנָבוֹת‏, singular construct זְנַב־, plural construct זַנְבוֹת־‏)
+
+עָמִית	Noun	עָמִית • ('amít) m (plural indefinite עֲמִיתִים‏, singular construct עֲמִית־, plural construct עֲמִיתֵי־‏) [pattern: קָטִיל] 
+
+שֶׁלֶט	Noun	שֶׁלֶט • (shélet) m [pattern: קֶטֶל] 
+
+שַׁלָּט	Noun	שַׁלָּט • (shalát) m
+
+בֵּן	Noun	בֵּן • (bén) m (plural indefinite בָּנִים‏, singular construct בֶּן־, plural construct בְּנֵי־‏, feminine counterpart בַּת‏)
+
+דּוֹבֵר	Noun	דּוֹבֵר • (dovér) m (plural indefinite דּוֹבְרִים‏, feminine counterpart דּוֹבֶרֶת‏)
+
+הָרִים	Noun	הָרִים • (harím) m pl indef. 
+
+סוּס	Noun	סוּס • (sus) m (dual indefinite סוסיים \ סוּסַיִם‏, plural indefinite סוּסִים‏, plural construct סוּסֵי־‏)
+
+קַדִּישׁ	Noun	קַדִּישׁ • (kadish) m
+
+הֲנָחָה	Noun	הֲנָחָה • (hanakha) f (plural indefinite הֲנָחוֹת‏)
+
+קֶבֶר	Noun	קֶבֶר • (kéver) m (plural indefinite קְבָרִים‏, singular construct קֶבֶר־, plural construct קברי־‏) [pattern: קֶטֶל] 
+
+דֶּלֶת	Noun	דֶּלֶת • (délet) f (dual indefinite דלתיים \ דְּלָתַיִם‏, plural indefinite דְּלָתוֹת‏, singular construct דֶּלֶת־, plural construct דַּלְתוֹת־‏) [pattern: קֶטֶל] 
+
+דָּלֶת	Noun	דָּלֶת • (dalet) f
+
+קָם	Noun	קָם • (kam) m (plural indefinite קָמִים‏, singular construct קָמֵי־‏)
+
+נַעַר	Noun	נַעַר • (ná'ar) m (plural indefinite נְעָרִים‏, feminine counterpart נַעֲרָה‏) [pattern: קֶטֶל] 
+
+חייך	Noun	חייך • (khayékha / khayáikh) m
+דּוֹר	Noun	דּוֹר • (dor) m (plural indefinite דּוֹרוֹת‏, singular construct דּוֹר־)
+
+דַּוָּר	Noun	דַּוָּר • (davár) m
+
+ספרייה \ סִפְרִיָּה	Noun	ספרייה \ סִפְרִיָּה • (sifriyá) f (plural indefinite סִפְרִיּוֹת‏, singular construct ספריית \ סִפְרִיַּת־‏)
+
+הִזְדַּמְּנוּת	Noun	הִזְדַּמְּנוּת • (hizdam'nút) f (plural indefinite הִזְדַּמְּנוּיוֹת‏, singular construct הִזְדַּמְּנוּת־, plural construct הִזְדַּמְּנוּיוֹת־‏)
+
+סוֹכֵךְ	Noun	סוֹכֵךְ • (sokhékh) m (plural indefinite סוֹכְכִים‏)
+
+קַשָּׁר	Noun	קַשָּׁר • (kashar) m (plural indefinite קַשָּׁרִים‏, singular construct קַשַּׁר־, plural construct קַשְּׁרֵי־‏, feminine counterpart קַשֶּׁרֶת‏ or קַשָּׁרִית‏) [pattern: קַטָּל] 
+
+קֶשֶׁר	Noun	קֶשֶׁר • (késher) m (plural indefinite קְשָׁרִים‏, singular construct קֶשֶׁר־, plural construct קִשְׁרֵי־‏) [pattern: קֶטֶל] 
+
+נָפִיל	Noun	נָפִיל • (nafíl) m (plural indefinite נְפִילִים‏, singular construct נְפִיל־, plural construct נְפִילֵי־‏) [pattern: קָטִיל] 
+
+חוֹף	Noun	חוֹף • (khof) m (plural indefinite חוֹפִים‏, singular construct חוֹף־, plural construct חוֹפֵי־‏)
+
+מֶלֶךְ‏	Noun	מֶלֶךְ‏ • (mélekh) m (plural indefinite מְלָכִים‏, singular construct מֶלֶךְ־, plural construct מַלְכֵי־‏, feminine counterpart מַלְכָּה‏, Biblical Hebrew pausal form מֶלֶךְ) [pattern: קֶטֶל] 
+
+מָשָׁל	Noun	מָשָׁל • (mashál) m (plural indefinite מְשָׁלִים‏)
+
+חוֹתֵן	Noun	חוֹתֵן • (khotén) m (plural indefinite חוֹתְנִים‏, plural construct חוֹתְנֵי־‏, feminine counterpart חוֹתֶנֶת‏)
+
+שוחד \ שֹׁחַד	Noun	שוחד \ שֹׁחַד • (shókhad) m [pattern: קֹטֶל] 
+
+קושי \ קֹשִׁי	Noun	קושי \ קֹשִׁי • (kóshi) m [pattern: קֹטֶל] 
+
+סְפֶרָה	Noun	סְפֶרָה • (sféra) f (plural indefinite סְפֶרוֹת‏, singular construct סְפֶרַת־‏, plural construct סְפֶרוֹת־‏)
+
+סִפְרָה	Noun	סִפְרָה • (sifrá) f (plural indefinite סְפָרוֹת‏, singular construct סִפְרַת־‏, plural construct סִפְרוֹת־‏) [pattern: קִטְלָה] 
+
+חָסָה	Noun	חָסָה • (khása) f (plural indefinite חָסָוֹת‏)
+
+ניגון \ נִגּוּן	Noun	ניגון \ נִגּוּן • (nigún) m (plural indefinite ניגונים \ נִגּוּנִים‏, plural construct ניגוני \ נִגּוּנֵי־‏)
+
+אסיפה \ אֲסֵפָה	Noun	אסיפה \ אֲסֵפָה • (asefá) f (plural indefinite אסיפות \ אֲסֵפוֹת‏, singular construct אסיפת \ אֲסֵפַת־‏)
+
+פֶּצַע	Noun	פֶּצַע • (pétza) m (plural indefinite פצעים‏, singular construct פֶּצַע־, plural construct פצעי־‏) [pattern: קֶטֶל] 
+
+קיצור \ קִצּוּר	Noun	קיצור \ קִצּוּר • (kitsúr) m (plural indefinite קיצורים \ קִצּוּרִים‏, plural construct קיצורי \ קִצּוּרֵי־‏)
+
+שֶׁקֶל	Noun	שֶׁקֶל • (shékel) m (plural indefinite שְׁקָלִים‏, singular construct שֶׁקֶל־) [pattern: קֶטֶל] 
+
+תַּאֲרִיךְ	Noun	תַּאֲרִיךְ • (ta'aríkh) m (plural indefinite תַּאֲרִיכִים‏, singular construct תַּאֲרִיךְ־)
+
+קָנֶה	Noun	קָנֶה • (kané) f (plural indefinite קָנִים‏, singular construct קְנֵה־, plural construct קְנֵי־‏)
+
+צְרִיכָה	Noun	צְרִיכָה • (ts'rikhá) f (plural indefinite צְרִיכוֹת‏, singular construct צְרִיכַת־‏) [pattern: קְטִילָה] 
+
+אָח	Noun	אָח • ('ákh) m (plural indefinite אַחִים‏, singular construct אֲחִי־‏, plural construct אֲחֵי־‏, feminine counterpart אָחוֹת‏)
+
+אח	Noun	אח • (transliteration needed) ?
+
+שׁוּל	Noun	שׁוּל • (shúl) m (dual indefinite שוליים \ שׁוּלַיִם‏)
+
+קודש \ קֹדֶשׁ	Noun	קודש \ קֹדֶשׁ • (kodesh) m [pattern: קֹטֶל] 
+
+אֶרֶץ	Noun	אֶרֶץ • ('éretz) f (plural indefinite אֲרָצוֹת‏, singular construct אֶרֶץ־, plural construct אַרְצוֹת־‏, Biblical Hebrew pausal form אָרֶץ) [pattern: קֶטֶל] 
+
+הוֹרָאָה	Noun	הוֹרָאָה • (hora'á) f (plural indefinite הוֹרָאוֹת‏, singular construct הוֹרְאַת־‏, plural construct הוֹרְאוֹת־‏)
+
+שִׂמְלָה	Noun	שִׂמְלָה • (simla) f (plural indefinite שְׂמָלוֹת‏, singular construct שִׂמְלַת־‏, plural construct שְׂמָלוֹת־‏) [pattern: קִטְלָה] 
+
+שַׁעַר	Noun	שַׁעַר • (shá'ar) m (plural indefinite שְׁעָרִים‏, singular construct שַׁעַר־, plural construct שַׁעֲרֵי־‏) [pattern: קֶטֶל] 
+
+שֵׂעָר	Noun	שֵׂעָר • (se'ár) m
+
+תוֹעֵבָה	Noun	תוֹעֵבָה • (to'evá) f (plural indefinite תּוֹעֵבוֹת‏, singular construct תּוֹעֵבַת־‏)
+
+מוֹקֵשׁ	Noun	מוֹקֵשׁ • (mokésh) m (plural indefinite מוֹקְשִׁים‏)
+
+גֶּבֶר	Noun	גֶּבֶר • (géver) m (plural indefinite גְּבָרִים‏, feminine counterpart גְּבֶרֶת‏) [pattern: קֶטֶל] 
+
+גֶּבֶר	Noun	גֶּבֶר • (géver) m (plural indefinite גְּבָרִים‏) [pattern: קֶטֶל] 
+
+נֶפֶשׁ	Noun	נֶפֶשׁ • (néfesh) f (plural indefinite נְפָשׁוֹת‏, singular construct נֶפֶשׁ־, plural construct נַפְשׁוֹת־‏) [pattern: קֶטֶל] 
+
+מְעִי	Noun	מְעִי • (m'í) m (dual indefinite מעיים \ מֵעַיִם‏, singular construct מְעִי־, dual construct מְעֵי־)
+
+מְעִי	Noun	מְעִי • (m'í) m (plural indefinite מְעָיִים‏, singular construct מְעִי־, plural construct מְעֵי־)
+
+יֵצֶר	Noun	יֵצֶר • (yétser) m (plural indefinite יְצָרִים‏, singular construct יצר־, plural construct יצרי־‏) [pattern: קֵטֶל] 
+
+קֶדֶם	Noun	קֶדֶם • (kédem) m [pattern: קֶטֶל] 
+
+סִימָן	Noun	סִימָן • (simán) m (plural indefinite סִימָנִים‏, singular construct סִימַן־, plural construct סִימָנֵי־‏)
+
+מַגָּל	Noun	מַגָּל • (magál) m (plural indefinite מַגָּלִים‏ or מַגָּלוֹת‏, singular construct מַגָּל־, plural construct מַגָּלֵי־‏ or מַגָּלוֹת־‏)
+
+גִּזְבָּר	Noun	גִּזְבָּר • (gizbár) m
+
+מָזוֹן	Noun	מָזוֹן • (mazón) m (plural indefinite מְזוֹנוֹת‏, singular construct מְזוֹן־, plural construct מְזוֹנוֹת־‏) [pattern: מִקְטָל] 
+
+פַּרְלָמֶנְט	Noun	פַּרְלָמֶנְט • (parlamént) m (plural indefinite פַּרְלָמֶנְטִים‏)
+
+טייס \ טַיָּס	Noun	טייס \ טַיָּס • (tayás) m (plural indefinite טייסים \ טַיָּסִים‏, singular construct טייס \ טַיַּס־, plural construct טייסי \ טַיָּסֵי־‏, feminine counterpart טייסת \ טַיֶּסֶת‏)
+
+טייס \ טַיִס	Noun	טייס \ טַיִס • (táyis) m (no plural forms)
+
+כְּתוּבִית	Noun	כְּתוּבִית • (ktuvít) f (plural indefinite כְּתוּבִיּוֹת‏)
+
+רָצוֹן	Noun	רָצוֹן • (ratzón) m (plural indefinite רְצוֹנוֹת‏, singular construct רְצוֹן־)
+
+הַמְלָצָה	Noun	הַמְלָצָה • (hamlatsá) f (plural indefinite הַמְלָצוֹת‏, singular construct הַמְלָצַת־‏, plural construct הַמְלָצוֹת־‏)
+
+פְּרִי	Noun	פְּרִי • (pri) m (plural indefinite פֵּרוֹת‏) [pattern: קֶטֶל] 
+
+חֶסֶד	Noun	חֶסֶד • (khésed) m (plural indefinite חֲסָדִים‏, singular construct חֶסֶד־, plural construct חַסְדֵי־‏) [pattern: קֶטֶל] 
+
+נְשָׁמָה	Noun	נְשָׁמָה • (n'shamá) f (plural indefinite נְשָׁמוֹת‏, singular construct נִשְׁמַת־‏, plural construct נִשְׁמוֹת־‏)
+
+צֶלַע	Noun	צֶלַע • (tséla) f (plural indefinite צְלָעוֹת‏) [pattern: קֶטֶל] 
+
+דְּבוֹרָה	Noun	דְּבוֹרָה • (dvorá) f (plural indefinite דְּבוֹרִים‏)
+
+שַׁבָּת	Noun	שַׁבָּת • (shabát) f (plural indefinite שַׁבָּתוֹת‏)
+
+בְּתוּלִים	Noun	בְּתוּלִים • (b'tulím) m pl (plural construct בְּתוּלֵי־‏)
+
+בְּתוּלִים	Noun	בְּתוּלִים • (b'tulím) m pl indef. 
+
+מְבוּכָה	Noun	מְבוּכָה • (m'vukhá) f (plural indefinite מְבוּכוֹת‏, singular construct מְבוּכַת־‏)
+
+דִּין	Noun	דִּין • (din) m (plural indefinite דִּינִים‏, singular construct דִּין־, plural construct דִּינֵי־‏)
+
+דַּיָּן	Noun	דַּיָּן • (dayán) m
+
+הגן	Noun	הגן • (hagán)
+
+מִגְרָעָה	Noun	מִגְרָעָה • (mig'ra'á) f (plural indefinite מִגְרָעוֹת‏, singular construct מִגְרָעַת־‏)
+
+רוֹפֵא	Noun	רוֹפֵא • (rofé) m (plural indefinite רוֹפְאִים‏, singular construct רוֹפֵא־, plural construct רוֹפְאֵי־‏, feminine counterpart רוֹפְאָה‏)
+
+מָן	Noun	מָן • (man) m (no plural forms)
+
+שֶׁמֶר	Noun	שֶׁמֶר • (shémer) m (plural indefinite שְׁמָרִים‏, plural construct שִׁמְרֵי־‏) [pattern: קֶטֶל] 
+
+אֹמֶר	Noun	אֹמֶר • ('ómer) m
+
+מְנוֹרָה	Noun	מְנוֹרָה • (m'norá) f (plural indefinite מְנוֹרוֹת‏, singular construct מְנוֹרַת־‏, plural construct מְנוֹרוֹת־‏)
+
+אֲדָמָה	Noun	אֲדָמָה • ('adamá) f (plural indefinite אֲדָמוֹת‏, singular construct אַדְמַת־‏, plural construct אַדְמוֹת־‏)
+
+קְרָב	Noun	קְרָב • (krav) m (plural indefinite קְרָבוֹת‏, singular construct קְרַב־)
+
+חווה \ חַוָּה	Noun	חווה \ חַוָּה • (khavá) f (plural indefinite חַוּוֹת‏, singular construct חוות \ חַוַּת־‏, plural construct חַוּוֹת־‏) [pattern: קַטְלָה] 
+
+חֲנִית	Noun	חֲנִית • (khanít) f (plural indefinite חֲנִיתוֹת‏ or חֲנִיתִים‏)
+
+תָּו	Noun	תָּו • (táv) m (plural indefinite תווים \ תָּוִים‏, singular construct תַּו־, plural construct תווי \ תָּוֵי־‏)
+
+מַקְהֵלָה	Noun	מַקְהֵלָה • (mak'helá) f (plural indefinite מַקְהֵלוֹת‏, singular construct מַקְהֵלַת־‏, plural construct מַקְהֵלוֹת־‏)
+
+מְכַשֵּׁף	Noun	מְכַשֵּׁף • (mekhashéf) m (plural indefinite מְכַשְּׁפִים‏, feminine counterpart מְכַשֵּׁפָה‏ or מְכַשֶּׁפֶת‏)
+
+סַחַר	Noun	סַחַר • (sákhar) m (singular construct סחר־)
+
+לִינְק	Noun	לִינְק • (línk) m (plural indefinite לִינְקִים‏)
+
+הָעִיר	Noun	הָעִיר • (ha'ír)
+
+קָרָה	Noun	קָרָה • (qará) f
+
+שֶׁמֶן	Noun	שֶׁמֶן • (shémen) m (plural indefinite שְׁמָנִים‏, singular construct שֶׁמֶן־, plural construct שַׁמְנֵי־‏) [pattern: קֶטֶל] 
+
+שֻׁמָּן	Noun	שֻׁמָּן • (shumán) m (plural indefinite שֻׁמָּנִים‏)
+
+איגרת \ אִגֶּרֶת	Noun	איגרת \ אִגֶּרֶת • ('igéret) f (plural indefinite איגרות \ אִגָּרוֹת‏, plural construct איגרות \ אִגְּרוֹת־‏)
+
+פֶּלֶג	Noun	פֶּלֶג • (péleg) m (plural indefinite פְּלָגִים‏, plural construct פַּלְגֵי־‏) [pattern: קֶטֶל] 
+
+פְּלָג	Noun	פְּלָג • (plag) m
+
+מְלָאכָה	Noun	מְלָאכָה • (m'lakhá) f (plural indefinite מְלָאכוֹת‏, singular construct מְלֶאכֶת־‏, plural construct מְלָאכוֹת־‏)
+
+יֵשׁ	Noun	יֵשׁ • (yésh) m
+
