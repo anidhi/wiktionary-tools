@@ -1,0 +1,147 @@
+piaxer	Noun	piaxer m (plural piaxeri)
+caro	Noun	caro m (plural cari)
+odor	Noun	odor m (plural odori) or odor m (plural oduri)
+mar	Noun	mar m (plural mari)
+mari	Noun	mari
+mare	Noun	mare f (invariable)
+ase	Noun	ase f (invariable)
+note	Noun	note f (plural noti)
+versor	Noun	versor m (plural versori)
+fabrica	Noun	fabrica f (plural fabriche)
+paja	Noun	paja f (plural paje)
+retrovi	Noun	retrovi
+fa	Noun	fa m (invariable)
+leto	Noun	leto m (plural leti)
+none	Noun	none
+pomo	Noun	pomo m (plural pomi)
+man	Noun	man f (invariable)
+teta	Noun	teta f (plural tete)
+nono	Noun	nono m (plural noni) (Feminine: nona)
+inpero	Noun	inpero m (plural inperi)
+pani	Noun	pani
+leti	Noun	leti
+union	Noun	union f (invariable)
+rosta	Noun	rosta f (plural roste)
+mano	Noun	mano m (plural mani)
+ogi	Noun	ogi
+bo	Noun	bo m (invariable)
+pasi	Noun	pasi
+uxi	Noun	uxi
+casa	Noun	casa f (plural case)
+influensa	Noun	influensa f (plural influense)
+bagno	Noun	bagno m (plural bagni)
+rude	Noun	rude
+lini	Noun	lini
+vida	Noun	vida f (plural vide)
+tera	Noun	tera f (plural tere)
+dona	Noun	dona f (plural done)
+óra	Noun	óra f (plural óre)
+rua	Noun	rua f (plural rue)
+rua	Noun	rua f (plural rue)
+are	Noun	are
+striga	Noun	striga f (plural strighe)
+marti	Noun	marti m (invariable)
+specio	Noun	specio m (plural speci)
+toci	Noun	toci
+piton	Noun	piton m (plural pitoni)
+noti	Noun	noti
+tasa	Noun	tasa f (plural tase)
+mose	Noun	mose
+tere	Noun	tere
+dii	Noun	dii
+fiol	Noun	fiol m (plural fioli)
+vile	Noun	vile
+sałata	Noun	sałata f (plural sałate)
+piso	Noun	piso m (plural pisi)
+tren	Noun	tren m (plural treni)
+mama	Noun	mama f (plural mame)
+pari	Noun	pari m pl
+parol	Noun	parol m (plural parołi or parułi)
+dati	Noun	dati
+masa	Noun	masa f (plural mase)
+cana	Noun	cana f (plural cane)
+sal	Noun	sal m (plural sałi)
+vin	Noun	vin m (plural vini)
+ovo	Noun	ovo m (plural ovi or uvi)
+albi	Noun	albi
+rosmarin	Noun	rosmarin m (plural rosmarini)
+bestia	Noun	bestia f (plural bestie)
+póca	Noun	póca f (plural póche) (Masculineine: póco)
+ave	Noun	ave
+gat	Noun	gat m (plural gati)
+favor	Noun	favor m (plural favuri)
+baston	Noun	baston m (plural bastoni) (Alternative plural: bastuni)
+cori	Noun	cori
+di	Noun	di m (invariable)
+tost	Noun	tost m (invariable)
+tase	Noun	tase
+sera	Noun	sera f (plural sere)
+olta	Noun	olta f (plural olte)
+canta	Noun	canta f (plural cante)
+mani	Noun	mani
+ara	Noun	ara f (plural are)
+anténa	Noun	anténa f (plural anténe)
+bestie	Noun	bestie
+det	Noun	det m (plural deđi)
+simia	Noun	simia f (plural simie)
+bota	Noun	bota f (plural bote)
+ani	Noun	ani
+tortor	Noun	tortor m (plural tortori)
+rode	Noun	rode
+can	Noun	can m (plural cani)
+motor	Noun	motor m (plural motori) or motor m (plural moturi)
+panare	Noun	panare
+łuna	Noun	łuna f (plural łune)
+coło	Noun	coło m (plural cołi)
+oco	Noun	oco m (plural ochi)
+bira	Noun	bira f (plural bire)
+case	Noun	case
+ava	Noun	ava f (plural ave)
+verta	Noun	verta f (plural verte)
+séra	Noun	séra f (plural sére)
+spuo	Noun	spuo m (plural spui)
+pisi	Noun	pisi
+balcon	Noun	balcon m (plural balconi) (Alternative plural: balcuni)
+larin	Noun	larin m (plural larini)
+terasa	Noun	terasa f (plural terase)
+profesor	Noun	profesor m (plural profesori) or profesor m (plural profesuri)
+vila	Noun	vila f (plural vile)
+lin	Noun	lin m (plural lini)
+val	Noun	val f (plural val)
+pension	Noun	pension f (invariable)
+motorin	Noun	motorin m (plural motorini)
+strica	Noun	strica f (plural striche)
+sopa	Noun	sopa f (plural sope)
+pipa	Noun	pipa f
+pipa	Noun	pipa f
+pipa	Noun	pipa f
+mussa	Noun	mussa f (plural musse)
+procesi	Noun	procesi
+monada	Noun	monada f (plural monade)
+struma	Noun	struma f (plural strume)
+pan	Noun	pan m (plural pani)
+troi	Noun	troi m (invariable)
+pastori	Noun	pastori
+paje	Noun	paje
+boja	Noun	boja m (plural boje)
+pastor	Noun	pastor m (plural pastori) or pastor m (plural pasturi)
+roda	Noun	roda f (plural rode)
+cantor	Noun	cantor m (plural cantori) or cantor m (plural canturi)
+neon	Noun	neon m (invariable)
+slot	Noun	slot f (plural slote)
+cor	Noun	cor m (plural cori)
+stria	Noun	stria f (plural strie)
+saor	Noun	saor m (plural saori)
+usta	Noun	usta f (plural uste)
+fum	Noun	fum m (plural fumi)
+Mese	Noun	Mese
+ruda	Noun	ruda f (plural rude)
+par	Noun	par m (plural pari)
+spisa	Noun	spisa f (plural spise)
+vagon	Noun	vagon m (plural vagoni) or vagon m (plural vaguni)
+paroni	Noun	paroni
+leon	Noun	leon m (plural leoni) or leon m (plural leuni)
+neutron	Noun	neutron m (plural neutruni)
+spira	Noun	spira f (plural spire)
+ajo	Noun	ajo m (plural aji)
+ua	Noun	ua f (plural ue)

@@ -1,0 +1,44 @@
+caro	Adjective	caro m (feminine singular cara, masculine plural cari, feminine plural care)
+oto	Adjective	oto
+talian	Adjective	talian m (feminine singular taliana, masculine plural taliani, feminine plural taliane)
+atento	Adjective	atento m (feminine singular atenta, masculine plural atenti, feminine plural atente)
+taliani	Adjective	taliani
+udo	Adjective	udo m (feminine singular uda, masculine plural udi, feminine plural ude)
+atenti	Adjective	atenti
+ceo	Adjective	ceo m (feminine singular cea, masculine plural cei, feminine plural cee)
+agra	Adjective	agra f
+mato	Adjective	mato m (feminine singular mata, masculine plural mati, feminine plural mate)
+tuta	Adjective	tuta
+crua	Adjective	crua f sg
+dala	Adjective	dala
+poro	Adjective	poro m (feminine singular pora, masculine plural pori, feminine plural pore)
+cara	Adjective	cara f sg
+pori	Adjective	pori
+american	Adjective	american m (feminine singular americana, masculine plural americani, feminine plural americane)
+pora	Adjective	pora
+sema	Adjective	sema
+semi	Adjective	semi
+uda	Adjective	uda
+verto	Adjective	verto m (feminine singular verta, masculine plural verti, feminine plural verte)
+seme	Adjective	seme
+novo	Adjective	novo m (feminine singular nova, masculine plural novi, feminine plural nove) (Alternative masculine plural: nuvi)
+basa	Adjective	basa
+bon	Adjective	bon m (feminine singular bona, masculine plural boni, feminine plural bone) (Alternative masculine plural: buni)
+bone	Adjective	bone
+curto	Adjective	curto m (feminine singular curta, masculine plural curti, feminine plural curte)
+tenta	Adjective	tenta
+tuti	Adjective	tuti
+nova	Adjective	nova f sg
+rósa	Adjective	rósa
+orbo	Adjective	orbo m (feminine singular orba, masculine plural orbi, feminine plural orbe)
+tuto	Adjective	tuto m (feminine singular tuta, masculine plural tuti, feminine plural tute)
+foresti	Adjective	foresti
+rente	Adjective	rente m, f (masculine and feminine plural renti)
+foresta	Adjective	foresta
+moja	Adjective	moja
+bona	Adjective	bona f
+tento	Adjective	tento m (feminine singular tenta, masculine plural tenti, feminine plural tente)
+rica	Adjective	rica f sg
+baso	Adjective	baso m (feminine singular basa, masculine plural basi, feminine plural base)
+justo	Adjective	justo m (feminine singular justa, masculine plural justi, feminine plural juste)
+base	Adjective	base f
