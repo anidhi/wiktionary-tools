@@ -1,0 +1,3655 @@
+rito	Noun	rito m (plural riti)
+cucuma	Noun	cucuma f (plural cucume)
+muri	Noun	muri m
+fiche	Noun	fiche f (invariable)
+fiche	Noun	fiche f pl
+periodi	Noun	periodi m pl
+soni	Noun	soni m
+magnetismi	Noun	magnetismi m
+porti	Noun	porti m
+scopa	Noun	scopa f (plural scope)
+zona	Noun	zona f (plural zone)
+eparchia	Noun	eparchia f (plural eparchie)
+wicca	Noun	wicca f (invariable)
+liberalismi	Noun	liberalismi m
+cine	Noun	cine m (invariable)
+fontana	Noun	fontana f (plural fontane)
+treni	Noun	treni m
+bibliografia	Noun	bibliografia f (plural bibliografie)
+parabola	Noun	parabola f (plural parabole)
+pappo	Noun	pappo m (plural pappi)
+forte	Noun	forte m (invariable)
+arto	Noun	arto m (plural arti)
+autostop	Noun	autostop m
+fanfaroni	Noun	fanfaroni m
+chili	Noun	chili m
+bruma	Noun	bruma f (plural brume)
+oligopoli	Noun	oligopoli m
+m	Noun	m m, f (invariable)
+aio	Noun	aio m (plural ai) - feminine aia
+bassi	Noun	bassi m
+cumulo	Noun	cumulo m (plural cumuli)
+drink	Noun	drink m (invariable)
+stille	Noun	stille f
+dadaista	Noun	dadaista m (plural dadaisti) dadaista f (plural dadaiste)
+futuristi	Noun	futuristi m
+alea	Noun	alea f (plural alee)
+intero	Noun	intero m (plural interi)
+gerontologi	Noun	gerontologi m
+faro	Noun	faro m (plural fari)
+rock	Noun	rock
+vice	Noun	vice m, f (invariable)
+latina	Noun	latina f (plural latine, masculine latino)
+lamella	Noun	lamella f (plural lamelle)
+apatia	Noun	apatia f (plural apatie)
+tripudio	Noun	tripudio m (plural tripudi)
+proxy	Noun	proxy m (invariable)
+diadema	Noun	diadema m (plural diademi)
+orientalismi	Noun	orientalismi m
+antisemita	Noun	antisemita m (plural antisemiti)
+antisemita f (plural antisemite)
+dendrologia	Noun	dendrologia f (plural dendrologie)
+satire	Noun	satire f
+agrimonia	Noun	agrimonia f (plural agrimonie)
+nomadi	Noun	nomadi m
+unitarismi	Noun	unitarismi m
+gi	Noun	gi f (invariable)
+pi	Noun	pi f (invariable)
+pi	Noun	pi m (invariable)
+maga	Noun	maga f (plural maghe, masculine mago)
+consulto	Noun	consulto m (plural consulti)
+militarismi	Noun	militarismi m
+sacca	Noun	sacca f (plural sacche)
+persona	Noun	persona f (plural persone)
+tisana	Noun	tisana f (plural tisane)
+tappo	Noun	tappo m (plural tappi)
+falsi	Noun	falsi m
+turisti	Noun	turisti m pl
+pianisti	Noun	pianisti m
+dualismi	Noun	dualismi m
+tenebra	Noun	tenebra f (plural tenebre)
+mira	Noun	mira f (plural mire)
+gaullisti	Noun	gaullisti m
+burla	Noun	burla f (plural burle)
+antropologi	Noun	antropologi m pl
+dolo	Noun	dolo m (plural doli)
+cento	Noun	cento m (invariable)
+domino	Noun	domino m (plural domini)
+verro	Noun	verro m (plural verri)
+cavo	Noun	cavo m (plural cavi)
+cavo	Noun	cavo m (plural cavi)
+nappo	Noun	nappo m (plural nappi)
+abulia	Noun	abulia f (plural abulie)
+dare	Noun	dare m (plural dari)
+bitter	Noun	bitter m (invariable)
+misantropia	Noun	misantropia f (plural misantropie)
+rame	Noun	rame m
+suola	Noun	suola f (plural suole)
+afrikaans	Noun	afrikaans m
+deficit	Noun	deficit m (invariable)
+mesi	Noun	mesi m
+boss	Noun	boss m (invariable)
+gonadi	Noun	gonadi f
+vero	Noun	vero m (plural veri)
+interno	Noun	interno m (plural interni)
+kaki	Noun	kaki m (invariable)
+jeep	Noun	jeep f (invariable)
+ganga	Noun	ganga f (plural ganghe)
+monopoli	Noun	monopoli m
+casso	Noun	casso m (plural cassi)
+patte	Noun	patte f pl
+simonia	Noun	simonia f (plural simonie)
+orogenia	Noun	orogenia f (plural orogenie)
+libido	Noun	libido f (invariable)
+sufismi	Noun	sufismi m
+peptidi	Noun	peptidi m
+cactus	Noun	cactus m (invariable)
+corgi	Noun	corgi m (plural corgi)
+decibel	Noun	decibel m (invariable)
+handicap	Noun	handicap m (invariable)
+circo	Noun	circo m (plural circhi)
+teppa	Noun	teppa f (plural teppe)
+giunta	Noun	giunta f (plural giunte)
+angustia	Noun	angustia f (plural angustie)
+galleria	Noun	galleria f (plural gallerie)
+terzi	Noun	terzi m
+paleontologia	Noun	paleontologia f (plural paleontologie)
+teleologia	Noun	teleologia f (plural teleologie)
+tequila	Noun	tequila m (invariable)
+cista	Noun	cista f (plural ciste)
+mortal	Noun	mortal m f
+mallo	Noun	mallo m (plural malli)
+pinna	Noun	pinna f (plural pinne)
+dama	Noun	dama f (plural dame)
+matcha	Noun	matcha m (uncountable)
+prora	Noun	prora f (plural prore)
+incesto	Noun	incesto m (plural incesti)
+gastronomia	Noun	gastronomia f (plural gastronomie)
+tartar	Noun	tartar f
+nodi	Noun	nodi m
+case	Noun	case f
+umor	Noun	umor m (invariable)
+utopia	Noun	utopia f (plural utopie)
+iguana	Noun	iguana f (plural iguane)
+avena	Noun	avena f (plural avene)
+infanticida	Noun	infanticida m (plural infanticidi) infanticida f (plural infanticide)
+rapina	Noun	rapina f (plural rapine)
+vespa	Noun	vespa f (plural vespe)
+pietate	Noun	pietate f (plural pietati)
+regali	Noun	regali m
+magi	Noun	magi m
+tau	Noun	tau m, f (invariable)
+ioni	Noun	ioni m
+mulatti	Noun	mulatti m
+altari	Noun	altari m
+incile	Noun	incile m (plural incili)
+sella	Noun	sella f (plural selle)
+engrammi	Noun	engrammi m
+mule	Noun	mule f
+parafilia	Noun	parafilia f (plural parafilie)
+anatide	Noun	anatide m (plural anatidi)
+tamponi	Noun	tamponi m
+sari	Noun	sari m (invariable)
+ideografia	Noun	ideografia f (plural ideografie)
+planimetria	Noun	planimetria f (plural planimetrie)
+dupli	Noun	dupli m
+argo	Noun	argo m (plural arghi)
+reumatismi	Noun	reumatismi m
+resina	Noun	resina f (plural resine)
+parco	Noun	parco m (plural parchi)
+mula	Noun	mula f (plural mule, masculine mulo)
+lambda	Noun	lambda m, f (invariable)
+moralisti	Noun	moralisti m
+metropolita	Noun	metropolita m (plural metropoliti)
+petunia	Noun	petunia f (plural petunie)
+box	Noun	box m (invariable)
+teologi	Noun	teologi m
+pappa	Noun	pappa f (plural pappe)
+logografi	Noun	logografi m
+fretti	Noun	fretti
+epimorfismi	Noun	epimorfismi m
+falco	Noun	falco m (plural falchi)
+lave	Noun	lave f
+benna	Noun	benna f (plural benne)
+gerontologia	Noun	gerontologia f (plural gerontologie)
+bislama	Noun	bislama m (invariable)
+gerontofilia	Noun	gerontofilia f (plural gerontofilie)
+cultura	Noun	cultura f (plural culture)
+mirti	Noun	mirti m
+poppa	Noun	poppa f (plural poppe)
+poppa	Noun	poppa f (plural poppe)
+aromaterapia	Noun	aromaterapia f (plural aromaterapie)
+formella	Noun	formella f (plural formelle)
+lappa	Noun	lappa f (plural lappe)
+ironia	Noun	ironia f (plural ironie)
+papi	Noun	papi m
+guru	Noun	guru m (invariable)
+sonni	Noun	sonni m
+pampino	Noun	pampino m (plural pampini)
+menu	Noun	menu m (invariable)
+raia	Noun	raia f (plural raie)
+importo	Noun	importo m (plural importi)
+galli	Noun	galli m pl
+salmonella	Noun	salmonella f (plural salmonelle)
+camminare	Noun	camminare m (plural camminari)
+mangostani	Noun	mangostani m
+finale	Noun	finale m (plural finali)
+finale	Noun	finale f (plural finali)
+picca	Noun	picca f (plural picche)
+pergola	Noun	pergola f (plural pergole)
+cachi	Noun	cachi m (invariable)
+sfera	Noun	sfera f (plural sfere)
+positivismi	Noun	positivismi m
+film	Noun	film m (invariable)
+sola	Noun	sola m (plural sole)
+libellula	Noun	libellula f (plural libellule)
+broda	Noun	broda f (plural brode)
+neoimpressionismi	Noun	neoimpressionismi m
+bikini	Noun	bikini m (invariable)
+dati	Noun	dati m
+melo	Noun	melo m (plural meli)
+dioli	Noun	dioli m
+misandrie	Noun	misandrie f
+body	Noun	body m
+ora	Noun	ora f (plural ore)
+malti	Noun	malti m
+opportunisti	Noun	opportunisti m
+fauni	Noun	fauni m
+scopo	Noun	scopo m (plural scopi)
+malvolere	Noun	malvolere m (plural malvoleri)
+cape	Noun	cape f
+computer	Noun	computer m (invariable)
+otalgia	Noun	otalgia f (plural otalgie)
+tinta	Noun	tinta f (plural tinte)
+vita	Noun	vita f (plural vite)
+sanatorio	Noun	sanatorio m (plural sanatori)
+gigantomachia	Noun	gigantomachia f (plural gigantomachie)
+saga	Noun	saga f (plural saghe)
+saga	Noun	saga f (plural saghe)
+minuta	Noun	minuta f
+meteorologia	Noun	meteorologia f (plural meteorologie)
+solisti	Noun	solisti m
+nepotismi	Noun	nepotismi m
+cast	Noun	cast m (invariable)
+centrifuga	Noun	centrifuga f (plural centrifughe)
+fallibilismi	Noun	fallibilismi m
+caterva	Noun	caterva f (plural caterve)
+pinti	Noun	pinti m
+madonna	Noun	madonna f (plural madonne)
+grilli	Noun	grilli m
+fresa	Noun	fresa f (plural frese)
+locusta	Noun	locusta f (plural locuste)
+si	Noun	si
+interpreti	Noun	interpreti m, f
+ara	Noun	ara f (plural are)
+logomachia	Noun	logomachia f (plural logomachie)
+pasco	Noun	pasco m (plural paschi) (Variant of: pascolo)
+auriga	Noun	auriga m (plural aurighi)
+camere	Noun	camere f
+slip	Noun	slip m (invariable)
+satanista	Noun	satanista m (plural satanisti) satanista f (plural sataniste)
+ergonomia	Noun	ergonomia f (plural ergonomie)
+fili	Noun	fili m
+laboratorio	Noun	laboratorio m (plural laboratori)
+geodesia	Noun	geodesia f (plural geodesie)
+interesse	Noun	interesse m (plural interessi)
+steroidi	Noun	steroidi m
+opportunismi	Noun	opportunismi m
+avance	Noun	avance f (plural avances)
+cancello	Noun	cancello m (plural cancelli)
+sardi	Noun	sardi m
+monogamie	Noun	monogamie f pl
+sonda	Noun	sonda f (plural sonde)
+polenta	Noun	polenta f (plural polente)
+panca	Noun	panca f (plural panche)
+dieta	Noun	dieta f (plural diete)
+parti	Noun	parti f
+parti	Noun	parti m
+oftalmometria	Noun	oftalmometria f (plural oftalmometrie)
+ufologi	Noun	ufologi m pl
+fermioni	Noun	fermioni m
+anodo	Noun	anodo m (plural anodi)
+peli	Noun	peli m
+bacca	Noun	bacca f (plural bacche)
+politeista	Noun	politeista m (plural politeisti) politeista f (plural politeiste)
+vespertilio	Noun	vespertilio m (plural vespertili)
+ortodontia	Noun	ortodontia f (plural ortodontie)
+embargo	Noun	embargo m (plural embarghi)
+vena	Noun	vena f (plural vene)
+ero	Noun	ero f
+nappi	Noun	nappi m
+quadra	Noun	quadra f (plural quadre)
+ali	Noun	ali f
+nefropatia	Noun	nefropatia f (plural nefropatie)
+soul	Noun	soul m, f (invariable)
+idea	Noun	idea f (plural idee)
+geografia	Noun	geografia f (plural geografie)
+bullo	Noun	bullo m (plural bulli)
+serba	Noun	serba f (plural serbe, masculine serbo)
+magenta	Noun	magenta m (invariable)
+demo	Noun	demo m (plural demi)
+fodero	Noun	fodero m (plural foderi)
+geologia	Noun	geologia f (plural geologie)
+larva	Noun	larva f (plural larve)
+esteri	Noun	esteri m
+poro	Noun	poro m (plural pori)
+muta	Noun	muta f (plural mute)
+dingo	Noun	dingo m (plural dinghi) (alternative plural dingo)
+arista	Noun	arista f (plural ariste)
+arista	Noun	arista f (plural ariste)
+mammalogia	Noun	mammalogia f (plural mammalogie)
+etnologia	Noun	etnologia f (plural etnologie)
+zebra	Noun	zebra f (plural zebre)
+officio	Noun	officio m (plural offici)
+castigo	Noun	castigo m (plural castighi)
+diaspora	Noun	diaspora f (plural diaspore)
+sibili	Noun	sibili m
+pentagoni	Noun	pentagoni m
+fumi	Noun	fumi m
+carabina	Noun	carabina f (plural carabine)
+legende	Noun	legende f pl
+platea	Noun	platea f (plural platee)
+mafia	Noun	mafia f (plural mafie)
+seni	Noun	seni m pl (plural of seno)
+seni	Noun	seni m pl
+tornio	Noun	tornio m
+parodia	Noun	parodia f (plural parodie)
+catasta	Noun	catasta f (plural cataste)
+macula	Noun	macula f (plural macule)
+euro	Noun	euro m (plural euro)
+fuga	Noun	fuga f (plural fughe)
+verruca	Noun	verruca f (plural verruche)
+squama	Noun	squama f (plural squame)
+ruga	Noun	ruga f (plural rughe)
+legalismi	Noun	legalismi m
+rivi	Noun	rivi m
+pornofilm	Noun	pornofilm m (invariable)
+vin	Noun	vin m (invariable)
+palilogia	Noun	palilogia f (plural palilogie)
+spina	Noun	spina f (plural spine)
+regia	Noun	regia f (plural regie)
+wellerismi	Noun	wellerismi m
+uro	Noun	uro m (plural uri)
+indi	Noun	indi m
+macho	Noun	macho m (invariable)
+editori	Noun	editori m
+franco	Noun	franco m (plural franchi)
+conca	Noun	conca f (plural conche)
+selva	Noun	selva f (plural selve)
+weber	Noun	weber m (invariable)
+lodo	Noun	lodo m (plural lodi)
+rissa	Noun	rissa f (plural risse)
+sigillo	Noun	sigillo m (plural sigilli)
+e-mail	Noun	e-mail f, m (invariable)
+genomi	Noun	genomi m
+consocio	Noun	consocio m (plural consoci, feminine consocia)
+malandrino	Noun	malandrino m (plural malandrini)
+procacia	Noun	procacia f (plural procacie)
+megaron	Noun	megaron m (invariable)
+eudiometri	Noun	eudiometri m
+domini	Noun	domini m
+gluoni	Noun	gluoni m
+perfidia	Noun	perfidia f (plural perfidie)
+arsina	Noun	arsina f (plural arsine)
+ibis	Noun	ibis m (invariable)
+oppi	Noun	oppi m
+desinare	Noun	desinare m (plural desinari)
+lasso	Noun	lasso m (plural lassi)
+lasso	Noun	lasso m (plural lassi)
+lasso	Noun	lasso m (plural lassi)
+nonetti	Noun	nonetti m
+lande	Noun	lande f
+alba	Noun	alba f (plural albe)
+analgesia	Noun	analgesia f (plural analgesie)
+cresta	Noun	cresta f (plural creste)
+memorandum	Noun	memorandum m (invariable)
+marasma	Noun	marasma m (plural marasmi)
+spirali	Noun	spirali f
+illicio	Noun	illicio m (plural illici)
+bolidi	Noun	bolidi m
+lettere	Noun	lettere f
+anarchia	Noun	anarchia f (plural anarchie)
+fenomenalismi	Noun	fenomenalismi m
+rinologia	Noun	rinologia f (plural rinologie)
+desidero	Noun	desidero m (plural desideri)
+zappa	Noun	zappa f (plural zappe)
+di	Noun	di f (invariable)
+blogosfera	Noun	blogosfera f (plural blogosfere)
+lupus	Noun	lupus m (invariable)
+clientela	Noun	clientela f (plural clientele)
+terra	Noun	terra f (plural terre)
+pantomima	Noun	pantomima f (plural pantomime)
+professori	Noun	professori m
+udometri	Noun	udometri m
+strido	Noun	strido m (plural strida f)
+epistola	Noun	epistola f (plural epistole)
+nord	Noun	nord m (invariable)
+maoismi	Noun	maoismi m
+cellula	Noun	cellula f (plural cellule)
+cab	Noun	cab m (invariable)
+lame	Noun	lame f
+sebi	Noun	sebi m
+euploidia	Noun	euploidia f (plural euploidie)
+judo	Noun	judo m (invariable)
+arme	Noun	arme f
+arme	Noun	arme m (plural armi)
+destino	Noun	destino m (plural destini)
+saldo	Noun	saldo m (plural saldi)
+navetta	Noun	navetta f (plural navette)
+ser	Noun	ser m (plural ser)
+intervalli	Noun	intervalli m
+ictus	Noun	ictus m (invariable)
+latinismi	Noun	latinismi m
+sabba	Noun	sabba m (invariable)
+diserti	Noun	diserti
+dalia	Noun	dalia f (plural dalie)
+sodomita	Noun	sodomita m (plural sodomiti)
+purismi	Noun	purismi m
+energia	Noun	energia f (plural energie)
+via	Noun	via f (plural vie)
+pagella	Noun	pagella f (plural pagelle)
+endodermi	Noun	endodermi m
+testata	Noun	testata f (plural testate)
+kiwi	Noun	kiwi m (invariable)
+bantu	Noun	bantu m, f (invariable)
+fotografie	Noun	fotografie f
+sumeri	Noun	sumeri m
+primitivisti	Noun	primitivisti m
+stria	Noun	stria f (plural strie)
+ovoidi	Noun	ovoidi m
+baritoni	Noun	baritoni m
+beton	Noun	beton m (invariable)
+bistro	Noun	bistro m (plural bistri)
+peso	Noun	peso m (plural pesi)
+canonista	Noun	canonista m (plural canonisti) canonista f (plural canoniste)
+a	Noun	a f, m (invariable)
+gardenia	Noun	gardenia f (plural gardenie)
+idolatra	Noun	idolatra m (plural idolatri) idolatra f (plural idolatre)
+cene	Noun	cene f
+acacia	Noun	acacia f (plural acacie)
+personalismi	Noun	personalismi m
+putto	Noun	putto m (plural putti)
+rande	Noun	rande f
+mereologia	Noun	mereologia f (plural mereologie)
+germanisti	Noun	germanisti m
+link	Noun	link m (invariable)
+gorilla	Noun	gorilla m (invariable)
+galla	Noun	galla f (plural galle)
+poligamia	Noun	poligamia f (plural poligamie)
+avvenire	Noun	avvenire m (invariable)
+maori	Noun	maori m, f (invariable)
+audacia	Noun	audacia f (plural audacie)
+fini	Noun	fini f
+fini	Noun	fini m
+estimi	Noun	estimi m
+respiro	Noun	respiro m (plural respiri)
+barbera	Noun	barbera m (invariable)
+bolli	Noun	bolli m
+restauro	Noun	restauro m (plural restauri)
+murmuri	Noun	murmuri m
+grammatica	Noun	grammatica f (plural grammatiche)
+consolida	Noun	consolida f (plural consolide)
+metallurgia	Noun	metallurgia f (plural metallurgie)
+rune	Noun	rune f
+passito	Noun	passito m (plural passiti)
+shampoo	Noun	shampoo m (invariable)
+latrina	Noun	latrina f (plural latrine)
+tonni	Noun	tonni m
+pero	Noun	pero m (plural peri)
+pine	Noun	pine f
+greca	Noun	greca f (plural greche)
+album	Noun	album m (invariable)
+bu	Noun	bu m (invariable)
+mentori	Noun	mentori m
+freno	Noun	freno m (plural freni)
+ode	Noun	ode f (plural odi)
+suol	Noun	suol m (invariable)
+fenomenologia	Noun	fenomenologia f (plural fenomenologie)
+ideologi	Noun	ideologi m
+meriti	Noun	meriti m
+monofonia	Noun	monofonia f (plural monofonie)
+planetoidi	Noun	planetoidi m
+cunnilingus	Noun	cunnilingus m (inv)
+jockey	Noun	jockey m (invariable)
+lode	Noun	lode f (plural lodi)
+dollari	Noun	dollari m
+krypto	Noun	krypto m (plural krypti)
+utilitarismi	Noun	utilitarismi m
+oftalmologi	Noun	oftalmologi m
+tassa	Noun	tassa f (plural tasse)
+finitrice	Noun	finitrice f (plural finitrici)
+missiologia	Noun	missiologia f (plural missiologie)
+libra	Noun	libra f (plural libre)
+pastori	Noun	pastori m
+coti	Noun	coti m
+stechiometria	Noun	stechiometria f (plural stechiometrie)
+asterismi	Noun	asterismi m
+marxismi	Noun	marxismi m
+sudoku	Noun	sudoku m (invariable)
+gemma	Noun	gemma f (plural gemme)
+pedologia	Noun	pedologia f (plural pedologie)
+nasica	Noun	nasica m (invariable)
+dromo	Noun	dromo m (plural dromi)
+schizofrenie	Noun	schizofrenie f
+etnologi	Noun	etnologi m
+ras	Noun	ras m (invariable)
+morfologie	Noun	morfologie f
+amitto	Noun	amitto m (plural amitti)
+annatto	Noun	annatto
+piano	Noun	piano m (plural piani)
+nume	Noun	nume m (plural numi)
+ionosfera	Noun	ionosfera f (plural ionosfere)
+trilli	Noun	trilli m pl
+sashimi	Noun	sashimi m (invariable)
+apologo	Noun	apologo m (plural apologhi)
+interferoni	Noun	interferoni m
+nono	Noun	nono m (plural noni)
+organologia	Noun	organologia f (plural organologie)
+gluma	Noun	gluma f (plural glume)
+camera	Noun	camera f (plural camere)
+esperantisti	Noun	esperantisti m
+feudo	Noun	feudo m (plural feudi)
+pederasti	Noun	pederasti m
+formica	Noun	formica f (plural formiche)
+formica	Noun	formica f (plural formiche)
+panteisti	Noun	panteisti m
+novella	Noun	novella f (plural novelle)
+dulcamara	Noun	dulcamara f (plural dulcamare)
+turkmeni	Noun	turkmeni m
+agronomia	Noun	agronomia f (plural agronomie)
+nodo	Noun	nodo m (plural nodi)
+murena	Noun	murena f (plural murene)
+esoterismi	Noun	esoterismi m
+fala	Noun	fala f (plural fale)
+cloaca	Noun	cloaca f (plural cloache)
+agronomi	Noun	agronomi m
+lattari	Noun	lattari m
+messi	Noun	messi m
+messi	Noun	messi f
+armagnac	Noun	armagnac m (invariable)
+interni	Noun	interni m
+epsilon	Noun	epsilon m, f (invariable)
+neon	Noun	neon m (invariable)
+more	Noun	more f
+albumi	Noun	albumi m pl
+palpebra	Noun	palpebra f (plural palpebre)
+palinodia	Noun	palinodia f (plural palinodie)
+economie	Noun	economie f
+onde	Noun	onde f
+fototransistori	Noun	fototransistori m
+altruista	Noun	altruista m (plural altruisti)
+binomi	Noun	binomi m
+agrumi	Noun	agrumi m
+vanga	Noun	vanga f (plural vanghe)
+anafora	Noun	anafora f (plural anafore)
+novo	Noun	novo (feminine singular nova, masculine plural novi, feminine plural nove)
+alcool	Noun	alcool m (invariable)
+fotografia	Noun	fotografia f (plural fotografie)
+megalomani	Noun	megalomani m, f
+autobiografia	Noun	autobiografia f (plural autobiografie)
+machiavellisti	Noun	machiavellisti m
+morfema	Noun	morfema m (plural morfemi)
+acetosella	Noun	acetosella f (plural acetoselle)
+mandarina	Noun	mandarina f (plural mandarine)
+anagrammi	Noun	anagrammi m
+molari	Noun	molari m
+pici	Noun	pici m pl
+idealisti	Noun	idealisti m
+azalee	Noun	azalee f
+remi	Noun	remi m
+ombria	Noun	ombria f (plural ombrie)
+adito	Noun	adito m (plural aditi)
+asteroide	Noun	asteroide m (plural asteroidi)
+politologia	Noun	politologia f (plural politologie)
+misantropi	Noun	misantropi m
+sigma	Noun	sigma m, f (invariable)
+sigma	Noun	sigma m (invariable)
+pendant	Noun	pendant m (invariable)
+marijuana	Noun	marijuana f (uncountable)
+reclamo	Noun	reclamo m (plural reclami)
+fantasie	Noun	fantasie f
+federalisti	Noun	federalisti
+anticipo	Noun	anticipo m (plural anticipi)
+farsa	Noun	farsa f (plural farse)
+antilope	Noun	antilope f (plural antilopi)
+sponsor	Noun	sponsor m (invariable)
+ministeri	Noun	ministeri m
+go	Noun	go m
+inferno	Noun	inferno m (plural inferni)
+etologi	Noun	etologi m
+sporta	Noun	sporta f (plural sporte)
+cribro	Noun	cribro m (plural cribri)
+anatomia	Noun	anatomia f (plural anatomie)
+umus	Noun	umus m (invariable)
+diplomi	Noun	diplomi m
+studente	Noun	studente m (plural studenti, feminine studentessa)
+corona	Noun	corona f (plural corone)
+fila	Noun	fila f (plural file)
+fila	Noun	fila f
+proto	Noun	proto m (plural proti)
+final	Noun	final m
+premi	Noun	premi m pl
+serigrafia	Noun	serigrafia f (plural serigrafie)
+plaga	Noun	plaga f (plural plaghe)
+rombi	Noun	rombi m
+risa	Noun	risa f
+rosa	Noun	rosa f (plural rose)
+rosa	Noun	rosa f (plural rose)
+fon	Noun	fon m (invariable)
+bowling	Noun	bowling m (invariable)
+musa	Noun	musa f (plural muse)
+musa	Noun	musa f (plural muse)
+ambo	Noun	ambo m (plural ambi)
+gibboni	Noun	gibboni m
+crune	Noun	crune f pl
+urbi	Noun	urbi f
+agrologia	Noun	agrologia f (plural agrologie)
+promemoria	Noun	promemoria m (invariable)
+ferie	Noun	ferie f
+numero	Noun	numero m (plural numeri)
+bestie	Noun	bestie f
+stoppa	Noun	stoppa f (plural stoppe)
+aromi	Noun	aromi m
+busta	Noun	busta f (plural buste)
+agonista	Noun	agonista m (plural agonisti) agonista f (plural agoniste)
+sequestro	Noun	sequestro m (plural sequestri)
+telefoni	Noun	telefoni m
+gol	Noun	gol m (invariable)
+lingua	Noun	lingua f (plural lingue)
+droni	Noun	droni m
+resto	Noun	resto m (plural resti)
+frate	Noun	frate m (plural frati)
+lamarckismi	Noun	lamarckismi m
+designer	Noun	designer m, f (invariable)
+stampa	Noun	stampa f (plural stampe)
+canna	Noun	canna f (plural canne)
+monoidi	Noun	monoidi m
+sterro	Noun	sterro m (plural sterri)
+ping-pong	Noun	ping-pong m (invariable)
+fatta	Noun	fatta f (plural fatte)
+alieni	Noun	alieni m
+coupé	Noun	coupé m (plural coupé)
+pirata	Noun	pirata m (plural pirati)
+prece	Noun	prece f (plural preci)
+mille	Noun	mille m (plural mille)
+lunga	Noun	lunga f (plural lunghe)
+camion	Noun	camion m (invariable)
+astronomie	Noun	astronomie f
+mafioso	Noun	mafioso m (plural mafiosi, feminine mafiosa)
+pompa	Noun	pompa f (plural pompe)
+valli	Noun	valli f
+palata	Noun	palata f (plural palate)
+familismi	Noun	familismi m
+tanga	Noun	tanga m (invariable)
+nirvana	Noun	nirvana m (plural nirvana)
+colonia	Noun	colonia f (plural colonie)
+colonia	Noun	colonia f (plural colonie)
+colonia	Noun	colonia f (plural colonie)
+colonia	Noun	colonia f (plural colonie)
+eskimo	Noun	eskimo m (invariable)
+lapsus	Noun	lapsus m (invariable)
+lezi	Noun	lezi m
+muffe	Noun	muffe f
+doni	Noun	doni m
+nobel	Noun	nobel m, f (invariable)
+blues	Noun	blues m (invariable)
+musical	Noun	musical m (invariable)
+agonia	Noun	agonia f (plural agonie)
+afasia	Noun	afasia f (plural afasie)
+militaristi	Noun	militaristi m
+pressa	Noun	pressa f (plural presse)
+litri	Noun	litri m
+valori	Noun	valori m
+zootomia	Noun	zootomia f (plural zootomie)
+decempeda	Noun	decempeda f (plural decempede)
+pseudepigrafi	Noun	pseudepigrafi m
+prati	Noun	prati m
+telefono	Noun	telefono m (plural telefoni)
+entrata	Noun	entrata f (plural entrate)
+pagode	Noun	pagode f
+paleomagnetismi	Noun	paleomagnetismi m
+sionismi	Noun	sionismi m
+unghie	Noun	unghie f
+maglina	Noun	maglina f (plural magline)
+mondi	Noun	mondi m
+password	Noun	password f (invariable)
+meloni	Noun	meloni m
+zelo	Noun	zelo m (plural zeli)
+gusto	Noun	gusto m (plural gusti)
+sonatina	Noun	sonatina f (plural sonatine)
+vermut	Noun	vermut m (inv)
+despota	Noun	despota m, f (plural despoti)
+verso	Noun	verso m (plural versi)
+maro	Noun	maro m (plural mari)
+centesima	Noun	centesima f (plural centesime)
+europidi	Noun	europidi m, f
+traditor	Noun	traditor m (invariable)
+saluto	Noun	saluto m (plural saluti)
+serbi	Noun	serbi m
+ansa	Noun	ansa f (plural anse)
+jod	Noun	jod m (invariable)
+trilogia	Noun	trilogia f (plural trilogie)
+benne	Noun	benne f
+boria	Noun	boria f (plural borie)
+aspi	Noun	aspi m
+ultima	Noun	ultima f (plural ultime, masculine ultimo)
+riti	Noun	riti m
+zoogeografia	Noun	zoogeografia f (plural zoogeografie)
+endoplasma	Noun	endoplasma m (plural endoplasmi)
+spora	Noun	spora f (plural spore)
+magnitudo	Noun	magnitudo f (invariable)
+grappa	Noun	grappa f (plural grappe)
+atolli	Noun	atolli m
+arboristi	Noun	arboristi m
+autotrofi	Noun	autotrofi m
+galleristi	Noun	galleristi m
+pipa	Noun	pipa f (plural pipe)
+vapori	Noun	vapori m pl
+metrologia	Noun	metrologia f (plural metrologie)
+metallofoni	Noun	metallofoni m
+farad	Noun	farad m (invariable)
+pasti	Noun	pasti m
+spore	Noun	spore f
+vivere	Noun	vivere m (plural viveri)
+apologia	Noun	apologia f (plural apologie)
+bet	Noun	bet f (invariable)
+magie	Noun	magie f
+die	Noun	die m (invariable)
+rupe	Noun	rupe f (plural rupi)
+cappa	Noun	cappa f (plural cappe)
+ateista	Noun	ateista m (plural ateisti) or ateista f (plural ateiste)
+moralismi	Noun	moralismi m
+coclea	Noun	coclea f (plural coclee)
+tessere	Noun	tessere f pl
+curriculum	Noun	curriculum m
+uso	Noun	uso m (plural usi)
+cardiologie	Noun	cardiologie f
+pandemia	Noun	pandemia f (plural pandemie)
+accubito	Noun	accubito m (plural accubiti)
+raga	Noun	raga m pl (plural only)
+pirolisi	Noun	pirolisi f (invariable)
+teorema	Noun	teorema m (plural teoremi)
+cena	Noun	cena f (plural cene)
+sega	Noun	sega f (plural seghe)
+formalisti	Noun	formalisti m
+tribuna	Noun	tribuna f (plural tribune)
+cambra	Noun	cambra f (plural cambre)
+nefrologia	Noun	nefrologia f (plural nefrologie)
+stereo	Noun	stereo m (invariable)
+romani	Noun	romani m
+profeti	Noun	profeti m
+pietisti	Noun	pietisti m
+serialismi	Noun	serialismi m
+pollari	Noun	pollari m
+afonia	Noun	afonia f (plural afonie)
+gonorrea	Noun	gonorrea f (plural gonorree)
+minimalista	Noun	minimalista m (plural minimalisti)
+fitopatologia	Noun	fitopatologia f (plural fitopatologie)
+mora	Noun	mora f (plural more)
+autista	Noun	autista m, f (plural autisti)
+naca	Noun	naca f (plural nache)
+verbena	Noun	verbena f (plural verbene)
+anestesiologia	Noun	anestesiologia f (plural anestesiologie)
+yeti	Noun	yeti m (invariable)
+fosso	Noun	fosso m (plural fossi)
+arbusto	Noun	arbusto m (plural arbusti)
+dominio	Noun	dominio m (plural domini)
+platessa	Noun	platessa f (plural platesse)
+naturalismi	Noun	naturalismi m
+spica	Noun	spica f (plural spiche)
+episodi	Noun	episodi m
+anemia	Noun	anemia f (plural anemie)
+semita	Noun	semita m (plural semiti)
+semita f (plural semite)
+perizoma	Noun	perizoma m (plural perizomi)
+condono	Noun	condono m (plural condoni)
+turista	Noun	turista m (plural turisti)
+ameba	Noun	ameba f (plural amebe)
+gerbilli	Noun	gerbilli m
+latta	Noun	latta f (plural latte)
+San	Noun	San m f
+aire	Noun	aire m (invariable)
+cobra	Noun	cobra m (invariable)
+placenta	Noun	placenta f (plural placente)
+patiti	Noun	patiti m
+censura	Noun	censura f (plural censure)
+centuria	Noun	centuria f (plural centurie)
+immunopatologia	Noun	immunopatologia f (plural immunopatologie)
+safari	Noun	safari m (inv)
+pseudopodi	Noun	pseudopodi m
+pedofilia	Noun	pedofilia f (plural pedofilie)
+massi	Noun	massi m
+pena	Noun	pena f (plural pene)
+champagne	Noun	champagne m (inv)
+inca	Noun	inca m, f (invariable)
+bastioni	Noun	bastioni m
+cabriolet	Noun	cabriolet f (invariable)
+alga	Noun	alga f (plural alghe)
+mufloni	Noun	mufloni m
+tabella	Noun	tabella f (plural tabelle)
+morsa	Noun	morsa f (plural morse)
+web	Noun	web m (invariable)
+asteroidi	Noun	asteroidi m
+tensori	Noun	tensori m
+peoni	Noun	peoni m
+suoli	Noun	suoli m
+lupa	Noun	lupa f (plural lupe)
+mineralogia	Noun	mineralogia f
+etimologie	Noun	etimologie f
+alare	Noun	alare m (plural alari)
+grana	Noun	grana f (plural grane)
+grana	Noun	grana m (invariable)
+nostalgia	Noun	nostalgia f (plural nostalgie)
+verdi	Noun	verdi m
+boga	Noun	boga f (plural boghe)
+surrealismi	Noun	surrealismi m
+omnivori	Noun	omnivori m
+marchio	Noun	marchio m (plural marchi)
+aura	Noun	aura f (plural aure)
+stratigrafia	Noun	stratigrafia f (plural stratigrafie)
+patrona	Noun	patrona f (plural patrone)
+prose	Noun	prose f
+lampa	Noun	lampa f (plural lampe)
+nebulosa	Noun	nebulosa f (plural nebulose)
+lokum	Noun	lokum m (invariable)
+anilina	Noun	anilina f (plural aniline)
+file	Noun	file m (invariable)
+file	Noun	file f
+teologia	Noun	teologia f (plural teologie)
+violento	Noun	violento m (plural violenti, feminine violenta)
+neoplasma	Noun	neoplasma m (plural neoplasmi)
+pampa	Noun	pampa f (plural pampe) (Sometimes capitalized)
+masochista	Noun	masochista m (plural masochisti)
+masochista f (plural masochiste)
+brutta	Noun	brutta f (plural brutte)
+renna	Noun	renna f (plural renne)
+piva	Noun	piva f (plural pive)
+oboi	Noun	oboi m
+empatia	Noun	empatia f (plural empatie)
+futurologia	Noun	futurologia f (plural futurologie)
+massa	Noun	massa f (plural masse)
+salpa	Noun	salpa f (plural salpe)
+telemetria	Noun	telemetria f (plural telemetrie)
+briga	Noun	briga f (plural brighe)
+aste	Noun	aste f
+sunna	Noun	sunna f
+entropia	Noun	entropia f (plural entropie)
+duro	Noun	duro m (plural duri)
+design	Noun	design m (invariable)
+radioastronomia	Noun	radioastronomia f (plural radioastronomie)
+lire	Noun	lire f
+status	Noun	status m (invariable)
+tramontana	Noun	tramontana f (plural tramontane)
+banjo	Noun	banjo m (invariable)
+fermento	Noun	fermento m (plural fermenti)
+bardi	Noun	bardi m
+tinami	Noun	tinami m
+festa	Noun	festa f (plural feste)
+idiote	Noun	idiote f
+anguilla	Noun	anguilla f (plural anguille)
+boli	Noun	boli m
+aioni	Noun	aioni m
+prostatismi	Noun	prostatismi m
+salva	Noun	salva f (plural salve)
+chip	Noun	chip m (invariable)
+tacere	Noun	tacere m (plural taceri)
+marista	Noun	marista m (plural maristi) marista f (plural mariste)
+radiobiologia	Noun	radiobiologia f (plural radiobiologie)
+duo	Noun	duo m (invariable)
+golf	Noun	golf m (invariable)
+trauma	Noun	trauma m (plural traumi)
+enciclopedie	Noun	enciclopedie f pl
+setta	Noun	setta f (plural sette)
+compenso	Noun	compenso m (plural compensi)
+vulva	Noun	vulva f (plural vulve)
+palla	Noun	palla f (plural palle)
+cellulosa	Noun	cellulosa f (plural cellulose)
+capillare	Noun	capillare m (plural capillari)
+amico	Noun	amico m (plural amici), amica f (plural amiche)
+amica	Noun	amica f (plural amiche)
+anestesiologi	Noun	anestesiologi m
+pragmatismi	Noun	pragmatismi m
+mas	Noun	mas m (sometimes MAS, invariable)
+epidemia	Noun	epidemia f (plural epidemie)
+saluti	Noun	saluti m
+naturisti	Noun	naturisti m
+fenoli	Noun	fenoli m
+diagrammi	Noun	diagrammi m
+balsami	Noun	balsami m
+corner	Noun	corner m (plural corner)
+bora	Noun	bora f (plural bore)
+unioni	Noun	unioni f
+mari	Noun	mari m
+resistori	Noun	resistori m
+furia	Noun	furia f (plural furie)
+camping	Noun	camping m (invariable)
+sorta	Noun	sorta f (plural sorte)
+molla	Noun	molla f (plural molle)
+sito	Noun	sito m (plural siti)
+sito	Noun	sito m (plural siti)
+molto	Noun	molto m (singular only)
+scala	Noun	scala f (plural scale)
+spade	Noun	spade f
+faggi	Noun	faggi m
+selenologia	Noun	selenologia f (plural selenologie)
+clima	Noun	clima m (plural climi)
+animo	Noun	animo m (plural animi)
+pederasta	Noun	pederasta m (plural pederasti)
+zanca	Noun	zanca f (plural zanche) (obsolete, regional)
+europanto	Noun	europanto m (plural europanti)
+weekend	Noun	weekend m (invariable)
+mellette	Noun	mellette f
+lima	Noun	lima f (plural lime)
+tibia	Noun	tibia f (plural tibie)
+grabar	Noun	grabar m (invariable)
+machete	Noun	machete m (invariable)
+godronare	Noun	godronare m (plural godronari)
+mosse	Noun	mosse f pl
+tiri	Noun	tiri m
+aborti	Noun	aborti m
+patron	Noun	patron m (invariable)
+zoomata	Noun	zoomata f (plural zoomate)
+fii	Noun	fii m
+ripa	Noun	ripa f (plural ripe)
+officina	Noun	officina f (plural officine)
+unitarianismi	Noun	unitarianismi m
+lami	Noun	lami m
+tomografia	Noun	tomografia f (plural tomografie)
+bentos	Noun	bentos m (invariable)
+deicida	Noun	deicida m (plural deicidi)
+deicida f (plural deicide)
+bimba	Noun	bimba f (plural bimbe) (Masculine: bimbo)
+barbio	Noun	barbio m (plural barbi)
+bordeaux	Noun	bordeaux m (invariable)
+isotropia	Noun	isotropia f (plural isotropie)
+margarita	Noun	margarita f (plural margarite)
+margarita	Noun	margarita m
+armilla	Noun	armilla f (plural armille)
+servi	Noun	servi m
+lancio	Noun	lancio m (plural lanci)
+nasse	Noun	nasse f
+anioni	Noun	anioni m
+salvie	Noun	salvie f
+rodeo	Noun	rodeo m (plural rodei)
+dromedario	Noun	dromedario m (plural dromedari)
+lavabo	Noun	lavabo m (plural lavabi or lavabo)
+posto	Noun	posto m (plural posti)
+inquilina	Noun	inquilina f (plural inquiline, masculine inquilino)
+minuti	Noun	minuti m
+platonismi	Noun	platonismi m
+platina	Noun	platina f (plural platine)
+platina	Noun	platina f (plural platine)
+crescendo	Noun	crescendo m (plural crescendi)
+atomismi	Noun	atomismi m
+bini	Noun	bini m
+barra	Noun	barra f (plural barre)
+volo	Noun	volo m (plural voli)
+idiota	Noun	idiota m (plural idioti) idiota f (plural idiote)
+pini	Noun	pini m
+frenologia	Noun	frenologia f (plural frenologie)
+sponda	Noun	sponda f (plural sponde)
+navicella	Noun	navicella f (plural navicelle)
+isometria	Noun	isometria f (plural isometrie)
+bolognese	Noun	bolognese m, f (plural bolognesi)
+antipodi	Noun	antipodi m, f
+bigami	Noun	bigami m
+metal	Noun	metal m (invariable)
+arabi	Noun	arabi m
+vallo	Noun	vallo m (plural valli)
+posta	Noun	posta f (plural poste)
+orsi	Noun	orsi m
+rime	Noun	rime f
+magnolia	Noun	magnolia f (plural magnolie)
+postiti	Noun	postiti f
+naturalisti	Noun	naturalisti m
+fauna	Noun	fauna f (plural faune)
+u	Noun	u f (invariable)
+o	Noun	o f (invariable)
+pronuba	Noun	pronuba f (plural pronube)
+bermuda	Noun	bermuda m pl
+pista	Noun	pista f (plural piste)
+seborrea	Noun	seborrea f (plural seborree)
+etologia	Noun	etologia f (plural etologie)
+sapere	Noun	sapere m (plural saperi)
+shogun	Noun	shogun m (invariable)
+balla	Noun	balla f (plural balle)
+peseta	Noun	peseta f (plural pesete)
+buddhista	Noun	buddhista m (plural buddhisti)
+buddhista f (plural buddhiste)
+sub	Noun	sub m, f (invariable)
+alpinisti	Noun	alpinisti m
+blasfemie	Noun	blasfemie f
+legenda	Noun	legenda f (plural legende)
+tela	Noun	tela f (plural tele)
+babirussa	Noun	babirussa m (invariable)
+fibula	Noun	fibula f (plural fibule)
+osteopatia	Noun	osteopatia f (plural osteopatie)
+tombola	Noun	tombola f (plural tombole)
+pagoda	Noun	pagoda f (plural pagode)
+tema	Noun	tema m (plural temi)
+tema	Noun	tema f (plural teme)
+paci	Noun	paci f
+duetto	Noun	duetto m (plural duetti)
+sei	Noun	sei m (invariable)
+geografi	Noun	geografi m
+nutria	Noun	nutria f (plural nutrie)
+kajal	Noun	kajal m (invariable)
+mole	Noun	mole f (plural moli)
+ergonomi	Noun	ergonomi m
+arie	Noun	arie f
+audio	Noun	audio m (invariable)
+antonomasia	Noun	antonomasia f (plural antonomasie)
+moka	Noun	moka m, f (invariable)
+etnografia	Noun	etnografia f (plural etnografie)
+parsimonia	Noun	parsimonia f (plural parsimonie)
+ecloga	Noun	ecloga f (plural ecloghe)
+dermografia	Noun	dermografia f (plural dermografie)
+finta	Noun	finta f (plural finte)
+entomologie	Noun	entomologie f
+antropofagia	Noun	antropofagia f (plural antropofagie)
+curia	Noun	curia f (plural curie)
+ateisti	Noun	ateisti m
+buddhismi	Noun	buddhismi m
+spadice	Noun	spadice m (plural spadici)
+cu	Noun	cu m, f (invariable)
+archeologia	Noun	archeologia f (plural archeologie)
+tanatologia	Noun	tanatologia f (plural tanatologie)
+struma	Noun	struma f (plural strume)
+ovile	Noun	ovile m (plural ovili)
+glutationi	Noun	glutationi m
+rena	Noun	rena f (plural rene)
+odontologia	Noun	odontologia f (plural odontologie)
+slavina	Noun	slavina f (plural slavine)
+moneta	Noun	moneta f (plural monete)
+fonografi	Noun	fonografi m
+geodi	Noun	geodi m
+due	Noun	due m (invariable)
+cella	Noun	cella f (plural celle)
+flotta	Noun	flotta f (plural flotte)
+rutto	Noun	rutto m (plural rutti)
+pori	Noun	pori m
+parere	Noun	parere m (plural pareri)
+carter	Noun	carter m (invariable)
+argilla	Noun	argilla f (plural argille)
+cubo	Noun	cubo m (plural cubi)
+profano	Noun	profano m (plural profani)
+strofe	Noun	strofe f
+strofe	Noun	strofe f (invariable)
+lustro	Noun	lustro m (plural lustri)
+lustro	Noun	lustro m (plural lustri)
+kebab	Noun	kebab m (invariable)
+commando	Noun	commando m (plural commandi)
+mire	Noun	mire f
+sutura	Noun	sutura f (plural suture)
+bob	Noun	bob m (invariable)
+wawa	Noun	wawa m (inv.)
+skipper	Noun	skipper m (invariable)
+palindromi	Noun	palindromi m
+collega	Noun	collega m (plural colleghi) or collega f (plural colleghe)
+vore	Noun	vore f
+primogenita	Noun	primogenita f (plural primogenite, masculine primogenito)
+cataplasma	Noun	cataplasma m (plural cataplasmi)
+varo	Noun	varo m (plural vari)
+matrone	Noun	matrone f
+pub	Noun	pub m (invariable)
+badili	Noun	badili m
+elefante	Noun	elefante m (plural elefanti, feminine elefantessa)
+peronismi	Noun	peronismi m
+semafori	Noun	semafori m
+querimonia	Noun	querimonia f (plural querimonie)
+i	Noun	i f (invariable)
+bombe	Noun	bombe f
+bibliobus	Noun	bibliobus m (invariable)
+materie	Noun	materie f
+lipogrammi	Noun	lipogrammi m
+dadaismi	Noun	dadaismi m
+fregne	Noun	fregne f
+madame	Noun	madame f
+iter	Noun	iter m (invariable)
+pleonasmi	Noun	pleonasmi m
+setti	Noun	setti m
+mem	Noun	mem m f (invariable)
+pinne	Noun	pinne f
+samara	Noun	samara f (plural samare)
+venuti	Noun	venuti f
+peto	Noun	peto m (plural peti)
+malva	Noun	malva f (plural malve)
+malva	Noun	malva m (invariable)
+abbreviatura	Noun	abbreviatura f (plural abbreviature)
+voce	Noun	voce f (plural voci)
+biografia	Noun	biografia f (plural biografie)
+sinfonietta	Noun	sinfonietta f (plural sinfoniette) (Diminutive of: sinfonia)
+arena	Noun	arena f (plural arene)
+ambrosia	Noun	ambrosia f (plural ambrosie)
+salmi	Noun	salmi m
+iora	Noun	iora f (plural iore)
+bue	Noun	bue m (plural buoi)
+dei	Noun	dei m pl (archaic dii)
+pizza	Noun	pizza f (plural pizze)
+blogger	Noun	blogger m, f (invariable)
+Internet	Noun	Internet f (invariable)
+torma	Noun	torma f (plural torme)
+collaudo	Noun	collaudo m (plural collaudi)
+vandalismi	Noun	vandalismi m
+epidemiologi	Noun	epidemiologi m
+corolla	Noun	corolla f (plural corolle)
+vuvuzela	Noun	vuvuzela f (invariable)
+materialismi	Noun	materialismi m
+fa	Noun	fa m (invariable)
+comma	Noun	comma m (plural commi)
+sigla	Noun	sigla f (plural sigle)
+diodo	Noun	diodo m (plural diodi)
+ergosteroli	Noun	ergosteroli m
+ocelot	Noun	ocelot m (invariable)
+teismi	Noun	teismi m
+egoismi	Noun	egoismi m
+urina	Noun	urina f (plural urine)
+porto	Noun	porto m (plural porti)
+celta	Noun	celta m (plural celti)
+parasceve	Noun	parasceve f (plural parascevi)
+peana	Noun	peana m (invariable)
+lampi	Noun	lampi m
+concordia	Noun	concordia f (plural concordie)
+semi	Noun	semi m
+belladonna	Noun	belladonna f (plural belledonne)
+tiara	Noun	tiara f (plural tiare)
+fusa	Noun	fusa f
+fusa	Noun	fusa f (plural fuse)
+wigwam	Noun	wigwam m (invariable)
+anestesia	Noun	anestesia f (plural anestesie)
+gorgonzola	Noun	gorgonzola m (invariable)
+iman	Noun	iman m (invariable)
+fola	Noun	fola f (plural fole)
+afta	Noun	afta f (plural afte)
+barca	Noun	barca f (plural barche)
+elitismi	Noun	elitismi m
+mirra	Noun	mirra f (plural mirre)
+buffet	Noun	buffet m (invariable)
+cime	Noun	cime f pl
+nomade	Noun	nomade m (plural nomadi)
+fasti	Noun	fasti m
+ontologia	Noun	ontologia f (plural ontologie)
+mete	Noun	mete f
+schei	Noun	schei m pl only
+water	Noun	water m (invariable)
+cosmologia	Noun	cosmologia f (plural cosmologie)
+filosofia	Noun	filosofia f (plural filosofie)
+capella	Noun	capella f (plural capelle)
+spam	Noun	spam m (invariable)
+flora	Noun	flora f (plural flore)
+calcio	Noun	calcio m (plural calci)
+calcio	Noun	calcio m (plural calci)
+hamburger	Noun	hamburger m (invariable)
+fastidio	Noun	fastidio m (plural fastidi)
+geisha	Noun	geisha f (plural geishe)
+fluidi	Noun	fluidi m
+gerle	Noun	gerle f
+reporter	Noun	reporter m, f (invariable)
+cauterio	Noun	cauterio m (plural cauteri)
+proteina	Noun	proteina f (plural proteine)
+ni	Noun	ni m, f (invariable)
+kamikaze	Noun	kamikaze m (invariable)
+scalare	Noun	scalare m (plural scalari)
+quadratura	Noun	quadratura f (plural quadrature)
+un	Noun	un m (see uno)
+benda	Noun	benda f (plural bende)
+gloria	Noun	gloria f (plural glorie)
+autosomi	Noun	autosomi m
+elmi	Noun	elmi m
+cicuta	Noun	cicuta f (plural cicute)
+teisti	Noun	teisti m
+marina	Noun	marina f (plural marine)
+tossi	Noun	tossi f
+stella	Noun	stella f (plural stelle)
+letti	Noun	letti m
+baco	Noun	baco m (plural bachi)
+segmenti	Noun	segmenti m pl
+taxi	Noun	taxi m (plural taxi)
+aborto	Noun	aborto m (plural aborti)
+novelle	Noun	novelle f
+fosfolipidi	Noun	fosfolipidi m
+flato	Noun	flato m (plural flati)
+sineresi	Noun	sineresi f (invariable)
+fiscella	Noun	fiscella f (plural fiscelle)
+mastri	Noun	mastri m
+palle	Noun	palle f
+fonologia	Noun	fonologia f (plural fonologie)
+abadia	Noun	abadia f (plural abadie)
+rabbi	Noun	rabbi m
+mandra	Noun	mandra f (plural mandre)
+pelle	Noun	pelle f (plural pelli)
+salve	Noun	salve f
+biologa	Noun	biologa f (plural biologhe) Feminine of biologo
+bara	Noun	bara f (plural bare)
+ministre	Noun	ministre f
+strofa	Noun	strofa f (plural strofe)
+reo	Noun	reo m (plural rei)
+Cosa	Noun	Cosa f (plural Cose, masculine Coso)
+brandi	Noun	brandi m
+pralina	Noun	pralina f (plural praline)
+d	Noun	d m, f (invariable)
+crawl	Noun	crawl m (plural crawl)
+procedura	Noun	procedura f (plural procedure)
+telo	Noun	telo m (plural teli)
+sori	Noun	sori m
+rogito	Noun	rogito m (plural rogiti)
+magra	Noun	magra f (plural magre)
+epe	Noun	epe f
+gene	Noun	gene m (plural geni)
+aurora	Noun	aurora f (plural aurore)
+single	Noun	single m, f (invariable)
+auto	Noun	auto f (invariable)
+capo	Noun	capo m (plural capi)
+inopia	Noun	inopia f (plural inopie)
+inverter	Noun	inverter m (invariable)
+antenna	Noun	antenna f (plural antenne)
+pagelli	Noun	pagelli m
+patologi	Noun	patologi m
+spille	Noun	spille f
+sionisti	Noun	sionisti m
+ateismi	Noun	ateismi m
+autonomia	Noun	autonomia f (plural autonomie)
+lamaismi	Noun	lamaismi m
+chele	Noun	chele f
+lime	Noun	lime f pl
+lime	Noun	lime m (invariable)
+lista	Noun	lista f (plural liste)
+geriatria	Noun	geriatria f (plural geriatrie)
+nature	Noun	nature f
+rad	Noun	rad m (invariable)
+tosse	Noun	tosse f (plural tossi)
+orli	Noun	orli m
+parole	Noun	parole f pl
+liti	Noun	liti f
+iute	Noun	iute f
+algoritmi	Noun	algoritmi m
+basilica	Noun	basilica f (plural basiliche)
+carota	Noun	carota f (plural carote)
+virus	Noun	virus m
+vate	Noun	vate m (plural vati)
+statisti	Noun	statisti m
+leninismi	Noun	leninismi m
+vetri	Noun	vetri m
+lisi	Noun	lisi f (inv)
+candela	Noun	candela f (plural candele)
+studio	Noun	studio m (plural studi)
+zombi	Noun	zombi m, f (invariable)
+tilde	Noun	tilde m, f (plural tildi)
+basket	Noun	basket m (invariable)
+aria	Noun	aria f (plural arie)
+sonate	Noun	sonate f
+entomologia	Noun	entomologia f (plural entomologie)
+sonata	Noun	sonata f (plural sonate)
+tondi	Noun	tondi m
+avatar	Noun	avatar m (invariable)
+faretra	Noun	faretra f (plural faretre)
+annullo	Noun	annullo m (plural annulli)
+agrafia	Noun	agrafia f (plural agrafie)
+insulti	Noun	insulti m
+islamisti	Noun	islamisti m
+filosofi	Noun	filosofi m
+matto	Noun	matto m (plural matti) feminine matta
+loti	Noun	loti m
+registri	Noun	registri m
+problema	Noun	problema m (plural problemi)
+millimetri	Noun	millimetri m
+garage	Noun	garage m (invariable)
+sanna	Noun	sanna f (plural sanne)
+demografi	Noun	demografi m
+voyeurismi	Noun	voyeurismi m
+medicina	Noun	medicina f (plural medicine)
+pesti	Noun	pesti f
+carpa	Noun	carpa f (plural carpe)
+urtica	Noun	urtica f (plural urtiche)
+ergometri	Noun	ergometri m
+limonata	Noun	limonata f (plural limonate)
+titoli	Noun	titoli m
+scriba	Noun	scriba m (plural scribi)
+membranofoni	Noun	membranofoni m
+transistor	Noun	transistor m (invariable)
+infula	Noun	infula f (plural infule)
+palma	Noun	palma f (plural palme)
+allotropia	Noun	allotropia f (plural allotropie)
+salami	Noun	salami m
+lapis	Noun	lapis m (invariable)
+oneirologia	Noun	oneirologia f (plural oneirologie)
+neuropeptidi	Noun	neuropeptidi m
+catechista	Noun	catechista m (plural catechisti) catechista f (plural catechiste)
+vasi	Noun	vasi m
+kappa	Noun	kappa m, f (invariable)
+tini	Noun	tini m
+foniatri	Noun	foniatri m
+filare	Noun	filare m (plural filari)
+dea	Noun	dea f (plural dee, masculine dio)
+lira	Noun	lira f (plural lire)
+lira	Noun	lira f (plural lire)
+do	Noun	do m
+forum	Noun	forum m (invariable)
+dipelare	Noun	dipelare
+prodromi	Noun	prodromi m
+aforismi	Noun	aforismi m
+gabardine	Noun	gabardine m (invariable)
+stalla	Noun	stalla f (plural stalle)
+agnella	Noun	agnella f (plural agnelle, masculine agnello)
+nudisti	Noun	nudisti m
+mariti	Noun	mariti m
+mormoni	Noun	mormoni m, f
+ministro	Noun	ministro m (plural ministri) feminine ministra
+agrobiologia	Noun	agrobiologia f (plural agrobiologie)
+medie	Noun	medie f
+pantalone	Noun	pantalone m (plural pantaloni)
+viso	Noun	viso m (plural visi)
+fatamorgana	Noun	fatamorgana f (plural fatemorgane)
+jota	Noun	jota m, f (invariable)
+membrana	Noun	membrana f (plural membrane)
+angelologia	Noun	angelologia f (plural angelologie)
+influenza	Noun	influenza f (plural influenze)
+vetrina	Noun	vetrina f (plural vetrine)
+lati	Noun	lati m
+acrimonia	Noun	acrimonia f (plural acrimonie)
+incedere	Noun	incedere m (plural incederi)
+fascina	Noun	fascina f (plural fascine)
+basalto	Noun	basalto m (plural basalti)
+ornitologia	Noun	ornitologia f (plural ornitologie)
+dipoli	Noun	dipoli m
+marosi	Noun	marosi m
+juta	Noun	juta f (plural jute)
+ambra	Noun	ambra f (plural ambre)
+terroristi	Noun	terroristi m
+taira	Noun	taira f (plural taire)
+b	Noun	b m, f (invariable)
+volta	Noun	volta f (plural volte)
+dom	Noun	dom m (invariable)
+decuria	Noun	decuria f (plural decurie)
+rottweiler	Noun	rottweiler m (invariable)
+cardo	Noun	cardo m (plural cardi)
+cardo	Noun	cardo m (plural cardi)
+mangusta	Noun	mangusta f (plural manguste)
+temi	Noun	temi m
+anima	Noun	anima f (plural anime)
+pera	Noun	pera f (plural pere)
+spini	Noun	spini m
+doge	Noun	doge m (plural dogi)
+falle	Noun	falle f
+zero	Noun	zero m (plural zeri)
+tetrametri	Noun	tetrametri m
+sorti	Noun	sorti f
+materiale	Noun	materiale m (plural materiali)
+linea	Noun	linea f (plural linee)
+logaritmi	Noun	logaritmi m
+spate	Noun	spate f
+casta	Noun	casta f (plural caste)
+biologi	Noun	biologi m
+puriste	Noun	puriste f
+viro	Noun	viro m (plural viri)
+cicatrice	Noun	cicatrice f (plural cicatrici)
+empiristi	Noun	empiristi m
+puerpera	Noun	puerpera f (plural puerpere)
+testo	Noun	testo m (plural testi)
+perle	Noun	perle f
+soma	Noun	soma f (plural some)
+soma	Noun	soma m (plural somi)
+urologia	Noun	urologia f (plural urologie)
+pippa	Noun	pippa f (plural pippe)
+demografie	Noun	demografie f
+disvolere	Noun	disvolere m (plural disvoleri)
+pappi	Noun	pappi m
+fauvismi	Noun	fauvismi m
+salamandra	Noun	salamandra f (plural salamandre)
+moda	Noun	moda f (plural mode)
+androide	Noun	androide m, f (plural androidi)
+anse	Noun	anse f
+blusa	Noun	blusa f (plural bluse)
+lobotomia	Noun	lobotomia f (plural lobotomie)
+mangrove	Noun	mangrove f
+alee	Noun	alee f
+cica	Noun	cica f (plural ciche)
+positivisti	Noun	positivisti m
+armatura	Noun	armatura f (plural armature)
+sofisti	Noun	sofisti m
+coma	Noun	coma m (invariable)
+bevanda	Noun	bevanda f (plural bevande)
+valloni	Noun	valloni m, f
+nomenklatura	Noun	nomenklatura f (plural nomenklature)
+asparagina	Noun	asparagina f (plural asparagine)
+malli	Noun	malli m
+patata	Noun	patata f (plural patate)
+alme	Noun	alme f
+pugno	Noun	pugno m (plural pugni, obsolete plural pugna)
+fan	Noun	fan m, f (plural fans)
+celia	Noun	celia f (plural celie)
+creatura	Noun	creatura f (plural creature)
+bazar	Noun	bazar m (invariable)
+astenia	Noun	astenia f (plural astenie)
+abasia	Noun	abasia f (plural abasie)
+Adam	Noun	Adam m (invariable)
+begonia	Noun	begonia f (plural begonie)
+cara	Noun	cara f (plural care)
+metrologi	Noun	metrologi m
+barre	Noun	barre f
+paragrafi	Noun	paragrafi m
+metrica	Noun	metrica f (plural metriche)
+provvedere	Noun	provvedere m (plural provvederi)
+muro	Noun	muro m (plural muri) (see also: mura)
+albinismi	Noun	albinismi m
+duello	Noun	duello m (plural duelli)
+milze	Noun	milze f
+champignon	Noun	champignon m (invariable)
+rivo	Noun	rivo m (plural rivi)
+erbi	Noun	erbi m pl
+veti	Noun	veti m
+biomi	Noun	biomi m
+area	Noun	area f (plural aree)
+patella	Noun	patella f (plural patelle)
+cornee	Noun	cornee f
+supernova	Noun	supernova f (plural supernove)
+basterna	Noun	basterna f (plural basterne)
+minimalismi	Noun	minimalismi m
+rotte	Noun	rotte f
+idee	Noun	idee f
+stand	Noun	stand m (invariable)
+slava	Noun	slava f (plural slave) feminine of slavo
+prolina	Noun	prolina f (plural proline)
+artrometri	Noun	artrometri m
+pareo	Noun	pareo m (plural parei)
+astrologi	Noun	astrologi m
+amenorrea	Noun	amenorrea f (plural amenorree)
+firma	Noun	firma f (plural firme)
+antinomia	Noun	antinomia f (plural antinomie)
+replica	Noun	replica f (plural repliche)
+stati	Noun	stati m
+batteri	Noun	batteri m pl
+clino	Noun	clino m (plural clini)
+peri	Noun	peri (f plural)
+sevi	Noun	sevi m
+sampi	Noun	sampi m, f (invariable)
+pedata	Noun	pedata f (plural pedate)
+mappa	Noun	mappa f (plural mappe)
+belga	Noun	belga m (plural belgi)
+belga	Noun	belga f (plural belghe)
+byte	Noun	byte m (invariable)
+paranoia	Noun	paranoia f (plural paranoie)
+starter	Noun	starter m (invariable)
+filtri	Noun	filtri m
+millivolt	Noun	millivolt m (invariable)
+islamofobia	Noun	islamofobia f (plural islamofobie)
+colla	Noun	colla f (plural colle)
+rubrica	Noun	rubrica f (plural rubriche)
+nudismi	Noun	nudismi m
+radiografia	Noun	radiografia f (plural radiografie)
+studi	Noun	studi m
+spinelli	Noun	spinelli m
+pira	Noun	pira f
+agorafobia	Noun	agorafobia f (plural agorafobie)
+ani	Noun	ani m
+bombarda	Noun	bombarda f (plural bombarde)
+can	Noun	can m (plural cani)
+can	Noun	can m (invariable)
+randa	Noun	randa f (plural rande)
+emme	Noun	emme f, m (invariable)
+oftalmopatia	Noun	oftalmopatia f (plural oftalmopatie)
+oftalmia	Noun	oftalmia f (plural oftalmie)
+alicula	Noun	alicula f (plural alicule)
+terni	Noun	terni m
+ratina	Noun	ratina f (plural ratine)
+otto	Noun	otto m (invariable)
+hotel	Noun	hotel m (invariable)
+stereometria	Noun	stereometria f (plural stereometrie)
+realisti	Noun	realisti m
+Intranet	Noun	Intranet f (invariable)
+antagonisti	Noun	antagonisti m
+budget	Noun	budget m (invariable)
+appello	Noun	appello m (plural appelli)
+tergo	Noun	tergo m (plural terghi)
+bastardi	Noun	bastardi m
+teste	Noun	teste f
+trance	Noun	trance f (invariable)
+fobia	Noun	fobia f (plural fobie)
+cero	Noun	cero m (plural ceri)
+ascella	Noun	ascella f (plural ascelle)
+areola	Noun	areola f (plural areole)
+gala	Noun	gala f (plural gale)
+gala	Noun	gala m (invariable)
+manata	Noun	manata f (plural manate)
+panteista	Noun	panteista m (plural panteisti) panteista f (plural panteiste)
+regina	Noun	regina f (plural regine, masculine re)
+zone	Noun	zone f
+luna	Noun	luna f (plural lune)
+bordelli	Noun	bordelli m
+ci	Noun	ci f (invariable)
+usta	Noun	usta f (plural uste)
+gleba	Noun	gleba f (plural glebe)
+lue	Noun	lue f (invariable)
+puliti	Noun	puliti m
+malto	Noun	malto m (plural malti)
+impressionismi	Noun	impressionismi m
+periuro	Noun	periuro m (plural periuri)
+motoristi	Noun	motoristi m
+procella	Noun	procella f (plural procelle)
+natura	Noun	natura f (plural nature)
+gemme	Noun	gemme f
+animi	Noun	animi m
+cambio	Noun	cambio m (plural cambi)
+hazard	Noun	hazard m (invariable)
+odor	Noun	odor m (invariable)
+prostata	Noun	prostata f (plural prostate)
+transenna	Noun	transenna f (plural transenne)
+lesbismi	Noun	lesbismi m
+pentametri	Noun	pentametri m
+ago	Noun	ago m (plural aghi)
+grafologia	Noun	grafologia f (plural grafologie)
+vie	Noun	vie f
+derivata	Noun	derivata f (plural derivate)
+agnosia	Noun	agnosia f (plural agnosie)
+padda	Noun	padda m (plural padda)
+druidi	Noun	druidi m
+stress	Noun	stress m (invariable)
+none	Noun	none f pl
+assi	Noun	assi m
+capra	Noun	capra f (plural capre, masculine capro)
+vorago	Noun	vorago f (plural voraghi)
+ardire	Noun	ardire m (plural ardiri)
+prova	Noun	prova f (plural prove)
+vele	Noun	vele f
+molare	Noun	molare m (plural molari)
+eutanasia	Noun	eutanasia f (plural eutanasie)
+oasi	Noun	oasi f (invariable)
+perestrojka	Noun	perestrojka f
+risotto	Noun	risotto m (plural risotti)
+vignetta	Noun	vignetta f (plural vignette)
+reprobo	Noun	reprobo m (plural reprobi, feminine reproba)
+khat	Noun	khat m (invariable) (Variant of: chat)
+totalitarismi	Noun	totalitarismi m
+vela	Noun	vela f (plural vele)
+morto	Noun	morto m (plural morti) feminine morta
+tiro	Noun	tiro m (plural tiri)
+zenit	Noun	zenit m
+pilota	Noun	pilota m (plural piloti) pilota f (plural pilote)
+latebra	Noun	latebra f (plural latebre)
+toppi	Noun	toppi m
+zar	Noun	zar m
+costa	Noun	costa f (plural coste)
+manti	Noun	manti m
+scintilla	Noun	scintilla f (plural scintille)
+logopatia	Noun	logopatia f (plural logopatie)
+ronda	Noun	ronda f (plural ronde)
+ortografia	Noun	ortografia f (plural ortografie)
+onda	Noun	onda f (plural onde)
+entrare	Noun	entrare m
+conserva	Noun	conserva f (plural conserve)
+ganglio	Noun	ganglio m (plural gangli)
+drupa	Noun	drupa f (plural drupe)
+tratti	Noun	tratti m pl
+ottani	Noun	ottani m
+goniometri	Noun	goniometri m
+ripe	Noun	ripe f
+nulla	Noun	nulla m (invariable)
+andrologia	Noun	andrologia f (plural andrologie)
+abate	Noun	abate m (plural abati, feminine badessa)
+sinistra	Noun	sinistra f (plural sinistre)
+canapa	Noun	canapa f (plural canape)
+video	Noun	video m (invariable)
+pugilisti	Noun	pugilisti m
+stima	Noun	stima f (plural stime)
+alchimia	Noun	alchimia f (plural alchimie)
+quadruplo	Noun	quadruplo m (plural quadrupli)
+lotta	Noun	lotta f (plural lotte)
+beta	Noun	beta f (invariable)
+beta	Noun	beta f (plural bete)
+lette	Noun	lette f
+apnea	Noun	apnea f (plural apnee)
+pois	Noun	pois m (invariable)
+efficacia	Noun	efficacia f (plural efficacie)
+vibrafoni	Noun	vibrafoni m
+espresso	Noun	espresso m (plural espressi)
+bare	Noun	bare f
+bestia	Noun	bestia f (plural bestie)
+posti	Noun	posti m
+malaria	Noun	malaria f (plural malarie)
+piroga	Noun	piroga f (plural piroghe)
+festival	Noun	festival m (invariable)
+afa	Noun	afa f (plural afe)
+leptoni	Noun	leptoni m
+stock	Noun	stock
+categoria	Noun	categoria f (plural categorie)
+cappella	Noun	cappella f (plural cappelle)
+finte	Noun	finte f
+foto	Noun	foto f (invariable)
+partitura	Noun	partitura f (plural partiture)
+populisti	Noun	populisti m
+sapiente	Noun	sapiente m, f (plural sapienti)
+peonia	Noun	peonia f (plural peonie)
+melodie	Noun	melodie f
+nova	Noun	nova f (plural nove)
+spondeo	Noun	spondeo m (plural spondei)
+dilemma	Noun	dilemma m (plural dilemmi)
+manierismi	Noun	manierismi m
+pino	Noun	pino m (plural pini)
+zoologie	Noun	zoologie f
+schema	Noun	schema m (plural schemi)
+favilla	Noun	favilla f (plural faville)
+scia	Noun	scia f (plural scie)
+musica	Noun	musica f (plural musiche)
+pianista	Noun	pianista m (plural pianisti)
+pianista	Noun	pianista f (plural pianiste)
+standar	Noun	standar m (invariable)
+sura	Noun	sura f (plural sure)
+sura	Noun	sura f (plural sure)
+fetta	Noun	fetta f (plural fette)
+triforio	Noun	triforio m (plural trifori)
+psi	Noun	psi m, f (invariable)
+maccha	Noun	maccha m (uncountable)
+male	Noun	male m (plural mali)
+invalidi	Noun	invalidi m
+alternarsi	Noun	alternarsi m (invariable)
+paté	Noun	paté m (invariable)
+blog	Noun	blog m (invariable)
+paleoantropologia	Noun	paleoantropologia f (plural paleoantropologie)
+bachi	Noun	bachi m
+mais	Noun	mais m
+rogo	Noun	rogo m (plural roghi)
+computo	Noun	computo m (plural computi)
+panorama	Noun	panorama m (plural panorami)
+gorgo	Noun	gorgo m (plural gorghi)
+lena	Noun	lena f (plural lene)
+biada	Noun	biada f (plural biade)
+flou	Noun	flou m (invariable)
+epifanie	Noun	epifanie f
+matrona	Noun	matrona f (plural matrone)
+team	Noun	team m (invariable)
+memorie	Noun	memorie f
+brace	Noun	brace f (plural braci)
+mele	Noun	mele f
+tele	Noun	tele f pl
+tele	Noun	tele f
+intercalare	Noun	intercalare m (plural intercalari)
+murene	Noun	murene f
+ifa	Noun	ifa f (plural ife)
+svitati	Noun	svitati m
+golfista	Noun	golfista m (plural golfisti)
+golfista f (plural golfiste)
+ratti	Noun	ratti m
+panslavismi	Noun	panslavismi m
+manne	Noun	manne f
+mantica	Noun	mantica f (plural mantiche)
+orangutan	Noun	orangutan m
+orchestra	Noun	orchestra f (plural orchestre)
+scammonea	Noun	scammonea f (plural scammonee)
+pendolare	Noun	pendolare m, f (plural pendolari)
+salmo	Noun	salmo m (plural salmi)
+gemmologi	Noun	gemmologi m
+lanterna	Noun	lanterna f (plural lanterne)
+fotoni	Noun	fotoni m
+temperatura	Noun	temperatura f (plural temperature)
+anime	Noun	anime f pl
+idi	Noun	idi m pl
+lobi	Noun	lobi m
+sambuca	Noun	sambuca f (plural sambuche)
+magnetometri	Noun	magnetometri m
+figa	Noun	figa f (plural fighe)
+sacha	Noun	sacha m
+biete	Noun	biete f
+columella	Noun	columella f (plural columelle)
+lumi	Noun	lumi m
+libero	Noun	libero m (plural liberi)
+raba	Noun	raba f (plural rabe)
+petti	Noun	petti m
+pandeiro	Noun	pandeiro m (plural pandeiri)
+bolle	Noun	bolle f
+vibrafonisti	Noun	vibrafonisti m
+voodoo	Noun	voodoo m (invariable)
+turbina	Noun	turbina f (plural turbine)
+pessimisti	Noun	pessimisti m, f
+genealogia	Noun	genealogia f (plural genealogie)
+avocado	Noun	avocado m (invariable)
+glossa	Noun	glossa f (plural glosse)
+radio	Noun	radio m (plural radi)
+radio	Noun	radio f (invariable)
+vello	Noun	vello m
+tata	Noun	tata f (plural tate)
+deuteroni	Noun	deuteroni m
+nettare	Noun	nettare m (plural nettari)
+darvinismi	Noun	darvinismi m
+cuneo	Noun	cuneo m (plural cunei)
+brisa	Noun	brisa f (plural brise)
+notula	Noun	notula f (plural notule)
+pieni	Noun	pieni m
+tandem	Noun	tandem m (invariable)
+demagogia	Noun	demagogia f (plural demagogie)
+laurea	Noun	laurea f (plural lauree)
+gesti	Noun	gesti m pl
+pluralismi	Noun	pluralismi m
+trombi	Noun	trombi m
+toppa	Noun	toppa f (plural toppe)
+autismi	Noun	autismi m
+bacon	Noun	bacon m (invariable)
+eoni	Noun	eoni m
+alpi	Noun	alpi f
+avello	Noun	avello m (plural avelli)
+mese	Noun	mese m (plural mesi)
+sumo	Noun	sumo m (invariable)
+gazza	Noun	gazza f (plural gazze)
+teutoni	Noun	teutoni m, f
+logos	Noun	logos m (invariable)
+topologia	Noun	topologia f (plural topologie)
+sereno	Noun	sereno m (plural sereni)
+quadro	Noun	quadro m (plural quadri)
+veri	Noun	veri m
+roba	Noun	roba f (plural robe)
+elfi	Noun	elfi m
+colon	Noun	colon m (invariable)
+disco	Noun	disco m (plural dischi)
+boa	Noun	boa m (invariable)
+boa	Noun	boa f (plural boe)
+teologie	Noun	teologie f
+mangiare	Noun	mangiare m (uncountable)
+mitologia	Noun	mitologia f (plural mitologie)
+vimpa	Noun	vimpa f (plural vimpe)
+carne	Noun	carne f (plural carni)
+puf	Noun	puf m (invariable)
+panteismi	Noun	panteismi m
+monarchia	Noun	monarchia f (plural monarchie)
+runa	Noun	runa f (plural rune)
+eurodollari	Noun	eurodollari m
+rosé	Noun	rosé m (invariable)
+stupro	Noun	stupro m (plural stupri)
+masi	Noun	masi m
+granata	Noun	granata f (plural granate)
+dio	Noun	dio m (plural dei, archaic plural dii, feminine dea)
+boom	Noun	boom m (invariable)
+piena	Noun	piena f (plural piene)
+statua	Noun	statua f (plural statue)
+termi	Noun	termi f
+manicure	Noun	manicure f (invariable)
+tautomerie	Noun	tautomerie f
+tinte	Noun	tinte f
+brodi	Noun	brodi m pl
+palo	Noun	palo m (plural pali)
+brenna	Noun	brenna f (plural brenne)
+soldati	Noun	soldati m
+euforbia	Noun	euforbia f (plural euforbie)
+modestia	Noun	modestia f (plural modestie)
+tribologia	Noun	tribologia f (plural tribologie)
+passata	Noun	passata f (plural passate)
+fenomenologie	Noun	fenomenologie f
+motocross	Noun	motocross m (invariable)
+mendico	Noun	mendico m (plural mendichi)
+mu	Noun	mu m, f (invariable)
+fotosfera	Noun	fotosfera f (plural fotosfere)
+filmografia	Noun	filmografia f (plural filmografie)
+veli	Noun	veli m
+salina	Noun	salina f (plural saline)
+set	Noun	set m (invariable)
+bure	Noun	bure f (plural buri)
+logo	Noun	logo m (invariable) or logo m (plural loghi)
+stabili	Noun	stabili m
+omari	Noun	omari m
+litografi	Noun	litografi m
+tabloidi	Noun	tabloidi m
+liturgia	Noun	liturgia f (plural liturgie)
+magma	Noun	magma m (plural magmi)
+sodomia	Noun	sodomia f (plural sodomie)
+altimetri	Noun	altimetri m
+para	Noun	para f (plural pare)
+lune	Noun	lune f
+terzine	Noun	terzine f
+marca	Noun	marca f (plural marche)
+fortuna	Noun	fortuna f (plural fortune)
+melasse	Noun	melasse f
+gastroenterologia	Noun	gastroenterologia f (plural gastroenterologie)
+pizzeria	Noun	pizzeria f (plural pizzerie)
+etate	Noun	etate f (plural etati)
+lagna	Noun	lagna f (plural lagne)
+halva	Noun	halva f
+calva	Noun	calva f (plural calve, masculine calvo)
+wad	Noun	wad m (invariable)
+lacuna	Noun	lacuna f (plural lacune)
+apsidi	Noun	apsidi m
+aguti	Noun	aguti m (plural aguti)
+concubina	Noun	concubina f (plural concubine)
+interrete	Noun	interrete f (plural interreti)
+elle	Noun	elle f (invariable)
+metronomi	Noun	metronomi m
+mistura	Noun	mistura f (plural misture)
+post	Noun	post m (invariable)
+conscio	Noun	conscio m (plural consci)
+maestro	Noun	maestro m (plural maestri, feminine maestra)
+ciel	Noun	ciel m
+patrie	Noun	patrie f
+lumino	Noun	lumino m (plural lumini) (Diminutive of: lume)
+tara	Noun	tara f (plural tare)
+umbri	Noun	umbri m
+biomassa	Noun	biomassa f (plural biomasse)
+bingo	Noun	bingo m (invariable)
+matti	Noun	matti m
+lunula	Noun	lunula f (plural lunule)
+vera	Noun	vera f (plural vere)
+endospermi	Noun	endospermi m
+regata	Noun	regata f (plural regate)
+peti	Noun	peti m
+insania	Noun	insania f (plural insanie)
+monile	Noun	monile m (plural monili)
+grafologi	Noun	grafologi m
+croissant	Noun	croissant m (plural invariable or croissants)
+algebra	Noun	algebra f (plural algebre)
+rupia	Noun	rupia f (plural rupie)
+rupia	Noun	rupia f (plural rupie)
+nana	Noun	nana f (plural nane)
+orgia	Noun	orgia f (plural orge or orgie)
+fibra	Noun	fibra f (plural fibre)
+röntgen	Noun	röntgen m (invariable)
+lamento	Noun	lamento m (plural lamenti)
+kakapo	Noun	kakapo m (plural kakapi)
+filologia	Noun	filologia f (plural filologie)
+pila	Noun	pila f (plural pile)
+pila	Noun	pila f (plural pile)
+messa	Noun	messa f (plural messe) (often capitalized)
+messa	Noun	messa f (plural messe)
+fiala	Noun	fiala f (plural fiale)
+t	Noun	t m, f (invariable)
+campana	Noun	campana f (plural campane)
+apostoli	Noun	apostoli m
+somali	Noun	somali m
+preti	Noun	preti m
+troll	Noun	troll m (invariable)
+terapeuta	Noun	terapeuta m (plural terapeuti)
+terapeuta f (plural terapeute)
+puristi	Noun	puristi m
+burnus	Noun	burnus m (invariable)
+merenda	Noun	merenda f (plural merende)
+bambara	Noun	bambara f (plural bambare)
+bambara	Noun	bambara f (invariable)
+vaginismi	Noun	vaginismi m
+monopolista	Noun	monopolista m (plural monopolisti)
+monopolista f (plural monopoliste)
+grosso	Noun	grosso m (plural grossi)
+machiavellismi	Noun	machiavellismi m
+trulli	Noun	trulli m
+panacea	Noun	panacea f (plural panacee)
+relativismi	Noun	relativismi m
+nassa	Noun	nassa f (plural nasse)
+idoli	Noun	idoli m
+orda	Noun	orda f (plural orde)
+sadismi	Noun	sadismi m
+neuroni	Noun	neuroni m
+poltronerie	Noun	poltronerie f
+industria	Noun	industria f (plural industrie)
+tragedie	Noun	tragedie f
+despotismi	Noun	despotismi m
+potere	Noun	potere m (plural poteri)
+lord	Noun	lord m (invariable)
+retta	Noun	retta f (plural rette)
+retta	Noun	retta f (plural rette)
+trama	Noun	trama f (plural trame)
+frac	Noun	frac m (invariable)
+apertura	Noun	apertura f (plural aperture)
+gnocchi	Noun	gnocchi m
+orno	Noun	orno m (plural orni)
+azeri	Noun	azeri m
+castel	Noun	castel m (invariable)
+poema	Noun	poema m (plural poemi)
+postmodernismi	Noun	postmodernismi m
+umbro	Noun	umbro m (plural umbri, feminine umbra)
+atrofia	Noun	atrofia f (plural atrofie)
+antenne	Noun	antenne f
+torso	Noun	torso m (plural torsi)
+diplomati	Noun	diplomati m
+cura	Noun	cura f (plural cure)
+ferma	Noun	ferma f (plural ferme)
+dada	Noun	dada m
+sport	Noun	sport m (invariable)
+eufemismi	Noun	eufemismi m
+discordia	Noun	discordia f (plural discordie)
+materia	Noun	materia f (plural materie)
+radon	Noun	radon m (invariable)
+ramen	Noun	ramen m (invariable)
+piscina	Noun	piscina f (plural piscine)
+ventata	Noun	ventata f (plural ventate)
+riva	Noun	riva f (plural rive)
+bis	Noun	bis m
+algologia	Noun	algologia f (plural algologie)
+ufo	Noun	ufo m (invariable) (Often: UFO)
+supporter	Noun	supporter m, f (invariable)
+rovina	Noun	rovina f (plural rovine)
+scoria	Noun	scoria f (plural scorie)
+sperma	Noun	sperma m (plural spermi)
+eretismi	Noun	eretismi m
+megafoni	Noun	megafoni m pl
+armata	Noun	armata f (plural armate)
+scena	Noun	scena f (plural scene)
+carica	Noun	carica f (plural cariche)
+spuma	Noun	spuma f (plural spume)
+trigonometria	Noun	trigonometria f (plural trigonometrie)
+hifi	Noun	hifi m (invariable)
+alternativa	Noun	alternativa f (plural alternative)
+logopedia	Noun	logopedia f (plural logopedie)
+idolo	Noun	idolo m (plural idoli)
+are	Noun	are f pl
+landa	Noun	landa f (plural lande)
+hiena	Noun	hiena f (plural hiene)
+sardela	Noun	sardela f (plural sardele)
+semifinale	Noun	semifinale f (plural semifinali)
+patria	Noun	patria f (plural patrie)
+ruina	Noun	ruina f (plural ruine)
+troposfera	Noun	troposfera f (plural troposfere)
+internista	Noun	internista m (plural internisti) internista f (plural interniste)
+tese	Noun	tese f
+paleografia	Noun	paleografia f (plural paleografie)
+organisti	Noun	organisti m, f
+pornografie	Noun	pornografie f
+dermatologia	Noun	dermatologia f (plural dermatologie)
+sorgere	Noun	sorgere m (invariable)
+puzzle	Noun	puzzle m (invariable)
+gas	Noun	gas m
+uve	Noun	uve f pl
+velodromi	Noun	velodromi m
+antroposofia	Noun	antroposofia f (plural antroposofie)
+vista	Noun	vista f (plural viste)
+colli	Noun	colli m
+intimi	Noun	intimi m
+pioni	Noun	pioni m
+adrenalina	Noun	adrenalina f (plural adrenaline)
+Palestina	Noun	Palestina f (invariable)
+hockey	Noun	hockey m (invariable)
+savana	Noun	savana f (plural savane)
+radar	Noun	radar m (invariable)
+lacrima	Noun	lacrima f (plural lacrime)
+tek	Noun	tek m (invariable)
+vampirismi	Noun	vampirismi m
+dì	Noun	dì m (invariable)
+nane	Noun	nane f
+bestiola	Noun	bestiola f (plural bestiole)
+fregata	Noun	fregata f (plural fregate)
+fregata	Noun	fregata f (plural fregate)
+pala	Noun	pala f (plural pale)
+petrografia	Noun	petrografia f (plural petrografie)
+lucerna	Noun	lucerna f (plural lucerne)
+manto	Noun	manto m (plural manti)
+tedi	Noun	tedi m
+biopsia	Noun	biopsia f (plural biopsie)
+bimetallismi	Noun	bimetallismi m
+militi	Noun	militi m
+sofista	Noun	sofista m (plural sofisti) or sofista f (plural sofiste)
+mandrilli	Noun	mandrilli m
+siesta	Noun	siesta f (invariable)
+scorni	Noun	scorni m
+banda	Noun	banda f (plural bande)
+banda	Noun	banda f (plural bande)
+tutela	Noun	tutela f (plural tutele)
+rotta	Noun	rotta f (plural rotte)
+filatelisti	Noun	filatelisti m
+neurologia	Noun	neurologia f (plural neurologie)
+dadaisti	Noun	dadaisti m
+acri	Noun	acri m
+minerale	Noun	minerale m (plural minerali)
+minerale	Noun	minerale f (plural minerali)
+capitolare	Noun	capitolare m (plural capitolari)
+leve	Noun	leve f
+albo	Noun	albo m (plural albi)
+postilla	Noun	postilla f (plural postille)
+geologie	Noun	geologie f
+monismi	Noun	monismi m
+zoofilia	Noun	zoofilia f (plural zoofilie)
+illusionisti	Noun	illusionisti m
+mica	Noun	mica f (plural miche)
+tortura	Noun	tortura f (plural torture)
+romanisti	Noun	romanisti m
+entusiasti	Noun	entusiasti m
+serva	Noun	serva f (plural serve, masculine servo)
+molle	Noun	molle f
+panna	Noun	panna f (plural panne)
+minigolf	Noun	minigolf m (invariable)
+beni	Noun	beni m
+banana	Noun	banana f (plural banane)
+banana	Noun	banana m (invariable)
+ribosomi	Noun	ribosomi m
+contumelia	Noun	contumelia f (plural contumelie)
+sterno	Noun	sterno m (plural sterni)
+bar	Noun	bar m (plural bar)
+mezzopiano	Noun	mezzopiano m (plural mezzopiani)
+mouse	Noun	mouse m (invariable)
+graffiti	Noun	graffiti m pl
+atavismi	Noun	atavismi m
+raptus	Noun	raptus m (invariable)
+razzia	Noun	razzia f (plural razzie)
+buffer	Noun	buffer m (invariable)
+metodologia	Noun	metodologia f (plural metodologie)
+solarium	Noun	solarium m (invariable)
+tumulo	Noun	tumulo m (plural tumuli)
+tubicino	Noun	tubicino m (plural tubicini) (Diminutive of: tubo)
+tao	Noun	tao m (invariable)
+melone	Noun	melone m (plural meloni)
+dinamo	Noun	dinamo f (invariable)
+suora	Noun	suora f (plural suore)
+koala	Noun	koala m (invariable)
+imbuti	Noun	imbuti m
+baie	Noun	baie f
+satrapia	Noun	satrapia f (plural satrapie)
+arabisti	Noun	arabisti m
+analogie	Noun	analogie f
+grata	Noun	grata f (plural grate)
+veranda	Noun	veranda f (plural verande)
+salme	Noun	salme f
+astenosfera	Noun	astenosfera f (plural astenosfere)
+generi	Noun	generi m
+organista	Noun	organista m, f (plural organisti) feminine plural organiste
+andrologi	Noun	andrologi m pl
+marxista	Noun	marxista m (plural marxisti) marxista f (plural marxiste)
+divisionismi	Noun	divisionismi m
+neve	Noun	neve f (plural nevi)
+home	Noun	home f (invariable)
+manica	Noun	manica f (plural maniche)
+kuna	Noun	kuna f (plural kune)
+cifra	Noun	cifra f (plural cifre)
+bibliofilia	Noun	bibliofilia f (plural bibliofilie)
+empirismi	Noun	empirismi m
+politologi	Noun	politologi m
+fanfara	Noun	fanfara f (plural fanfare)
+fotoreporter	Noun	fotoreporter m, f (invariable)
+spiritualisti	Noun	spiritualisti m
+formula	Noun	formula f (plural formule)
+luci	Noun	luci f
+divenire	Noun	divenire m
+moto	Noun	moto f (invariable)
+moto	Noun	moto m (plural moti)
+flange	Noun	flange f pl
+pula	Noun	pula f (plural pule)
+diploma	Noun	diploma m (plural diplomi)
+secreto	Noun	secreto m (plural secreti)
+tuta	Noun	tuta f (plural tute)
+etiologia	Noun	etiologia f (plural etiologie)
+savi	Noun	savi m
+vivo	Noun	vivo m (plural vivi)
+estri	Noun	estri m
+aerobiologia	Noun	aerobiologia f (plural aerobiologie)
+antropologie	Noun	antropologie f
+feto	Noun	feto m (plural feti)
+monotonie	Noun	monotonie f
+adagio	Noun	adagio m (plural adagi)
+adagio	Noun	adagio m (plural adagi)
+rumba	Noun	rumba f (plural rumbe)
+veste	Noun	veste f (plural vesti)
+utopisti	Noun	utopisti m
+impero	Noun	impero m (plural imperi)
+merito	Noun	merito m (plural meriti)
+color	Noun	color m (invariable)
+impeti	Noun	impeti m
+aroma	Noun	aroma m (plural aromi)
+ala	Noun	ala f (plural ali, poetic ale)
+fiducia	Noun	fiducia f (plural fiducie)
+testosteroni	Noun	testosteroni m
+lato	Noun	lato m (plural lati)
+sol	Noun	sol m (invariable)
+aie	Noun	aie f pl
+parlamentarismi	Noun	parlamentarismi m
+cardinal	Noun	cardinal m (invariable)
+iris	Noun	iris m, f (invariable)
+focus	Noun	focus m (invariable)
+calma	Noun	calma f (plural calme)
+cosine	Noun	cosine f
+paleontologi	Noun	paleontologi m
+solitoni	Noun	solitoni m
+manico	Noun	manico m (plural manici) (alternative plural: manichi)
+donna	Noun	donna f (plural donne)
+gamma	Noun	gamma m, f (invariable)
+neologismo	Noun	neologismo m (plural neologismi)
+flagello	Noun	flagello m (plural flagelli)
+schizofrenia	Noun	schizofrenia f (plural schizofrenie)
+viola	Noun	viola f (plural viole)
+viola	Noun	viola f (plural viole)
+atmosfera	Noun	atmosfera f (plural atmosfere)
+ananas	Noun	ananas m (invariable)
+brama	Noun	brama f (plural brame)
+invalide	Noun	invalide f
+salvo	Noun	salvo m (plural salvi)
+ballote	Noun	ballote f
+polo	Noun	polo m (plural poli)
+polo	Noun	polo m (plural poli)
+triathlon	Noun	triathlon m (invariable)
+fellatio	Noun	fellatio f (invariable)
+chirurgie	Noun	chirurgie f
+epopea	Noun	epopea f (plural epopee)
+pediatra	Noun	pediatra m (plural pediatri)
+pediatra f (plural pediatre)
+supporto	Noun	supporto m (plural supporti)
+duplex	Noun	duplex m (invariable)
+tonsilla	Noun	tonsilla f (plural tonsille)
+sigillografia	Noun	sigillografia f
+vociare	Noun	vociare m (plural vociari)
+scrofa	Noun	scrofa f (plural scrofe)
+capsula	Noun	capsula f (plural capsule)
+prisma	Noun	prisma m (plural prismi)
+egoisti	Noun	egoisti m
+salti	Noun	salti m
+periferia	Noun	periferia f (plural periferie)
+sangria	Noun	sangria f (plural sangrie or sangrias)
+foniatria	Noun	foniatria f (plural foniatrie)
+rota	Noun	rota f (plural rote)
+branda	Noun	branda f (plural brande)
+scomma	Noun	scomma m (plural scommi)
+pale	Noun	pale f
+osteoblasti	Noun	osteoblasti m
+tipografi	Noun	tipografi m pl
+visita	Noun	visita f (plural visite)
+pausa	Noun	pausa f (plural pause)
+monoteismi	Noun	monoteismi m
+magnetofoni	Noun	magnetofoni m
+talo	Noun	talo m (plural tali)
+star	Noun	star f (invariable)
+formalista	Noun	formalista m (plural formalisti) formalista f (plural formaliste)
+spirografi	Noun	spirografi m
+tunica	Noun	tunica f (plural tuniche)
+verbi	Noun	verbi m
+seta	Noun	seta f (plural sete)
+stop	Noun	stop m (plural stop)
+pediatria	Noun	pediatria f (plural pediatrie)
+western	Noun	western m (invariable)
+panel	Noun	panel m (invariable)
+sinagoga	Noun	sinagoga f (plural sinagoghe)
+terapie	Noun	terapie f
+filantropi	Noun	filantropi m
+coacervo	Noun	coacervo m (plural coacervi)
+paperi	Noun	paperi m
+pasta	Noun	pasta f (plural paste)
+mortadella	Noun	mortadella f (plural mortadelle)
+spole	Noun	spole f
+detta	Noun	detta f sg
+mulo	Noun	mulo m (plural muli, feminine mula)
+rese	Noun	rese f
+metodista	Noun	metodista m (plural metodisti) metodista f (plural metodiste)
+talea	Noun	talea f (plural talee)
+lobo	Noun	lobo m (plural lobi)
+vesti	Noun	vesti f
+amigdala	Noun	amigdala f (plural amigdale)
+xenofobie	Noun	xenofobie f
+cannelloni	Noun	cannelloni m plural of cannellone
+nomi	Noun	nomi m
+menta	Noun	menta f (plural mente)
+dodi	Noun	dodi m
+territorio	Noun	territorio m (plural territori)
+fermenti	Noun	fermenti m
+catapulta	Noun	catapulta f (plural catapulte)
+sud	Noun	sud m (invariable)
+papa	Noun	papa m (plural papi)
+animisti	Noun	animisti m
+pietismi	Noun	pietismi m
+habanera	Noun	habanera f (invariable)
+imbrunire	Noun	imbrunire sg only
+virtuoso	Noun	virtuoso m (plural virtuosi, feminine virtuosa)
+tordi	Noun	tordi m
+salto	Noun	salto m (plural salti)
+corsa	Noun	corsa f (plural corse)
+corsa	Noun	corsa f (plural corse, masculine corso)
+bridge	Noun	bridge m (invariable)
+arbitro	Noun	arbitro m (plural arbitri)
+azimut	Noun	azimut m (invariable)
+scisma	Noun	scisma m (plural scismi)
+antologia	Noun	antologia f (plural antologie)
+autonomi	Noun	autonomi m
+oboisti	Noun	oboisti m
+opera	Noun	opera f (plural opere)
+rosta	Noun	rosta f (plural roste)
+cana	Noun	cana f (plural cane)
+furie	Noun	furie f
+dodo	Noun	dodo m (plural dodi)
+superbia	Noun	superbia f (plural superbie)
+pornografia	Noun	pornografia f (plural pornografie)
+traversa	Noun	traversa f (plural traverse)
+soda	Noun	soda f (plural sode)
+separatismi	Noun	separatismi m
+mentoli	Noun	mentoli m
+heta	Noun	heta m, f (invariable)
+goffratura	Noun	goffratura f (plural goffrature)
+pravo	Noun	pravo m (plural pravi)
+mitra	Noun	mitra f (plural mitre)
+mitra	Noun	mitra m (invariable)
+evergreen	Noun	evergreen m (invariable)
+immunologia	Noun	immunologia f (plural immunologie)
+atropina	Noun	atropina f (plural atropine)
+meta	Noun	meta f (plural mete)
+meta	Noun	meta f (plural mete)
+meta	Noun	meta m (invariable)
+priori	Noun	priori m
+panslavisti	Noun	panslavisti m
+egoista	Noun	egoista m (plural egoisti)
+egoista f (plural egoiste)
+cubito	Noun	cubito m (plural cubiti)
+rigo	Noun	rigo m (plural righi)
+pediatri	Noun	pediatri m
+tatti	Noun	tatti m
+mantissa	Noun	mantissa f (plural mantisse)
+ozelot	Noun	ozelot m (invariable)
+groma	Noun	groma f (plural grome)
+militare	Noun	militare m (plural militari)
+disposto	Noun	disposto m (plural disposti)
+vuoto	Noun	vuoto m (plural vuoti)
+caro	Noun	caro m (plural cari, feminine cara)
+hutu	Noun	hutu m, f (invariable)
+liana	Noun	liana f (plural liane)
+androidi	Noun	androidi m, f
+gnu	Noun	gnu m (invariable)
+autoritarismi	Noun	autoritarismi m
+rai	Noun	rai m pl
+bosoni	Noun	bosoni m
+testi	Noun	testi m
+luminare	Noun	luminare m (plural luminari)
+acro	Noun	acro m (plural acri)
+spiritismi	Noun	spiritismi m
+branca	Noun	branca f (plural branche)
+revisionismi	Noun	revisionismi m
+mola	Noun	mola f (plural mole)
+dogma	Noun	dogma m (plural dogmi)
+apostrofi	Noun	apostrofi m
+pandeismi	Noun	pandeismi m
+apartheid	Noun	apartheid m (invariable)
+egida	Noun	egida f (plural egide)
+melodia	Noun	melodia f (plural melodie)
+gospel	Noun	gospel m (invariable)
+petrologia	Noun	petrologia f (plural petrologie)
+sushi	Noun	sushi m (invariable)
+caverna	Noun	caverna f (plural caverne)
+cale	Noun	cale f
+populista	Noun	populista m (plural populisti) populista f (plural populiste)
+civile	Noun	civile m (plural civili)
+modernismi	Noun	modernismi m
+camper	Noun	camper m (invariable)
+sudari	Noun	sudari m
+fossa	Noun	fossa f (plural fosse)
+té	Noun	té m (invariable)
+galea	Noun	galea f (plural galee)
+odi	Noun	odi f
+monomi	Noun	monomi m
+deismi	Noun	deismi m
+fagotti	Noun	fagotti m
+maski	Noun	maski m
+velo	Noun	velo m (plural veli)
+lino	Noun	lino m (plural lini)
+fama	Noun	fama f (plural fame)
+biosfera	Noun	biosfera f (plural biosfere)
+litografia	Noun	litografia f (plural litografie)
+patina	Noun	patina f (plural patine)
+tornado	Noun	tornado m (invariable)
+don	Noun	don m (inv)
+nazista	Noun	nazista m (plural nazisti)
+nazista	Noun	nazista f (plural naziste)
+vento	Noun	vento m (plural venti)
+fraseggiare	Noun	fraseggiare m (plural fraseggiari)
+ancile	Noun	ancile m (plural ancili)
+seno	Noun	seno m (plural seni)
+prorogatio	Noun	prorogatio f (invariable)
+chirurgia	Noun	chirurgia f (plural chirurgie)
+taoista	Noun	taoista m (plural taoisti) taoista f (plural taoiste)
+lift	Noun	lift m (invariable)
+parcella	Noun	parcella f (plural parcelle)
+totem	Noun	totem m (invariable)
+bete	Noun	bete f
+copia	Noun	copia f (plural copie)
+negligé	Noun	negligé m (invariable)
+cori	Noun	cori m
+calar	Noun	calar m (invariable)
+recupero	Noun	recupero m (plural recuperi)
+bomba	Noun	bomba f (plural bombe)
+carpo	Noun	carpo m (plural carpi)
+virago	Noun	virago f (invariable or literary plural: viragini)
+base	Noun	base f (plural basi)
+divari	Noun	divari m
+asteria	Noun	asteria f (plural asterie)
+parametri	Noun	parametri m
+tessera	Noun	tessera f (plural tessere)
+test	Noun	test m (invariable)
+reti	Noun	reti f
+lipidi	Noun	lipidi m pl
+gaullismi	Noun	gaullismi m
+libro	Noun	libro m (plural libri)
+Big Mac	Noun	Big Mac m (plural Big Macs)
+metri	Noun	metri m
+ascia	Noun	ascia f (plural asce)
+parricida	Noun	parricida m (plural parricidi) parricida f (plural parricide)
+annona	Noun	annona f (plural annone)
+pupa	Noun	pupa f (plural pupe)
+antisemitismi	Noun	antisemitismi m
+primitivismi	Noun	primitivismi m
+fare	Noun	fare m (plural fari)
+stereolitografia	Noun	stereolitografia f (plural stereolitografie)
+delta	Noun	delta m (invariable)
+neutroni	Noun	neutroni m
+data	Noun	data f (plural date)
+androfobia	Noun	androfobia f (plural androfobie)
+astronomi	Noun	astronomi m
+foci	Noun	foci m
+pile	Noun	pile m (invariable)
+pile	Noun	pile f
+lana	Noun	lana f (plural lane)
+endorfina	Noun	endorfina f (plural endorfine)
+patos	Noun	patos m (invariable)
+spiritisti	Noun	spiritisti m
+vasai	Noun	vasai m
+novena	Noun	novena f (plural novene)
+numerologia	Noun	numerologia f (plural numerologie)
+absidi	Noun	absidi m
+remake	Noun	remake m
+kilovolt	Noun	kilovolt m (invariable)
+morire	Noun	morire m
+sansa	Noun	sansa f (plural sanse)
+sansa	Noun	sansa f (plural sanse)
+torta	Noun	torta f (plural torte)
+elegia	Noun	elegia f (plural elegie)
+pragmatisti	Noun	pragmatisti m
+avene	Noun	avene f
+biografi	Noun	biografi m
+piromania	Noun	piromania f (plural piromanie)
+foresta	Noun	foresta f (plural foreste)
+gilda	Noun	gilda f (plural gilde)
+mango	Noun	mango m (plural manghi)
+tali	Noun	tali m
+prioni	Noun	prioni m
+pere	Noun	pere f
+tango	Noun	tango m (plural tanghi)
+pelargoni	Noun	pelargoni m
+zombie	Noun	zombie m, f (invariable)
+accidia	Noun	accidia f (plural accidie)
+nordisti	Noun	nordisti m
+agenda	Noun	agenda f (plural agende)
+paraboloidi	Noun	paraboloidi m
+albedo	Noun	albedo f (invariable)
+ancora	Noun	ancora f (plural ancore)
+fine	Noun	fine f (plural fini)
+fine	Noun	fine m (plural fini)
+santo	Noun	santo m (plural santi) feminine santa; before a consonant (except preconsonantal s) san, before a vocal sant', both only when a name of a saint or place follows; abbreviation S.
+volere	Noun	volere m (plural voleri)
+sai	Noun	sai pl
+astenospermia	Noun	astenospermia f (plural astenospermie)
+tuga	Noun	tuga f (plural tughe)
+centesimo	Noun	centesimo m (plural centesimi)
+ira	Noun	ira f (plural ire)
+fatalista	Noun	fatalista m (plural fatalisti) fatalista f (plural fataliste)
+anatema	Noun	anatema m (plural anatemi)
+petroli	Noun	petroli m
+statue	Noun	statue f
+derby	Noun	derby m (invariable)
+contumacia	Noun	contumacia f (plural contumacie)
+mesoni	Noun	mesoni m
+tripodi	Noun	tripodi m
+hora	Noun	hora f (plural hore)
+pupilli	Noun	pupilli m
+vati	Noun	vati m
+memoria	Noun	memoria f (plural memorie)
+piana	Noun	piana f (plural piane)
+grotte	Noun	grotte f
+blinda	Noun	blinda f (plural blinde)
+revolver	Noun	revolver m (invariable)
+vile	Noun	vile m, f (plural vili)
+gang	Noun	gang f (invariable, dated plural gangs)
+lacerna	Noun	lacerna f (plural lacerne)
+custodia	Noun	custodia f (plural custodie)
+pesi	Noun	pesi m
+lega	Noun	lega f (plural leghe)
+topografi	Noun	topografi m
+geobiologia	Noun	geobiologia f (plural geobiologie)
+rive	Noun	rive f
+la	Noun	la m (invariable)
+brando	Noun	brando m (plural brandi)
+demonologia	Noun	demonologia f (plural demonologie)
+labbi	Noun	labbi m
+vomito	Noun	vomito m (plural vomiti)
+tetra	Noun	tetra m (invariable)
+adulti	Noun	adulti m
+break	Noun	break m (invariable)
+sapa	Noun	sapa f (plural sape)
+archimandrita	Noun	archimandrita m (plural archimandriti)
+otta	Noun	otta f (plural otte)
+teoria	Noun	teoria f (plural teorie)
+cricket	Noun	cricket m
+doping	Noun	doping m (invariable)
+antimaterie	Noun	antimaterie f
+gangsterismi	Noun	gangsterismi m
+boxer	Noun	boxer m (invariable)
+clipeo	Noun	clipeo m (plural clipei)
+cameraman	Noun	cameraman m, f (invariable)
+amari	Noun	amari m
+newton	Noun	newton m
+naturismi	Noun	naturismi m
+gangster	Noun	gangster m, f (invariable)
+mieli	Noun	mieli m
+avi	Noun	avi m
+ex	Noun	ex m, f (invariable)
+zucchini	Noun	zucchini m
+cautela	Noun	cautela f (plural cautele)
+astrologia	Noun	astrologia f (plural astrologie)
+tappa	Noun	tappa f (plural tappe)
+insulto	Noun	insulto m (plural insulti)
+amoroso	Noun	amoroso m (plural amorosi) Feminine amorosa
+fermi	Noun	fermi m
+rum	Noun	rum m (invariable)
+civilista	Noun	civilista m (plural civilisti) civilista f (plural civiliste)
+teratologia	Noun	teratologia f (plural teratologie)
+declino	Noun	declino m (plural declini)
+gondola	Noun	gondola f (plural gondole)
+virologi	Noun	virologi m
+media	Noun	media f (plural medie)
+media	Noun	media m (invariable)
+altruismi	Noun	altruismi m
+pomo	Noun	pomo m (plural pomi)
+ranch	Noun	ranch m (invariable)
+filosofie	Noun	filosofie f
+geodeta	Noun	geodeta m (plural geodeti) geodeta f (plural geodete)
+panne	Noun	panne f
+panne	Noun	panne f (invariable)
+drilli	Noun	drilli m
+mura	Noun	mura f pl (plural of muro)
+realismi	Noun	realismi m
+satanismi	Noun	satanismi m
+dogmi	Noun	dogmi m
+scolopendra	Noun	scolopendra f (plural scolopendre)
+catena	Noun	catena f (plural catene)
+serologia	Noun	serologia f (plural serologie)
+mal	Noun	mal m (invariable)
+astronauta	Noun	astronauta m (plural astronauti)
+salvia	Noun	salvia f (plural salvie)
+visti	Noun	visti m
+determinismi	Noun	determinismi m
+bile	Noun	bile f (plural bili)
+falsetti	Noun	falsetti m
+erre	Noun	erre f (invariable)
+sofismi	Noun	sofismi m
+macola	Noun	macola f (plural macole)
+rote	Noun	rote f
+top	Noun	top m (invariable)
+full	Noun	full m (invariable)
+diatriba	Noun	diatriba f (plural diatribe)
+amori	Noun	amori m
+balle	Noun	balle f
+partner	Noun	partner m, f (invariable)
+populismi	Noun	populismi m
+epidemie	Noun	epidemie f
+dosimetri	Noun	dosimetri m
+odio	Noun	odio m (plural odi)
+jena	Noun	jena f (plural jene)
+blatte	Noun	blatte f
+falangisti	Noun	falangisti m
+viti	Noun	viti f
+magia	Noun	magia f (plural magie)
+referendum	Noun	referendum m (invariable)
+misericordia	Noun	misericordia f (plural misericordie)
+spot	Noun	spot m (invariable)
+nenia	Noun	nenia f (plural nenie)
+lini	Noun	lini m
+blefarospasmi	Noun	blefarospasmi m
+efemeridi	Noun	efemeridi f
+tragedia	Noun	tragedia f (plural tragedie)
+oligofagia	Noun	oligofagia f (plural oligofagie)
+umbra	Noun	umbra f (plural umbre, masculine umbro)
+osteologia	Noun	osteologia f (plural osteologie)
+breme	Noun	breme m (plural bremi)
+pentanoli	Noun	pentanoli m
+spira	Noun	spira f (plural spire)
+gisarma	Noun	gisarma f (plural gisarme)
+regi	Noun	regi
+ludo	Noun	ludo m (plural ludi)
+oftalmologia	Noun	oftalmologia f (plural oftalmologie)
+transfer	Noun	transfer m (invariable)
+behaviorismi	Noun	behaviorismi m
+trinomi	Noun	trinomi m
+letto	Noun	letto m (plural letti)
+feria	Noun	feria f (plural ferie)
+upupa	Noun	upupa f (plural upupe)
+brunch	Noun	brunch m (invariable)
+ava	Noun	ava f (plural ave) feminine of avo
+utilitaristi	Noun	utilitaristi m
+stiva	Noun	stiva f (plural stive)
+droga	Noun	droga f (plural droghe)
+canto	Noun	canto m (plural canti)
+canto	Noun	canto m (plural canti)
+mar	Noun	mar m
+pestata	Noun	pestata f (plural pestate)
+orgasmi	Noun	orgasmi m
+finalisti	Noun	finalisti m
+individualismi	Noun	individualismi m
+molecola	Noun	molecola f (plural molecole)
+taverna	Noun	taverna f (plural taverne)
+fondi	Noun	fondi m
+domestici	Noun	domestici m
+neuropatia	Noun	neuropatia f (plural neuropatie)
+aureola	Noun	aureola f (plural aureole)
+biscuit	Noun	biscuit m (invariable)
+orchidea	Noun	orchidea f (plural orchidee)
+plico	Noun	plico m (plural plichi)
+verde	Noun	verde m (plural verdi)
+trend	Noun	trend m (invariable)
+carte	Noun	carte f pl
+casting	Noun	casting m (invariable)
+creature	Noun	creature f
+federalismi	Noun	federalismi m
+biogeografia	Noun	biogeografia f (plural biogeografie)
+barista	Noun	barista m (plural baristi) barista f (plural bariste)
+cangiare	Noun	cangiare
+tramontare	Noun	tramontare m
+anatomie	Noun	anatomie f
+immunoterapia	Noun	immunoterapia f (plural immunoterapie)
+esperanto	Noun	esperanto m (invariable)
+smog	Noun	smog m (invariable)
+cere	Noun	cere f
+marisca	Noun	marisca f (plural marische)
+tennis	Noun	tennis m (invariable)
+serata	Noun	serata f (plural serate)
+pastinaca	Noun	pastinaca f (plural pastinache)
+guarani	Noun	guarani m
+ignominia	Noun	ignominia f (plural ignominie)
+taoismi	Noun	taoismi m
+perinatologia	Noun	perinatologia f (plural perinatologie)
+database	Noun	database m (invariable)
+caco	Noun	caco m (plural cachi)
+tonsura	Noun	tonsura f (plural tonsure)
+miti	Noun	miti m
+lizze	Noun	lizze f
+quadriga	Noun	quadriga f
+enne	Noun	enne (m or f, invariable)
+paparazzi	Noun	paparazzi m pl
+teista	Noun	teista m (plural teisti) teista f (plural teiste)
+jihad	Noun	jihad m, f (invariable)
+souvenir	Noun	souvenir m (invariable)
+urea	Noun	urea f (plural uree)
+est	Noun	est m (invariable)
+barbari	Noun	barbari m
+metreta	Noun	metreta f (plural metrete)
+ratto	Noun	ratto m (plural ratti) (literary)
+ratto	Noun	ratto m (plural ratti)
+cera	Noun	cera f (plural cere)
+colibri	Noun	colibri m (plural colibri)
+sentina	Noun	sentina f (plural sentine)
+antimateria	Noun	antimateria f (plural antimaterie)
+ortopedia	Noun	ortopedia f (plural ortopedie)
+emi	Noun	emi m
+dogmatismi	Noun	dogmatismi m
+asso	Noun	asso m (plural assi)
+tipula	Noun	tipula f (plural tipule)
+mute	Noun	mute f
+avere	Noun	avere m (plural averi)
+getto	Noun	getto m (plural getti)
+papula	Noun	papula f (plural papule)
+fideista	Noun	fideista m (plural fideisti)
+fideista f (plural fideiste)
+passera	Noun	passera f (plural passere)
+tricot	Noun	tricot m (invariable)
+ampere	Noun	ampere m (invariable)
+allopatia	Noun	allopatia f (plural allopatie)
+nanna	Noun	nanna f (plural nanne)
+litosfera	Noun	litosfera f (plural litosfere)
+valve	Noun	valve f
+robot	Noun	robot m (invariable)
+agama	Noun	agama m (invariable)
+timer	Noun	timer m (invariable)
+pina	Noun	pina f (plural pine)
+motto	Noun	motto m (plural motti)
+gilde	Noun	gilde f
+ninja	Noun	ninja (invariable)
+tigre	Noun	tigre f (plural tigri)
+zoologia	Noun	zoologia f (plural zoologie)
+arbore	Noun	arbore m, f (plural arbori)
+usura	Noun	usura f (plural usure)
+casanova	Noun	casanova m
+paletta	Noun	paletta f (plural palette)
+serra	Noun	serra f (plural serre)
+chiroteca	Noun	chiroteca f (plural chiroteche)
+optometristi	Noun	optometristi m
+mi	Noun	mi
+fascio	Noun	fascio m (plural fasci)
+baobab	Noun	baobab m (inv)
+tioli	Noun	tioli m
+fil	Noun	fil m (invariable)
+olmi	Noun	olmi m
+paletti	Noun	paletti m
+whisky	Noun	whisky m (invariable)
+foro	Noun	foro m (plural fori)
+agi	Noun	agi m
+adultera	Noun	adultera f (plural adultere, masculine adultero)
+cronologie	Noun	cronologie f
+alibi	Noun	alibi m (invariable)
+biologia	Noun	biologia f (plural biologie)
+pesto	Noun	pesto m (plural pesti)
+nuora	Noun	nuora f (plural nuore)
+violisti	Noun	violisti m
+sedere	Noun	sedere m (plural sederi)
+vodka	Noun	vodka f (invariable)
+fatalismi	Noun	fatalismi m
+suppositorio	Noun	suppositorio m (plural suppositori)
+terrorismi	Noun	terrorismi m
+multa	Noun	multa f (plural multe)
+strida	Noun	strida f
+illusionismi	Noun	illusionismi m
+biro	Noun	biro f (invariable)
+monogamia	Noun	monogamia f (plural monogamie)
+spendere	Noun	spendere (invariable)
+gastronomi	Noun	gastronomi m
+norma	Noun	norma f (plural norme)
+epigramma	Noun	epigramma m (plural epigrammi)
+teosofia	Noun	teosofia f (plural teosofie)
+animista	Noun	animista m (plural animisti)
+nepa	Noun	nepa f (plural nepe)
+sibilo	Noun	sibilo m (plural sibili)
+parola	Noun	parola f (plural parole)
+internet	Noun	internet f (invariable)
+fenologia	Noun	fenologia f (plural fenologie)
+loquela	Noun	loquela f (plural loquele)
+sputo	Noun	sputo m (plural sputi)
+consumo	Noun	consumo m (plural consumi)
+amor	Noun	amor m (invariable)
+industrialismi	Noun	industrialismi m
+sinologia	Noun	sinologia f (plural sinologie)
+imam	Noun	imam m (invariable)
+rami	Noun	rami m
+nun	Noun	nun f (invariable)
+discordie	Noun	discordie f
+manga	Noun	manga m (invariable)
+fife	Noun	fife f
+eremita	Noun	eremita m (plural eremiti)
+eremita f (plural eremite)
+föhn	Noun	föhn m (invariable)
+metalli	Noun	metalli m
+metropoli	Noun	metropoli f (invariable)
+ire	Noun	ire f
+polizia	Noun	polizia f (plural polizie)
+sonetti	Noun	sonetti m
+assist	Noun	assist m (invariable)
+propri	Noun	propri m
+amia	Noun	amia f (plural amie)
+inula	Noun	inula f (plural inule)
+optometria	Noun	optometria f (plural optometrie)
+antemurale	Noun	antemurale m (plural antemurali)
+bigamia	Noun	bigamia f (plural bigamie)
+uria	Noun	uria f (plural urie)
+deca	Noun	deca f (plural deche)
+sonde	Noun	sonde f pl
+crapula	Noun	crapula f (plural crapule)
+bibliografi	Noun	bibliografi m
+val	Noun	val f (invariable)
+invito	Noun	invito m (plural inviti)
+talli	Noun	talli m
+pentodi	Noun	pentodi m
+lobbismi	Noun	lobbismi m
+brattea	Noun	brattea f (plural brattee)
+mine	Noun	mine f
+lavine	Noun	lavine f
+ego	Noun	ego m (invariable)
+bibliopola	Noun	bibliopola m, f (masculine plural bibliopoli, feminine plural bibliopole)
+match	Noun	match m (invariable)
+toccata	Noun	toccata f (plural toccate)
+baro	Noun	baro m (plural bari)
+pentagrammi	Noun	pentagrammi m
+arginina	Noun	arginina f (plural arginine)
+concreto	Noun	concreto m (plural concreti)
+circolare	Noun	circolare f (plural circolari)
+supermarket	Noun	supermarket m (invariable)
+perla	Noun	perla f (plural perle)
+perla	Noun	perla f (invariable)
+terapia	Noun	terapia f (plural terapie)
+martire	Noun	martire m, f (plural martiri)
+sedile	Noun	sedile m (plural sedili)
+martini	Noun	martini m
+lemma	Noun	lemma m (plural lemmi)
+trio	Noun	trio m (plural trii)
+copula	Noun	copula f (plural copule)
+epos	Noun	epos m (singular only)
+tsunami	Noun	tsunami m (invariable)
+sauro	Noun	sauro m (plural sauri)
+glia	Noun	glia f (plural glie)
+phi	Noun	phi m (invariable)
+realista	Noun	realista m (plural realisti) realista f (plural realiste)
+binda	Noun	binda f (plural binde)
+bioterapia	Noun	bioterapia f (plural bioterapie)
+artisti	Noun	artisti m
+medico	Noun	medico m (plural medici) feminine medica (rare), diminutive: medichino, medichetto; augmentative; medicone; endearment: medicuccio; pejorative: medicaccio, medicastro
+cometa	Noun	cometa f (plural comete)
+privilegio	Noun	privilegio m (plural privilegi)
+passi	Noun	passi m
+forma	Noun	forma f (plural forme)
+materialisti	Noun	materialisti m
+clava	Noun	clava f (plural clave)
+centaurea	Noun	centaurea f (plural centauree)
+agricola	Noun	agricola m (plural agricole)
+sonori	Noun	sonori m
+rotula	Noun	rotula f (plural rotule)
+libretto	Noun	libretto m (plural libretti) (Diminutive of: libro)
+endosomi	Noun	endosomi m
+treonina	Noun	treonina f (plural treonine)
+audax	Noun	audax m (plural audax)
+incuria	Noun	incuria f (plural incurie)
+papilla	Noun	papilla f (plural papille)
+nero	Noun	nero m (plural neri)
+teta	Noun	teta m, f (invariable)
+morena	Noun	morena f (plural morene)
+topografia	Noun	topografia f (plural topografie)
+cocktail	Noun	cocktail m (invariable)
+kilometri	Noun	kilometri m pl
+lamina	Noun	lamina f (plural lamine)
+cembalo	Noun	cembalo m (plural cembali)
+letargie	Noun	letargie f
+kinesiologia	Noun	kinesiologia f (plural kinesiologie)
+auli	Noun	auli m
+cerca	Noun	cerca f (plural cerche)
+baronetti	Noun	baronetti m
+disturbo	Noun	disturbo m (plural disturbi)
+fratricida	Noun	fratricida m (plural fratricidi)
+fratricida f (plural fratricide)
+gola	Noun	gola f (plural gole)
+astronoma	Noun	astronoma f (plural astronome, masculine astronomo)
+tetralogia	Noun	tetralogia f (plural tetralogie)
+lavina	Noun	lavina f (plural lavine)
+scolare	Noun	scolare f pl
+bulimia	Noun	bulimia f (plural bulimie)
+barbi	Noun	barbi m
+divi	Noun	divi m
+entomologi	Noun	entomologi m
+morfinismi	Noun	morfinismi m
+mesodermi	Noun	mesodermi m
+antropometria	Noun	antropometria f (plural antropometrie)
+pali	Noun	pali m
+solido	Noun	solido m (plural solidi)
+tassi	Noun	tassi m
+despoti	Noun	despoti m, f
+vago	Noun	vago m (plural vaghi)
+viste	Noun	viste f
+ubero	Noun	ubero m (plural uberi)
+veto	Noun	veto m (plural veti)
+monitor	Noun	monitor m (invariable)
+coda	Noun	coda f (plural code)
+orbita	Noun	orbita f (plural orbite)
+sugo	Noun	sugo m (plural sughi)
+rada	Noun	rada
+vipera	Noun	vipera f (plural vipere)
+tinca	Noun	tinca f (plural tinche)
+toga	Noun	toga f (plural toghe)
+hobby	Noun	hobby m (invariable)
+genero	Noun	genero m (plural generi)
+eta	Noun	eta m, f (invariable)
+marxismi-leninismi	Noun	marxismi-leninismi m
+marrubi	Noun	marrubi m
+finalista	Noun	finalista m (plural finalisti)
+finalista f (plural finaliste)
+serrata	Noun	serrata f (plural serrate)
+dito	Noun	dito m (plural dita, feminine, alternative plural diti, masculine; for usage, see notes)
+panda	Noun	panda m
+meme	Noun	meme m (plural memi)
+optional	Noun	optional m (invariable)
+relativisti	Noun	relativisti m
+anturi	Noun	anturi m
+orca	Noun	orca f (plural orche)
+sombrero	Noun	sombrero m (plural sombreri)
+matte	Noun	matte f
+morti	Noun	morti f
+fortepiano	Noun	fortepiano m (plural fortepiani)
+stigma	Noun	stigma m (plural stigmi)
+incubo	Noun	incubo m (plural incubi)
+mano	Noun	mano f (plural mani) diminutive: manina
+ciocia	Noun	ciocia f (plural cioce)
+guano	Noun	guano m (plural guani)
+kayak	Noun	kayak m (invariable)
+totemismi	Noun	totemismi m
+mammut	Noun	mammut m
+topi	Noun	topi m pl
+nanometri	Noun	nanometri m
+protoplasma	Noun	protoplasma m (plural protoplasmi)
+quiz	Noun	quiz m (invariable)
+enoli	Noun	enoli m
+amento	Noun	amento m (plural amenti)
+decimo	Noun	decimo m (plural decimi, feminine decima)
+ammontare	Noun	ammontare m sg
+fata	Noun	fata f (plural fate)
+estetismi	Noun	estetismi m
+socio	Noun	socio m (plural soci)
+oligospermia	Noun	oligospermia f (plural oligospermie)
+sono	Noun	sono
+arcella	Noun	arcella f (plural arcelle)
+beat	Noun	beat m (invariable)
+mail	Noun	mail f (invariable)
+poeta	Noun	poeta m (plural poeti) Feminine poetessa
+metionina	Noun	metionina f (plural metionine)
+balia	Noun	balia f (plural balie)
+museo	Noun	museo m (plural musei)
+nucleo	Noun	nucleo m (plural nuclei)
+antiprotoni	Noun	antiprotoni m
+zeta	Noun	zeta m, f (invariable)
+premier	Noun	premier m, f (invariable)
+mammografia	Noun	mammografia f (plural mammografie)
+ecologie	Noun	ecologie m
+jujutsu	Noun	jujutsu m (invariable)
+torba	Noun	torba f (plural torbe)
+scamonea	Noun	scamonea f (plural scamonee)
+braca	Noun	braca f (plural brache)
+ave	Noun	ave f
+ovo	Noun	ovo m (plural ova f)
+terrier	Noun	terrier m (invariable)
+calzare	Noun	calzare m (plural calzari)
+amnesia	Noun	amnesia f (plural amnesie)
+fans	Noun	fans m, f
+geometria	Noun	geometria f (plural geometrie)
+fleo	Noun	fleo m (plural flei)
+nei	Noun	nei m
+parata	Noun	parata f (plural parate)
+patti	Noun	patti m
+vino	Noun	vino m (plural vini)
+aerotropismi	Noun	aerotropismi m
+cantari	Noun	cantari m
+suovetaurilia	Noun	suovetaurilia m pl
+adultero	Noun	adultero m (plural adulteri, feminine adultera)
+insidia	Noun	insidia f (plural insidie)
+inganno	Noun	inganno m (plural inganni)
+premii	Noun	premii m pl
+prof	Noun	prof m, f (invariable)
+plutoni	Noun	plutoni m
+barometri	Noun	barometri m
+essere	Noun	essere m (plural esseri)
+charme	Noun	charme m (invariable)
+volt	Noun	volt m (invariable)
+limnologia	Noun	limnologia f (plural limnologie)
+rebus	Noun	rebus m (invariable)
+toast	Noun	toast m (invariable)
+sera	Noun	sera f (plural sere)
+geomagnetismi	Noun	geomagnetismi m
+antagonismi	Noun	antagonismi m
+berberi	Noun	berberi m
+slogan	Noun	slogan m (invariable)
+ma	Noun	ma f
+aerofotografia	Noun	aerofotografia f (plural aerofotografie)
+vagina	Noun	vagina f (plural vagine)
+mossa	Noun	mossa f (plural mosse)
+torri	Noun	torri f
+r	Noun	r m, f (invariable)
+aforisti	Noun	aforisti m
+sala	Noun	sala f (plural sale)
+sala	Noun	sala f (plural sale)
+semiminima	Noun	semiminima f (plural semiminime)
+aqua	Noun	aqua f (plural aque)
+autisti	Noun	autisti m, f
+briganti	Noun	briganti m
+primati	Noun	primati m
+gelo	Noun	gelo m (plural geli)
+araba	Noun	araba f (plural arabe, masculine arabo)
+festino	Noun	festino m (plural festini)
+pagina	Noun	pagina f (plural pagine)
+ortopedie	Noun	ortopedie f
+teosofi	Noun	teosofi m
+planetologia	Noun	planetologia f (plural planetologie)
+tono	Noun	tono m (plural toni)
+formalismi	Noun	formalismi m
+pervicacia	Noun	pervicacia f (plural pervicacie)
+moca	Noun	moca m, f (invariable)
+sula	Noun	sula f (plural sule)
+matta	Noun	matta f (plural matte) feminine of matto
+voivodi	Noun	voivodi m
+some	Noun	some f
+liceo	Noun	liceo m (plural licei)
+mona	Noun	mona f (plural mone)
+allergia	Noun	allergia f (plural allergie)
+cibo	Noun	cibo m (plural cibi)
+preludi	Noun	preludi m
+hadroni	Noun	hadroni m
+appi	Noun	appi m
+strabismi	Noun	strabismi m
+filantropie	Noun	filantropie f
+violetti	Noun	violetti m
+plasma	Noun	plasma m (plural plasmi)
+ruta	Noun	ruta f (plural rute)
+morfi	Noun	morfi m
+aloe	Noun	aloe m, f (invariable)
+volgo	Noun	volgo m (plural volghi)
+propaganda	Noun	propaganda f (plural propagande)
+atomi	Noun	atomi m
+info	Noun	info m (invariable)
+biga	Noun	biga f (plural bighe)
+kaoni	Noun	kaoni m
+autostrada	Noun	autostrada f (plural autostrade)
+chef	Noun	chef m (invariable)
+falangi	Noun	falangi f
+tane	Noun	tane f
+mambo	Noun	mambo m (invariable)
+altruisti	Noun	altruisti m
+snobismi	Noun	snobismi m
+n	Noun	n m, f (invariable)
+babysitter	Noun	babysitter m, f (invariable)
+diodi	Noun	diodi m
+party	Noun	party m (invariable)
+alpinismi	Noun	alpinismi m
+homo	Noun	homo m (plural homini)
+guide	Noun	guide f
+protoni	Noun	protoni m
+metro	Noun	metro m (plural metri)
+metro	Noun	metro f (invariable)
+bassetti	Noun	bassetti m
+pace	Noun	pace f (plural paci)
+antiatomi	Noun	antiatomi m
+abc	Noun	abc m (invariable)
+frigo	Noun	frigo m (invariable)
+aorta	Noun	aorta f (plural aorte)
+nitro	Noun	nitro m (plural nitri)
+selve	Noun	selve f
+concilio	Noun	concilio m (plural concili)
+pronto	Noun	pronto m (plural pronti)
+penna	Noun	penna f (plural penne)
+esteta	Noun	esteta m (plural esteti) esteta f (plural estete)
+sinologi	Noun	sinologi m
+zambo	Noun	zambo
+satira	Noun	satira f (plural satire)
+brunette	Noun	brunette f
+biologie	Noun	biologie f
+super	Noun	super m (invariable)
+kea	Noun	kea m (plural kea)
+zoopatologia	Noun	zoopatologia f (plural zoopatologie)
+dispiacere	Noun	dispiacere m (plural dispiaceri)
+urologi	Noun	urologi m
+scout	Noun	scout m (invariable)
+cesta	Noun	cesta f (plural ceste)
+satanisti	Noun	satanisti m
+pecorino	Noun	pecorino m (plural pecorini)
+termos	Noun	termos m (invariable)
+gesto	Noun	gesto m (plural gesti)
+alanina	Noun	alanina f (plural alanine)
+valuta	Noun	valuta f (plural valute)
+minimalisti	Noun	minimalisti m
+dame	Noun	dame f
+rete	Noun	rete f (plural reti)
+draga	Noun	draga f (plural draghe)
+vicina	Noun	vicina f (plural vicine, masculine vicino)
+moschee	Noun	moschee f
+retina	Noun	retina f (plural retine)
+retina	Noun	retina f (plural retine) (Diminutive of: rete)
+oratorio	Noun	oratorio m (plural oratori)
+blatta	Noun	blatta f (plural blatte)
+naufrago	Noun	naufrago m (plural naufraghi, feminine naufraga)
+novellisti	Noun	novellisti m
+avara	Noun	avara f (plural avare, masculine avaro)
+teli	Noun	teli m pl
+pubi	Noun	pubi m
+dualisti	Noun	dualisti m
+pornografi	Noun	pornografi m pl
+boy	Noun	boy m (inv)
+fanatismi	Noun	fanatismi m
+hyena	Noun	hyena f (plural hyene)
+metanoli	Noun	metanoli m
+imperialismi	Noun	imperialismi m
+ape	Noun	ape f (plural api)
+astronomia	Noun	astronomia f (plural astronomie)
+mede	Noun	mede f
+aerofobia	Noun	aerofobia f (plural aerofobie)
+slave	Noun	slave f
+fascino	Noun	fascino m (plural fascini)
+jazz	Noun	jazz m (invariable)
+zoofobia	Noun	zoofobia f (plural zoofobie)
+alfa	Noun	alfa m, f (invariable)
+alfa	Noun	alfa f (plural alfe)
+allergologi	Noun	allergologi m
+mela	Noun	mela f (plural mele)
+portata	Noun	portata f (plural portate)
+albi	Noun	albi m
+varî	Noun	varî m (alternative spelling vari)
+vari	Noun	vari m
+driver	Noun	driver m, f (invariable)
+analfabeta	Noun	analfabeta m (plural analfabeti)
+esca	Noun	esca f (plural esche)
+impressionisti	Noun	impressionisti m
+diesel	Noun	diesel m (invariable)
+stagni	Noun	stagni m
+causa	Noun	causa f (plural cause)
+mina	Noun	mina f (plural mine)
+geoidi	Noun	geoidi m
+negro	Noun	negro m (plural negri)
+morale	Noun	morale f (plural morali)
+lama	Noun	lama f (plural lame)
+lama	Noun	lama m (invariable)
+lama	Noun	lama m (plural lami)
+lama	Noun	lama f (plural lame)
+spelta	Noun	spelta f (plural spelte)
+laguna	Noun	laguna f (plural lagune)
+marra	Noun	marra f (plural marre)
+lobbisti	Noun	lobbisti m
+tot	Noun	tot m (invariable)
+turni	Noun	turni m
+mandragora	Noun	mandragora f (plural mandragore)
+prostituta	Noun	prostituta f (plural prostitute)
+tuareg	Noun	tuareg m, f (plural tuareg)
+era	Noun	era f (plural ere)
+alma	Noun	alma f (plural alme)
+pedagogia	Noun	pedagogia f (plural pedagogie)
+reportage	Noun	reportage m (invariable)
+fari	Noun	fari m
+presidente	Noun	presidente m f (plural presidenti, feminine presidentessa)
+gramma	Noun	gramma m (plural grammi)
+email	Noun	email f (invariable) (Also: e-mail)
+mediana	Noun	mediana f (plural mediane)
+cucurbita	Noun	cucurbita f (plural cucurbite)
+transistori	Noun	transistori m
+linoleum	Noun	linoleum m (invariable)
+leucemie	Noun	leucemie f
+malta	Noun	malta f (plural malte)
+analogia	Noun	analogia f (plural analogie)
+cannula	Noun	cannula f (plural cannule)
+vario	Noun	vario m (plural vari)
+rigor	Noun	rigor m
+abito	Noun	abito m (plural abiti)
+allegoria	Noun	allegoria f (plural allegorie)
+armi	Noun	armi f
+armi	Noun	armi m
+torpedo	Noun	torpedo f (invariable)
+altimetria	Noun	altimetria f (plural altimetrie)
+tabloid	Noun	tabloid m (invariable)
+coach	Noun	coach m (invariable)
+dee	Noun	dee f
+preistorie	Noun	preistorie f
+lichenologia	Noun	lichenologia f (plural lichenologie)
+flavonoli	Noun	flavonoli m
+bufalo	Noun	bufalo m (plural bufali)
+normanni	Noun	normanni m
+browser	Noun	browser m (invariable)
+mandola	Noun	mandola f (plural mandole)
+amo	Noun	amo m (plural ami)
+radiologia	Noun	radiologia f (plural radiologie)
+assolo	Noun	assolo m (invariable)
+stiletti	Noun	stiletti m
+standard	Noun	standard m (invariable)
+nefroni	Noun	nefroni m
+antineutroni	Noun	antineutroni m
+dii	Noun	dii m pl (archaic)
+tarantella	Noun	tarantella f (plural tarantelle)
+hangar	Noun	hangar m (invariable)
+scuter	Noun	scuter m (invariable)
+glandula	Noun	glandula f (plural glandule)
+porta	Noun	porta f (plural porte)
+melata	Noun	melata f (plural melate)
+tette	Noun	tette f
+mini	Noun	mini f (invariable)
+giro	Noun	giro m (plural giri)
+paca	Noun	paca m (invariable)
+rege	Noun	rege m (plural regi) (poetic)
+labra	Noun	labra f
+dormita	Noun	dormita f (plural dormite)
+cesso	Noun	cesso m (plural cessi)
+oliva	Noun	oliva f (plural olive)
+tunnel	Noun	tunnel m (invariable)
+taiga	Noun	taiga f (plural taighe)
+ludi	Noun	ludi m
+borra	Noun	borra f (plural borre)
+plagio	Noun	plagio m (plural plagi)
+incanto	Noun	incanto m (plural incanti)
+incanto	Noun	incanto m (plural incanti)
+nonne	Noun	nonne f
+manifesto	Noun	manifesto m (plural manifesti)
+lingula	Noun	lingula f (plural lingule)
+fitte	Noun	fitte f
+pimento	Noun	pimento m (plural pimenti)
+fio	Noun	fio m (plural fii)
+sacro	Noun	sacro m (plural sacri)
+lacca	Noun	lacca f (plural lacche)
+lacca	Noun	lacca f (plural lacche)
+termoterapia	Noun	termoterapia f (plural termoterapie)
+metodisti	Noun	metodisti m
+nudo	Noun	nudo m (plural nudi)
+rata	Noun	rata f (plural rate)
+artemisia	Noun	artemisia f (plural artemisie)
+galoche	Noun	galoche f (invariable)
+anemometri	Noun	anemometri m
+z	Noun	z m, f (invariable)
+sandali	Noun	sandali m
+biberon	Noun	biberon m (invariable)
+fantasia	Noun	fantasia f (plural fantasie)
+pleroma	Noun	pleroma m
+bomber	Noun	bomber m (invariable)
+limo	Noun	limo m (plural limi)
+cortina	Noun	cortina f (plural cortine)
+snob	Noun	snob m (invariable)
+aula	Noun	aula f (plural aule)
+eufonia	Noun	eufonia f (plural eufonie)
+tremulo	Noun	tremulo m (plural tremuli)
+bolla	Noun	bolla f (plural bolle)
+litania	Noun	litania f (plural litanie)
+epigrafia	Noun	epigrafia f (plural epigrafie)
+Messe	Noun	Messe f
+canoni	Noun	canoni m
+vene	Noun	vene f pl
+tautologia	Noun	tautologia f (plural tautologie)
+duce	Noun	duce m (plural duci)
+crepatura	Noun	crepatura f (plural crepature)
+ro	Noun	ro m, f (invariable)
+foga	Noun	foga f (plural foge)
+leopardi	Noun	leopardi m
+anglismi	Noun	anglismi m
+mastruca	Noun	mastruca f (plural mastruche)
+allofoni	Noun	allofoni m
+oligarchia	Noun	oligarchia f (plural oligarchie)
+villa	Noun	villa f (plural ville)
+ulna	Noun	ulna f (plural ulne)
+sadisti	Noun	sadisti m
+ideogrammi	Noun	ideogrammi m
+naprapatia	Noun	naprapatia f (plural naprapatie)
+strategia	Noun	strategia f (plural strategie)
+sirena	Noun	sirena f (plural sirene)
+business	Noun	business m (invariable)
+curry	Noun	curry m (invariable)
+polla	Noun	polla f (plural polle)
+islamismi	Noun	islamismi m
+oologia	Noun	oologia f (plural oologie)
+calco	Noun	calco m (plural calchi)
+olio	Noun	olio m (plural oli or olii)
+peni	Noun	peni m
+bagno	Noun	bagno m (plural bagni)
+lilla	Noun	lilla f (invariable)
+condor	Noun	condor m (invariable)
+pertinacia	Noun	pertinacia f (plural pertinacie)
+stemma	Noun	stemma m (plural stemmi)
+pani	Noun	pani m
+apatie	Noun	apatie f
+parlamentare	Noun	parlamentare m, f (plural parlamentari)
+stenografia	Noun	stenografia f (plural stenografie)
+retinoli	Noun	retinoli m
+bitumi	Noun	bitumi m
+tuba	Noun	tuba f (plural tube)
+marsala	Noun	marsala m (invariable)
+arca	Noun	arca f (plural arche)
+futurologi	Noun	futurologi m
+disciplina	Noun	disciplina f (plural discipline)
+loco	Noun	loco m (plural lochi)
+credo	Noun	credo m (plural credi)
+erari	Noun	erari m
+olla	Noun	olla f (plural olle)
+brutto	Noun	brutto m (plural brutti, feminine brutta)
+ultimo	Noun	ultimo m (plural ultimi, feminine ultima)
+livree	Noun	livree f
+framea	Noun	framea f (plural framee)
+logogrammi	Noun	logogrammi m
+nafta	Noun	nafta f (plural nafte)
+anemone	Noun	anemone m (plural anemoni)
+mito	Noun	mito m (plural miti)
+balista	Noun	balista f (plural baliste)
+lanterna magica	Noun	lanterna magica f (plural lanterne magiche)
+astronome	Noun	astronome f
+valentia	Noun	valentia f (plural valentie)
+melissa	Noun	melissa f (plural melisse)
+erotomania	Noun	erotomania f (plural erotomanie)
+autobus	Noun	autobus m (invariable)
+casula	Noun	casula f (plural casule)
+jeri	Noun	jeri m (plural jeri)
+gabba	Noun	gabba f (plural gabbe)
+san	Noun	san m, f (invariable)
+san	Noun	san m (invariable)
+voli	Noun	voli m pl
+pustula	Noun	pustula f (plural pustule)
+slalom	Noun	slalom m (invariable)
+mitilo	Noun	mitilo m (plural mitili)
+lume	Noun	lume m (plural lumi)
+sterletti	Noun	sterletti m
+rucola	Noun	rucola f (plural rucole)
+ti	Noun	ti f (invariable)
+ti	Noun	ti m (invariable)
+yacht	Noun	yacht m (invariable)
+spuntare	Noun	spuntare m (plural spuntari)
+rima	Noun	rima f (plural rime)
+sintagma	Noun	sintagma m (plural sintagmi)
+impeto	Noun	impeto m (plural impeti)
+tetraedri	Noun	tetraedri m
+simboli	Noun	simboli m
+pinta	Noun	pinta f (plural pinte)
+sardina	Noun	sardina f (plural sardine)
+harem	Noun	harem m (invariable)
+molo	Noun	molo m (plural moli)
+medio	Noun	medio m (plural medi)
+manometri	Noun	manometri m
+filantropia	Noun	filantropia f (plural filantropie)
+bili	Noun	bili f
+epigrammi	Noun	epigrammi m
+babbi	Noun	babbi m
+energie	Noun	energie f
+nonna	Noun	nonna f (plural nonne)
+tris	Noun	tris m (invariable)
+ironie	Noun	ironie f
+intrare	Noun	intrare m
+rana	Noun	rana f (plural rane)
+lampe	Noun	lampe f
+bi	Noun	bi f (invariable)
+steganografia	Noun	steganografia f (plural steganografie)
+ferocia	Noun	ferocia f (plural ferocie)
+s	Noun	s m, f (invariable)
+clausura	Noun	clausura f (plural clausure)
+aposematismi	Noun	aposematismi m
+comporre	Noun	comporre m (plural comporri)
+fitta	Noun	fitta f (plural fitte)
+aquila	Noun	aquila f (plural aquile)
+quisquilia	Noun	quisquilia f (plural quisquilie)
+rotella	Noun	rotella f (plural rotelle)
+teca	Noun	teca f (plural teche)
+magistratura	Noun	magistratura f (plural magistrature)
+propagandisti	Noun	propagandisti m
+geomorfologia	Noun	geomorfologia f (plural geomorfologie)
+singulto	Noun	singulto m (plural singulti)
+strepiti	Noun	strepiti m
+masse	Noun	masse f pl
+mila	Noun	mila m
+fallo	Noun	fallo m (plural falli)
+atrofie	Noun	atrofie f
+bioterrorismi	Noun	bioterrorismi m
+oro	Noun	oro m (plural ori)
+evangelista	Noun	evangelista m (plural evangelisti)
+superfluo	Noun	superfluo m (plural superflui)
+sidro	Noun	sidro m (plural sidri)
+baseball	Noun	baseball m (invariable)
+mister	Noun	mister m (invariable)
+gnoseologia	Noun	gnoseologia f (plural gnoseologie)
+oboe	Noun	oboe m (plural oboi)
+fideismi	Noun	fideismi m
+sonometri	Noun	sonometri m
+falli	Noun	falli m
+fuco	Noun	fuco m (plural fuchi)
+provincia	Noun	provincia f (plural province or provincie)
+reduce	Noun	reduce m (plural reduci)
+pelata	Noun	pelata f (plural pelate)
+kart	Noun	kart m (invariable)
+impala	Noun	impala m (invariable)
+figuro	Noun	figuro m (plural figuri)
+calcare	Noun	calcare m (plural calcari)
+yoga	Noun	yoga m (plural yoga)
+interlingua	Noun	interlingua f
+zoologi	Noun	zoologi m
+leninisti	Noun	leninisti m
+analecta	Noun	analecta m pl
+cotta	Noun	cotta f (plural cotte)
+lolita	Noun	lolita f (plural lolite)
+anodi	Noun	anodi m
+pupilla	Noun	pupilla f (plural pupille)
+pusta	Noun	pusta f (plural puste)
+stratosfera	Noun	stratosfera f (plural stratosfere)
+neorealismi	Noun	neorealismi m
+monografia	Noun	monografia f (plural monografie)
+controversia	Noun	controversia f (plural controversie)
+mala	Noun	mala f (plural male)
+telepatia	Noun	telepatia f (plural telepatie)
+arpa	Noun	arpa f (plural arpe)
+lava	Noun	lava f (plural lave)
+vite	Noun	vite f (plural viti)
+vite	Noun	vite f (plural viti)
+vite	Noun	vite f
+reologia	Noun	reologia f (plural reologie)
+amarico	Noun	amarico m (plural amarichi)
+monogrammi	Noun	monogrammi m
+buste	Noun	buste f
+filatelia	Noun	filatelia f (plural filatelie)
+polvi	Noun	polvi f
+negri	Noun	negri m pl
+salsa	Noun	salsa f (plural salse)
+ailurofobia	Noun	ailurofobia f (plural ailurofobie)
+nahuatl	Noun	nahuatl m
+marito	Noun	marito m (plural mariti)
+afar	Noun	afar m (invariable)
+mani	Noun	mani f
+polca	Noun	polca f (plural polche)
+jato	Noun	jato m (plural jati)
+metró	Noun	metró m (plural metró)
+mezzoforte	Noun	mezzoforte m (plural mezzoforti)
+mali	Noun	mali m
+primogenitura	Noun	primogenitura f (plural primogeniture)
+spilla	Noun	spilla f (plural spille)
+carta	Noun	carta f (plural carte)
+bangladesi	Noun	bangladesi m, f
+lampada	Noun	lampada f (plural lampade)
+hang	Noun	hang m (invariable)
+baby	Noun	baby m (invariable)
+p	Noun	p m, f (invariable)
+intento	Noun	intento m (plural intenti)
+cappuccino	Noun	cappuccino m (plural cappuccini)
+cappuccino	Noun	cappuccino m (plural cappuccini)
+cappuccino	Noun	cappuccino m (plural cappuccini)
+republica	Noun	republica f (plural republiche)
+autogiro	Noun	autogiro m (plural autogiri)
+VHS	Noun	VHS m, f (plural VHS)
+panama	Noun	panama m (invariable)
+vertebra	Noun	vertebra f (plural vertebre)
+monosemia	Noun	monosemia f (plural monosemie)
+tutina	Noun	tutina f (plural tutine) (Diminutive of: tuta)
+api	Noun	api m pl
+antipasto	Noun	antipasto m (plural antipasti)
+line	Noun	line f (invariable)
+suoni	Noun	suoni m
+arma	Noun	arma f (plural armi) (archaic plural arme)
+stalinismi	Noun	stalinismi m
+rampa	Noun	rampa f (plural rampe)
+etanoli	Noun	etanoli m
+mongoloidi	Noun	mongoloidi m, f
+poli	Noun	poli m pl
+zarina	Noun	zarina f (plural zarine)
+fotometri	Noun	fotometri m
+rapsodia	Noun	rapsodia f (plural rapsodie)
+bahaismi	Noun	bahaismi m
+infamia	Noun	infamia f (plural infamie)
+pago	Noun	pago m (plural paghi)
+neofilia	Noun	neofilia f (plural neofilie)
+luigi	Noun	luigi m (invariable)
+allelopatia	Noun	allelopatia f (plural allelopatie)
+sandinisti	Noun	sandinisti m
+melina	Noun	melina f (plural meline) (More fully: fare la melina)
+tare	Noun	tare f
+metafora	Noun	metafora f (plural metafore)
+lasagne	Noun	lasagne f pl
+porno	Noun	porno m (invariable)
+meteorologi	Noun	meteorologi m
+protesto	Noun	protesto m (plural protesti)
+reumatologi	Noun	reumatologi m
+manna	Noun	manna f (plural manne)
+khmer	Noun	khmer m, f (invariable)
+stallo	Noun	stallo m (plural stalli)
+stallo	Noun	stallo m (plural stalli)
+morfologia	Noun	morfologia f (plural morfologie)
+barbara	Noun	barbara f (plural barbare, masculine barbaro)
+paradigma	Noun	paradigma m (plural paradigmi)
+reumatologia	Noun	reumatologia f (plural reumatologie)
+terminologi	Noun	terminologi m
+darwinismi	Noun	darwinismi m
+querela	Noun	querela f (plural querele)
+stipendi	Noun	stipendi m
+rapa	Noun	rapa f (plural rape)
+nolo	Noun	nolo m (plural noli)
+imperatore	Noun	imperatore m (plural imperatori) (feminine imperatrice)
+terrorista	Noun	terrorista m (plural terroristi)
+terrorista f (plural terroriste)
+vegetarianismi	Noun	vegetarianismi m
+contagio	Noun	contagio m (plural contagi)
+enigma	Noun	enigma m (plural enigmi)
+zeba	Noun	zeba f (plural zebe)
+sho	Noun	sho m, f (invariable)
+ceno	Noun	ceno m (plural ceni)
+stilla	Noun	stilla f (plural stille)
+turba	Noun	turba f (plural turbe)
+scheda	Noun	scheda f (plural schede)
+regno	Noun	regno m (plural regni)
+stereofonia	Noun	stereofonia f (plural stereofonie)
+dono	Noun	dono m (plural doni)
+boari	Noun	boari m
+solista	Noun	solista m (plural solisti) solista f (plural soliste)
+polli	Noun	polli m
+kaf	Noun	kaf m f (invariable)
+coagulo	Noun	coagulo m (plural coaguli)
+meli	Noun	meli m
+penuria	Noun	penuria f (plural penurie)
+epigrafi	Noun	epigrafi f
+campanula	Noun	campanula f (plural campanule)
+ornitologi	Noun	ornitologi m
+marketing	Noun	marketing m (invariable)
+pavimento	Noun	pavimento m (plural pavimenti)
+behavioristi	Noun	behavioristi m
+ghetto	Noun	ghetto m (plural ghetti)
+piacere	Noun	piacere m (plural piaceri)
+paranoidi	Noun	paranoidi m, f
+resta	Noun	resta f (plural reste)
+resveratroli	Noun	resveratroli m
+transfuga	Noun	transfuga m (plural transfughi)
+transfuga f (plural transfughe)
+tempera	Noun	tempera f (plural tempere)
+badminton	Noun	badminton m (invariable)
+kava	Noun	kava f (plural kave)
+strategie	Noun	strategie f
+arteria	Noun	arteria f (plural arterie)
+putti	Noun	putti m
+mare	Noun	mare m (plural mari)
+gora	Noun	gora f (plural gore)
+turbine	Noun	turbine f
+altare	Noun	altare m (plural altari)
+falso	Noun	falso m (plural falsi)
+punta	Noun	punta f (plural punte)
+villi	Noun	villi m
+bruni	Noun	bruni m
+country	Noun	country m (invariable)
+mongolismi	Noun	mongolismi m
+perspicacia	Noun	perspicacia f (plural perspicacie)
+monstro	Noun	monstro m (plural monstri)
+monetarismi	Noun	monetarismi m
+santa	Noun	santa f (plural sante)
+adenotomia	Noun	adenotomia f (plural adenotomie)
+fretta	Noun	fretta f (plural frette)
+anagramma	Noun	anagramma m (plural anagrammi)
+valva	Noun	valva f (plural valve)
+saliva	Noun	saliva f (plural salive)
+grande	Noun	grande m, f (plural grandi)
+grande	Noun	grande m (plural grandi)
+brune	Noun	brune f
+tuli	Noun	tuli m
+sauna	Noun	sauna f (plural saune)
+invidia	Noun	invidia f (plural invidie)
+metodi	Noun	metodi m
+demoni	Noun	demoni m
+immunologi	Noun	immunologi m
+fobofobia	Noun	fobofobia f (uncountable)
+gallina	Noun	gallina f (plural galline)
+terrori	Noun	terrori m
+cor	Noun	cor m
+sagena	Noun	sagena f (plural sagene)
+angiogrammi	Noun	angiogrammi m
+ere	Noun	ere f
+smoking	Noun	smoking m (invariable)
+cesto	Noun	cesto m (plural cesti)
+lasta	Noun	lasta f (plural laste)
+grotta	Noun	grotta f (plural grotte)
+pus	Noun	pus m (invariable)
+seme	Noun	seme m (plural semi)
+lagune	Noun	lagune f
+decoro	Noun	decoro m (plural decori)
+geologi	Noun	geologi m
+anno	Noun	anno m (plural anni)
+sorgo	Noun	sorgo m (plural sorghi)
+broccoli	Noun	broccoli m
+serie	Noun	serie f (invariable)
+servo	Noun	servo m (plural servi, feminine serva)
+terebra	Noun	terebra f (plural terebre)
+play	Noun	play m (invariable)
+filantropismi	Noun	filantropismi m
+poker	Noun	poker m (invariable)
+polle	Noun	polle f
+fraseologia	Noun	fraseologia f (plural fraseologie)
+scalpo	Noun	scalpo m (plural scalpi)
+etnografi	Noun	etnografi m
+iatrofobia	Noun	iatrofobia f (plural iatrofobie)
+neo	Noun	neo m (plural nei)
+neo	Noun	neo m (invariable)
+duna	Noun	duna f (plural dune)
+jab	Noun	jab m (invariable)
+solenoidi	Noun	solenoidi m
+euforia	Noun	euforia f (plural euforie)
+acerra	Noun	acerra f (plural acerre)
+clown	Noun	clown m (invariable)
+bombi	Noun	bombi m pl
+prosa	Noun	prosa f (plural prose)
+gemmologia	Noun	gemmologia f (plural gemmologie)
+terminologia	Noun	terminologia f (plural terminologie)
+mappe	Noun	mappe f
+fascia	Noun	fascia f (plural fasce)
+casa	Noun	casa f (plural case)
+artista	Noun	artista m (plural artisti)
+paremiologia	Noun	paremiologia f (plural paremiologie)
+ori	Noun	ori m
+noto	Noun	noto m (plural noti)
+tomografi	Noun	tomografi m
+sarissa	Noun	sarissa f (plural sarisse)
+sodomie	Noun	sodomie f
+mendelismi	Noun	mendelismi m
+ale	Noun	ale f
+ekranoplano	Noun	ekranoplano m (plural ekranoplani)
+mongoli	Noun	mongoli m
+vegetarismi	Noun	vegetarismi m
+spati	Noun	spati m
+favismi	Noun	favismi m
+rupi	Noun	rupi f
+flipper	Noun	flipper m (invariable)
+slab	Noun	slab m (invariable)
+barba	Noun	barba f (plural barbe)
+barba	Noun	barba m
+emblema	Noun	emblema m (plural emblemi)
+dolori	Noun	dolori m
+palmo	Noun	palmo m (plural palmi)
+urna	Noun	urna f (plural urne)
+nebula	Noun	nebula f (plural nebule)
+epitome	Noun	epitome f (plural epitomi)
+baby-sitter	Noun	baby-sitter m, f (invariable)
+vigilia	Noun	vigilia f (plural vigilie)
+speleologi	Noun	speleologi m
+neurobiologia	Noun	neurobiologia f (plural neurobiologie)
+intimo	Noun	intimo m (plural intimi)
+nuotata	Noun	nuotata f (plural nuotate)
+mania	Noun	mania f (plural manie)
+tori	Noun	tori m pl
+torero	Noun	torero m (plural toreri, feminine torera)
+concerto	Noun	concerto m (plural concerti)
+lotto	Noun	lotto m (plural lotti)
+favori	Noun	favori m
+puma	Noun	puma m (invariable)
+dermatologi	Noun	dermatologi m
+tundra	Noun	tundra f (plural tundre)
+minima	Noun	minima f (plural minime)
+inositoli	Noun	inositoli m
+modo	Noun	modo m (plural modi)
+bandita	Noun	bandita f (plural bandite)
+intrico	Noun	intrico m (plural intrichi)
+sistema	Noun	sistema m (plural sistemi)
+patriota	Noun	patriota m (plural patrioti) patriota f (plural patriote)
+ballerina	Noun	ballerina f (plural ballerine, masculine ballerino)
+pistole	Noun	pistole f
+oca	Noun	oca f (plural oche)
+butanoli	Noun	butanoli m
+stola	Noun	stola f (plural stole)
+epifania	Noun	epifania f (plural epifanie)
+antipatia	Noun	antipatia f (plural antipatie)
+futurismi	Noun	futurismi m
+sene	Noun	sene m (plural seni)
+vallata	Noun	vallata f (plural vallate)
+funi	Noun	funi f
+calo	Noun	calo m (plural cali)
+alieno	Noun	alieno m (plural alieni) Feminine aliena
+soba	Noun	soba f (invariable)
+bua	Noun	bua f (plural bue)
+decima	Noun	decima f (plural decime)
+insulina	Noun	insulina f (plural insuline)
+tempo	Noun	tempo m (plural tempi)
+liste	Noun	liste f
+organismi	Noun	organismi m
+note	Noun	note f
+morfina	Noun	morfina f (plural morfine)
+sinfonia	Noun	sinfonia f (plural sinfonie)
+karma	Noun	karma m (invariable)
+talpa	Noun	talpa f (plural talpe)
+talpa	Noun	talpa m (invariable)
+degu	Noun	degu m (invariable)
+dovere	Noun	dovere m (plural doveri)
+sifoni	Noun	sifoni m
+latte	Noun	latte m (uncountable)
+latte	Noun	latte
+orgie	Noun	orgie f
+neologismi	Noun	neologismi m
+cenobita	Noun	cenobita m (plural cenobiti)
+bonus	Noun	bonus m (invariable)
+astrometria	Noun	astrometria f (plural astrometrie)
+piste	Noun	piste f
+tarponi	Noun	tarponi m
+primi	Noun	primi m pl
+arti	Noun	arti m
+arti	Noun	arti f
+erta	Noun	erta f (plural erte)
+haiku	Noun	haiku m (invariable)
+timi	Noun	timi m
+extra	Noun	extra m (invariable)
+anomalia	Noun	anomalia f (plural anomalie)
+falla	Noun	falla f (plural falle)
+radiotelefoni	Noun	radiotelefoni m
+inquilino	Noun	inquilino m (plural inquilini, feminine inquilina)
+persistere	Noun	persistere m (invariable)
+argon	Noun	argon m
+sali	Noun	sali m pl
+gratitudine	Noun	gratitudine f (plural gratitudini)
+monotonia	Noun	monotonia f (plural monotonie)
+ostinato	Noun	ostinato m (plural ostinati, feminine ostinata)
+creta	Noun	creta f (plural crete)
+esse	Noun	esse f, m (invariable)
+toroidi	Noun	toroidi f
+Maria	Noun	Maria f (invariable)
+sanguisuga	Noun	sanguisuga f (plural sanguisughe)
+blenda	Noun	blenda f (plural blende)
+antropologia	Noun	antropologia f (plural antropologie)
+cala	Noun	cala f (plural cale)
+veganismi	Noun	veganismi m
+nota	Noun	nota f (plural note)
+lane	Noun	lane f
+resa	Noun	resa f (plural rese)
+epistemologia	Noun	epistemologia f (plural epistemologie)
+testa	Noun	testa f (plural teste)
+tank	Noun	tank m (invariable)
+idealismi	Noun	idealismi m
+pertica	Noun	pertica f (plural pertiche)
+l'underground	Noun	l'underground m (invariable)
+tigna	Noun	tigna f (plural tigne)
+gerundi	Noun	gerundi m
+idiomi	Noun	idiomi m
+fumo	Noun	fumo m (plural fumi)
+tipi	Noun	tipi m
+autoradio	Noun	autoradio f (invariable)
+basso	Noun	basso m (plural bassi)
+fatalisti	Noun	fatalisti m
+tana	Noun	tana f (plural tane)
+bengali	Noun	bengali m
+mode	Noun	mode f
+turismi	Noun	turismi m
+cavia	Noun	cavia f (plural cavie)
+cent	Noun	cent m (invariable)
+clou	Noun	clou m (invariable)
+positroni	Noun	positroni m
+tuoni	Noun	tuoni m
+retinopatia	Noun	retinopatia f (plural retinopatie)
+perca	Noun	perca f (plural perche)
+apporto	Noun	apporto m (plural apporti)
+geometri	Noun	geometri m
+vinco	Noun	vinco m (plural vinchi) (poetic plural vinci)
+demografia	Noun	demografia f (plural demografie)
+teorie	Noun	teorie f
+modifica	Noun	modifica f (plural modifiche)
+pellagra	Noun	pellagra f (plural pellagre)
+celle	Noun	celle f
+farina	Noun	farina f (plural farine)
+spioni	Noun	spioni m
+polio	Noun	polio m (uncountable)
+polio	Noun	polio f (invariable)
+ideologia	Noun	ideologia f (plural ideologie)
+ignavia	Noun	ignavia f (plural ignavie)
+molestia	Noun	molestia f (plural molestie)
+propanoli	Noun	propanoli m
+neurologi	Noun	neurologi m
+muli	Noun	muli m pl
+filologi	Noun	filologi m
+maghi	Noun	maghi m
+nailon	Noun	nailon m (invariable)
+barbarismi	Noun	barbarismi m
+erma	Noun	erma f (plural erme)
+teine	Noun	teine f
+tratta	Noun	tratta f (plural tratte)
+albino	Noun	albino m (plural albini, feminine albina)
+dritte	Noun	dritte f pl
+basista	Noun	basista m, f (plural basisti)
+cantilena	Noun	cantilena f (plural cantilene)
+anta	Noun	anta f (plural ante)
+anta	Noun	anta m pl (plural only)
+conclave	Noun	conclave m (plural conclavi)
+cerva	Noun	cerva f (plural cerve, masculine cervo)
+anapesti	Noun	anapesti m
+mamma	Noun	mamma f (plural mamme)
+motti	Noun	motti m
+carruca	Noun	carruca f (plural carruche)
+entalpia	Noun	entalpia f (plural entalpie)
+microbiologie	Noun	microbiologie f
+fallacia	Noun	fallacia f (plural fallacie)
+vacca	Noun	vacca f (plural vacche)
+lente	Noun	lente f (plural lenti)
+interferometri	Noun	interferometri m
+cisterna	Noun	cisterna f (plural cisterne)
+pesa	Noun	pesa f (plural pese)
+outsourcing	Noun	outsourcing m (invariable)
+spiritualismi	Noun	spiritualismi m
+stalinisti	Noun	stalinisti m
+titolare	Noun	titolare m, f (plural titolari)
+monomania	Noun	monomania f (plural monomanie)
+giraffa	Noun	giraffa f (plural giraffe)
+virologia	Noun	virologia f (plural virologie)
+pugna	Noun	pugna f (plural pugne) (obsolete, literary, poetic)
+pugna	Noun	pugna f pl (obsolete)
+leva	Noun	leva f (plural leve)
+epidemiologia	Noun	epidemiologia f (plural epidemiologie)
+pantera	Noun	pantera f (plural pantere)
+auditorio	Noun	auditorio m (plural auditori)
+rose	Noun	rose pl
+merda	Noun	merda f (plural merde)
+idioma	Noun	idioma m (plural idiomi)
+marxisti	Noun	marxisti m
+origine	Noun	origine f (plural origini)
+conforto	Noun	conforto m (plural conforti)
+termosfera	Noun	termosfera f (plural termosfere)
+strale	Noun	strale m (plural strali)
+patologia	Noun	patologia f (plural patologie)
+idolatria	Noun	idolatria f (plural idolatrie)
+frasi	Noun	frasi f
+rutilo	Noun	rutilo m (plural rutili)
+zeugma	Noun	zeugma m (plural zeugmi)
+sorbitoli	Noun	sorbitoli m
+uva	Noun	uva f (plural uve)
+addax	Noun	addax m (invariable)
+pascal	Noun	pascal m
+rua	Noun	rua f (plural rue)
+bossi	Noun	bossi m
+andante	Noun	andante m (plural andanti)
+numi	Noun	numi m
+geni	Noun	geni m
+figuri	Noun	figuri m
+imperialisti	Noun	imperialisti m
+decollo	Noun	decollo m (plural decolli)
+miseria	Noun	miseria f (plural miserie)
+digesti	Noun	digesti m
+mensa	Noun	mensa f (plural mense)
+nappa	Noun	nappa f (plural nappe)
+ypsilon	Noun	ypsilon m, f (invariable)
+termistori	Noun	termistori m
+palpito	Noun	palpito m (plural palpiti)
+pulita	Noun	pulita f (plural pulite)
+brand	Noun	brand m (invariable)
+figura	Noun	figura f (plural figure)
+e	Noun	e f (invariable)
+messe	Noun	messe f (plural messi)
+messe	Noun	messe f
