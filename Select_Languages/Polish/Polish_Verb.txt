@@ -1,0 +1,1572 @@
+pęcznieć	Verb	pęcznieć impf (perfective spęcznieć)
+wahać się	Verb	wahać się impf
+prać	Verb	prać impf (perfective wyprać)
+napierdalać	Verb	napierdalać impf (perfective napierdolić)
+wymyślać	Verb	wymyślać impf
+rosnąć	Verb	rosnąć impf (perfective urosnąć)
+trzeba	Verb	trzeba (defective verb)
+eksperymentować	Verb	eksperymentować impf (perfective wyeksperymentować)
+skończyć	Verb	skończyć pf (imperfective kończyć)
+przyrzekać	Verb	przyrzekać impf (perfective przyrzec)
+ukrywać	Verb	ukrywać impf (perfective ukryć)
+uprzedzać	Verb	uprzedzać impf (perfective uprzedzić)
+pocałować	Verb	pocałować pf (imperfective całować)
+ujadać	Verb	ujadać impf
+gryźć	Verb	gryźć impf (perfective ugryźć)
+dawać	Verb	dawać impf (perfective dać)
+harować	Verb	harować impf
+głosować	Verb	głosować impf
+uwielbiać	Verb	uwielbiać impf
+bóść	Verb	bóść impf (perfective ubóść)
+pożyczać	Verb	pożyczać impf (perfective pożyczyć) + od + genitive
+łączyć	Verb	łączyć impf (perfective połączyć)
+ponawiać	Verb	ponawiać impf (perfective ponowić)
+pytał	Verb	pytał
+ćwiczyć	Verb	ćwiczyć impf
+spieszyć się	Verb	spieszyć się impf
+głuchnąć	Verb	głuchnąć impf (perfective ogłuchnąć)
+stękać	Verb	stękać impf (perfective stęknąć)
+zjebać	Verb	zjebać pf
+wyrażać	Verb	wyrażać impf (perfective wyrazić)
+absorbować	Verb	absorbować impf (perfective zaabsorbować)
+psuć	Verb	psuć impf (perfective zepsuć or popsuć)
+zdradzać	Verb	zdradzać impf (perfective zdradzić)
+opierdolić	Verb	opierdolić pf (imperfective opierdalać)
+uczyć się	Verb	uczyć się impf (perfective nauczyć się)
+kaszleć	Verb	kaszleć impf (perfective kaszlnąć)
+woleć	Verb	woleć impf
+atakować	Verb	atakować impf (perfective zaatakować)
+skakać	Verb	skakać impf (perfective skoczyć)
+krwawić	Verb	krwawić impf (perfective wykrwawić się)
+wzdychać	Verb	wzdychać impf (perfective westchnąć)
+urągać	Verb	urągać impf (perfective naurągać)
+tłumacz	Verb	tłumacz impf
+odrzucić	Verb	odrzucić pf (imperfective odrzucać)
+drapać	Verb	drapać impf (perfective drapnąć or podrapać)
+spodziewać się	Verb	spodziewać się impf
+była	Verb	była
+pragnąć	Verb	pragnąć impf (perfective zapragnąć)
+spiąć	Verb	spiąć pf (imperfective spinać)
+przemycać	Verb	przemycać impf (perfective przemycić)
+imponować	Verb	imponować impf (perfective zaimponować)
+opiewać	Verb	opiewać impf
+dumać	Verb	dumać impf (perfective wydumać)
+odwiedzać	Verb	odwiedzać impf (perfective odwiedzić)
+spieprzyć	Verb	spieprzyć pf (imperfective spieprzać)
+jawić się	Verb	jawić się impf
+wykluczać	Verb	wykluczać impf (perfective wykluczyć)
+przekładać	Verb	przekładać impf (perfective przełożyć)
+płoszyć	Verb	płoszyć impf (perfective spłoszyć)
+czerwienieć	Verb	czerwienieć impf (perfective poczerwienieć or sczerwienieć)
+mżyć	Verb	mżyć impf
+utlenić	Verb	utlenić pf (imperfective utleniać)
+zostawiać	Verb	zostawiać impf (perfective zostawić)
+wstawać	Verb	wstawać impf (perfective wstać)
+taić	Verb	taić impf (perfective zataić)
+rodzić	Verb	rodzić impf (perfective urodzić)
+pleć	Verb	pleć impf
+pleć	Verb	pleć
+cierpieć	Verb	cierpieć impf (perfective ucierpieć or wycierpieć)
+chronić	Verb	chronić impf (perfective ochronić)
+mydlić	Verb	mydlić impf (perfective namydlić)
+przepraszać	Verb	przepraszać impf (perfective przeprosić)
+przeżuć	Verb	przeżuć pf (imperfective żuć or przeżuwać)
+kablować	Verb	kablować impf
+dukać	Verb	dukać impf (perfective wydukać)
+tkał	Verb	tkał
+bij	Verb	bij
+wygrywać	Verb	wygrywać impf (perfective wygrać)
+próbować	Verb	próbować impf (perfective spróbować)
+tracić	Verb	tracić impf (perfective stracić or utracić)
+raczyć	Verb	raczyć impf (perfective uraczyć)
+zaśpiewać	Verb	zaśpiewać pf (imperfective śpiewać)
+zapomnieć	Verb	zapomnieć pf (imperfective zapominać)
+suszyć	Verb	suszyć impf (perfective wysuszyć)
+gadać	Verb	gadać impf
+bili	Verb	bili
+pił	Verb	pił
+pojmować	Verb	pojmować impf (perfective pojąć)
+drzeć	Verb	drzeć impf (perfective podrzeć)
+ronić	Verb	ronić impf (perfective uronić)
+gnieść	Verb	gnieść impf
+zmądrzeć	Verb	zmądrzeć pf (imperfective mądrzeć)
+plądrować	Verb	plądrować impf (perfective splądrować)
+zestawiać	Verb	zestawiać impf (perfective zestawić)
+zabijać	Verb	zabijać impf (perfective zabić)
+uznawać	Verb	uznawać impf (perfective uznać)
+stygnąć	Verb	stygnąć impf (perfective ostygnąć)
+jąkać	Verb	jąkać impf
+odnawiać	Verb	odnawiać impf (perfective odnowić)
+dojrzeć	Verb	dojrzeć pf (imperfective dojrzewać)
+toczyć	Verb	toczyć impf
+rozpuszczać	Verb	rozpuszczać impf (perfective rozpuścić)
+unicestwiać	Verb	unicestwiać impf (perfective unicestwić)
+odchodzić	Verb	odchodzić impf (perfective odejść)
+wiercić	Verb	wiercić impf
+ssać	Verb	ssać impf
+chlać	Verb	chlać impf (perfective wychlać)
+publikować	Verb	publikować impf (perfective opublikować)
+rozbierać	Verb	rozbierać impf (perfective rozebrać)
+wypędzić	Verb	wypędzić pf (imperfective wypędzać)
+kibicować	Verb	kibicować impf
+googlować	Verb	googlować impf
+dodać	Verb	dodać pf (imperfective dodawać)
+prowokować	Verb	prowokować impf (perfective sprowokować)
+grzmieć	Verb	grzmieć impf (perfective zagrzmieć)
+chadzać	Verb	chadzać impf (frequentative, perfective pójść, imperfective chodzić)
+zesrać się	Verb	zesrać się pf
+nastawić	Verb	nastawić pf (imperfective nastawiać)
+spaść	Verb	spaść pf (imperfective spadać)
+kręcić	Verb	kręcić impf
+nęcić	Verb	nęcić impf (perfective znęcić)
+wskazać	Verb	wskazać pf (imperfective wskazywać)
+ciosać	Verb	ciosać impf (perfective ociosać)
+chwiać	Verb	chwiać impf (perfective zachwiać)
+zawierać	Verb	zawierać impf (perfective zawrzeć)
+rozproszyć	Verb	rozproszyć pf (imperfective rozpraszać)
+gładzić	Verb	gładzić impf (perfective pogładzić or wygładzić)
+zacząć	Verb	zacząć pf (imperfective zaczynać)
+rościć	Verb	rościć impf (perfective urościć)
+lubić	Verb	lubić impf (perfective polubić)
+macać	Verb	macać impf (perfective obmacać or pomacać)
+rządzić	Verb	rządzić impf
+trzepotać	Verb	trzepotać impf (perfective zatrzepotać)
+wznawiać	Verb	wznawiać impf (perfective wznowić)
+reklamować	Verb	reklamować impf
+unaoczniać	Verb	unaoczniać impf (perfective unaocznić)
+chichotać	Verb	chichotać impf (perfective zachichotać)
+podrywać	Verb	podrywać impf (perfective poderwać)
+wrzeć	Verb	wrzeć impf (perfective zawrzeć)
+wylogować	Verb	wylogować pf (imperfective wylogowywać)
+wykopywać	Verb	wykopywać impf (perfective wykopać)
+przywyknąć	Verb	przywyknąć pf (imperfective przywykać)
+widać	Verb	widać (defective verb)
+latać	Verb	latać impf
+wyżąć	Verb	wyżąć pf (imperfective wyżymać)
+zaopatrywać	Verb	zaopatrywać impf (perfective zaopatrzyć)
+puszcza	Verb	puszcza
+trącić	Verb	trącić pf (imperfective trącać)
+kuca	Verb	kuca
+uprawiać	Verb	uprawiać impf
+garnąć	Verb	garnąć impf (perfective przygarnąć)
+odbić	Verb	odbić pf (imperfective odbijać)
+chwytać	Verb	chwytać impf (perfective chwycić)
+wozić	Verb	wozić impf
+wyjrzeć	Verb	wyjrzeć pf (imperfective wyglądać or wyzierać)
+rugać	Verb	rugać impf (perfective zrugać)
+trząść	Verb	trząść impf (perfective potrząsnąć)
+porzucać	Verb	porzucać impf (perfective porzucić)
+murzać	Verb	murzać impf (imperfective umurzać)
+trawić	Verb	trawić impf (perfective strawić)
+żłopać	Verb	żłopać impf (perfective wyżłopać)
+łgać	Verb	łgać impf
+wystarczać	Verb	wystarczać impf (perfective wystarczyć)
+rysować	Verb	rysować impf (perfective narysować)
+wita	Verb	wita
+rąbać	Verb	rąbać impf (perfective porąbać)
+rachować	Verb	rachować impf (perfective porachować)
+ryj	Verb	ryj
+ekskomunikować	Verb	ekskomunikować pf
+zemrzeć	Verb	zemrzeć pf
+stawiać	Verb	stawiać impf (perfective postawić)
+drzemać	Verb	drzemać impf (perfective zdrzemnąć się)
+gdakać	Verb	gdakać impf (perfective gdaknąć)
+wywołać	Verb	wywołać pf (imperfective wywoływać)
+bać się	Verb	bać się impf
+bawić się	Verb	bawić się impf
+jadło	Verb	jadło impf
+podniecać	Verb	podniecać impf (perfective podniecić)
+zniknąć	Verb	zniknąć pf (imperfective znikać)
+dyskryminować	Verb	dyskryminować impf
+hartować	Verb	hartować impf (perfective zahartować)
+ocalić	Verb	ocalić pf (imperfective ocalać)
+dociekać	Verb	dociekać impf (perfective dociec)
+pęknąć	Verb	pęknąć pf (imperfective pękać)
+cytować	Verb	cytować impf (perfective zacytować)
+podziwiać	Verb	podziwiać impf
+wymówić	Verb	wymówić pf (imperfective wymawiać)
+tolerować	Verb	tolerować impf
+lepić	Verb	lepić impf (perfective ulepić or zlepić)
+skompilować	Verb	skompilować pf (imperfective kompilować)
+bębnić	Verb	bębnić impf
+umieć	Verb	umieć impf
+usunąć	Verb	usunąć pf (imperfective usuwać)
+przestrzegać	Verb	przestrzegać impf (perfective przestrzec)
+pluć	Verb	pluć impf (perfective splunąć or plunąć)
+czuć	Verb	czuć impf (perfective poczuć)
+lecieć	Verb	lecieć impf
+dosięgnąć	Verb	dosięgnąć pf (imperfective dosięgać)
+kąsać	Verb	kąsać impf (perfective ukąsić or pokąsać)
+skubać	Verb	skubać impf (perfective skubnąć or oskubać)
+minąć	Verb	minąć pf (imperfective mijać)
+pogadać	Verb	pogadać pf (imperfective gadać)
+nazywać	Verb	nazywać impf (perfective nazwać)
+zasługiwać	Verb	zasługiwać impf (perfective zasłużyć)
+próć	Verb	próć impf (perfective popróć or rozpróć)
+urzekać	Verb	urzekać impf (perfective urzec)
+poprowadzić	Verb	poprowadzić pf
+plotkować	Verb	plotkować impf
+wydupczyć	Verb	wydupczyć pf (imperfective dupczyć)
+obrazić	Verb	obrazić pf (imperfective obrażać)
+guglać	Verb	guglać impf
+zwierzę	Verb	zwierzę pf
+zapamiętywać	Verb	zapamiętywać impf (perfective zapamiętać)
+wybielać	Verb	wybielać impf (perfective wybielić)
+dławić	Verb	dławić impf (perfective zdławić or zadławić)
+poprawiać	Verb	poprawiać impf (perfective poprawić)
+zrozumieć	Verb	zrozumieć pf (imperfective rozumieć)
+biczować	Verb	biczować impf (perfective ubiczować)
+pałować	Verb	pałować impf (perfective spałować)
+poronić	Verb	poronić pf (semelfactive, imperfective ronić)
+obgadać	Verb	obgadać pf (imperfective obgadywać)
+gubić	Verb	gubić impf (perfective zgubić)
+wspomnieć	Verb	wspomnieć pf (imperfective wspominać)
+koić	Verb	koić impf (perfective ukoić)
+czytać	Verb	czytać impf (perfective przeczytać)
+nadzorować	Verb	nadzorować impf
+wycofywać	Verb	wycofywać impf (perfective wycofać)
+strzyc	Verb	strzyc impf (perfective ostrzyc)
+wędzić	Verb	wędzić impf (perfective uwędzić)
+zmartwychwstawać	Verb	zmartwychwstawać impf (perfective zmartwychwstać)
+próchnieć	Verb	próchnieć impf (perfective spróchnieć)
+wyszywać	Verb	wyszywać impf (perfective wyszyć)
+tęsknić	Verb	tęsknić impf
+buchać	Verb	buchać impf (perfective buchnąć)
+pękać	Verb	pękać impf (perfective pęknąć)
+nurkować	Verb	nurkować impf
+ruszać	Verb	ruszać impf (perfective ruszyć)
+podejrzewać	Verb	podejrzewać impf
+wkurwiać	Verb	wkurwiać impf
+maszerować	Verb	maszerować impf
+brodzić	Verb	brodzić impf
+niknąć	Verb	niknąć impf (perfective zaniknąć)
+kichać	Verb	kichać impf (perfective kichnąć)
+stanowić	Verb	stanowić impf
+sprząc	Verb	sprząc pf (imperfective sprzęgać)
+ogłuszać	Verb	ogłuszać impf (perfective ogłuszyć)
+czernieć	Verb	czernieć impf (perfective sczernieć or poczernieć)
+kukać	Verb	kukać impf
+przypuścić	Verb	przypuścić pf (imperfective przypuszczać)
+organizować	Verb	organizować impf (perfective zorganizować)
+pomagać	Verb	pomagać impf (perfective pomóc)
+łowić	Verb	łowić impf (perfective złowić)
+panować	Verb	panować impf
+sprzedać	Verb	sprzedać pf (imperfective sprzedawać)
+spajać	Verb	spajać impf (perfective spoić)
+warczeć	Verb	warczeć impf (perfective warknąć or zawarczeć)
+podlewać	Verb	podlewać impf (perfective podlać)
+programować	Verb	programować impf
+gwałcić	Verb	gwałcić impf (perfective zgwałcić)
+rzezać	Verb	rzezać impf
+płynąć	Verb	płynąć impf
+zmiękczyć	Verb	zmiękczyć pf (imperfective zmiękczać)
+czekać	Verb	czekać impf (perfective poczekać or zaczekać)
+wynająć	Verb	wynająć pf (imperfective wynajmować)
+stąpać	Verb	stąpać impf (perfective stąpnąć)
+szarpać	Verb	szarpać impf (perfective szarpnąć)
+rabować	Verb	rabować impf (perfective obrabować or zrabować)
+emitować	Verb	emitować impf
+radzić sobie	Verb	radzić sobie impf (perfective poradzić sobie)
+miał	Verb	miał
+spinać	Verb	spinać impf (perfective spiąć)
+drgać	Verb	drgać impf (perfective drgnąć)
+miano	Verb	miano
+sunąć	Verb	sunąć impf (perfective posunąć)
+wylaszczyć się	Verb	wylaszczyć się pf
+popełnić	Verb	popełnić pf (imperfective popełniać)
+czynić	Verb	czynić impf (perfective uczynić)
+uodparniać	Verb	uodparniać impf (perfective uodpornić)
+dymać	Verb	dymać impf (perfective wydymać)
+klękać	Verb	klękać impf (perfective klęknąć)
+przepić	Verb	przepić pf
+kryć	Verb	kryć impf (perfective ukryć or skryć)
+odjebać	Verb	odjebać pf
+ściągnąć	Verb	ściągnąć pf (imperfective ściągać)
+diagnozować	Verb	diagnozować impf (perfective zdiagnozować)
+grzać	Verb	grzać impf (perfective ogrzać)
+mierzyć	Verb	mierzyć impf (perfective zmierzyć, pomierzyć)
+ubywać	Verb	ubywać impf (perfective ubyć)
+dokuczać	Verb	dokuczać impf (perfective dokuczyć)
+ostrzegać	Verb	ostrzegać impf (perfective ostrzeć)
+wystawiać	Verb	wystawiać impf (perfective wystawić)
+płacić	Verb	płacić impf (perfective zapłacić)
+czeznąć	Verb	czeznąć impf (perfective sczeznąć)
+lansować	Verb	lansować impf (perfective wylansować)
+ukraść	Verb	ukraść pf (imperfective kraść)
+zmartwychwstanie	Verb	zmartwychwstanie pf
+sądzić	Verb	sądzić impf (perfective osądzić)
+patrzeć	Verb	patrzeć impf (perfective popatrzeć)
+popierać	Verb	popierać impf (perfective poprzeć)
+negocjować	Verb	negocjować impf (imperfective wynegocjować)
+galopować	Verb	galopować impf
+ginąć	Verb	ginąć impf (perfective zginąć)
+sól	Verb	sól impf
+ziać	Verb	ziać impf (perfective zionąć)
+polano	Verb	polano
+odczynić	Verb	odczynić pf (imperfective odczyniać)
+zagiąć	Verb	zagiąć pf (imperfective zaginać)
+opierdalać	Verb	opierdalać impf (perfective opierdolić)
+kiwać	Verb	kiwać impf (perfective kiwnąć)
+dręczyć	Verb	dręczyć impf (perfective zadręczyć)
+krzyczeć	Verb	krzyczeć impf (perfective krzyknąć)
+wymawiać	Verb	wymawiać impf (perfective wymówić)
+gęgać	Verb	gęgać impf
+wywłaszczać	Verb	wywłaszczać impf (perfective wywłaszczyć)
+charkać	Verb	charkać impf (perfective charknąć)
+błagać	Verb	błagać impf
+rozbić	Verb	rozbić pf (imperfective rozbijać)
+gąść	Verb	gąść impf (perfective zagąść)
+wierzgać	Verb	wierzgać impf (perfective wierzgnąć)
+golić się	Verb	golić się impf (perfective ogolić się)
+zginąć	Verb	zginąć pf (imperfective ginąć)
+przedrzeźniać	Verb	przedrzeźniać impf
+bredzić	Verb	bredzić impf
+abonować	Verb	abonować impf (perfective zaabonować)
+doprowadzać	Verb	doprowadzać impf (perfective doprowadzić)
+pamiętać	Verb	pamiętać impf (perfective zapamiętać)
+runąć	Verb	runąć pf
+nalewać	Verb	nalewać impf (perfective nalać)
+odrastać	Verb	odrastać impf (perfective odrosnąć)
+nadepnąć	Verb	nadepnąć pf
+szkoda	Verb	szkoda (defective verb)
+sika	Verb	sika
+nadawać	Verb	nadawać impf (perfective nadać)
+cofać	Verb	cofać impf (perfective cofnąć or wycofać)
+bohatyrnąć	Verb	bohatyrnąć pf
+odpowiadać	Verb	odpowiadać impf (perfective -)
+odpowiadać	Verb	odpowiadać impf (perfective odpowiedzieć)
+stały	Verb	stały
+oskarżać	Verb	oskarżać impf (perfective oskarżyć)
+medytować	Verb	medytować impf
+karmi	Verb	karmi
+stosować	Verb	stosować impf (perfective zastosować)
+ślęczeć	Verb	ślęczeć impf
+wątpić	Verb	wątpić impf (perfective zwątpić)
+domieszkować	Verb	domieszkować impf
+zamordować	Verb	zamordować pf (semelfactive, imperfective mordować)
+wyprowadzać się	Verb	wyprowadzać się impf (perfective wyprowadzić się)
+podpisać	Verb	podpisać pf (imperfective podpisywać)
+insynuować	Verb	insynuować impf (perfective zainsynuować)
+zasilać	Verb	zasilać impf (perfective zasilić)
+ora	Verb	ora
+witał	Verb	witał
+oczerniać	Verb	oczerniać impf (perfective oczernić)
+nadejść	Verb	nadejść pf (imperfective nadchodzić)
+brnąć	Verb	brnąć impf
+kłuć	Verb	kłuć impf (perfective ukłuć)
+dam	Verb	dam
+pracować	Verb	pracować impf (perfective popracować)
+wychowywać	Verb	wychowywać impf (perfective wychować)
+wdepnąć	Verb	wdepnąć pf
+przyjmować	Verb	przyjmować impf (perfective przyjąć)
+sapać	Verb	sapać impf
+grawerować	Verb	grawerować impf (perfective wygrawerować)
+przedstawiać	Verb	przedstawiać impf (perfective przedstawić)
+przyszły	Verb	przyszły
+piec	Verb	piec impf (perfective upiec)
+kojarzyć	Verb	kojarzyć impf (perfective skojarzyć)
+ciągać	Verb	ciągać impf
+poniżać	Verb	poniżać impf (perfective poniżyć)
+postać	Verb	postać pf
+kosztować	Verb	kosztować impf
+kosztować	Verb	kosztować impf (perfective skosztować)
+lgnąć	Verb	lgnąć impf (perfective przylgnąć)
+róść	Verb	róść impf (perfective uróść)
+powinien	Verb	powinien m (defective)
+siusiać	Verb	siusiać impf
+przemyśleć	Verb	przemyśleć pf (imperfective przemyślać) 
+rozgrzeszać	Verb	rozgrzeszać impf (perfective rozgrzeszyć)
+pogrzebać	Verb	pogrzebać pf (iterative, imperfective grzebać)
+pogrzebać	Verb	pogrzebać pf (semelfactive, imperfective grzebać)
+pożądać	Verb	pożądać impf
+roztrzepać	Verb	roztrzepać pf (imperfective roztrzepywać)
+poznawać	Verb	poznawać impf (perfective poznać)
+śpieszyć	Verb	śpieszyć impf (perfective pośpieszyć)
+rozwiązać	Verb	rozwiązać pf (imperfective rozwiązywać)
+przebijać	Verb	przebijać impf (perfective przebić)
+zimować	Verb	zimować impf (perfective przezimować)
+moczyć	Verb	moczyć impf (perfective namoczyć or zamoczyć)
+przyjąć	Verb	przyjąć pf (imperfective przyjmować)
+myć	Verb	myć impf (perfective umyć)
+posiadać	Verb	posiadać impf (perfective posiąść)
+kicha	Verb	kicha
+dogadzać	Verb	dogadzać impf (perfective dogodzić)
+zmienić	Verb	zmienić pf (imperfective zmieniać)
+zniszczyć	Verb	zniszczyć pf (imperfective niszczyć)
+były	Verb	były
+ułatwiać	Verb	ułatwiać impf (perfective ułatwić)
+tulić	Verb	tulić impf (perfective utulić)
+sprawdzić	Verb	sprawdzić pf (imperfective sprawdzać)
+ziębić	Verb	ziębić impf (perfective oziębić or zaziębić)
+wirować	Verb	wirować impf
+pocieszyć	Verb	pocieszyć pf (imperfective pocieszać)
+skoczyć	Verb	skoczyć pf (imperfective skakać)
+telefonować	Verb	telefonować impf (perfective zatelefonować)
+gasić	Verb	gasić impf (perfective zgasić or ugasić)
+dbać	Verb	dbać impf
+spojrzeć	Verb	spojrzeć pf (imperfective spoglądać)
+pałaszować	Verb	pałaszować impf (perfective spałaszować)
+kłócić	Verb	kłócić impf (perfective skłócić)
+uratować	Verb	uratować pf (imperfective ratować)
+wchodzić	Verb	wchodzić impf (perfective wejść)
+zapisywać	Verb	zapisywać impf (perfective zapisać)
+zmyślić	Verb	zmyślić pf (imperfective zmyślać)
+zadać	Verb	zadać pf (imperfective zadawać)
+pokazywać	Verb	pokazywać impf (perfective pokazać)
+dąć	Verb	dąć impf (perfective zadąć)
+ściąga	Verb	ściąga
+podochodzić	Verb	podochodzić pf
+pogardzać	Verb	pogardzać impf (perfective pogardzić)
+grodzić	Verb	grodzić impf (perfective ogrodzić)
+miewać	Verb	miewać impf
+pleść	Verb	pleść impf (perfective spleść)
+obrażać	Verb	obrażać impf (perfective obrazić)
+znikać	Verb	znikać impf (perfective zniknąć)
+wylać	Verb	wylać pf (imperfective wylewać)
+spałaszować	Verb	spałaszować pf (imperfective pałaszować)
+dychać	Verb	dychać impf
+jąć	Verb	jąć pf
+poić	Verb	poić impf (perfective napoić)
+dąsać	Verb	dąsać impf
+egzaminować	Verb	egzaminować impf
+bankrutować	Verb	bankrutować impf (perfective zbankrutować)
+ukryć	Verb	ukryć pf (imperfective ukrywać)
+stała	Verb	stała
+zalogować	Verb	zalogować pf (imperfective logować)
+oddać	Verb	oddać pf (imperfective oddawać)
+chłodzić	Verb	chłodzić impf (perfective schłodzić or ochłodzić)
+można	Verb	można (defective verb)
+podrabiać	Verb	podrabiać impf (perfective podrobić)
+linieć	Verb	linieć impf (perfective wylinieć)
+otworzyć	Verb	otworzyć pf (imperfective otwierać)
+odebrać	Verb	odebrać pf (imperfective odbierać)
+karmić	Verb	karmić impf
+ciąć	Verb	ciąć impf
+wyrządzić	Verb	wyrządzić pf (imperfective wyrządzać)
+naprawiać	Verb	naprawiać impf (perfective naprawić)
+szkodzić	Verb	szkodzić impf (perfective zaszkodzić)
+rozmyślić się	Verb	rozmyślić się pf
+dźwigać	Verb	dźwigać impf (perfective dźwignąć)
+biegać	Verb	biegać impf (perfective pobiegać)
+wymiksować się	Verb	wymiksować się pf
+oporządzić	Verb	oporządzić pf (imperfective oporządzać)
+widzieć	Verb	widzieć impf (perfective zobaczyć)
+symulować	Verb	symulować impf
+bełkotać	Verb	bełkotać impf
+połknąć	Verb	połknąć pf (imperfective połykać)
+konfigurować	Verb	konfigurować impf (perfective skonfigurować)
+ubóstwiać	Verb	ubóstwiać impf (perfective ubóstwić)
+odpoczywać	Verb	odpoczywać impf (perfective odpocząć)
+spieprzać	Verb	spieprzać impf (perfective spieprzyć)
+wisieć	Verb	wisieć impf (perfective powisieć)
+tkać	Verb	tkać impf (perfective utkać)
+zabraniać	Verb	zabraniać impf (perfective zabronić)
+ograniczać	Verb	ograniczać impf (perfective ograniczyć)
+bździć	Verb	bździć impf
+łuszczyć się	Verb	łuszczyć się impf (perfective złuszczyć się)
+zachorować	Verb	zachorować pf (imperfective chorować)
+orać	Verb	orać impf (perfective zaorać)
+brukać	Verb	brukać impf (perfective zbrukać)
+mieli	Verb	mieli
+marnować	Verb	marnować impf (perfective zmarnować)
+zapewniać	Verb	zapewniać impf (perfective zapewnić)
+rozpraszać	Verb	rozpraszać impf (perfective rozproszyć)
+stręczyć	Verb	stręczyć impf
+przewodzić	Verb	przewodzić impf
+przysięgać	Verb	przysięgać impf
+zatrudniać	Verb	zatrudniać impf (perfective zatrudnić)
+wybuchać	Verb	wybuchać impf (perfective wybuchnąć)
+leczyć	Verb	leczyć impf (perfective wyleczyć or uleczyć)
+drżeć	Verb	drżeć impf
+dokonywać	Verb	dokonywać impf (perfective dokonać)
+drukować	Verb	drukować impf
+dedykować	Verb	dedykować impf (perfective zadedykować)
+gram	Verb	gram
+wyjść	Verb	wyjść pf (imperfective wychodzić)
+szarogęsić się	Verb	szarogęsić się impf
+refować	Verb	refować impf
+pierdolić	Verb	pierdolić impf
+lutować	Verb	lutować impf (perfective zlutować)
+trapić	Verb	trapić impf (perfective strapić)
+wydostawać się	Verb	wydostawać się impf (perfective wydostać się)
+spawać	Verb	spawać impf (perfective zespawać)
+wymusić	Verb	wymusić pf (imperfective wymuszać)
+uwieść	Verb	uwieść pf (imperfective uwodzić)
+zrabować	Verb	zrabować pf (imperfective rabować)
+wracać	Verb	wracać impf (perfective wrócić)
+przeprowadzać	Verb	przeprowadzać impf (perfective przeprowadzić)
+splunąć	Verb	splunąć pf (imperfective pluć)
+podać	Verb	podać pf (imperfective podawać)
+tykać	Verb	tykać impf (perfective tyknąć)
+zestawić	Verb	zestawić pf (imperfective zestawiać)
+zastanawiać się	Verb	zastanawiać się impf (perfective zastanowić się)
+oddychać	Verb	oddychać impf (perfective odetchnąć)
+pocić się	Verb	pocić się impf (perfective spocić się)
+siąść	Verb	siąść pf (imperfective siadać)
+zarabiać	Verb	zarabiać impf (perfective zarobić)
+brakować	Verb	brakować impf (perfective zabrakować)
+ufać	Verb	ufać impf (perfective zaufać)
+sfałszować	Verb	sfałszować pf (imperfective fałszować)
+starać się	Verb	starać się impf (perfective postarać się)
+karczować	Verb	karczować impf (perfective wykarczować)
+śledzić	Verb	śledzić impf
+marzyć	Verb	marzyć impf
+dostarczać	Verb	dostarczać impf (perfective dostarczyć)
+opróżnić	Verb	opróżnić pf (imperfective opróżniać)
+prowadzić się	Verb	prowadzić się impf
+rozpostrzeć	Verb	rozpostrzeć pf (imperfective rozpościerać)
+chować	Verb	chować impf
+rozczarować	Verb	rozczarować pf (imperfective rozczarowywać)
+zostawić	Verb	zostawić pf (imperfective zostawiać)
+jonizować	Verb	jonizować impf
+śledź	Verb	śledź
+nakryć	Verb	nakryć pf (imperfective nakrywać)
+dziękować	Verb	dziękować impf (perfective podziękować)
+wygrać	Verb	wygrać pf (imperfective wygrywać)
+czerpać	Verb	czerpać impf (perfective zaczerpnąć)
+sadzić	Verb	sadzić impf (perfective posadzić or zasadzić)
+parkować	Verb	parkować impf (perfective zaparkować)
+wysiąść	Verb	wysiąść pf (imperfective wysiadać)
+myśleć	Verb	myśleć impf (perfective pomyśleć)
+ocenić	Verb	ocenić pf (imperfective oceniać)
+dobyć	Verb	dobyć pf (imperfective dobywać)
+czyścić	Verb	czyścić impf (perfective wyczyścić)
+zburzyć	Verb	zburzyć pf (imperfective burzyć)
+słynąć	Verb	słynąć impf (perfective zasłynąć)
+przeć	Verb	przeć impf
+siać	Verb	siać impf (perfective zasiać or posiać)
+rozmieszczać	Verb	rozmieszczać impf (perfective rozmieścić)
+dostrzegać	Verb	dostrzegać impf (perfective dostrzec)
+uciekać	Verb	uciekać impf (perfective uciec)
+przekomarzać się	Verb	przekomarzać się impf (perfective poprzekomarzać się)
+cieknąć	Verb	cieknąć impf
+błyskać	Verb	błyskać impf (perfective błysnąć)
+wymóc	Verb	wymóc pf (imperfective wymagać)
+tuczyć	Verb	tuczyć impf (perfective utuczyć)
+morzyć	Verb	morzyć impf (perfective umorzyć)
+przypomnieć	Verb	przypomnieć pf (imperfective przypominać)
+tatuować	Verb	tatuować impf (perfective wytatuować)
+głaskać	Verb	głaskać impf (perfective pogłaskać)
+czaić	Verb	czaić impf
+dowiedzieć się	Verb	dowiedzieć się pf (imperfective dowiadywać się)
+zaiwanić	Verb	zaiwanić pf (imperfective zaiwaniać)
+nie cierpieć	Verb	nie cierpieć impf
+aresztować	Verb	aresztować pf
+aresztować	Verb	aresztować impf
+rezerwować	Verb	rezerwować impf (perfective zarezerwować)
+spał	Verb	spał
+pozostać	Verb	pozostać pf (imperfective pozostawać)
+zapominać	Verb	zapominać impf (perfective zapomnieć)
+zabierać	Verb	zabierać impf (perfective zabrać)
+graniczyć	Verb	graniczyć impf
+kosić	Verb	kosić impf (perfective skosić)
+śniadać	Verb	śniadać impf
+odmieniać	Verb	odmieniać impf (perfective odmienić)
+bieleć	Verb	bieleć impf (perfective wybieleć or zbieleć)
+zmywać	Verb	zmywać impf (perfective zmyć)
+pili	Verb	pili
+kisnąć	Verb	kisnąć impf (perfective skisnąć)
+ukorzyć	Verb	ukorzyć pf
+razić	Verb	razić impf
+uśpić	Verb	uśpić pf (imperfective usypiać)
+śnić	Verb	śnić impf
+dzwonić	Verb	dzwonić impf (perfective zadzwonić)
+doskonalić	Verb	doskonalić impf (perfective udoskonalić)
+lżyć	Verb	lżyć impf (perfective zelżyć)
+zmięknąć	Verb	zmięknąć pf (imperfective mięknąć)
+wiać	Verb	wiać impf
+cedzić	Verb	cedzić impf (perfective odcedzić)
+ujebać	Verb	ujebać pf
+odpierać	Verb	odpierać impf (perfective odeprzeć)
+wyprowadzać	Verb	wyprowadzać impf (perfective wyprowadzić)
+garbować	Verb	garbować impf (perfective wygarbować)
+porozmawiać	Verb	porozmawiać pf (imperfective rozmawiać)
+mylić	Verb	mylić impf (perfective pomylić)
+bić	Verb	bić impf
+upaść	Verb	upaść pf
+upaść	Verb	upaść pf
+krakać	Verb	krakać impf (perfective zakrakać)
+bił	Verb	bił
+ugrzeczniać	Verb	ugrzeczniać impf (perfective ugrzecznić)
+zachodzić	Verb	zachodzić impf (perfective zajść)
+łajać	Verb	łajać impf (perfective połajać)
+pali	Verb	pali
+stać	Verb	stać impf (perfective postać)
+stać	Verb	stać pf (imperfective stawać)
+mięknąć	Verb	mięknąć impf (perfective zmięknąć)
+szantażować	Verb	szantażować impf (perfective zaszantażować)
+szeptać	Verb	szeptać impf (perfective szepnąć)
+napisać	Verb	napisać pf (imperfective pisać)
+łudzić	Verb	łudzić impf
+dźwignąć	Verb	dźwignąć pf (imperfective dźwigać)
+burzyć	Verb	burzyć impf (perfective zburzyć)
+słyszeć	Verb	słyszeć impf (perfective usłyszeć)
+wynieść	Verb	wynieść pf (imperfective wynosić)
+prosić	Verb	prosić impf (perfective poprosić)
+srać	Verb	srać impf
+zdechnąć	Verb	zdechnąć pf (imperfective zdychać)
+zerkać	Verb	zerkać impf (perfective zerknąć)
+umyć się	Verb	umyć się pf (imperfective myć się)
+tleć	Verb	tleć impf (perfective zetleć)
+rozróżnić	Verb	rozróżnić pf (imperfective rozróżniać)
+przychodzić	Verb	przychodzić impf (perfective przyjść)
+rozmawiać	Verb	rozmawiać impf (perfective porozmawiać)
+nękać	Verb	nękać impf
+piszczeć	Verb	piszczeć impf (perfective pisnąć)
+wierzgnąć	Verb	wierzgnąć pf (imperfective wierzgać)
+pal	Verb	pal
+grzeszyć	Verb	grzeszyć impf
+grabić	Verb	grabić impf (perfective zgrabić or zagrabić)
+starczy	Verb	starczy
+rozwijać się	Verb	rozwijać się impf (perfective rozwinąć się)
+pokrywać	Verb	pokrywać impf (perfective pokryć)
+ziębnąć	Verb	ziębnąć impf (perfective zziębnąć)
+golić	Verb	golić impf (perfective ogolić)
+rozpościerać	Verb	rozpościerać impf (perfective rozpostrzeć)
+zobaczyć	Verb	zobaczyć pf (imperfective widzieć)
+mruczeć	Verb	mruczeć impf (perfective zamruczeć)
+smalić	Verb	smalić impf (perfective osmalić)
+bywać	Verb	bywać impf (frequentative)
+dotknąć	Verb	dotknąć pf (imperfective dotykać)
+zaprzysięgać	Verb	zaprzysięgać impf (perfective zaprzysiąc)
+pozwalać	Verb	pozwalać impf (perfective pozwolić)
+deptać	Verb	deptać impf (perfective podeptać or zadeptać)
+powielać	Verb	powielać impf (perfective powielić)
+maskować	Verb	maskować impf (perfective zamaskować)
+śmieszkować	Verb	śmieszkować impf
+ostrzyć	Verb	ostrzyć impf (perfective naostrzyć)
+prószyć	Verb	prószyć impf (perfective poprószyć)
+wybierać	Verb	wybierać impf (perfective wybrać)
+śmierdzieć	Verb	śmierdzieć impf
+rozróżniać	Verb	rozróżniać impf (perfective rozróżnić)
+liczyć	Verb	liczyć impf (perfective policzyć)
+nawracać	Verb	nawracać impf (perfective nawrócić)
+spędzić	Verb	spędzić pf (imperfective spędzać)
+przegrać	Verb	przegrać pf (imperfective przegrywać)
+klej	Verb	klej
+rwać	Verb	rwać impf
+korzystać	Verb	korzystać impf (perfective skorzystać)
+ogarniać	Verb	ogarniać impf (perfective ogarnąć)
+wpierdol	Verb	wpierdol
+pogrzeb	Verb	pogrzeb
+drylować	Verb	drylować impf
+mazać	Verb	mazać impf (perfective pomazać or maznąć)
+narzekać	Verb	narzekać impf
+móc	Verb	móc impf
+dnieć	Verb	dnieć impf
+przeinaczać	Verb	przeinaczać impf (perfective przeinaczyć)
+rani	Verb	rani
+kazać	Verb	kazać impf
+orzekać	Verb	orzekać impf (perfective orzec)
+wyludniać	Verb	wyludniać impf (perfective wyludnić)
+przypominać	Verb	przypominać impf (perfective przypomnieć)
+filmować	Verb	filmować impf (perfective sfilmować)
+dźgać	Verb	dźgać impf (perfective dźgnąć)
+brzmieć	Verb	brzmieć impf
+wyjebać	Verb	wyjebać pf
+uprzedzić	Verb	uprzedzić pf (imperfective uprzedzać)
+wstać	Verb	wstać pf (imperfective wstawać)
+ciągnąć	Verb	ciągnąć impf
+podpierdolić	Verb	podpierdolić pf
+pełzać	Verb	pełzać impf
+cenić	Verb	cenić impf (perfective docenić)
+twierdzić	Verb	twierdzić impf (perfective stwierdzić)
+wskazywać	Verb	wskazywać impf (perfective wskazać)
+kwestionować	Verb	kwestionować impf (perfective zakwestionować)
+zakazywać	Verb	zakazywać impf (perfective zakazać)
+umawiać się	Verb	umawiać się impf (perfective umówić się)
+zaprzeczyć	Verb	zaprzeczyć pf (imperfective przeczyć)
+posłuchać	Verb	posłuchać pf (imperfective słuchać)
+chlap	Verb	chlap
+wędrować	Verb	wędrować impf
+pukać	Verb	pukać impf (perfective puknąć)
+zwiedzać	Verb	zwiedzać impf (perfective zwiedzić)
+chcieć	Verb	chcieć impf (perfective zechcieć)
+owijać	Verb	owijać impf (perfective owinąć)
+martwić się	Verb	martwić się impf
+zamawiać	Verb	zamawiać impf (perfective zamówić)
+otrzymać	Verb	otrzymać pf (imperfective otrzymywać)
+czesać	Verb	czesać impf (perfective uczesać)
+powiedzieć	Verb	powiedzieć pf (imperfective mówić)
+wyjaśnić	Verb	wyjaśnić pf (imperfective wyjaśniać)
+napowietrzyć	Verb	napowietrzyć pf (imperfective napowietrzać)
+przeżuwać	Verb	przeżuwać impf (perfective przeżuć)
+odraczać	Verb	odraczać impf (perfective odroczyć)
+skrócić	Verb	skrócić pf (imperfective skracać)
+sprzyjać	Verb	sprzyjać impf
+drażnić	Verb	drażnić impf
+dziwić	Verb	dziwić impf (perfective zadziwić or zdziwić)
+przeprosić	Verb	przeprosić pf (imperfective przepraszać)
+czytywać	Verb	czytywać impf (frequentative)
+zaprosić	Verb	zaprosić pf (imperfective zapraszać)
+zaprzęgać	Verb	zaprzęgać impf (perfective zaprząc)
+zostawać	Verb	zostawać impf (perfective zostać)
+obiecać	Verb	obiecać pf (imperfective obiecywać)
+pijać	Verb	pijać impf
+wlec	Verb	wlec impf
+zwierz	Verb	zwierz pf
+dostać	Verb	dostać pf (imperfective dostawać)
+umówić się	Verb	umówić się pf (imperfective umawiać się)
+musieć	Verb	musieć impf
+szpiegować	Verb	szpiegować impf
+więdnąć	Verb	więdnąć impf (perfective zwiędnąć)
+pozostawać	Verb	pozostawać impf (perfective pozostać)
+splądrować	Verb	splądrować pf (imperfective plądrować)
+paczyć	Verb	paczyć impf (perfective wypaczyć)
+zwymyślać	Verb	zwymyślać pf (imperfective wymyślać)
+przynieść	Verb	przynieść pf (imperfective przynosić)
+zamarzać	Verb	zamarzać impf (perfective zamarznąć)
+ćpać	Verb	ćpać impf
+ignorować	Verb	ignorować impf (perfective zignorować)
+odstawić	Verb	odstawić pf (imperfective odstawiać)
+żegnać	Verb	żegnać impf (perfective pożegnać)
+smarkać	Verb	smarkać impf (perfective wysmarkać)
+wróżyć	Verb	wróżyć impf (perfective powróżyć)
+być	Verb	być impf
+fruwać	Verb	fruwać impf
+ripostować	Verb	ripostować impf
+wlewać	Verb	wlewać impf (perfective wlać)
+wesprzeć	Verb	wesprzeć pf (imperfective wspierać)
+pić	Verb	pić impf (perfective wypić)
+kontrolować	Verb	kontrolować impf
+potrafić	Verb	potrafić impf (perfective potrafić)
+potrafić pf (imperfective potrafić)
+mleć	Verb	mleć impf (perfective zemleć)
+ubierać	Verb	ubierać impf (perfective ubrać)
+urodzić	Verb	urodzić pf (imperfective rodzić)
+zachować	Verb	zachować pf (imperfective zachowywać)
+odgrzewać	Verb	odgrzewać impf (perfective odgrzać)
+zapalić	Verb	zapalić pf (imperfective palić)
+zjeść	Verb	zjeść pf (imperfective jeść)
+zapraszać	Verb	zapraszać impf (perfective zaprosić)
+polować	Verb	polować impf (perfective zapolować)
+ścignąć	Verb	ścignąć pf (imperfective ścigać)
+oddawać	Verb	oddawać impf (perfective oddać)
+poczekać	Verb	poczekać pf (imperfective czekać)
+wiedzieć	Verb	wiedzieć impf
+zweryfikować	Verb	zweryfikować pf (imperfective weryfikować)
+postarzać	Verb	postarzać impf (perfective postarzyć)
+wyglądać	Verb	wyglądać impf (perfective wyjrzeć)
+oprowadzać	Verb	oprowadzać impf (perfective oprowadzić)
+smarować	Verb	smarować impf (perfective posmarować)
+skłamać	Verb	skłamać pf (imperfective kłamać)
+ściągać	Verb	ściągać impf (perfective ściągnąć)
+lać	Verb	lać impf
+wymuszać	Verb	wymuszać impf (perfective wymusić)
+używać	Verb	używać impf (perfective użyć) + genitive
+doceniać	Verb	doceniać impf (perfective docenić)
+witać	Verb	witać impf (perfective przywitać or powitać)
+przegapić	Verb	przegapić pf (imperfective przegapiać)
+rozkręcić	Verb	rozkręcić pf (imperfective rozkręcać)
+wzmacniać	Verb	wzmacniać impf (perfective wzmocnić)
+robi	Verb	robi
+brak	Verb	brak (defective verb)
+łupić	Verb	łupić impf (perfective złupić)
+muli	Verb	muli
+da	Verb	da
+dmuchać	Verb	dmuchać impf (perfective dmuchnąć)
+jebać	Verb	jebać impf
+kłusować	Verb	kłusować impf
+cyckać	Verb	cyckać impf
+portretować	Verb	portretować impf (perfective sportretować)
+wyżymać	Verb	wyżymać impf (perfective wyżąć)
+solić	Verb	solić impf
+wrócić	Verb	wrócić pf (imperfective wracać)
+trwały	Verb	trwały
+dodawać	Verb	dodawać impf (perfective dodać)
+mknąć	Verb	mknąć impf (perfective pomknąć)
+marudzić	Verb	marudzić impf
+wytłumaczyć	Verb	wytłumaczyć pf (imperfective tłumaczyć)
+lizać	Verb	lizać impf (perfective liznąć)
+gorzeć	Verb	gorzeć impf (perfective zgorzeć)
+zakochać się	Verb	zakochać się pf
+łazić	Verb	łazić impf (perfective połazić)
+podkradać	Verb	podkradać impf (perfective podkraść)
+nakłaniać	Verb	nakłaniać impf (perfective nakłonić)
+hasać	Verb	hasać impf (perfective pohasać)
+zmartwychwstać	Verb	zmartwychwstać pf (imperfective zmartwychwstawać)
+dzierżyć	Verb	dzierżyć impf
+winić	Verb	winić impf
+paść	Verb	paść pf (imperfective padać)
+paść	Verb	paść impf
+udziwniać	Verb	udziwniać impf (perfective udziwnić)
+popychać	Verb	popychać impf (perfective popchnąć)
+poprawić	Verb	poprawić pf (imperfective poprawiać)
+wygarnąć	Verb	wygarnąć pf
+upośledzać	Verb	upośledzać impf (perfective upośledzić)
+rzucać	Verb	rzucać impf (perfective rzucić)
+esemesować	Verb	esemesować impf
+wieść	Verb	wieść impf (perfective przywieść)
+doić	Verb	doić impf (perfective wydoić)
+płonąć	Verb	płonąć impf (perfective spłonąć)
+balsamować	Verb	balsamować impf (perfective zabalsamować)
+zostać	Verb	zostać pf (imperfective zostawać)
+pakować	Verb	pakować impf (perfective zapakować)
+zapierdalać	Verb	zapierdalać impf
+wybaczyć	Verb	wybaczyć pf (imperfective wybaczać)
+żąć	Verb	żąć impf
+ładować	Verb	ładować impf (perfective załadować)
+ładować	Verb	ładować impf (perfective naładować)
+wschodzić	Verb	wschodzić impf (perfective wzejść)
+sram	Verb	sram
+kolekcjonować	Verb	kolekcjonować impf
+pruć	Verb	pruć impf (perfective popruć or rozpruć)
+wgrywać	Verb	wgrywać impf (perfective wgrać)
+kadzić	Verb	kadzić impf (perfective okadzić)
+importować	Verb	importować impf (perfective zaimportować)
+chrapać	Verb	chrapać impf
+uprowadzać	Verb	uprowadzać impf (perfective uprowadzić)
+sabotować	Verb	sabotować impf
+powierzać	Verb	powierzać impf (perfective powierzyć)
+ryczeć	Verb	ryczeć impf (perfective ryknąć or zaryczeć)
+radzić	Verb	radzić impf (perfective poradzić or doradzić)
+spadać	Verb	spadać impf (perfective spaść)
+werbować	Verb	werbować impf (perfective zwerbować)
+przyciągać	Verb	przyciągać impf (perfective przyciągnąć)
+przelecieć	Verb	przelecieć pf
+dupczyć	Verb	dupczyć impf (perfective wydupczyć)
+przekonywać	Verb	przekonywać impf (perfective przekonać)
+zerować	Verb	zerować impf
+traktować	Verb	traktować impf
+siąknąć	Verb	siąknąć impf (perfective wsiąknąć)
+zatrzymać	Verb	zatrzymać pf (imperfective zatrzymywać)
+poprzedzać	Verb	poprzedzać impf (perfective poprzedzić)
+kraść	Verb	kraść impf (perfective ukraść)
+płakać	Verb	płakać impf
+siadać	Verb	siadać impf (perfective siąść or usiąść)
+osierocać	Verb	osierocać impf (perfective osierocić)
+chełpić się	Verb	chełpić się impf
+mądrzeć	Verb	mądrzeć impf (perfective zmądrzeć)
+dyszeć	Verb	dyszeć impf
+piać	Verb	piać impf (perfective zapiać)
+uprowadzić	Verb	uprowadzić pf (imperfective uprowadzać)
+siec	Verb	siec impf
+pojawiać się	Verb	pojawiać się impf (perfective pojawić się)
+wykonywać	Verb	wykonywać impf (perfective wykonać)
+martwić	Verb	martwić impf (perfective zmartwić)
+zaryzykować	Verb	zaryzykować pf (imperfective ryzykować)
+jechać	Verb	jechać impf (perfective pojechać)
+ciskać	Verb	ciskać impf (perfective cisnąć)
+prasować	Verb	prasować impf (perfective wyprasować or uprasować)
+igrać	Verb	igrać impf (perfective poigrać)
+karać	Verb	karać impf (perfective ukarać or pokarać)
+wyciskać	Verb	wyciskać impf (perfective wycisnąć)
+budzić	Verb	budzić impf (perfective obudzić)
+strzec	Verb	strzec impf (perfective ustrzec)
+smakować	Verb	smakować impf (perfective posmakować)
+skręcić	Verb	skręcić pf (imperfective kręcić or skręcać)
+studiować	Verb	studiować impf (perfective przestudiować)
+porzucić	Verb	porzucić pf (imperfective porzucać)
+dziać	Verb	dziać impf (perfective zadziać)
+przeszkadzać	Verb	przeszkadzać impf (perfective przeszkodzić)
+obracać	Verb	obracać impf (perfective obrócić)
+sprzęgać	Verb	sprzęgać impf (perfective sprzęgnąć)
+dziergać	Verb	dziergać impf
+uderzyć	Verb	uderzyć pf (imperfective uderzać)
+pocieszać	Verb	pocieszać impf (perfective pocieszyć)
+konkurować	Verb	konkurować impf
+broić	Verb	broić impf (perfective nabroić)
+chudnąć	Verb	chudnąć impf (perfective schudnąć)
+słać	Verb	słać impf
+słać	Verb	słać impf
+kleić	Verb	kleić impf (perfective skleić)
+tajać	Verb	tajać impf (perfective odtajać)
+wyhaftować	Verb	wyhaftować pf
+modlić się	Verb	modlić się impf
+motać	Verb	motać impf (perfective namotać)
+piąć	Verb	piąć impf (perfective wspiąć)
+krążyć	Verb	krążyć impf (perfective okrążyć)
+eksportować	Verb	eksportować impf (perfective wyeksportować)
+zantagonizować	Verb	zantagonizować pf (imperfective antagonizować)
+szyć	Verb	szyć impf (perfective uszyć)
+zbyć	Verb	zbyć pf (imperfective zbywać)
+słuchać	Verb	słuchać impf (perfective posłuchać)
+gada	Verb	gada
+karaj	Verb	karaj
+zabić	Verb	zabić pf (imperfective zabijać)
+zbiegać	Verb	zbiegać impf (perfective zbiec)
+wybuchnąć	Verb	wybuchnąć pf (imperfective wybuchać)
+odbudować	Verb	odbudować pf
+dziobać	Verb	dziobać impf
+mamić	Verb	mamić impf (perfective omamić)
+pochodzić	Verb	pochodzić impf
+chodzić	Verb	chodzić impf
+ważyć	Verb	ważyć impf (perfective zważyć)
+drobić	Verb	drobić impf (perfective podrobić)
+kopać	Verb	kopać impf (perfective kopnąć)
+kopać	Verb	kopać impf (perfective wykopać)
+wznosić	Verb	wznosić impf (perfective wznieść)
+ratować	Verb	ratować impf (perfective uratować)
+opisywać	Verb	opisywać impf (perfective opisać)
+wiła	Verb	wiła f
+zwać	Verb	zwać impf (perfective nazwać)
+wyruchać	Verb	wyruchać pf (imperfective ruchać)
+czochrać	Verb	czochrać impf (perfective rozczochrać or poczochrać)
+rozmyć	Verb	rozmyć pf (imperfective rozmywać)
+depeszować	Verb	depeszować impf (perfective zadepeszować)
+grucha	Verb	grucha
+istnieć	Verb	istnieć impf
+pierzchać	Verb	pierzchać impf (perfective pierzchnąć)
+złamać	Verb	złamać pf (imperfective łamać)
+dokonać	Verb	dokonać pf (imperfective dokonywać)
+dowodzić	Verb	dowodzić impf (perfective dowieść)
+lękać się	Verb	lękać się impf (perfective zlęknąć się)
+osaczyć	Verb	osaczyć pf (imperfective osaczać)
+pędzić	Verb	pędzić impf (perfective popędzić)
+wymiotować	Verb	wymiotować impf (perfective zwymiotować)
+badać	Verb	badać impf (perfective zbadać)
+złapać	Verb	złapać pf (imperfective łapać)
+haftować	Verb	haftować impf
+zamówić	Verb	zamówić pf (imperfective zamawiać)
+pojawić się	Verb	pojawić się pf (imperfective pojawiać się)
+obgadywać	Verb	obgadywać impf (perfective obgadać)
+wypoczywać	Verb	wypoczywać impf (perfective wypocząć)
+chapać	Verb	chapać impf (perfective chapnąć)
+grać	Verb	grać impf (perfective zagrać)
+użyć	Verb	użyć pf (imperfective używać) + genitive
+podchodzić	Verb	podchodzić impf (perfective podejść)
+wywoływać	Verb	wywoływać impf (perfective wywołać)
+szanować	Verb	szanować impf
+studzić	Verb	studzić impf (perfective ostudzić)
+uczęszczać	Verb	uczęszczać impf
+skanować	Verb	skanować impf
+przerastać	Verb	przerastać impf (perfective przerosnąć)
+leżeć	Verb	leżeć impf (perfective poleżeć)
+dotyczyć	Verb	dotyczyć impf
+tłuc	Verb	tłuc impf
+jodłować	Verb	jodłować impf
+obuć	Verb	obuć pf (imperfective obuwać)
+znajdować	Verb	znajdować impf (perfective znaleźć)
+więznąć	Verb	więznąć impf (perfective uwięznąć)
+podróżować	Verb	podróżować impf
+goić	Verb	goić impf (perfective zagoić)
+rozdawać	Verb	rozdawać impf (perfective rozdać)
+instalować	Verb	instalować impf
+machać	Verb	machać impf (perfective machnąć or pomachać)
+umierać	Verb	umierać impf (perfective umrzeć)
+podżegać	Verb	podżegać impf
+kumać	Verb	kumać impf (perfective skumać)
+czaić się	Verb	czaić się impf (perfective zaczaić śię)
+zakłócać	Verb	zakłócać impf (perfective zakłócić)
+połączyć	Verb	połączyć pf (imperfective łączyć)
+uczestniczyć	Verb	uczestniczyć impf
+skazać	Verb	skazać pf (imperfective skazywać)
+denerwować	Verb	denerwować impf (perfective zdenerwować)
+czarować	Verb	czarować impf (perfective zaczarować)
+malować	Verb	malować impf
+rozkręcać	Verb	rozkręcać impf (perfective rozkręcić)
+śmiać się	Verb	śmiać się impf
+schlebiać	Verb	schlebiać impf
+porównywać	Verb	porównywać impf (perfective porównać)
+walczyć	Verb	walczyć impf
+prawić	Verb	prawić impf
+szaleć	Verb	szaleć impf (perfective oszaleć)
+kołysać	Verb	kołysać impf (perfective zakołysać, pokołysać)
+broń	Verb	broń
+zazdrościć	Verb	zazdrościć impf (perfective pozazdrościć)
+wyłudzać	Verb	wyłudzać impf (perfective wyłudzić)
+parować	Verb	parować impf
+poróżnić	Verb	poróżnić pf
+kroić	Verb	kroić impf
+zasnąć	Verb	zasnąć pf (imperfective zasypiać)
+marznąć	Verb	marznąć impf (perfective zmarznąć)
+sprzątnąć	Verb	sprzątnąć pf (imperfective sprzątać)
+namawiać	Verb	namawiać impf (perfective namówić)
+identyfikować	Verb	identyfikować impf (perfective zidentyfikować)
+ocipieć	Verb	ocipieć pf
+żałować	Verb	żałować impf (perfective pożałować)
+naszywać	Verb	naszywać impf (perfective naszyć)
+pieścić	Verb	pieścić impf (perfective popieścić)
+warto	Verb	warto (defective verb)
+zauważyć	Verb	zauważyć pf (imperfective zauważać)
+nadchodzić	Verb	nadchodzić impf (perfective nadejść)
+unikać	Verb	unikać impf (perfective uniknąć)
+komentować	Verb	komentować impf
+mrugać	Verb	mrugać impf (perfective mrugnąć)
+kicać	Verb	kicać impf
+znać	Verb	znać impf
+spotkać	Verb	spotkać pf (imperfective spotykać)
+wyć	Verb	wyć impf (perfective zawyć)
+banglać	Verb	banglać impf
+dusić	Verb	dusić impf (perfective udusić)
+utwardzić	Verb	utwardzić pf (imperfective utwardzać)
+sprzeniewierzyć	Verb	sprzeniewierzyć pf (imperfective sprzeniewierzać)
+sarkać	Verb	sarkać impf (perfective sarknąć)
+budować	Verb	budować impf
+wonieć	Verb	wonieć impf
+przekwitać	Verb	przekwitać impf (perfective przekwitnąć)
+śmieć	Verb	śmieć impf
+wrastać	Verb	wrastać impf (perfective wrosnąć)
+gromadzić	Verb	gromadzić impf (perfective zgromadzić)
+dorastać	Verb	dorastać impf (perfective dorosnąć)
+mądrzyć się	Verb	mądrzyć się impf
+sprawdzać	Verb	sprawdzać impf (perfective sprawdzić)
+sprzątać	Verb	sprzątać impf (perfective sprzątnąć)
+wydostać się	Verb	wydostać się pf (imperfective wydostawać się)
+bojać się	Verb	bojać się impf
+stukać	Verb	stukać impf (perfective stuknąć)
+znaczyć	Verb	znaczyć impf
+wspominać	Verb	wspominać impf (perfective wspomnieć)
+boleć	Verb	boleć impf
+szukać	Verb	szukać impf (perfective poszukać)
+przesadzać	Verb	przesadzać impf (perfective przesadzić)
+obejmować	Verb	obejmować impf (perfective objąć)
+pachnieć	Verb	pachnieć impf
+szturchać	Verb	szturchać impf (perfective szturchnąć)
+oceniać	Verb	oceniać impf (perfective ocenić)
+wyjaśniać	Verb	wyjaśniać impf (perfective wyjaśnić)
+zaginać	Verb	zaginać impf (perfective zaginać)
+spalać	Verb	spalać impf (perfective spalić)
+upadać	Verb	upadać impf (perfective upaść)
+jęczeć	Verb	jęczeć impf (perfective jęknąć)
+bronić	Verb	bronić impf (perfective obronić)
+stroić	Verb	stroić impf
+ulewa	Verb	ulewa
+zarezerwować	Verb	zarezerwować pf (imperfective rezerwować)
+przeinaczyć	Verb	przeinaczyć pf (imperfective przeinaczać)
+szczypać	Verb	szczypać impf (perfective uszczypnąć or szczypnąć)
+mył	Verb	mył
+podpalać	Verb	podpalać impf (perfective podpalić)
+zdążyć	Verb	zdążyć pf (imperfective zdążać)
+trzeć	Verb	trzeć impf (perfective potrzeć)
+wybrać	Verb	wybrać pf (imperfective wybierać)
+odtwarzać	Verb	odtwarzać impf (perfective odtworzyć)
+zakładać	Verb	zakładać impf (perfective założyć)
+trąbić	Verb	trąbić impf (perfective zatrąbić)
+pada	Verb	pada
+skracać	Verb	skracać impf (perfective skrócić)
+rzutować	Verb	rzutować impf
+schnąć	Verb	schnąć impf (perfective wyschnąć or uschnąć)
+kończyć	Verb	kończyć impf (perfective skończyć)
+skrobać	Verb	skrobać impf (perfective skrobnąć)
+lej	Verb	lej
+nabywać	Verb	nabywać impf (perfective nabyć)
+kupić	Verb	kupić pf (imperfective kupować)
+zadzwonić	Verb	zadzwonić pf (imperfective dzwonić)
+biec	Verb	biec impf (perfective pobiec)
+wymyślić	Verb	wymyślić pf (imperfective wymyślać)
+mrozić	Verb	mrozić impf (perfective zamrozić or zmrozić)
+pokonać	Verb	pokonać pf (imperfective pokonywać)
+kierować się	Verb	kierować się impf
+kopiować	Verb	kopiować impf (perfective skopiować)
+okradać	Verb	okradać impf (perfective okraść)
+prząść	Verb	prząść impf (perfective uprząść)
+gnębić	Verb	gnębić impf (perfective zgnębić)
+zaczekać	Verb	zaczekać pf (imperfective czekać)
+usiąść	Verb	usiąść pf (imperfective siadać)
+zaciążyć	Verb	zaciążyć pf
+utwardzać	Verb	utwardzać impf (perfective utwardzić)
+gardzić	Verb	gardzić impf (perfective pogardzić or wzgardzić)
+bielić	Verb	bielić impf (perfective pobielić or wybielić)
+oprawiać	Verb	oprawiać impf (perfective oprawić)
+całować	Verb	całować impf (perfective pocałować or ucałować)
+zabrać	Verb	zabrać pf (imperfective brać or zabierać)
+przypuszczać	Verb	przypuszczać impf (perfective przypuścić)
+opuścić	Verb	opuścić pf (imperfective opuszczać)
+mieszkać	Verb	mieszkać impf (perfective zamieszkać)
+mścić	Verb	mścić impf (perfective pomścić)
+przysiąc	Verb	przysiąc pf (imperfective przysięgać)
+zacieniać	Verb	zacieniać impf (perfective zacienić)
+błyszczeć	Verb	błyszczeć impf
+aktywować	Verb	aktywować impf
+aktywować	Verb	aktywować pf
+żartować	Verb	żartować impf
+migać	Verb	migać impf (perfective mignąć)
+smrodzić	Verb	smrodzić impf
+bełtać	Verb	bełtać impf
+zaprowadzić	Verb	zaprowadzić pf (imperfective prowadzić)
+kłócić się	Verb	kłócić się impf (perfective pokłócić się)
+dojrzewać	Verb	dojrzewać impf (perfective dojrzeć)
+wydostawać	Verb	wydostawać impf (perfective wydostać)
+snuć	Verb	snuć impf (perfective wysnuć)
+dotykać	Verb	dotykać impf (perfective dotknąć)
+otwierać	Verb	otwierać impf (perfective otworzyć)
+jeździć	Verb	jeździć impf
+zbierać	Verb	zbierać impf (perfective zebrać)
+gotować	Verb	gotować impf (perfective ugotować)
+ruchać	Verb	ruchać impf (perfective wyruchać)
+szuka	Verb	szuka
+smutać	Verb	smutać impf
+ścigać	Verb	ścigać impf (perfective ścignąć)
+karcić	Verb	karcić impf (perfective skarcić)
+hamować	Verb	hamować impf (perfective zahamować)
+kapować	Verb	kapować impf
+pierdzieć	Verb	pierdzieć impf
+poruchać	Verb	poruchać pf (iterative)
+sterować	Verb	sterować impf
+znieczulać	Verb	znieczulać impf (perfective znieczulić)
+sączyć	Verb	sączyć impf (perfective odsączyć)
+opatentować	Verb	opatentować pf (imperfective patentować)
+żreć	Verb	żreć impf (perfective zeżreć)
+miauczeć	Verb	miauczeć impf
+zaorać	Verb	zaorać pf (imperfective orać)
+tyć	Verb	tyć impf (perfective utyć)
+miesić	Verb	miesić impf
+trzaskać	Verb	trzaskać impf (perfective trzasnąć)
+wynajmować	Verb	wynajmować impf (perfective wynająć)
+zamknąć	Verb	zamknąć pf (imperfective zamykać)
+iskać	Verb	iskać impf
+szczepić	Verb	szczepić impf (perfective zaszczepić)
+zapobiegać	Verb	zapobiegać impf (perfective zapobiec)
+sięgać	Verb	sięgać impf (perfective sięgnąć)
+spać	Verb	spać impf
+wychynąć	Verb	wychynąć pf
+trzymać	Verb	trzymać impf
+zmieniać	Verb	zmieniać impf (perfective zmienić)
+świerzbić	Verb	świerzbić impf
+pożreć	Verb	pożreć pf
+kwilić	Verb	kwilić impf
+oszukać	Verb	oszukać pf (imperfective oszukiwać)
+olać	Verb	olać pf (imperfective olewać)
+gonić	Verb	gonić impf
+obiecywać	Verb	obiecywać impf (perfective obiecać)
+łamać	Verb	łamać impf (perfective złamać)
+саłоwаć	Verb	саłоwаć impf (perfective pocałować)
+ma	Verb	ma
+gnić	Verb	gnić impf (perfective zgnić)
+powtarzać	Verb	powtarzać impf (perfective powtórzyć)
+zaruchać	Verb	zaruchać pf
+śpiewać	Verb	śpiewać impf (perfective zaśpiewać)
+jebnąć	Verb	jebnąć pf (semelfactive)
+skarżyć	Verb	skarżyć impf (perfective oskarżyć)
+ruszyć	Verb	ruszyć pf (imperfective ruszać)
+stwardnieć	Verb	stwardnieć pf (imperfective twardnieć)
+opiekować się	Verb	opiekować się impf
+złożyć	Verb	złożyć pf (imperfective składać)
+drukowany	Verb	drukowany m
+oszczędzać	Verb	oszczędzać impf (perfective oszczędzić or zaoszczędzić)
+zaimportować	Verb	zaimportować pf (imperfective importować)
+wykopać	Verb	wykopać pf (imperfective kopać or wykopywać)
+zmiękczać	Verb	zmiękczać impf (perfective zmiękczyć)
+wydostać	Verb	wydostać pf (imperfective wydostawać)
+zajebać	Verb	zajebać pf
+mierzić	Verb	mierzić impf (perfective zmierzić)
+cuchnąć	Verb	cuchnąć impf
+masturbować się	Verb	masturbować się impf
+oglądać	Verb	oglądać impf (perfective obejrzeć)
+brudzić	Verb	brudzić impf (perfective pobrudzić)
+pytać	Verb	pytać impf (perfective zapytać or spytać)
+prażyć	Verb	prażyć impf (perfective uprażyć)
+przeprowadzać się	Verb	przeprowadzać się impf (perfective przeprowadzić się)
+drążyć	Verb	drążyć impf (perfective wydrążyć)
+kompilować	Verb	kompilować impf (perfective skompilować)
+ciec	Verb	ciec impf (perfective pociec)
+mulczować	Verb	mulczować impf
+napowietrzać	Verb	napowietrzać impf (perfective napowietrzyć)
+grozić	Verb	grozić impf (perfective zagrozić)
+skrzypieć	Verb	skrzypieć impf (perfective zaskrzypieć or skrzypnąć)
+rozgrzeszyć	Verb	rozgrzeszyć pf
+spowiadać	Verb	spowiadać impf (perfective wyspowiadać)
+kupować	Verb	kupować impf (perfective kupić)
+szczerzyć	Verb	szczerzyć impf (perfective wyszczerzyć)
+odśnieżać	Verb	odśnieżać impf (perfective odśnieżyć)
+pożyczyć	Verb	pożyczyć pf (imperfective pożyczać)
+podejść	Verb	podejść pf (imperfective podchodzić)
+odpocząć	Verb	odpocząć pf (imperfective odpoczywać)
+głodzić	Verb	głodzić impf (perfective zagłodzić)
+wyprasować	Verb	wyprasować pf (imperfective prasować)
+zawrzeć	Verb	zawrzeć pf (imperfective zawierać)
+olej	Verb	olej
+odbierać	Verb	odbierać impf (perfective odebrać)
+wiosłować	Verb	wiosłować impf
+upuścić	Verb	upuścić pf (imperfective upuszczać)
+pójść	Verb	pójść pf (imperfective iść)
+upokarzać	Verb	upokarzać impf (perfective upokorzyć)
+wyłudzić	Verb	wyłudzić pf (imperfective wyłudzać)
+puszczać	Verb	puszczać impf (perfective puścić)
+zerżnąć	Verb	zerżnąć pf (imperfective zrzynać)
+pomóc	Verb	pomóc pf (imperfective pomagać)
+prowadzić	Verb	prowadzić impf
+giąć	Verb	giąć impf
+okraszać	Verb	okraszać impf (perfective okrasić)
+należy	Verb	należy impf
+należy	Verb	należy (defective verb)
+wykorzystywać	Verb	wykorzystywać impf (perfective wykorzystać)
+palił	Verb	palił
+poznać	Verb	poznać pf (imperfective poznawać)
+połykać	Verb	połykać impf (perfective połknąć)
+zbawiać	Verb	zbawiać impf (perfective zbawić)
+zerwać	Verb	zerwać pf (imperfective zrywać)
+zebrać	Verb	zebrać pf (imperfective zbierać)
+topić	Verb	topić impf (perfective 1. stopić, 2. zatopić, 3. utopić)
+klaskać	Verb	klaskać impf (perfective klasnąć or zaklaskać)
+zarżnąć	Verb	zarżnąć pf (imperfective zarzynać)
+wieźć	Verb	wieźć impf (perfective powieźć)
+podnieść	Verb	podnieść pf (imperfective podnosić)
+je	Verb	je
+mordować	Verb	mordować impf (perfective zamordować)
+mógł	Verb	mógł
+ściskać	Verb	ściskać impf (perfective ścisnąć)
+kapać	Verb	kapać impf (perfective kapnąć)
+mieść	Verb	mieść impf (perfective zamieść)
+nosić	Verb	nosić impf
+leźć	Verb	leźć impf
+polecać	Verb	polecać impf (perfective polecić)
+rżeć	Verb	rżeć impf
+otrzymywać	Verb	otrzymywać impf (perfective otrzymać)
+gra	Verb	gra
+ocieplać	Verb	ocieplać impf (perfective ocieplić)
+strzelać	Verb	strzelać impf (perfective strzelić)
+żądlić	Verb	żądlić impf (perfective użądlić)
+dementować	Verb	dementować impf (perfective zdementować)
+występować	Verb	występować impf (perfective wystąpić)
+jadać	Verb	jadać impf (frequentative)
+żądać	Verb	żądać impf (perfective zażądać)
+mieszać	Verb	mieszać impf
+kipieć	Verb	kipieć impf (perfective wykipieć)
+strzelić	Verb	strzelić pf (imperfective strzelać)
+obalać	Verb	obalać impf (perfective obalić)
+przemieniać	Verb	przemieniać impf (perfective przemienić)
+zrzucić	Verb	zrzucić pf (imperfective zrzucać)
+włóczyć	Verb	włóczyć impf
+zdementować	Verb	zdementować pf (imperfective dementować)
+ponaglać	Verb	ponaglać impf (perfective ponaglić)
+stawać	Verb	stawać impf (perfective stanąć)
+złupić	Verb	złupić pf (imperfective łupić)
+łaknąć	Verb	łaknąć impf
+otaczać	Verb	otaczać impf (perfective otoczyć)
+przysięga	Verb	przysięga
+obserwować	Verb	obserwować impf
+tonąć	Verb	tonąć impf (perfective utonąć or zatonąć)
+tłumaczyć	Verb	tłumaczyć impf (perfective przetłumaczyć)
+tłumaczyć	Verb	tłumaczyć impf (perfective wytłumaczyć)
+wykrwawić się	Verb	wykrwawić się pf (imperfective krwawić)
+bluzgać	Verb	bluzgać impf (perfective bluznąć)
+wabić	Verb	wabić impf (perfective zwabić)
+formułować	Verb	formułować impf (perfective sformułować)
+numerować	Verb	numerować impf
+powtórzyć	Verb	powtórzyć pf (imperfective powtarzać)
+odwzajemnić	Verb	odwzajemnić pf (imperfective odwzajemniać)
+odkryć	Verb	odkryć pf (imperfective odkrywać)
+okazać	Verb	okazać pf (imperfective okazywać)
+zainsynuować	Verb	zainsynuować pf (imperfective insynuować)
+cucić	Verb	cucić impf (perfective ocucić)
+bawić	Verb	bawić impf
+podrobić	Verb	podrobić pf (imperfective podrabiać)
+podrobić	Verb	podrobić pf (imperfective drobić)
+hodować	Verb	hodować impf (perfective wyhodować)
+chłeptać	Verb	chłeptać impf (perfective wychłeptać)
+mówić	Verb	mówić impf (perfective powiedzieć)
+umrzeć	Verb	umrzeć pf (imperfective umierać)
+nieść	Verb	nieść impf
+grzebać	Verb	grzebać impf (perfective pogrzebać)
+potrzebować	Verb	potrzebować impf + genitive
+kimać	Verb	kimać impf (perfective kimnąć się)
+pożerać	Verb	pożerać impf (perfective pożreć)
+zakazać	Verb	zakazać pf (imperfective zakazywać)
+spróbować	Verb	spróbować pf (imperfective próbować)
+puścić	Verb	puścić pf (imperfective puszczać)
+obalić	Verb	obalić pf (imperfective obalać)
+demontować	Verb	demontować impf (perfective zdemontować)
+tłumić	Verb	tłumić impf (perfective stłumić)
+założyć	Verb	założyć pf
+pyta	Verb	pyta
+rzygać	Verb	rzygać impf (perfective rzygnąć)
+tul	Verb	tul
+wytryskiwać	Verb	wytryskiwać impf
+ucieleśniać	Verb	ucieleśniać impf (perfective ucieleśnić)
+warzyć	Verb	warzyć impf (perfective uwarzyć)
+wąchać	Verb	wąchać impf (perfective powąchać)
+kurz	Verb	kurz
+poprosić	Verb	poprosić pf (imperfective prosić)
+postradać	Verb	postradać pf
+kserować	Verb	kserować impf (perfective skserować)
+gwizdać	Verb	gwizdać impf (perfective gwizdnąć)
+potwierdzać	Verb	potwierdzać impf (perfective potwierdzić)
+proponować	Verb	proponować impf (perfective zaproponować)
+czuły	Verb	czuły
+składać	Verb	składać impf (perfective złożyć)
+analizować	Verb	analizować impf
+wić	Verb	wić impf
+trzepać	Verb	trzepać impf (perfective trzepnąć)
+siedzieć	Verb	siedzieć impf (perfective posiedzieć)
+ranić	Verb	ranić impf (perfective zranić)
+wypić	Verb	wypić pf (imperfective pić)
+wymagać	Verb	wymagać impf (perfective wymóc)
+zakażać	Verb	zakażać impf (perfective zakazić)
+przenikać	Verb	przenikać impf (perfective przeniknąć)
+pała	Verb	pała
+zdiagnozować	Verb	zdiagnozować pf (imperfective diagnozować)
+otruć	Verb	otruć pf (imperfective truć)
+puchnąć	Verb	puchnąć impf (perfective opuchnąć or napuchnąć)
+podkreślać	Verb	podkreślać impf (perfective podkreślić)
+pobrać	Verb	pobrać pf (imperfective pobierać)
+rżnąć	Verb	rżnąć impf
+zbiera	Verb	zbiera
+wyjmować	Verb	wyjmować impf (perfective wyjąć)
+zapłacić	Verb	zapłacić pf (imperfective płacić)
+przytulać	Verb	przytulać impf (perfective przytulić)
+nagradzać	Verb	nagradzać impf (perfective nagrodzić)
+myśl	Verb	myśl
+należeć	Verb	należeć impf
+rzępolić	Verb	rzępolić impf
+gasnąć	Verb	gasnąć impf (perfective zgasnąć)
+przestać	Verb	przestać pf (imperfective przestawać)
+sterczeć	Verb	sterczeć impf
+unicestwić	Verb	unicestwić pf (imperfective unicestwiać)
+rozmywać	Verb	rozmywać impf (perfective rozmyć)
+kąpać	Verb	kąpać impf (perfective skąpać or wykąpać)
+rozmyślać	Verb	rozmyślać impf
+kląć	Verb	kląć impf
+piździć	Verb	piździć impf
+żuć	Verb	żuć impf (perfective przeżuć)
+kochać	Verb	kochać impf (perfective pokochać)
+przyjrzeć się	Verb	przyjrzeć się pf
+smęcić	Verb	smęcić impf
+obciążać	Verb	obciążać impf (perfective obciążyć)
+myć się	Verb	myć się impf (perfective umyć się)
+sięgnąć	Verb	sięgnąć pf (imperfective sięgać)
+ogradzać	Verb	ogradzać impf (perfective ogrodzić)
+dezaktywować	Verb	dezaktywować impf
+uosabiać	Verb	uosabiać impf (perfective uosobić)
+obnosić	Verb	obnosić impf
+mam	Verb	mam
+streszczać	Verb	streszczać impf (perfective streścić)
+przytulić	Verb	przytulić pf (imperfective przytulać)
+wodzić	Verb	wodzić impf
+antagonizować	Verb	antagonizować impf (perfective zantagonizować)
+strugać	Verb	strugać impf (perfective ostrugać)
+redagować	Verb	redagować impf (perfective przeredagować)
+wycierać	Verb	wycierać impf (perfective wytrzeć)
+wydać	Verb	wydać pf (imperfective wydawać)
+zrobić	Verb	zrobić pf (imperfective robić)
+potakiwać	Verb	potakiwać impf
+gnać	Verb	gnać impf
+palić	Verb	palić impf (perfective zapalić)
+zaniechać	Verb	zaniechać pf
+szlochać	Verb	szlochać impf
+wziąć	Verb	wziąć pf (imperfective brać)
+uwierzyć	Verb	uwierzyć pf (imperfective wierzyć)
+włączać	Verb	włączać impf (perfective włączyć)
+zawieść	Verb	zawieść pf
+wdychać	Verb	wdychać impf
+wiązać	Verb	wiązać impf (perfective zawiązać)
+biegły	Verb	biegły
+węszyć	Verb	węszyć impf (perfective wywęszyć)
+przezimować	Verb	przezimować pf
+mącić	Verb	mącić impf (perfective zmącić)
+padać	Verb	padać impf (perfective paść)
+robić	Verb	robić impf (perfective zrobić)
+pląsać	Verb	pląsać impf
+łapać	Verb	łapać impf (perfective złapać)
+smażyć	Verb	smażyć impf (perfective usmażyć)
+mijać	Verb	mijać impf (perfective minąć)
+kusić	Verb	kusić impf (perfective skusić)
+oblekać	Verb	oblekać impf (perfective oblec)
+nadużywać	Verb	nadużywać impf (perfective nadużyć)
+brać	Verb	brać impf (perfective wziąć)
+zamykać	Verb	zamykać impf (perfective zamknąć)
+zjeb	Verb	zjeb
+ryć	Verb	ryć impf (perfective wyryć)
+oświetlać	Verb	oświetlać impf (perfective oświetlić)
+niszczyć	Verb	niszczyć impf (perfective zniszczyć)
+dodzwonić się	Verb	dodzwonić się pf
+zgubić	Verb	zgubić pf (imperfective gubić)
+pieprzyć	Verb	pieprzyć impf
+wyjąć	Verb	wyjąć pf (imperfective wyjmować)
+odkrywać	Verb	odkrywać impf (perfective odkryć)
+potwierdzić	Verb	potwierdzić pf (imperfective potwierdzać)
+cudzołożyć	Verb	cudzołożyć impf
+kłaść	Verb	kłaść impf (perfective położyć)
+kwitnąć	Verb	kwitnąć impf
+dostawać	Verb	dostawać impf (perfective dostać)
+nadrobić	Verb	nadrobić pf (imperfective nadrabiać)
+piła	Verb	piła
+przeżyć	Verb	przeżyć pf (imperfective przeżywać)
+tańczyć	Verb	tańczyć impf (perfective zatańczyć)
+trzebić	Verb	trzebić impf (perfective przetrzebić or wytrzebić)
+obrzęknąć	Verb	obrzęknąć pf (imperfective obrzękać)
+ogolić się	Verb	ogolić się pf (imperfective golić się)
+przegrywać	Verb	przegrywać impf (perfective przegrać)
+szczać	Verb	szczać impf
+zaczynać	Verb	zaczynać impf (perfective zacząć)
+rozsadzać	Verb	rozsadzać impf (perfective rozsadzić)
+rozważać	Verb	rozważać impf (perfective rozważyć)
+grał	Verb	grał
+ozdabiać	Verb	ozdabiać impf (perfective ozdobić)
+szczekać	Verb	szczekać impf (perfective szczeknąć)
+kucać	Verb	kucać impf (perfective kucnąć)
+twardnieć	Verb	twardnieć impf (perfective stwardnieć)
+obrabować	Verb	obrabować pf (imperfective rabować)
+wpływać	Verb	wpływać impf (perfective wpłynąć)
+zabalsamować	Verb	zabalsamować pf (imperfective balsamować)
+zwyciężać	Verb	zwyciężać impf (perfective zwyciężyć)
+pisać	Verb	pisać impf (perfective napisać)
+żec	Verb	żec impf (perfective zżec)
+przygotować	Verb	przygotować pf (imperfective przygotowywać)
+wspierać	Verb	wspierać impf (perfective wesprzeć)
+łkać	Verb	łkać impf
+żyła	Verb	żyła
+sikać	Verb	sikać impf (perfective siknąć)
+wysyłać	Verb	wysyłać impf (perfective wysłać)
+legitymizować	Verb	legitymizować impf
+jątrzyć	Verb	jątrzyć impf (perfective rozjątrzyć)
+chwalić	Verb	chwalić impf (perfective pochwalić)
+płacz	Verb	płacz
+powinienem	Verb	powinienem m (defective verb)
+wierzyć	Verb	wierzyć impf (perfective uwierzyć)
+uważać	Verb	uważać impf
+łożyć	Verb	łożyć impf (perfective wyłożyć)
+sypać	Verb	sypać impf
+był	Verb	był
+płodzić	Verb	płodzić impf (perfective spłodzić)
+wdrażać	Verb	wdrażać impf (perfective wdrożyć)
+dzielić	Verb	dzielić impf
+wyrzucić	Verb	wyrzucić pf
+zarażać	Verb	zarażać impf (perfective zarazić)
+gaworzyć	Verb	gaworzyć impf (perfective pogaworzyć)
+brzęczeć	Verb	brzęczeć impf
+schować	Verb	schować pf (imperfective chować)
+ziewać	Verb	ziewać impf (perfective ziewnąć)
+wypędzać	Verb	wypędzać impf (perfective wypędzić)
+betonować	Verb	betonować impf
+wychodzić	Verb	wychodzić impf (perfective wyjść)
+podnosić	Verb	podnosić impf (perfective podnieść)
+lec	Verb	lec pf
+wolno	Verb	wolno (defective verb)
+tłoczyć	Verb	tłoczyć impf (perfective wytłoczyć)
+truć	Verb	truć impf (perfective otruć)
+usposabiać	Verb	usposabiać impf (perfective usposobić)
+dać	Verb	dać pf (imperfective dawać)
+produkować	Verb	produkować impf (perfective wyprodukować)
+rzucić	Verb	rzucić pf (imperfective rzucać)
+wyglądanie	Verb	wyglądanie n
+edytować	Verb	edytować impf
+podpalany	Verb	podpalany
+lata	Verb	lata
+plątać	Verb	plątać impf (perfective zaplątać or splątać)
+trwać	Verb	trwać impf
+mieć	Verb	mieć impf
+nienawidzić	Verb	nienawidzić impf (perfective znienawidzić)
+telegrafować	Verb	telegrafować impf (perfective zatelegrafować)
+ścierać	Verb	ścierać impf (perfective zetrzeć)
+siorbać	Verb	siorbać impf (perfective siorbnąć)
+dymić	Verb	dymić impf
+zapamiętać	Verb	zapamiętać pf (imperfective zapamiętywać)
+pchać	Verb	pchać impf (perfective pchnąć)
+godzić	Verb	godzić impf (perfective pogodzić)
+zasłużyć	Verb	zasłużyć pf (imperfective zasługiwać)
+przeczytać	Verb	przeczytać pf (imperfective czytać)
+klęczeć	Verb	klęczeć impf
+kalać	Verb	kalać impf (perfective skalać)
+mamrotać	Verb	mamrotać impf (perfective zamamrotać)
+tworzyć	Verb	tworzyć impf (perfective stworzyć)
+wejść	Verb	wejść pf (imperfective wchodzić)
+kastrować	Verb	kastrować impf (perfective wykastrować)
+realizować	Verb	realizować impf (perfective zrealizować)
+życzyć	Verb	życzyć impf
+daj	Verb	daj
+odradzać	Verb	odradzać impf (perfective odradzić)
+odradzać	Verb	odradzać impf (perfective odrodzić)
+notować	Verb	notować impf (perfective zanotować)
+młócić	Verb	młócić impf
+spuścić	Verb	spuścić pf (perfective spuszczać)
+oszukiwać	Verb	oszukiwać impf (perfective oszukać)
+zaufać	Verb	zaufać pf (imperfective ufać)
+chybić	Verb	chybić pf (imperfective chybiać)
+opuszczać	Verb	opuszczać impf (perfective opuścić)
+szyfrować	Verb	szyfrować impf (perfective zaszyfrować)
+obudzić	Verb	obudzić pf (imperfective budzić)
+iść	Verb	iść impf (perfective pójść)
+kup	Verb	kup
+działać	Verb	działać impf (perfective zadziałać)
+łuskać	Verb	łuskać impf (perfective wyłuskać)
+milczeć	Verb	milczeć impf
+uczyć	Verb	uczyć impf (perfective nauczyć)
+skazywać	Verb	skazywać impf
+kurzyć	Verb	kurzyć impf (perfective nakurzyć)
+słodzić	Verb	słodzić impf (perfective posłodzić)
+poskramiać	Verb	poskramiać impf (perfective poskromić)
+starczyć	Verb	starczyć impf (perfective wystarczyć)
+wyświetlać	Verb	wyświetlać impf (perfective wyświetlić)
+stracić	Verb	stracić pf (imperfective tracić)
+małpować	Verb	małpować impf (perfective zmałpować)
+blaknąć	Verb	blaknąć impf (perfective wyblaknąć)
+klikać	Verb	klikać impf (perfective kliknąć)
+kliknąć	Verb	kliknąć pf (imperfective klikać)
+obala	Verb	obala
+krajać	Verb	krajać impf
+pokazać	Verb	pokazać pf (imperfective pokazywać)
+przynosić	Verb	przynosić impf (perfective przynieść)
+planować	Verb	planować impf (perfective zaplanować)
+kuć	Verb	kuć impf
+odbijać	Verb	odbijać impf (perfective odbić)
+błądzić	Verb	błądzić impf (perfective zabłądzić or zbłądzić)
+wyznaczyć	Verb	wyznaczyć pf (imperfective wyznaczać)
+sprawiać	Verb	sprawiać impf (perfective sprawić)
+odejść	Verb	odejść pf (imperfective odchodzić)
+rozpaczać	Verb	rozpaczać impf
+gapić się	Verb	gapić się impf
+dożyć	Verb	dożyć pf (imperfective żyć)
+targać	Verb	targać impf (perfective potargać)
+skażać	Verb	skażać impf (perfective skazić)
+władać	Verb	władać impf
+zdychać	Verb	zdychać impf (perfective zdechnąć)
+chrzcić	Verb	chrzcić impf
+mrzeć	Verb	mrzeć impf (perfective zemrzeć or umrzeć)
+czkać	Verb	czkać impf (perfective czknąć)
+wołać	Verb	wołać impf (perfective zawołać)
+wyłączać	Verb	wyłączać impf (perfective wyłączyć)
+podpalić	Verb	podpalić pf (imperfective podpalać)
+jarzyć	Verb	jarzyć impf (perfective zajarzyć)
+jarzyć	Verb	jarzyć impf
+fałszować	Verb	fałszować impf (perfective sfałszować)
+szastać	Verb	szastać impf
+orz	Verb	orz
+łagodzić	Verb	łagodzić impf (perfective złagodzić or załagodzić)
+miąć	Verb	miąć impf (perfective wymiąć or zmiąć) [3]
+przyjść	Verb	przyjść pf (imperfective przychodzić)
+zrobiony	Verb	zrobiony
+kłóć	Verb	kłóć impf (perfective ukłóć)
+wzbogacać	Verb	wzbogacać impf (perfective wzbogacić)
+żyć	Verb	żyć impf (perfective pożyć)
+meldować	Verb	meldować impf (perfective zameldować)
+usuwać	Verb	usuwać impf (perfective usunąć)
+zdobić	Verb	zdobić impf (perfective ozdobić)
+dojść	Verb	dojść pf (imperfective dochodzić)
+animować	Verb	animować impf
+brał	Verb	brał
+kłamać	Verb	kłamać impf (perfective skłamać)
+kajać	Verb	kajać impf (perfective pokajać)
+goli	Verb	goli
+przyciągnąć	Verb	przyciągnąć pf (imperfective przyciągać)
+pryskać	Verb	pryskać impf (perfective prysnąć)
+przyprawiać	Verb	przyprawiać impf
+odpowiedzieć	Verb	odpowiedzieć pf (imperfective odpowiadać)
+parskać	Verb	parskać impf (perfective parsknąć)
+postawić	Verb	postawić pf (imperfective stawiać)
+majsterkować	Verb	majsterkować impf
+rozważyć	Verb	rozważyć pf (imperfective rozważać)
+anulować	Verb	anulować pf
+anulować	Verb	anulować impf
+fristajlować	Verb	fristajlować impf
+rozumieć	Verb	rozumieć impf (perfective zrozumieć)
+dochodzić	Verb	dochodzić impf (perfective dojść)
+podkraść	Verb	podkraść pf (imperfective podkradać)
+szczuć	Verb	szczuć impf (perfective poszczuć)
+przyrastać	Verb	przyrastać impf (perfective przyrosnąć)
+kierować	Verb	kierować impf
+klepać	Verb	klepać impf (perfective klepnąć or wyklepać)
+pomyśleć	Verb	pomyśleć pf (imperfective myśleć)
+rozwijać	Verb	rozwijać impf (perfective rozwinąć)
+siniaczyć	Verb	siniaczyć impf
+rozszczepiać	Verb	rozszczepiać impf (perfective rozszczepić)
+wykitować	Verb	wykitować pf
+ofiarować	Verb	ofiarować impf
+opowiadać	Verb	opowiadać impf (perfective opowiedzieć)
+kreować	Verb	kreować impf (perfective wykreować)
+przodować	Verb	przodować impf
+dosrać	Verb	dosrać pf
+męczyć	Verb	męczyć impf (perfective zamęczyć)
+grzęznąć	Verb	grzęznąć impf (perfective ugrzęznąć)
+padał	Verb	padał
+usnąć	Verb	usnąć pf (imperfective usypiać)
+znaleźć	Verb	znaleźć pf (imperfective znajdować)
+kropić	Verb	kropić impf (perfective pokropić)
+uderzać	Verb	uderzać impf (perfective uderzyć)
+jeść	Verb	jeść impf (perfective zjeść)
+kusi	Verb	kusi
+porastać	Verb	porastać impf (perfective porosnąć)
+znosić	Verb	znosić impf (perfective znieść)
+pozwolić	Verb	pozwolić pf (imperfective pozwalać)
+poważać	Verb	poważać impf

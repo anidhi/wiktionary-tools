@@ -1,0 +1,2393 @@
+ekawski	Adjective	ekawski
+tymczasowy	Adjective	tymczasowy m
+mięciutki	Adjective	mięciutki m (comparative bardziej mięciutki, superlative najbardziej mięciutki, adverb mięciutko)
+niderlandzki	Adjective	niderlandzki m
+skórzany	Adjective	skórzany m
+symboliczny	Adjective	symboliczny m
+bezkształtny	Adjective	bezkształtny m (comparative bardziej bezkształtny, superlative najbardziej bezkształtny)
+najlichszy	Adjective	najlichszy
+buriacki	Adjective	buriacki m
+najodleglejszy	Adjective	najodleglejszy
+grawitacyjny	Adjective	grawitacyjny m
+kwietniowy	Adjective	kwietniowy m
+cudowniejszy	Adjective	cudowniejszy
+różnobarwny	Adjective	różnobarwny m
+sztywny	Adjective	sztywny m (comparative sztywniejszy, superlative najsztywniejszy, adverb sztywno)
+muzyczny	Adjective	muzyczny m (not comparable, adverb muzycznie)
+półfinałowy	Adjective	półfinałowy m
+optymistyczny	Adjective	optymistyczny m (comparative bardziej optymistyczny, superlative najbardziej optymistyczny, adverb optymistycznie)
+kaukaski	Adjective	kaukaski m
+mały	Adjective	mały m (comparative mniejszy, superlative najmniejszy)
+ponaddźwiękowy	Adjective	ponaddźwiękowy m (not comparable)
+fałszywy	Adjective	fałszywy m (not comparable, adverb fałszywie)
+indyjski	Adjective	indyjski m
+tektoniczny	Adjective	tektoniczny m
+najsystematyczniejszy	Adjective	najsystematyczniejszy
+najokropniejszy	Adjective	najokropniejszy
+kartezjański	Adjective	kartezjański m (not comparable)
+kwantowy	Adjective	kwantowy m
+błotnisty	Adjective	błotnisty m (comparative bardziej błotnisty, superlative najbardziej błotnisty)
+jarząbowy	Adjective	jarząbowy m
+brudniejszy	Adjective	brudniejszy
+migbłystalny	Adjective	migbłystalny m (not comparable)
+płaski	Adjective	płaski m (comparative bardziej płaski, superlative najbardziej płaski, adverb płasko)
+cotygodniowy	Adjective	cotygodniowy m
+luwijski	Adjective	luwijski m
+sporadyczny	Adjective	sporadyczny m
+równociągły	Adjective	równociągły m (not comparable)
+główny	Adjective	główny m (not comparable, adverb głównie)
+abisyński	Adjective	abisyński m (not comparable)
+najchytrzejszy	Adjective	najchytrzejszy
+gładki	Adjective	gładki m (comparative gładszy or bardziej gładki, superlative najgładszy or najbardziej gładki, adverb gładko)
+bliski	Adjective	bliski m (comparative bliższy, superlative najbliższy, adverb blisko)
+świński	Adjective	świński m (comparative bardziej świński, superlative najbardziej świński)
+hydrostatyczny	Adjective	hydrostatyczny m
+osobny	Adjective	osobny m (adverb osobno)
+polski	Adjective	polski m (comparative bardziej polski, superlative najbardziej polski, adverb polsko)
+chujowy	Adjective	chujowy m (comparative bardziej chujowy, superlative najbardziej chujowy, adverb chujowo)
+blaszany	Adjective	blaszany m (not comparable)
+zakochany	Adjective	zakochany m (comparative bardziej zakochany, superlative najbardziej zakochany)
+mokry	Adjective	mokry m (comparative bardziej mokry, superlative najbardziej mokry, adverb mokro)
+najpodobniejszy	Adjective	najpodobniejszy
+jary	Adjective	jary m (not comparable)
+smoczy	Adjective	smoczy m
+polimerowy	Adjective	polimerowy m
+kwaśniejszy	Adjective	kwaśniejszy
+najsmutniejszy	Adjective	najsmutniejszy
+bohaterski	Adjective	bohaterski m (comparative bardziej bohaterski, superlative najbardziej bohaterski, adverb bohatersko)
+księżycowy	Adjective	księżycowy m
+najsłoneczniejszy	Adjective	najsłoneczniejszy
+kuwejcki	Adjective	kuwejcki m
+marcowy	Adjective	marcowy m
+krótkodystansowy	Adjective	krótkodystansowy m
+niedostępny	Adjective	niedostępny m (not comparable)
+koszmarny	Adjective	koszmarny m (comparative koszmarniejszy, superlative najkoszmarniejszy, adverb koszmarnie)
+najrzadszy	Adjective	najrzadszy
+odpowiedniejszy	Adjective	odpowiedniejszy
+dyskretniejszy	Adjective	dyskretniejszy
+słony	Adjective	słony m (comparative bardziej słony, superlative najbardziej słony, adverb słono)
+najzacniejszy	Adjective	najzacniejszy
+staroormiański	Adjective	staroormiański m
+wielki	Adjective	wielki m (comparative większy, superlative największy)
+ekologiczny	Adjective	ekologiczny m (comparative ekologiczniejszy or bardziej ekologiczny, superlative najekologiczniejszy or najbardziej ekologiczny, adverb ekologicznie)
+liliowy	Adjective	liliowy m
+brzozowy	Adjective	brzozowy m
+polonijny	Adjective	polonijny m (not comparable)
+niezrzeszony	Adjective	niezrzeszony m (not comparable)
+buddyjski	Adjective	buddyjski m
+bezdźwięczny	Adjective	bezdźwięczny m (not comparable, adverb bezdźwięcznie)
+zręczny	Adjective	zręczny m (comparative zręczniejszy, superlative najzręczniejszy, adverb zręcznie)
+droższy	Adjective	droższy
+najbystrzejszy	Adjective	najbystrzejszy
+wydmowy	Adjective	wydmowy m
+dalszy	Adjective	dalszy
+była	Adjective	była
+międzygwiezdny	Adjective	międzygwiezdny m
+stosowany	Adjective	stosowany m (not comparable)
+papuzi	Adjective	papuzi m
+pracowity	Adjective	pracowity m (comparative bardziej pracowity, superlative najbardziej pracowity)
+kilkanaście	Adjective	kilkanaście pl
+pusta	Adjective	pusta
+wschodni	Adjective	wschodni m (comparative bardziej wschodni, superlative najbardziej wschodni, adverb wschodnio)
+brązowawy	Adjective	brązowawy m
+arogancki	Adjective	arogancki m (comparative bardziej arogancki, superlative najbardziej arogancki)
+najatrakcyjniejszy	Adjective	najatrakcyjniejszy
+wiślany	Adjective	wiślany m (not comparable)
+zdolniejszy	Adjective	zdolniejszy
+gdański	Adjective	gdański m
+najgłodniejszy	Adjective	najgłodniejszy
+niedokonany	Adjective	niedokonany m
+zagramaniczny	Adjective	zagramaniczny m (not comparable)
+specjalna	Adjective	specjalna f
+tanzański	Adjective	tanzański m
+katarski	Adjective	katarski m
+oczywistszy	Adjective	oczywistszy
+atlantycki	Adjective	atlantycki m
+kaszubski	Adjective	kaszubski m
+andyjski	Adjective	andyjski m
+szybszy	Adjective	szybszy
+drobny	Adjective	drobny m (comparative drobniej, superlative najdrobniej, adverb drobno)
+orne	Adjective	orne
+starobułgarski	Adjective	starobułgarski m (not comparable)
+nowokaledoński	Adjective	nowokaledoński m
+toskański	Adjective	toskański m
+bezpieczny	Adjective	bezpieczny m (comparative bezpieczniejszy, superlative najbezpieczniejszy, adverb bezpiecznie)
+najkruchszy	Adjective	najkruchszy
+najwłaściwszy	Adjective	najwłaściwszy
+przebrzydły	Adjective	przebrzydły m (not comparable)
+staroangielski	Adjective	staroangielski m
+złotorudy	Adjective	złotorudy m
+ciemnoczerwony	Adjective	ciemnoczerwony m
+znakomity	Adjective	znakomity m (comparative znakomitszy, superlative najznakomitszy, adverb znakomicie)
+sprośny	Adjective	sprośny m (comparative sprośniejszy or bardziej sprośny, superlative najsprośniejszy or najbardziej sprośny, adverb sprośnie)
+litewski	Adjective	litewski m
+potencjalny	Adjective	potencjalny m
+luby	Adjective	luby m (not comparable)
+późniejszy	Adjective	późniejszy
+absyntowy	Adjective	absyntowy m
+podziemny	Adjective	podziemny m
+rozpuszczony	Adjective	rozpuszczony m (comparative bardziej rozpuszczony, superlative najbardziej rozpuszczony)
+lepszy	Adjective	lepszy
+kaledoński	Adjective	kaledoński m
+koptyjski	Adjective	koptyjski m
+afgański	Adjective	afgański m
+hawajski	Adjective	hawajski m
+elegancki	Adjective	elegancki m (comparative bardziej elegancki, superlative najbardziej elegancki, adverb elegancko)
+orzechowy	Adjective	orzechowy m (comparative bardziej orzechowy, superlative najbardziej orzechowy, adverb orzechowo)
+socjalistyczny	Adjective	socjalistyczny m (not comparable, adverb socjalistycznie)
+azbestowy	Adjective	azbestowy m
+najłatwiejszy	Adjective	najłatwiejszy
+ustny	Adjective	ustny m (not comparable)
+stara	Adjective	stara
+współczesny	Adjective	współczesny m (comparative bardziej współczesny, superlative najbardziej współczesny, adverb współcześnie)
+jadowity	Adjective	jadowity m (comparative jadowitszy or bardziej jadowity, superlative najjadowitszy or najbardziej jadowity, adverb jadowicie)
+bosy	Adjective	bosy m (not comparable, adverb boso)
+rumuński	Adjective	rumuński m
+wilczy	Adjective	wilczy m
+lisi	Adjective	lisi m (comparative bardziej lisi, superlative najbardziej lisi)
+przedostatni	Adjective	przedostatni m (not comparable)
+międzynarodowy	Adjective	międzynarodowy m (not comparable)
+gorliwy	Adjective	gorliwy m (comparative gorliwszy or bardziej gorliwy, superlative najgorliwszy or najbardziej gorliwy, adverb gorliwie)
+obiektywny	Adjective	obiektywny m
+politeistyczny	Adjective	politeistyczny m
+milczący	Adjective	milczący m (comparative bardziej milczący, superlative najbardziej milczący)
+odpowiedzialny	Adjective	odpowiedzialny m
+najpunktualniejszy	Adjective	najpunktualniejszy
+złośliwy	Adjective	złośliwy m (adverb złośliwie)
+rządowy	Adjective	rządowy m (not comparable)
+fotograficzny	Adjective	fotograficzny m
+miłe	Adjective	miłe n, f pl, n pl (comparative milsze, superlative najmilsze)
+najbezpieczniejszy	Adjective	najbezpieczniejszy
+ponadpaństwowy	Adjective	ponadpaństwowy m (not comparable)
+geograficzny	Adjective	geograficzny (not comparable)
+koczowniczy	Adjective	koczowniczy m (not comparable)
+bezczelny	Adjective	bezczelny m (comparative bezczelniejszy or bardziej bezczelny, superlative najbezczelniejszy or najbardziej bezczelny, adverb bezczelnie)
+cmentarny	Adjective	cmentarny m (not comparable, adverb cmentarnie)
+parzysty	Adjective	parzysty m
+asturyjski	Adjective	asturyjski m
+czarniejszy	Adjective	czarniejszy
+najbujniejszy	Adjective	najbujniejszy
+aktywniejszy	Adjective	aktywniejszy
+bałtosłowiański	Adjective	bałtosłowiański m (not comparable, adverb bałtosłowiańsko)
+wybitniejszy	Adjective	wybitniejszy
+organiczny	Adjective	organiczny m
+aliteracki	Adjective	aliteracki m
+odpowiedni	Adjective	odpowiedni m (comparative odpowiedniejszy or bardziej odpowiedni, superlative najodpowiedniejszy or najbardziej odpowiedni)
+ochronny	Adjective	ochronny m (not comparable, adverb ochronnie)
+ewenkijski	Adjective	ewenkijski m
+kwadratowy	Adjective	kwadratowy m
+niska	Adjective	niska f (comparative niższa, superlative najniższa)
+dolny	Adjective	dolny m (not comparable)
+żyzny	Adjective	żyzny m (comparative żyźniejszy, superlative najżyźniejszy, adverb żyźnie)
+brzoskwiniowy	Adjective	brzoskwiniowy m (not comparable, adverb brzoskwiniowo)
+syfny	Adjective	syfny m (comparative syfniejszy, superlative najsyfniejszy, adverb syfnie)
+polinezyjski	Adjective	polinezyjski m
+niebieskawy	Adjective	niebieskawy m
+barokowy	Adjective	barokowy m (comparative bardziej barokowy, superlative najbardziej barokowy)
+dramatyczny	Adjective	dramatyczny m (comparative bardziej dramatyczny, superlative najbardziej dramatyczny, adverb dramatycznie)
+niemierzalny	Adjective	niemierzalny m
+głuchoniemy	Adjective	głuchoniemy m (not comparable)
+delikatny	Adjective	delikatny m (comparative delikatniejszy, superlative najdelikatniejszy, adverb delikatnie)
+publiczny	Adjective	publiczny m (not comparable)
+stalowy	Adjective	stalowy m (comparative bardziej stalowy, superlative najbardziej stalowy, adverb stalowo)
+powszechniejszy	Adjective	powszechniejszy
+lewe	Adjective	lewe
+kardiologiczny	Adjective	kardiologiczny m
+prowizoryczny	Adjective	prowizoryczny m (adverb prowizorycznie)
+najadekwatniejszy	Adjective	najadekwatniejszy
+korsykański	Adjective	korsykański m
+samorzutny	Adjective	samorzutny m (not comparable, adverb samorzutnie)
+dowolny	Adjective	dowolny m (not comparable, adverb dowolnie)
+radosny	Adjective	radosny m (comparative radośniejszy, superlative najradośniejszy, adverb radośnie)
+bananowy	Adjective	bananowy m
+północny	Adjective	północny m
+skrzydlaty	Adjective	skrzydlaty m (not comparable)
+zacny	Adjective	zacny m (comparative zacniejszy, superlative najzacniejszy, adverb zacnie)
+farmaceutyczny	Adjective	farmaceutyczny m
+bezdomny	Adjective	bezdomny m (not comparable, adverb bezdomnie)
+najcięższy	Adjective	najcięższy
+gdyński	Adjective	gdyński m
+smutny	Adjective	smutny m (comparative smutniejszy, superlative najsmutniejszy, adverb smutnie or smutno)
+ciemnożółty	Adjective	ciemnożółty m
+drewniany	Adjective	drewniany m
+kościelny	Adjective	kościelny m
+logopedyczny	Adjective	logopedyczny m (not comparable)
+najliczniejszy	Adjective	najliczniejszy
+bezdzietny	Adjective	bezdzietny m (not comparable, adverb bezdzietnie)
+zmienny	Adjective	zmienny m
+dostępny	Adjective	dostępny m (comparative dostępniejszy or bardziej dostępny, superlative najdostępniejszy or najbardziej dostępny)
+najpowszechniejszy	Adjective	najpowszechniejszy
+najaktualniejszy	Adjective	najaktualniejszy
+wileński	Adjective	wileński m
+poroniony	Adjective	poroniony m (comparative bardziej poroniony, superlative najbardziej poroniony)
+nieprzyjemny	Adjective	nieprzyjemny m
+najinteligentniejszy	Adjective	najinteligentniejszy
+zwyklejszy	Adjective	zwyklejszy
+najwybitniejszy	Adjective	najwybitniejszy
+najgłośniejszy	Adjective	najgłośniejszy
+chciwszy	Adjective	chciwszy
+realistyczniejszy	Adjective	realistyczniejszy
+cudniejszy	Adjective	cudniejszy
+klasycystyczny	Adjective	klasycystyczny m
+radziecki	Adjective	radziecki m
+rwandyjski	Adjective	rwandyjski m
+konkretny	Adjective	konkretny m (comparative bardziej konkretny or konkretniejszy, superlative najbardziej konkretny or najkonkretniejszy)
+wodny	Adjective	wodny m (comparative bardziej wodny, superlative najbardziej wodny)
+wieczny	Adjective	wieczny m
+zimozielony	Adjective	zimozielony m
+losowy	Adjective	losowy m (comparative bardziej losowy, superlative najbardziej losowy)
+najtwardszy	Adjective	najtwardszy
+sosnowy	Adjective	sosnowy m
+florencki	Adjective	florencki m
+palmowy	Adjective	palmowy m
+bojaźliwy	Adjective	bojaźliwy m (comparative bojaźliwszy, superlative najbojaźliwszy)
+bezlitosny	Adjective	bezlitosny m (not comparable, adverb bezlitośnie)
+owczy	Adjective	owczy m (not comparable)
+aptekarski	Adjective	aptekarski m
+najbrutalniejszy	Adjective	najbrutalniejszy
+najodpowiedniejszy	Adjective	najodpowiedniejszy
+chłodniejszy	Adjective	chłodniejszy
+łaciński	Adjective	łaciński m
+dojrzalszy	Adjective	dojrzalszy
+poprawniejszy	Adjective	poprawniejszy
+dziąsłowy	Adjective	dziąsłowy m
+podatny	Adjective	podatny m (comparative podatniejszy or bardziej podatny, superlative najpodatniejszy or najbardziej podatny, adverb podatnie)
+nieumarły	Adjective	nieumarły m (not comparable)
+mierny	Adjective	mierny m (comparative mierniejszy, superlative najmierniejszy, adverb miernie)
+magenta	Adjective	magenta n, f pl, n pl
+kilkadziesiąt	Adjective	kilkadziesiąt pl
+miękki	Adjective	miękki m (comparative bardziej miękki, superlative najbardziej miękki, adverb miękko)
+doskonały	Adjective	doskonały m (comparative doskonalszy or bardziej doskonały, superlative najdoskonalszy or najbardziej doskonały, adverb doskonale)
+najstraszniejszy	Adjective	najstraszniejszy
+droga	Adjective	droga
+najpłynniejszy	Adjective	najpłynniejszy
+naga	Adjective	naga
+najkrótszy	Adjective	najkrótszy
+opryskliwy	Adjective	opryskliwy m (adverb opryskliwie)
+lewacki	Adjective	lewacki m (comparative bardziej lewacki, superlative najbardziej lewacki)
+twardogłowy	Adjective	twardogłowy m (comparative bardziej twardogłowy, superlative najbardziej twardogłowy)
+nieomylny	Adjective	nieomylny m
+północnoeuropejski	Adjective	północnoeuropejski m (not comparable)
+żydowski	Adjective	żydowski m
+północnokoreański	Adjective	północnokoreański m
+poprawny	Adjective	poprawny m (comparative poprawniejszy or bardziej poprawny, superlative najpoprawniejszy or najbardziej poprawny, adverb poprawnie)
+gościnny	Adjective	gościnny m (comparative bardziej gościnny, superlative najbardziej gościnny, adverb gościnnie)
+siostrzany	Adjective	siostrzany m
+trójwymiarowy	Adjective	trójwymiarowy m
+przyjazny	Adjective	przyjazny m (comparative przyjaźniejszy or bardziej przyjazny, superlative najprzyjaźniejszy or najbardziej przyjazny, adverb przyjaźnie)
+jurajski	Adjective	jurajski m
+bożonarodzeniowy	Adjective	bożonarodzeniowy m (adverb bożonarodzeniowo)
+aglutynacyjny	Adjective	aglutynacyjny m (not comparable)
+polityczny	Adjective	polityczny m
+przeogromny	Adjective	przeogromny m
+różny	Adjective	różny m (comparative różniejszy, superlative najróżniejszy, adverb różnie)
+nikczemny	Adjective	nikczemny m
+puszysty	Adjective	puszysty m (comparative bardziej puszysty, superlative najbardziej puszysty)
+wyższy	Adjective	wyższy
+polny	Adjective	polny m
+hojny	Adjective	hojny m (comparative hojniejszy, superlative najhojniejszy, adverb hojnie)
+złotonośny	Adjective	złotonośny m (not comparable)
+pszeniczny	Adjective	pszeniczny m
+najsolidniejszy	Adjective	najsolidniejszy
+coroczny	Adjective	coroczny m (not comparable, adverb corocznie)
+dwuwymiarowy	Adjective	dwuwymiarowy m
+bezkofeinowy	Adjective	bezkofeinowy m (not comparable)
+erotyczny	Adjective	erotyczny m
+zdziczały	Adjective	zdziczały m (not comparable)
+bułgarski	Adjective	bułgarski m (not comparable)
+mięsisty	Adjective	mięsisty m (comparative bardziej mięsisty, superlative najbardziej mięsisty, adverb mięsiście)
+czulszy	Adjective	czulszy
+heretycki	Adjective	heretycki m
+wschodnioafrykański	Adjective	wschodnioafrykański m
+aldehydowy	Adjective	aldehydowy m
+siny	Adjective	siny m (comparative bardziej siny, superlative najbardziej siny, adverb sino)
+fryzyjski	Adjective	fryzyjski m
+urugwajski	Adjective	urugwajski m
+grudniowy	Adjective	grudniowy m
+wszystkożerny	Adjective	wszystkożerny m (not comparable)
+bośniacki	Adjective	bośniacki m
+zielony	Adjective	zielony m (comparative bardziej zielony or zieleńszy, superlative najbardziej zielony or najzieleńszy)
+internetowy	Adjective	internetowy m
+kompletny	Adjective	kompletny m (not comparable, adverb kompletnie)
+grzybowy	Adjective	grzybowy m
+równiejszy	Adjective	równiejszy m
+gigantyczny	Adjective	gigantyczny m (comparative bardziej gigantyczny, superlative najbardziej gigantyczny, adverb gigantycznie)
+najzdrowszy	Adjective	najzdrowszy
+aluminiowy	Adjective	aluminiowy m
+najbiedniejszy	Adjective	najbiedniejszy
+banderowski	Adjective	banderowski m (comparative bardziej banderowski, superlative najbardziej banderowski)
+żółty	Adjective	żółty m (comparative bardziej żółty, superlative najbardziej żółty, adverb żółto)
+hongkoński	Adjective	hongkoński m (not comparable)
+macierzyński	Adjective	macierzyński m
+miejski	Adjective	miejski m
+roślinny	Adjective	roślinny m
+zawistny	Adjective	zawistny m (comparative bardziej zawistny, superlative najbardziej zawistny, adverb zawistnie)
+wegetariański	Adjective	wegetariański m
+estetyczny	Adjective	estetyczny m
+pitny	Adjective	pitny m (not comparable)
+grenlandzki	Adjective	grenlandzki m
+jemeński	Adjective	jemeński m
+niekorzystny	Adjective	niekorzystny m (comparative bardziej niekorzystny, superlative najbardziej niekorzystny, adverb niekorzystnie)
+obcy	Adjective	obcy m
+śmieszny	Adjective	śmieszny m (comparative śmieszniejszy, superlative najśmieszniejszy, adverb śmiesznie)
+kałmucki	Adjective	kałmucki m
+najwonniejszy	Adjective	najwonniejszy m
+oniryczny	Adjective	oniryczny m
+archaiczny	Adjective	archaiczny m
+bezgłowy	Adjective	bezgłowy m (not comparable)
+syryjski	Adjective	syryjski m
+jaskrawy	Adjective	jaskrawy m (comparative bardziej jaskrawy or jaskrawszy, superlative najbardziej jaskrawy or najjaskrawszy)
+mesyński	Adjective	mesyński m (not comparable)
+narodowy	Adjective	narodowy m (not comparable)
+lipcowy	Adjective	lipcowy m
+iracki	Adjective	iracki m
+pruski	Adjective	pruski m
+ważny	Adjective	ważny m (comparative ważniejszy, superlative najważniejszy, adverb ważnie)
+podwodny	Adjective	podwodny m (not comparable)
+nigeryjski	Adjective	nigeryjski m
+sprośniejszy	Adjective	sprośniejszy
+kaczogrodzki	Adjective	kaczogrodzki m
+oszukańczy	Adjective	oszukańczy m
+książkowy	Adjective	książkowy m (comparative bardziej książkowy, superlative najbardziej książkowy)
+kaligraficzny	Adjective	kaligraficzny m
+tandetny	Adjective	tandetny (comparative bardziej tandetny, superlative najbardziej tandetny, adverb tandetnie)
+kilka	Adjective	kilka pl
+najnormalniejszy	Adjective	najnormalniejszy
+adekwatny	Adjective	adekwatny m (comparative adekwatniejszy or bardziej adekwatny, superlative najadekwatniejszy or najbardziej adekwatny, adverb adekwatnie)
+obłąkany	Adjective	obłąkany m
+ontologiczny	Adjective	ontologiczny m
+ciężarny	Adjective	ciężarny m
+najuboższy	Adjective	najuboższy
+gibki	Adjective	gibki m (comparative bardziej gibki, superlative najbardziej gibki, adverb gibko)
+niejasny	Adjective	niejasny
+większy	Adjective	większy m
+bakteriobójczy	Adjective	bakteriobójczy m
+szczodry	Adjective	szczodry m (comparative szczodrzejszy, superlative najszczodrzejszy, adverb szczodrze)
+podatniejszy	Adjective	podatniejszy
+najprzyjaźniejszy	Adjective	najprzyjaźniejszy
+żelazny	Adjective	żelazny m
+przytulny	Adjective	przytulny m (comparative przytulniejszy, superlative najprzytulniejszy, adverb przytulnie)
+najrozumniejszy	Adjective	najrozumniejszy
+rasistowski	Adjective	rasistowski m
+karygodny	Adjective	karygodny m (comparative bardziej karygodny, superlative najbardziej karygodny)
+cerkiewnosłowiański	Adjective	cerkiewnosłowiański
+beżowy	Adjective	beżowy m (comparative bardziej beżowy, superlative najbardziej beżowy, adverb beżowo)
+świętochłowicki	Adjective	świętochłowicki m
+październikowy	Adjective	październikowy m
+wonniejszy	Adjective	wonniejszy m
+neonowy	Adjective	neonowy m
+narciarski	Adjective	narciarski m
+maltański	Adjective	maltański m
+khmerski	Adjective	khmerski m
+himalajski	Adjective	himalajski m
+wymiarowy	Adjective	wymiarowy m (not comparable, adverb wymiarowo)
+żywy	Adjective	żywy m (comparative bardziej żywy, superlative najbardziej żywy, adverb żywo)
+wymierny	Adjective	wymierny m
+obły	Adjective	obły m (comparative bardziej obły or oblejszy, superlative najbardziej obły or najoblejszy, adverb obło)
+konsularny	Adjective	konsularny m
+ponury	Adjective	ponury (comparative bardziej ponury, superlative najbardziej ponury, adverb ponuro)
+teraźniejszy	Adjective	teraźniejszy m
+najdrapieżniejszy	Adjective	najdrapieżniejszy
+gorszy	Adjective	gorszy
+zwięzły	Adjective	zwięzły m (comparative bardziej zwięzły or zwięźlejszy, superlative najbardziej zwięzły or najzwięźlejszy, adverb zwięźle)
+slawistyczny	Adjective	slawistyczny m (not comparable)
+niepodległy	Adjective	niepodległy m (not comparable)
+ciekawy	Adjective	ciekawy m (comparative ciekawszy, superlative najciekawszy, adverb ciekawie)
+anachroniczny	Adjective	anachroniczny m (comparative bardziej anachroniczny, superlative najbardziej anachroniczny)
+wiosenny	Adjective	wiosenny m
+białostocki	Adjective	białostocki m
+czerwonawy	Adjective	czerwonawy m
+przezroczysty	Adjective	przezroczysty m (comparative bardziej przezroczysty, superlative najbardziej przezroczysty)
+górnoniemiecki	Adjective	górnoniemiecki m (not comparable)
+duchowy	Adjective	duchowy m
+cesarski	Adjective	cesarski m
+krzywa	Adjective	krzywa
+owocowy	Adjective	owocowy m
+prawdziwy	Adjective	prawdziwy m (comparative prawdziwszy or bardziej prawdziwy, superlative najprawdziwszy or najbardziej prawdziwy, adverb prawdziwie)
+oficjalny	Adjective	oficjalny m (comparative bardziej oficjalny, superlative najbardziej oficjalny, adverb oficjalnie)
+przeciwsłoneczny	Adjective	przeciwsłoneczny m (not comparable)
+bezbożny	Adjective	bezbożny m (not comparable, adverb bezbożnie)
+dzielny	Adjective	dzielny m (comparative dzielniejszy, superlative najdzielniejszy)
+czakawski	Adjective	czakawski m (not comparable)
+nieorganiczny	Adjective	nieorganiczny m
+cudzołożny	Adjective	cudzołożny m
+przedmiesiączkowy	Adjective	przedmiesiączkowy m (not comparable)
+gagauski	Adjective	gagauski m
+głupi	Adjective	głupi m (comparative głupszy, superlative najgłupszy, adverb głupio)
+laski	Adjective	laski m
+kambodżański	Adjective	kambodżański m
+zacniejszy	Adjective	zacniejszy
+chorwacki	Adjective	chorwacki m
+przereklamowany	Adjective	przereklamowany m (comparative bardziej przereklamowany, superlative najbardziej przereklamowany)
+staropruski	Adjective	staropruski m
+groteskowy	Adjective	groteskowy m (comparative bardziej groteskowy, superlative najbardziej groteskowy)
+słodki	Adjective	słodki m (comparative słodszy, superlative najsłodszy)
+różowawy	Adjective	różowawy m
+piękny	Adjective	piękny m (comparative piękniejszy, superlative najpiękniejszy, adverb pięknie)
+niewyobrażalny	Adjective	niewyobrażalny m (not comparable, adverb niewyobrażalnie)
+mazowiecki	Adjective	mazowiecki m
+częsty	Adjective	częsty m (comparative częstszy, superlative najczęstszy, adverb często)
+ciekawszy	Adjective	ciekawszy
+karciany	Adjective	karciany m (not comparable)
+najodważniejszy	Adjective	najodważniejszy
+skąpy	Adjective	skąpy m
+najmłodszy	Adjective	najmłodszy
+limburski	Adjective	limburski m
+liczny	Adjective	liczny m (comparative liczniejszy, superlative najliczniejszy, adverb licznie)
+akademicki	Adjective	akademicki m (comparative bardziej akademicki, superlative najbardziej akademicki, adverb akademicko)
+żonaty	Adjective	żonaty m (not comparable)
+niechybny	Adjective	niechybny m (adverb niechybnie)
+kirgiski	Adjective	kirgiski m
+czarny	Adjective	czarny m (comparative czarniejszy or bardziej czarny, superlative najczarniejszy or najbardziej czarny, adverb czarno)
+łososiowy	Adjective	łososiowy m
+minimalny	Adjective	minimalny m
+astronomiczny	Adjective	astronomiczny m
+nudna	Adjective	nudna f
+rybnicki	Adjective	rybnicki m
+spleśniały	Adjective	spleśniały
+purpurowy	Adjective	purpurowy m (comparative bardziej purpurowy, superlative najbardziej purpurowy)
+graficzny	Adjective	graficzny m (comparative bardziej graficzny, superlative najbardziej graficzny, adverb graficznie)
+policzalny	Adjective	policzalny m (not comparable)
+informacyjny	Adjective	informacyjny m
+żeński	Adjective	żeński m (comparative bardziej żeński, superlative najbardziej żeński)
+wiśniowy	Adjective	wiśniowy m
+codzienny	Adjective	codzienny m (not comparable)
+najromantyczniejszy	Adjective	najromantyczniejszy
+radioaktywny	Adjective	radioaktywny m
+magiczny	Adjective	magiczny m (adverb magicznie)
+termodynamiczny	Adjective	termodynamiczny m (not comparable)
+seminaryjny	Adjective	seminaryjny m
+pyszniejszy	Adjective	pyszniejszy
+pilniejszy	Adjective	pilniejszy
+malgaski	Adjective	malgaski m
+dźwięczny	Adjective	dźwięczny m
+kostarykański	Adjective	kostarykański m
+błędny	Adjective	błędny m (comparative bardziej błędny, superlative najbardziej błędny, adverb błędnie)
+poetycki	Adjective	poetycki m
+najintymniejszy	Adjective	najintymniejszy
+zwierzęcy	Adjective	zwierzęcy m (comparative bardziej zwierzęcy, superlative najbardziej zwierzęcy)
+małżeński	Adjective	małżeński m
+dodatkowy	Adjective	dodatkowy m (not comparable, adverb dodatkowo)
+bakteryjny	Adjective	bakteryjny m
+lżejszy	Adjective	lżejszy
+wiarołomny	Adjective	wiarołomny m (adverb wiarołomnie)
+macedoński	Adjective	macedoński m
+chorzowski	Adjective	chorzowski m
+arytmetyczny	Adjective	arytmetyczny m
+naturalna	Adjective	naturalna f
+przyzwoity	Adjective	przyzwoity m
+mopsi	Adjective	mopsi m (comparative bardziej mopsi, superlative najbardziej mopsi)
+jebutny	Adjective	jebutny (comparative bardziej jebutny, superlative najbardziej jebutny, adverb jebutnie)
+słoweński	Adjective	słoweński m
+glonowy	Adjective	glonowy m
+antropologiczny	Adjective	antropologiczny m (not comparable, adverb antropologicznie)
+krótszy	Adjective	krótszy
+nagły	Adjective	nagły m (adverb nagle)
+najhojniejszy	Adjective	najhojniejszy
+kosmaty	Adjective	kosmaty m (comparative bardziej kosmaty, superlative najbardziej kosmaty)
+baskijski	Adjective	baskijski m
+morelowy	Adjective	morelowy m
+najważniejszy	Adjective	najważniejszy
+inteligentniejszy	Adjective	inteligentniejszy
+narkotyczny	Adjective	narkotyczny m
+numeryczny	Adjective	numeryczny m
+powszechny	Adjective	powszechny m (comparative powszechniejszy, superlative najpowszechniejszy)
+wcześniejszy	Adjective	wcześniejszy
+zewnętrzny	Adjective	zewnętrzny m
+najbrudniejszy	Adjective	najbrudniejszy
+nieparzysty	Adjective	nieparzysty m
+egzotyczniejszy	Adjective	egzotyczniejszy
+renesansowy	Adjective	renesansowy m
+częstszy	Adjective	częstszy
+parapsychologiczny	Adjective	parapsychologiczny m
+cyrkowy	Adjective	cyrkowy m (not comparable, adverb cyrkowo)
+niewymierny	Adjective	niewymierny m (not comparable)
+dziecięcy	Adjective	dziecięcy m (comparative bardziej dziecięcy, superlative najbardziej dziecięcy)
+demoniczny	Adjective	demoniczny m (comparative bardziej demoniczny, superlative najbardziej demoniczny, adverb demonicznie)
+lewicowy	Adjective	lewicowy m
+męski	Adjective	męski m (comparative bardziej męski, superlative najbardziej męski)
+zdrowa	Adjective	zdrowa f (comparative zdrowsza or bardziej zdrowa, superlative najzdrowsza or najbardziej zdrowa)
+najczerwieńszy	Adjective	najczerwieńszy
+lojalny	Adjective	lojalny m (comparative lojalniejszy or bardziej lojalny, superlative najlojalniejszy or najbardziej lojalny, adverb lojalnie)
+homoseksualny	Adjective	homoseksualny m (comparative bardziej homoseksualny, superlative najbardziej homoseksualny, adverb homoseksualnie)
+prosty	Adjective	prosty m (comparative prostszy, superlative najprostszy)
+wieloznaczny	Adjective	wieloznaczny m (comparative bardziej wieloznaczny, superlative najbardziej wieloznaczny)
+najlżejszy	Adjective	najlżejszy
+fosforowy	Adjective	fosforowy m
+płatny	Adjective	płatny m (not comparable)
+szalony	Adjective	szalony m (comparative bardziej szalony, superlative najbardziej szalony)
+zwykły	Adjective	zwykły m (comparative zwyklejszy, superlative najzwyklejszy, adverb zwykle)
+git	Adjective	git
+wtórny	Adjective	wtórny m (not comparable, adverb wtórnie)
+koci	Adjective	koci m (not comparable)
+podświadomy	Adjective	podświadomy m
+stały	Adjective	stały m
+enerdowski	Adjective	enerdowski m (not comparable)
+wilamowski	Adjective	wilamowski m
+seraficki	Adjective	seraficki m (comparative bardziej seraficki, superlative najbardziej seraficki)
+górny	Adjective	górny m (not comparable, adverb górnie)
+najpóźniejszy	Adjective	najpóźniejszy
+podczerwony	Adjective	podczerwony m (comparative bardziej podczerwony, superlative najbardziej podczerwony, adverb podczerwono)
+pilny	Adjective	pilny m (comparative pilniejszy or bardziej pilny, superlative najpilniejszy or najbardziej pilny, adverb pilnie)
+frakowy	Adjective	frakowy m
+wiekuisty	Adjective	wiekuisty m (not comparable)
+rozpuszczalny	Adjective	rozpuszczalny m
+krótkometrażowy	Adjective	krótkometrażowy m
+farerski	Adjective	farerski m (not comparable)
+biedny	Adjective	biedny m (comparative biedniejszy, superlative najbiedniejszy, adverb biednie)
+fioletowawy	Adjective	fioletowawy m
+szczerszy	Adjective	szczerszy
+romański	Adjective	romański m
+ósemkowy	Adjective	ósemkowy m (not comparable)
+zaufany	Adjective	zaufany m (comparative bardziej zaufany, superlative najbardziej zaufany)
+pamiętliwy	Adjective	pamiętliwy m (comparative bardziej pamiętliwy, superlative najbardziej pamiętliwy)
+paradoksalny	Adjective	paradoksalny m
+wilgotniejszy	Adjective	wilgotniejszy
+niewinny	Adjective	niewinny m (not comparable, adverb niewinnie)
+ziemniaczany	Adjective	ziemniaczany m
+zasobny	Adjective	zasobny m (comparative zasobniejszy, superlative najzasobniejszy, adverb zasobnie)
+altruistyczny	Adjective	altruistyczny m
+dziki	Adjective	dziki m (comparative dzikszy or bardziej dziki, superlative najdzikszy or najbardziej dziki, adverb dziko)
+biedniejszy	Adjective	biedniejszy
+szerszy	Adjective	szerszy
+chwalebny	Adjective	chwalebny m (comparative chwalebniejszy, superlative najchwalebniejszy, adverb chwalebnie)
+nieuczciwy	Adjective	nieuczciwy m
+szkocki	Adjective	szkocki m
+matematyczny	Adjective	matematyczny m
+hebrajski	Adjective	hebrajski m
+przyszły	Adjective	przyszły m (not comparable)
+graniczny	Adjective	graniczny m (not comparable, adverb granicznie)
+dębowy	Adjective	dębowy m (not comparable)
+antarktyczny	Adjective	antarktyczny m
+najwcześniejszy	Adjective	najwcześniejszy
+przestrzenny	Adjective	przestrzenny m (comparative bardziej przestrzenny, superlative najbardziej przestrzenny)
+anglosaski	Adjective	anglosaski
+lwi	Adjective	lwi m (comparative bardziej lwi, superlative najbardziej lwi)
+wschodnioflamandzki	Adjective	wschodnioflamandzki m
+wirtualny	Adjective	wirtualny m (not comparable)
+trafny	Adjective	trafny m (comparative bardziej trafny, superlative najbardziej trafny, adverb trafnie)
+najostrożniejszy	Adjective	najostrożniejszy
+przestronny	Adjective	przestronny m (comparative bardziej przestronny, superlative najbardziej przestronny)
+lankijski	Adjective	lankijski m
+padnięty	Adjective	padnięty m (comparative bardziej padnięty, superlative najbardziej padnięty)
+przechodni	Adjective	przechodni m (not comparable)
+humorystyczny	Adjective	humorystyczny m
+nowszy	Adjective	nowszy
+wartościowy	Adjective	wartościowy m
+koński	Adjective	koński m (not comparable)
+cichszy	Adjective	cichszy
+łamiący	Adjective	łamiący m
+ciemniejszy	Adjective	ciemniejszy
+przygotowany	Adjective	przygotowany m (not comparable)
+staro-cerkiewno-słowiański	Adjective	staro-cerkiewno-słowiański m
+karnawałowy	Adjective	karnawałowy m
+rzeczny	Adjective	rzeczny m
+chirurgiczny	Adjective	chirurgiczny m (not comparable, adverb chirurgicznie)
+wspaniały	Adjective	wspaniały m (comparative wspanialszy or bardziej wspaniały, superlative najwspanialszy or najbardziej wspaniały)
+tańszy	Adjective	tańszy
+rzadszy	Adjective	rzadszy
+miesiączkowy	Adjective	miesiączkowy m
+najluźniejszy	Adjective	najluźniejszy
+dwuwargowy	Adjective	dwuwargowy m
+zamknięta	Adjective	zamknięta f (not comparable)
+świetny	Adjective	świetny m (comparative świetniejszy, superlative najświetniejszy)
+marchewkowy	Adjective	marchewkowy m (comparative bardziej marchewkowy, superlative najbardziej marchewkowy)
+aszkenazyjski	Adjective	aszkenazyjski m
+nawiedzony	Adjective	nawiedzony m
+ergonomiczny	Adjective	ergonomiczny m (comparative bardziej ergonomiczny, superlative najbardziej ergonomiczny, adverb ergonomicznie)
+podwójny	Adjective	podwójny m (not comparable)
+drobiazgowy	Adjective	drobiazgowy m (comparative bardziej drobiazgowy, superlative najbardziej drobiazgowy)
+doskonalszy	Adjective	doskonalszy
+pośmiertny	Adjective	pośmiertny m
+liściasty	Adjective	liściasty m (not comparable)
+spokojny	Adjective	spokojny m (comparative spokojniejszy, superlative najspokojniejszy, adverb spokojnie)
+lutowy	Adjective	lutowy m
+gumowy	Adjective	gumowy m
+fermionowy	Adjective	fermionowy m
+były	Adjective	były m
+dymny	Adjective	dymny m (not comparable)
+anatomiczny	Adjective	anatomiczny m (adverb anatomicznie)
+najmocniejszy	Adjective	najmocniejszy
+zamożny	Adjective	zamożny m (comparative zamożniejszy or bardziej zamożny, superlative najzamożniejszy or najbardziej zamożny)
+lipny	Adjective	lipny m (comparative lipniejszy, superlative najlipniejszy, adverb lipnie)
+szczeciński	Adjective	szczeciński m
+wydumany	Adjective	wydumany m (comparative bardziej wydumany, superlative najbardziej wydumany)
+najzręczniejszy	Adjective	najzręczniejszy
+ugryjski	Adjective	ugryjski m
+gówniany	Adjective	gówniany m (comparative bardziej gówniany, superlative najbardziej gówniany)
+magisterski	Adjective	magisterski m (comparative bardziej magisterski, superlative najbardziej magisterski)
+błahy	Adjective	błahy m (comparative bardziej błahy, superlative najbardziej błahy)
+ambitny	Adjective	ambitny m (comparative ambitniejszy, superlative najambitniejszy, adverb ambitnie)
+bujny	Adjective	bujny m (comparative bujniejszy, superlative najbujniejszy, adverb bujnie)
+europejski	Adjective	europejski m
+teologiczny	Adjective	teologiczny m
+wybuchowy	Adjective	wybuchowy m
+watykański	Adjective	watykański m (not comparable)
+śląski	Adjective	śląski m
+najświętszy	Adjective	najświętszy
+estoński	Adjective	estoński m
+koszmarniejszy	Adjective	koszmarniejszy
+pejoratywny	Adjective	pejoratywny m
+prawnoautorski	Adjective	prawnoautorski m (not comparable)
+turkusowy	Adjective	turkusowy m (comparative bardziej turkusowy, superlative najbardziej turkusowy)
+nigdziegęsty	Adjective	nigdziegęsty m (not comparable)
+roślinożerny	Adjective	roślinożerny m
+zdumiewający	Adjective	zdumiewający m (comparative bardziej zdumiewający, superlative najbardziej zdumiewający)
+subtropikalny	Adjective	subtropikalny m
+najpośledniejszy	Adjective	najpośledniejszy
+szemrany	Adjective	szemrany m
+królewski	Adjective	królewski m
+zimniejszy	Adjective	zimniejszy
+rubinowy	Adjective	rubinowy m
+niechlujny	Adjective	niechlujny m (comparative bardziej niechlujny, superlative najbardziej niechlujny, adverb niechlujnie)
+osobisty	Adjective	osobisty m (comparative bardziej osobisty, superlative najbardziej osobisty)
+krzywy	Adjective	krzywy m (adverb krzywo)
+śledziowy	Adjective	śledziowy m
+najcudniejszy	Adjective	najcudniejszy
+rad	Adjective	rad m (comparative bardziej rad, superlative najbardziej rad)
+uciążliwy	Adjective	uciążliwy m
+ariański	Adjective	ariański m (not comparable)
+białawy	Adjective	białawy m (not comparable, adverb białawo)
+bystrzejszy	Adjective	bystrzejszy
+tchórzliwy	Adjective	tchórzliwy m
+najnudniejszy	Adjective	najnudniejszy
+rzeczywisty	Adjective	rzeczywisty m (comparative bardziej rzeczywisty, superlative najbardziej rzeczywisty)
+napruty	Adjective	napruty m (comparative bardziej napruty, superlative najbardziej napruty)
+wolniejszy	Adjective	wolniejszy
+betonowy	Adjective	betonowy m
+stosowny	Adjective	stosowny m (comparative stosowniejszy, superlative najstosowniejszy, adverb stosownie)
+miły	Adjective	miły m (comparative milszy, superlative najmilszy, adverb miło)
+farmakologiczny	Adjective	farmakologiczny m
+zamknięty	Adjective	zamknięty m (not comparable)
+czosnkowy	Adjective	czosnkowy m
+wiele	Adjective	wiele
+jesienny	Adjective	jesienny m
+ozonowy	Adjective	ozonowy m
+gliniany	Adjective	gliniany m
+oczojebny	Adjective	oczojebny m (comparative bardziej oczojebny, superlative najbardziej oczojebny)
+senny	Adjective	senny m
+chytry	Adjective	chytry (comparative chytrzejszy, superlative najchytrzejszy, adverb chytrze)
+antysemicki	Adjective	antysemicki m (comparative bardziej antysemicki, superlative najbardziej antysemicki)
+pesymistyczny	Adjective	pesymistyczny m
+sławny	Adjective	sławny m sg
+cnotliwy	Adjective	cnotliwy m (comparative cnotliwszy or bardziej cnotliwy, superlative najcnotliwszy or najbardziej cnotliwy)
+zwyczajniejszy	Adjective	zwyczajniejszy
+populistyczny	Adjective	populistyczny m
+gospodarny	Adjective	gospodarny m (comparative gospodarniejszy, superlative najgospodarniejszy, adverb gospodarnie)
+najsyfniejszy	Adjective	najsyfniejszy
+gazetowy	Adjective	gazetowy m
+genealogiczny	Adjective	genealogiczny m
+języczkowy	Adjective	języczkowy m
+najgęstszy	Adjective	najgęstszy
+żarówiasty	Adjective	żarówiasty m (comparative bardziej żarówiasty, superlative najbardziej żarówiasty)
+ówczesny	Adjective	ówczesny m (not comparable, adverb ówcześnie)
+esencjonalny	Adjective	esencjonalny m
+zbyteczny	Adjective	zbyteczny m (adverb zbytecznie)
+telefoniczny	Adjective	telefoniczny m
+pieszy	Adjective	pieszy m (adverb pieszo)
+cielisty	Adjective	cielisty (not comparable)
+późny	Adjective	późny m (comparative późniejszy, superlative najpóźniejszy, adverb późno)
+naturalniejszy	Adjective	naturalniejszy
+gęsty	Adjective	gęsty m (comparative gęstszy, superlative najgęstszy, adverb gęsto)
+najzabawniejszy	Adjective	najzabawniejszy
+saudyjski	Adjective	saudyjski m
+płynniejszy	Adjective	płynniejszy
+neolityczny	Adjective	neolityczny m
+niesprawiedliwy	Adjective	niesprawiedliwy m
+archeologiczny	Adjective	archeologiczny m (not comparable, adverb archeologicznie)
+nieodzowny	Adjective	nieodzowny m (adverb nieodzownie)
+najkoszmarniejszy	Adjective	najkoszmarniejszy
+lodowaty	Adjective	lodowaty m (adverb lodowato)
+głęboki	Adjective	głęboki m (comparative głębszy, superlative najgłębszy, adverb głęboko)
+niewygodny	Adjective	niewygodny m
+dżezowy	Adjective	dżezowy m (not comparable)
+zazdrosny	Adjective	zazdrosny m (comparative bardziej zazdrosny, superlative najbardziej zazdrosny, adverb zazdrośnie)
+szczepowy	Adjective	szczepowy m
+sąsiedzki	Adjective	sąsiedzki m
+turecki	Adjective	turecki m
+czerwony	Adjective	czerwony m (comparative czerwieńszy or bardziej czerwony, superlative najczerwieńszy or najbardziej czerwony, adverb czerwono)
+uważny	Adjective	uważny m (comparative bardziej uważny, superlative najbardziej uważny)
+staroperski	Adjective	staroperski m
+świeższy	Adjective	świeższy
+muzułmański	Adjective	muzułmański m
+surowiczy	Adjective	surowiczy m (not comparable)
+ołomuniecki	Adjective	ołomuniecki m
+ciemny	Adjective	ciemny m (comparative ciemniejszy, superlative najciemniejszy, adverb ciemno)
+swobodny	Adjective	swobodny m (comparative swobodniejszy or bardziej swobodny, superlative najswobodniejszy or najbardziej swobodny)
+analny	Adjective	analny m (not comparable, adverb analnie)
+szarawy	Adjective	szarawy m
+starotestamentowy	Adjective	starotestamentowy m (not comparable)
+najładniejszy	Adjective	najładniejszy
+zastrzeżony	Adjective	zastrzeżony m
+surowy	Adjective	surowy m (comparative surowszy, superlative najsurowszy, adverb surowo)
+ogórkowy	Adjective	ogórkowy m
+najbladszy	Adjective	najbladszy
+oszczędny	Adjective	oszczędny m
+katastroficzny	Adjective	katastroficzny m (not comparable)
+kakakowy	Adjective	kakakowy m
+fioletowy	Adjective	fioletowy m (comparative bardziej fioletowy, superlative najbardziej fioletowy)
+świeży	Adjective	świeży m (comparative świeższy, superlative najświeższy, adverb świeżo)
+zależny	Adjective	zależny m (comparative bardziej zależny, superlative najbardziej zależny, adverb zależnie)
+francuski	Adjective	francuski m
+rozpustny	Adjective	rozpustny m (adverb rozpustnie)
+niebieski	Adjective	niebieski m (comparative bardziej niebieski, superlative najbardziej niebieski, adverb niebiesko)
+najbogatszy	Adjective	najbogatszy
+geldryjski	Adjective	geldryjski m
+potężny	Adjective	potężny m (comparative potężniejszy, superlative najpotężniejszy, adverb potężnie)
+rzekomy	Adjective	rzekomy m (not comparable, adverb rzekomo)
+bielsko-bialski	Adjective	bielsko-bialski m
+próżniejszy	Adjective	próżniejszy
+turystyczny	Adjective	turystyczny m
+śródziemnomorski	Adjective	śródziemnomorski m
+najwęższy	Adjective	najwęższy m
+ciepły	Adjective	ciepły m (comparative cieplejszy, superlative najcieplejszy, adverb ciepło)
+pierworodny	Adjective	pierworodny m (not comparable)
+arystokratyczny	Adjective	arystokratyczny m
+pocztowy	Adjective	pocztowy m
+groźny	Adjective	groźny m (comparative groźniejszy, superlative najgroźniejszy, adverb groźnie)
+iberyjski	Adjective	iberyjski m
+szesnastobitowy	Adjective	szesnastobitowy m
+jasny	Adjective	jasny m (comparative jaśniejszy, superlative najjaśniejszy, adverb jasno)
+śmiertelny	Adjective	śmiertelny m
+krasny	Adjective	krasny m (comparative kraśniejszy, superlative najkraśniejszy)
+wiadomy	Adjective	wiadomy m (not comparable)
+pakistański	Adjective	pakistański m
+licyjski	Adjective	licyjski m
+bezpodstawny	Adjective	bezpodstawny m (not comparable, adverb bezpodstawnie)
+żmudzki	Adjective	żmudzki m
+demograficzny	Adjective	demograficzny m
+rozjuszony	Adjective	rozjuszony m (comparative bardziej rozjuszony, superlative najbardziej rozjuszony)
+tycjanowski	Adjective	tycjanowski m
+bezbarwny	Adjective	bezbarwny m (not comparable, adverb bezbarwnie)
+powietrzny	Adjective	powietrzny m
+punktualniejszy	Adjective	punktualniejszy
+prasłowiański	Adjective	prasłowiański m
+podrzędny	Adjective	podrzędny m (not comparable)
+techniczny	Adjective	techniczny m (not comparable)
+chrześcijański	Adjective	chrześcijański m
+ananasowy	Adjective	ananasowy m
+najcieplejszy	Adjective	najcieplejszy
+zaśmiecony	Adjective	zaśmiecony m
+gruby	Adjective	gruby m (comparative grubszy, superlative najgrubszy, adverb grubo)
+ognioodporny	Adjective	ognioodporny m (not comparable)
+bordowy	Adjective	bordowy m (comparative bardziej bordowy, superlative najbardziej bordowy)
+duży	Adjective	duży m (comparative większy, superlative największy, adverb dużo)
+pełniejszy	Adjective	pełniejszy
+nacjonalistyczny	Adjective	nacjonalistyczny m
+najoczywistszy	Adjective	najoczywistszy
+wzniosły	Adjective	wzniosły m (comparative wznioślejszy, superlative najwznioślejszy, adverb wzniośle)
+palajski	Adjective	palajski m
+feministyczny	Adjective	feministyczny m (comparative bardziej feministyczny, superlative najbardziej feministyczny)
+wertykalny	Adjective	wertykalny m
+grafitowy	Adjective	grafitowy m (not comparable)
+wrażliwszy	Adjective	wrażliwszy
+porównywalny	Adjective	porównywalny m
+ubogi	Adjective	ubogi m (comparative uboższy or bardziej ubogi, superlative najuboższy or najbardziej ubogi)
+ostrzejszy	Adjective	ostrzejszy
+jaworznicki	Adjective	jaworznicki m
+tragiczniejszy	Adjective	tragiczniejszy
+najbarwniejszy	Adjective	najbarwniejszy
+lubelski	Adjective	lubelski m
+światowy	Adjective	światowy m (comparative bardziej światowy, superlative najbardziej światowy, adverb światowo)
+telegraficzny	Adjective	telegraficzny m
+niezmienniczy	Adjective	niezmienniczy m (not comparable)
+mglisty	Adjective	mglisty m (comparative bardziej mglisty, superlative najbardziej mglisty, adverb mglisto or mgliście)
+germański	Adjective	germański m
+spokojniejszy	Adjective	spokojniejszy
+alternatywny	Adjective	alternatywny m (not always comparable, comparative bardziej alternatywny, superlative najbardziej alternatywny, adverb alternatywnie)
+doczesny	Adjective	doczesny (not comparable)
+wonny	Adjective	wonny m (comparative wonniejszy, superlative najwonniejszy)
+pochodna	Adjective	pochodna
+chudszy	Adjective	chudszy
+agnostyczny	Adjective	agnostyczny m (not comparable, adverb agnostycznie)
+zamężna	Adjective	zamężna f
+karakałpacki	Adjective	karakałpacki m
+ostrożniejszy	Adjective	ostrożniejszy
+uzbecki	Adjective	uzbecki m
+najwolniejszy	Adjective	najwolniejszy m
+trwalszy	Adjective	trwalszy
+ślepy	Adjective	ślepy m (comparative bardziej ślepy, superlative najbardziej ślepy, adverb ślepo)
+izotopowy	Adjective	izotopowy m (not comparable)
+tłusty	Adjective	tłusty m (comparative tłustszy or tłuściejszy, superlative najtłustszy or najtłuściejszy)
+szczery	Adjective	szczery m (comparative bardziej szczery or szczerszy, superlative najbardziej szczery or najszczerszy, adverb szczerze)
+delficki	Adjective	delficki m
+pszenny	Adjective	pszenny m
+pośledniejszy	Adjective	pośledniejszy
+starsi	Adjective	starsi
+najświetniejszy	Adjective	najświetniejszy m
+zniewieściały	Adjective	zniewieściały m (comparative bardziej zniewieściały, superlative najbardziej zniewieściały)
+podwodne	Adjective	podwodne n, f pl, n pl
+krnąbrny	Adjective	krnąbrny (comparative krnąbrniejszy, superlative najkrnąbrniejszy, adverb krnąbrnie)
+jedwabny	Adjective	jedwabny m (not comparable)
+mongolski	Adjective	mongolski m
+bytomski	Adjective	bytomski m
+różniczkowy	Adjective	różniczkowy m (not comparable)
+cudaczniejszy	Adjective	cudaczniejszy
+najmierniejszy	Adjective	najmierniejszy
+barbarzyński	Adjective	barbarzyński m (comparative bardziej barbarzyński, superlative najbardziej barbarzyński)
+wschodnioniemiecki	Adjective	wschodnioniemiecki m
+nadzwyczajny	Adjective	nadzwyczajny m
+grecki	Adjective	grecki m
+wielkopolski	Adjective	wielkopolski m (not comparable)
+najzwięźlejszy	Adjective	najzwięźlejszy
+krwawy	Adjective	krwawy m (comparative bardziej krwawy, superlative najbardziej krwawy, adverb krwawo)
+umbryjski	Adjective	umbryjski m
+tylny	Adjective	tylny m
+tybetański	Adjective	tybetański m (not comparable)
+kartograficzny	Adjective	kartograficzny m
+lichy	Adjective	lichy m (comparative lichszy, superlative najlichszy, adverb licho)
+szlachetny	Adjective	szlachetny m (comparative szlachetniejszy, superlative najszlachetniejszy)
+pobożny	Adjective	pobożny m
+jednorazowy	Adjective	jednorazowy m (not comparable)
+dwoisty	Adjective	dwoisty m (not comparable)
+izraelski	Adjective	izraelski m
+antyczny	Adjective	antyczny m (not comparable)
+ebonitowy	Adjective	ebonitowy m (comparative bardziej ebonitowy, superlative najbardziej ebonitowy)
+absurdalniejszy	Adjective	absurdalniejszy
+jednoręki	Adjective	jednoręki m
+albański	Adjective	albański m
+czczy	Adjective	czczy m (not comparable, adverb czczo)
+dantejski	Adjective	dantejski m
+ścisły	Adjective	ścisły m (comparative bardziej ścisły or ściślejszy, superlative najbardziej ścisły or najściślejszy, adverb ściśle)
+najwspanialszy	Adjective	najwspanialszy
+hiperboliczny	Adjective	hiperboliczny m
+smutniejszy	Adjective	smutniejszy
+niepoważny	Adjective	niepoważny m
+rybny	Adjective	rybny m
+słoneczniejszy	Adjective	słoneczniejszy
+otyły	Adjective	otyły m (comparative bardziej otyły, superlative najbardziej otyły)
+osmańsko-turecki	Adjective	osmańsko-turecki m
+głodny	Adjective	głodny m (comparative głodniejszy, superlative najgłodniejszy)
+mandaryński	Adjective	mandaryński m
+katowicki	Adjective	katowicki m
+indiański	Adjective	indiański m
+logarytmiczny	Adjective	logarytmiczny m
+ostateczny	Adjective	ostateczny m (not comparable)
+biurowy	Adjective	biurowy m
+starszy	Adjective	starszy
+niemi	Adjective	niemi
+leninowski	Adjective	leninowski m
+rozumniejszy	Adjective	rozumniejszy
+piekielny	Adjective	piekielny m (not comparable, adverb piekielnie)
+dłuższy	Adjective	dłuższy
+roztrzepany	Adjective	roztrzepany m (comparative bardziej roztrzepany, superlative najbardziej roztrzepany)
+brodaty	Adjective	brodaty m (not comparable)
+dermatologiczny	Adjective	dermatologiczny m
+psychologiczny	Adjective	psychologiczny m (not comparable, adverb psychologicznie)
+najpełniejszy	Adjective	najpełniejszy
+naturalny	Adjective	naturalny m (comparative naturalniejszy or bardziej naturalny, superlative najnaturalniejszy or najbardziej naturalny, adverb naturalnie)
+głośny	Adjective	głośny m (comparative głośniejszy, superlative najgłośniejszy, adverb głośno)
+kwiatowy	Adjective	kwiatowy m
+plastyczny	Adjective	plastyczny m (comparative bardziej plastyczny, superlative najbardziej plastyczny, adverb plastycznie)
+najkonkretniejszy	Adjective	najkonkretniejszy
+tatarski	Adjective	tatarski m
+wkurwiony	Adjective	wkurwiony m (comparative bardziej wkurwiony, superlative najbardziej wkurwiony)
+rudy	Adjective	rudy m
+pozaskończony	Adjective	pozaskończony m (not comparable)
+żółtawy	Adjective	żółtawy m
+birmański	Adjective	birmański m
+średniowieczny	Adjective	średniowieczny m
+wyraźny	Adjective	wyraźny m (comparative wyraźniejszy, superlative najwyraźniejszy, adverb wyraźnie)
+kapitalistyczny	Adjective	kapitalistyczny m
+dachowy	Adjective	dachowy m
+strusi	Adjective	strusi m
+lustrzany	Adjective	lustrzany m
+nieromantyczny	Adjective	nieromantyczny m
+tlenowy	Adjective	tlenowy m
+styczniowy	Adjective	styczniowy m
+kamienny	Adjective	kamienny m (comparative bardziej kamienny, superlative najbardziej kamienny)
+wybitny	Adjective	wybitny m (comparative wybitniejszy, superlative najwybitniejszy, adverb wybitnie)
+tacierzyński	Adjective	tacierzyński m (not comparable)
+jednokierunkowy	Adjective	jednokierunkowy m
+poniemiecki	Adjective	poniemiecki m (not comparable)
+błogi	Adjective	błogi m (adverb błogo)
+bogaty	Adjective	bogaty m (comparative bogatszy, superlative najbogatszy, adverb bogato)
+jednospójny	Adjective	jednospójny m (not comparable)
+owsiany	Adjective	owsiany m
+ortograficzny	Adjective	ortograficzny m (not comparable, adverb ortograficznie)
+mrozoodporny	Adjective	mrozoodporny m (not comparable)
+odważniejszy	Adjective	odważniejszy
+astrologiczny	Adjective	astrologiczny m
+zieleńszy	Adjective	zieleńszy
+najdroższy	Adjective	najdroższy
+najgorliwszy	Adjective	najgorliwszy
+kłamliwy	Adjective	kłamliwy m (comparative bardziej kłamliwy, superlative najbardziej kłamliwy, adverb kłamliwie)
+radiowy	Adjective	radiowy m
+martwy	Adjective	martwy m (comparative bardziej martwy, superlative najbardziej martwy)
+półkolisty	Adjective	półkolisty m (not comparable, adverb półkoliście)
+wszystek	Adjective	wszystek m
+nowoczesny	Adjective	nowoczesny m
+podstawowy	Adjective	podstawowy m
+prawilny	Adjective	prawilny m (comparative prawilniejszy, superlative najprawilniejszy)
+wybredny	Adjective	wybredny m (comparative wybredniejszy or bardziej wybredny, superlative najwybredniejszy or najbardziej wybredny)
+kolorowy	Adjective	kolorowy m (comparative bardziej kolorowy, superlative najbardziej kolorowy)
+częstochowski	Adjective	częstochowski m
+nikotynowy	Adjective	nikotynowy m
+bosi	Adjective	bosi
+zachodni	Adjective	zachodni m (comparative bardziej zachodni, superlative najbardziej zachodni, adverb zachodnio)
+długowłosy	Adjective	długowłosy m
+diamentowy	Adjective	diamentowy m
+miękkopodniebienny	Adjective	miękkopodniebienny m
+zakopiański	Adjective	zakopiański m
+zblazowany	Adjective	zblazowany m (comparative bardziej zblazowany, superlative najbardziej zblazowany)
+burundyjski	Adjective	burundyjski m
+najszczuplejszy	Adjective	najszczuplejszy
+umięśniony	Adjective	umięśniony m (comparative bardziej umięśniony, superlative najbardziej umięśniony)
+podzielny	Adjective	podzielny m
+jakucki	Adjective	jakucki m
+przysłówkowy	Adjective	przysłówkowy m
+najcudowniejszy	Adjective	najcudowniejszy
+kruchy	Adjective	kruchy m (comparative kruchszy, superlative najkruchszy, adverb krucho)
+prostokątny	Adjective	prostokątny m (not comparable)
+starczy	Adjective	starczy m (not comparable)
+częściowy	Adjective	częściowy m (adverb częściowo)
+długi	Adjective	długi m (comparative dłuższy, superlative najdłuższy, adverb długo)
+warunkowy	Adjective	warunkowy m (adverb warunkowo)
+kalifornijski	Adjective	kalifornijski m
+cynowy	Adjective	cynowy m
+własny	Adjective	własny m (not comparable)
+ciaśniejszy	Adjective	ciaśniejszy
+zwyczajny	Adjective	zwyczajny m (comparative zwyczajniejszy, superlative najzwyczajniejszy, adverb zwyczajnie)
+najdalszy	Adjective	najdalszy
+dokładniejszy	Adjective	dokładniejszy
+przeciętny	Adjective	przeciętny m (comparative bardziej przeciętny or przeciętniejszy, superlative najbardziej przeciętny or najprzeciętniejszy)
+kokosowy	Adjective	kokosowy m
+morski	Adjective	morski m (not comparable)
+zgniły	Adjective	zgniły m
+prawny	Adjective	prawny m (not comparable, adverb prawnie)
+błękitny	Adjective	błękitny m (comparative bardziej błękitny, superlative najbardziej błękitny, adverb błękitnie, błękitno)
+śmiercionośny	Adjective	śmiercionośny m (comparative bardziej śmiercionośny, superlative najbardziej śmiercionośny)
+czysta	Adjective	czysta f
+wczesny	Adjective	wczesny m (comparative wcześniejszy, superlative najwcześniejszy, adverb wcześnie)
+eweński	Adjective	eweński m
+zdrowszy	Adjective	zdrowszy
+paprykowy	Adjective	paprykowy m
+najekologiczniejszy	Adjective	najekologiczniejszy
+wspólny	Adjective	wspólny m (not comparable, adverb wspólnie)
+nieśmiały	Adjective	nieśmiały m (adverb nieśmiało)
+rozbieżny	Adjective	rozbieżny m (not comparable)
+bambusowy	Adjective	bambusowy m
+godzien	Adjective	godzien m (comparative bardziej godzien, superlative najbardziej godzien)
+hardy	Adjective	hardy m (comparative bardziej hardy, superlative najbardziej hardy, adverb hardo)
+nachalny	Adjective	nachalny m (comparative nachalniejszy, superlative najnachalniejszy, adverb nachalnie)
+samolubny	Adjective	samolubny m (comparative bardziej samolubny, superlative najbardziej samolubny)
+szczuplejszy	Adjective	szczuplejszy
+waloński	Adjective	waloński m
+najlepsiejszy	Adjective	najlepsiejszy
+szpinakowy	Adjective	szpinakowy m
+waniliowy	Adjective	waniliowy m
+małpi	Adjective	małpi m (not comparable)
+lichszy	Adjective	lichszy
+sumienny	Adjective	sumienny m
+sielankowy	Adjective	sielankowy m (comparative bardziej sielankowy, superlative najbardziej sielankowy)
+niezrozumiały	Adjective	niezrozumiały m
+widoczny	Adjective	widoczny m
+dwugłowy	Adjective	dwugłowy m (not comparable)
+holenderski	Adjective	holenderski m
+zadziąsłowy	Adjective	zadziąsłowy m
+najczulszy	Adjective	najczulszy
+bladszy	Adjective	bladszy
+czysty	Adjective	czysty m (comparative czystszy, superlative najczystszy, adverb czysto)
+czysty m (comparative czyściejszy, superlative najczyściejszy, adverb czysto)
+urojony	Adjective	urojony m (comparative bardziej urojony, superlative najbardziej urojony)
+schizofreniczny	Adjective	schizofreniczny m (not comparable)
+rychlejszy	Adjective	rychlejszy
+kolejny	Adjective	kolejny m (not comparable, adverb kolejno)
+kuchenny	Adjective	kuchenny m
+idiotoodporny	Adjective	idiotoodporny m (comparative bardziej idiotoodporny, superlative najbardziej idiotoodporny, adverb idiotoodpornie)
+jądrowy	Adjective	jądrowy m
+najtajniejszy	Adjective	najtajniejszy
+niemiecki	Adjective	niemiecki m
+gnijący	Adjective	gnijący m (not comparable)
+różowy	Adjective	różowy m (comparative bardziej różowy or różowszy, superlative najbardziej różowy or najróżowszy)
+nieznany	Adjective	nieznany m (not comparable)
+obojętny	Adjective	obojętny m
+gazowy	Adjective	gazowy m
+ziemny	Adjective	ziemny m (not comparable)
+sprawiedliwy	Adjective	sprawiedliwy m
+blady	Adjective	blady m (comparative bladszy or bledszy, superlative najbladszy or najbledszy, adverb blado)
+bawełniany	Adjective	bawełniany m (not comparable)
+poszkodowany	Adjective	poszkodowany m (comparative bardziej poszkodowany, superlative najbardziej poszkodowany)
+przenośny	Adjective	przenośny m (comparative bardziej przenośny, superlative najbardziej przenośny)
+niegrzeczni	Adjective	niegrzeczni m pers pl
+brzydki	Adjective	brzydki m (comparative brzydszy, superlative najbrzydszy, adverb brzydko)
+saksoński	Adjective	saksoński m
+najstarszy	Adjective	najstarszy
+bystry	Adjective	bystry m (comparative bystrzejszy, superlative najbystrzejszy, adverb bystro)
+wilgotny	Adjective	wilgotny m (comparative wilgotniejszy or bardziej wilgotny, superlative najwilgotniejszy or najbardziej wilgotny)
+najsprośniejszy	Adjective	najsprośniejszy
+ośli	Adjective	ośli m (not comparable)
+jędrny	Adjective	jędrny m (comparative jędrniejszy, superlative najjędrniejszy, adverb jędrnie)
+cierpliwy	Adjective	cierpliwy m (comparative bardziej cierpliwy, superlative najbardziej cierpliwy)
+ścienny	Adjective	ścienny m
+słoneczny	Adjective	słoneczny m (comparative słoneczniejszy, superlative najsłoneczniejszy, adverb słonecznie)
+diecezjalny	Adjective	diecezjalny m
+botaniczny	Adjective	botaniczny m (not comparable, adverb botanicznie)
+dwuznaczny	Adjective	dwuznaczny m
+pachnący	Adjective	pachnący m
+kakaowy	Adjective	kakaowy m
+zachodnioeuropejski	Adjective	zachodnioeuropejski m (not comparable)
+drogowy	Adjective	drogowy m
+prądotwórczy	Adjective	prądotwórczy m
+bolesny	Adjective	bolesny m (comparative bardziej bolesny, superlative najbardziej bolesny, adverb boleśnie)
+krytyczny	Adjective	krytyczny m (comparative bardziej krytyczny, superlative najbardziej krytyczny, adverb krytycznie)
+siwy	Adjective	siwy m
+zabawniejszy	Adjective	zabawniejszy
+letni	Adjective	letni m
+dziewiczy	Adjective	dziewiczy m (not comparable)
+ekskluzywny	Adjective	ekskluzywny m (comparative bardziej ekskluzywny, superlative najbardziej ekskluzywny, adverb ekskluzywnie)
+oziębły	Adjective	oziębły m
+odmienny	Adjective	odmienny m (comparative odmienniejszy or bardziej odmienny, superlative najodmienniejszy or najbardziej odmienny, adverb odmiennie)
+najczęstszy	Adjective	najczęstszy
+nieprzeczytany	Adjective	nieprzeczytany m
+podły	Adjective	podły m (comparative podlejszy, superlative najpodlejszy, adverb podle)
+bezpłatny	Adjective	bezpłatny m (not comparable, adverb bezpłatnie)
+chwilowy	Adjective	chwilowy m
+czadyjski	Adjective	czadyjski m
+cynamonowy	Adjective	cynamonowy m
+długowieczny	Adjective	długowieczny m (comparative bardziej długowieczny, superlative najbardziej długowieczny)
+podobny	Adjective	podobny m (comparative podobniejszy or bardziej podobny, superlative najpodobniejszy or najbardziej podobny, adverb podobnie)
+ciekawski	Adjective	ciekawski m
+pionowy	Adjective	pionowy m
+kukurydziany	Adjective	kukurydziany m
+potężniejszy	Adjective	potężniejszy
+dziwny	Adjective	dziwny m (comparative dziwniejszy, superlative najdziwniejszy, adverb dziwnie)
+podejrzany	Adjective	podejrzany m
+konieczny	Adjective	konieczny m
+najpodatniejszy	Adjective	najpodatniejszy
+porcelanowy	Adjective	porcelanowy m
+italski	Adjective	italski m
+dolnołużycki	Adjective	dolnołużycki m (not comparable)
+rzadki	Adjective	rzadki m (comparative rzadszy, superlative najrzadszy, adverb rzadko)
+dawniejszy	Adjective	dawniejszy
+najwrażliwszy	Adjective	najwrażliwszy
+potoczny	Adjective	potoczny m
+siarkowy	Adjective	siarkowy m
+przeźroczysty	Adjective	przeźroczysty m (comparative bardziej przeźroczysty, superlative najbardziej przeźroczysty)
+całkowy	Adjective	całkowy m (not comparable)
+najdojrzalszy	Adjective	najdojrzalszy
+płowy	Adjective	płowy m (comparative bardziej płowy, superlative najbardziej płowy, adverb płowo)
+najszybszy	Adjective	najszybszy
+najciaśniejszy	Adjective	najciaśniejszy
+ginekologiczny	Adjective	ginekologiczny m (not comparable, adverb ginekologicznie)
+liczniejszy	Adjective	liczniejszy
+jasnobrązowy	Adjective	jasnobrązowy m
+żelbetowy	Adjective	żelbetowy m (not comparable)
+średni	Adjective	średni m (not comparable)
+mądry	Adjective	mądry m (comparative mądrzejszy or mędrszy, superlative najmądrzejszy or najmędrszy, adverb mądrze)
+karkołomny	Adjective	karkołomny m (comparative bardziej karkołomny or karkołomniejszy, superlative najbardziej karkołomny or najkarkołomniejszy, adverb karkołomnie)
+brzydszy	Adjective	brzydszy
+najostrzejszy	Adjective	najostrzejszy
+zbójecki	Adjective	zbójecki m
+metalowy	Adjective	metalowy m
+twardy	Adjective	twardy m (comparative twardszy, superlative najtwardszy, adverb twardo)
+podatkowy	Adjective	podatkowy m
+bawarski	Adjective	bawarski m
+labilny	Adjective	labilny m (comparative labilniejszy, superlative najlabilniejszy, adverb labilnie)
+jakikolwiek	Adjective	jakikolwiek m (not comparable)
+ręczny	Adjective	ręczny m (comparative bardziej ręczny, superlative najbardziej ręczny, adverb ręcznie)
+znajoma	Adjective	znajoma
+nudne	Adjective	nudne n, f pl, n pl (not comparable)
+złożony	Adjective	złożony m (comparative bardziej złożony, superlative najbardziej złożony)
+wenecki	Adjective	wenecki m
+pieniężny	Adjective	pieniężny m (not comparable)
+najdelikatniejszy	Adjective	najdelikatniejszy
+pozorny	Adjective	pozorny m (comparative bardziej pozorny, superlative najbardziej pozorny, adverb pozornie)
+dwujęzyczny	Adjective	dwujęzyczny m
+traumatyczny	Adjective	traumatyczny m
+zimny	Adjective	zimny m (comparative zimniejszy, superlative najzimniejszy)
+eucharystyczny	Adjective	eucharystyczny m
+najsprawniejszy	Adjective	najsprawniejszy
+najsłodszy	Adjective	najsłodszy
+znajomy	Adjective	znajomy m
+okrutny	Adjective	okrutny m (comparative okrutniejszy or bardziej okrutny, superlative najokrutniejszy or najbardziej okrutny, adverb okrutnie)
+wodoszczelny	Adjective	wodoszczelny m
+arktyczny	Adjective	arktyczny m (not comparable)
+brutalny	Adjective	brutalny m (comparative brutalniejszy, superlative najbrutalniejszy, adverb brutalnie)
+jałowcowy	Adjective	jałowcowy m
+sierocy	Adjective	sierocy m (not comparable, adverb sieroco)
+rodzinny	Adjective	rodzinny m
+najnowszy	Adjective	najnowszy
+zmęczeni	Adjective	zmęczeni m pers pl (comparative bardziej zmęczeni, superlative najbardziej zmęczeni)
+metodystyczny	Adjective	metodystyczny m
+parny	Adjective	parny m (adverb parno)
+jednobarwny	Adjective	jednobarwny m
+zębowy	Adjective	zębowy m
+komputerowy	Adjective	komputerowy m (not comparable)
+optyczny	Adjective	optyczny m
+praktyczny	Adjective	praktyczny m (comparative praktyczniejszy or bardziej praktyczny, superlative najpraktyczniejszy or najbardziej praktyczny, adverb praktycznie)
+bujniejszy	Adjective	bujniejszy
+niejawny	Adjective	niejawny m (comparative bardziej niejawny, superlative najbardziej niejawny)
+architektoniczny	Adjective	architektoniczny m (not comparable, adverb architektonicznie)
+jednorodny	Adjective	jednorodny m (adverb jednorodnie)
+najzwyklejszy	Adjective	najzwyklejszy
+wdzięczniejszy	Adjective	wdzięczniejszy
+atmosferyczny	Adjective	atmosferyczny m (not comparable, adverb atmosferycznie)
+krótkowłosy	Adjective	krótkowłosy m
+niższy	Adjective	niższy
+najciekawszy	Adjective	najciekawszy
+powolny	Adjective	powolny m (comparative powolniejszy, superlative najpowolniejszy, adverb powolnie)
+jednooki	Adjective	jednooki m (not comparable)
+messyński	Adjective	messyński m
+średnia	Adjective	średnia
+afrykański	Adjective	afrykański m
+praindoeuropejski	Adjective	praindoeuropejski m (not comparable)
+przepiękny	Adjective	przepiękny m (not comparable)
+gadatliwy	Adjective	gadatliwy m (comparative bardziej gadatliwy, superlative najbardziej gadatliwy)
+węgierski	Adjective	węgierski m
+cienki	Adjective	cienki m (comparative cieńszy, superlative najcieńszy, adverb cienko)
+inteligentny	Adjective	inteligentny m (comparative inteligentniejszy or bardziej inteligentny, superlative najinteligentniejszy or najbardziej inteligentny, adverb inteligentnie)
+daremny	Adjective	daremny m (not comparable)
+pospolity	Adjective	pospolity m
+artystyczny	Adjective	artystyczny m (not comparable, adverb artystycznie)
+smaczniejszy	Adjective	smaczniejszy
+karpacki	Adjective	karpacki m
+liberyjski	Adjective	liberyjski m
+najzamożniejszy	Adjective	najzamożniejszy
+najsamotniejszy	Adjective	najsamotniejszy
+tamilski	Adjective	tamilski m
+cytoplazmatyczny	Adjective	cytoplazmatyczny m
+grubszy	Adjective	grubszy
+uboższy	Adjective	uboższy
+idealny	Adjective	idealny m (adverb idealnie)
+tani	Adjective	tani m (comparative tańszy, superlative najtańszy, adverb tanio)
+muli	Adjective	muli m
+adygejski	Adjective	adygejski m
+odnawialny	Adjective	odnawialny m
+poranny	Adjective	poranny m
+grube	Adjective	grube
+znakomitszy	Adjective	znakomitszy
+przedwczesny	Adjective	przedwczesny m (not comparable)
+zamknięte	Adjective	zamknięte n, f pl, n pl (not comparable)
+drożdżowy	Adjective	drożdżowy m
+fonetyczny	Adjective	fonetyczny m
+jednowymiarowy	Adjective	jednowymiarowy m
+luźny	Adjective	luźny m (comparative luźniejszy, superlative najluźniejszy, adverb luźnie or luźno)
+odległy	Adjective	odległy (comparative odleglejszy, superlative najodleglejszy)
+kilkaset	Adjective	kilkaset pl
+jajeczny	Adjective	jajeczny m (comparative bardziej jajeczny, superlative najbardziej jajeczny, adverb jajecznie)
+szafirowy	Adjective	szafirowy m
+pheniański	Adjective	pheniański m
+szkodliwy	Adjective	szkodliwy m
+najobszerniejszy	Adjective	najobszerniejszy
+spory	Adjective	spory m (not comparable, adverb sporo)
+najdyskretniejszy	Adjective	najdyskretniejszy
+dyskotekowy	Adjective	dyskotekowy m
+sąsiedni	Adjective	sąsiedni m
+ostrawski	Adjective	ostrawski m
+najchłodniejszy	Adjective	najchłodniejszy
+dobre	Adjective	dobre
+weselszy	Adjective	weselszy
+moralny	Adjective	moralny m (adverb moralnie)
+absolutny	Adjective	absolutny m (not comparable, adverb absolutnie)
+angielski	Adjective	angielski m
+trwały	Adjective	trwały m (comparative trwalszy, superlative najtrwalszy, adverb trwale)
+szybki	Adjective	szybki m (comparative szybszy, superlative najszybszy, adverb szybko)
+wojskowy	Adjective	wojskowy m (not comparable, adverb wojskowo)
+pierwszy	Adjective	pierwszy m
+górnołużycki	Adjective	górnołużycki m (not comparable)
+dorosły	Adjective	dorosły m (comparative doroślejszy, superlative najdoroślejszy)
+szkocka	Adjective	szkocka
+najśmieszniejszy	Adjective	najśmieszniejszy
+zielonkawy	Adjective	zielonkawy m (comparative bardziej zielonkawy, superlative najbardziej zielonkawy)
+korzystny	Adjective	korzystny m (comparative korzystniejszy, superlative najkorzystniejszy, adverb korzystnie)
+bielszy	Adjective	bielszy
+nieskończony	Adjective	nieskończony m (not comparable, adverb nieskończenie)
+beztroski	Adjective	beztroski m (comparative bardziej beztroski, superlative najbardziej beztroski)
+młody	Adjective	młody m (comparative młodszy, superlative najmłodszy, adverb młodo)
+mitologiczny	Adjective	mitologiczny m
+wieśniacki	Adjective	wieśniacki (comparative bardziej wieśniacki, superlative najbardziej wieśniacki)
+dobry	Adjective	dobry m (comparative lepszy, superlative najlepszy, adverb dobrze)
+gotowy	Adjective	gotowy m (comparative gotowszy, superlative najgotowszy)
+płodny	Adjective	płodny m (comparative płodniejszy, superlative najpłodniejszy, adverb płodnie)
+regularniejszy	Adjective	regularniejszy
+pusty	Adjective	pusty m (comparative bardziej pusty, superlative najbardziej pusty, adverb pusto)
+najczarniejszy	Adjective	najczarniejszy
+serbski	Adjective	serbski m
+lapoński	Adjective	lapoński m
+rytualny	Adjective	rytualny m (not comparable, adverb rytualnie)
+super	Adjective	super (indeclinable, comparative bardziej super, superlative najbardziej super)
+ceramiczny	Adjective	ceramiczny m (not comparable)
+towarzyski	Adjective	towarzyski m (comparative bardziej towarzyski, superlative najbardziej towarzyski)
+grzeczny	Adjective	grzeczny m (comparative grzeczniejszy, superlative najgrzeczniejszy, adverb grzecznie)
+ekonomiczny	Adjective	ekonomiczny m (comparative bardziej ekonomiczny, superlative najbardziej ekonomiczny)
+intymny	Adjective	intymny m (comparative intymniejszy or bardziej intymny, superlative najintymniejszy or najbardziej intymny, adverb intymnie)
+słomiany	Adjective	słomiany m (not comparable)
+opolski	Adjective	opolski m
+brutalniejszy	Adjective	brutalniejszy
+rzymski	Adjective	rzymski m
+krakowski	Adjective	krakowski m
+sanskrycki	Adjective	sanskrycki m
+leasingowy	Adjective	leasingowy m
+romantyczniejszy	Adjective	romantyczniejszy
+koszerny	Adjective	koszerny m (not comparable)
+wielokrotny	Adjective	wielokrotny m (adverb wielokrotnie)
+minimalistyczny	Adjective	minimalistyczny m
+pornograficzny	Adjective	pornograficzny m
+najcieńszy	Adjective	najcieńszy
+pilski	Adjective	pilski m
+najsłynniejszy	Adjective	najsłynniejszy
+szklany	Adjective	szklany m
+najpiękniejszy	Adjective	najpiękniejszy
+ośmiobitowy	Adjective	ośmiobitowy m
+grubiański	Adjective	grubiański m (comparative bardziej grubiański, superlative najbardziej grubiański, adverb grubiańsko)
+przyimkowy	Adjective	przyimkowy m
+zmęczona	Adjective	zmęczona f (comparative bardziej zmęczona, superlative najbardziej zmęczona)
+demokratyczny	Adjective	demokratyczny m
+głodniejszy	Adjective	głodniejszy
+ukochany	Adjective	ukochany m
+obfitszy	Adjective	obfitszy
+bytowy	Adjective	bytowy m (not comparable)
+przemysłowy	Adjective	przemysłowy m
+samotniejszy	Adjective	samotniejszy
+wysoki	Adjective	wysoki m (comparative wyższy, superlative najwyższy, adverb wysoko)
+odważny	Adjective	odważny m (comparative odważniejszy, superlative najodważniejszy, adverb odważnie)
+nienasycony	Adjective	nienasycony m
+kazachstański	Adjective	kazachstański m
+wierny	Adjective	wierny m (comparative wierniejszy or bardziej wierny, superlative najwierniejszy or najbardziej wierny, adverb wiernie)
+niski	Adjective	niski m (comparative niższy, superlative najniższy, adverb nisko)
+smaczny	Adjective	smaczny m (comparative smaczniejszy or bardziej smaczny, superlative najsmaczniejszy or najbardziej smaczny)
+zrozumiały	Adjective	zrozumiały m
+babciny	Adjective	babciny m (comparative bardziej babciny, superlative najbardziej babciny)
+mistrzowski	Adjective	mistrzowski m (comparative bardziej mistrzowski, superlative najbardziej mistrzowski, adverb mistrzowsko)
+różnoboczny	Adjective	różnoboczny m (not comparable)
+liniowy	Adjective	liniowy m
+ostry	Adjective	ostry m (comparative ostrzejszy, superlative najostrzejszy, adverb ostro)
+ogniskowa	Adjective	ogniskowa
+dzisiejszy	Adjective	dzisiejszy m
+ołowiany	Adjective	ołowiany m (comparative bardziej ołowiany, superlative najbardziej ołowiany)
+najneutralniejszy	Adjective	najneutralniejszy
+wyborczy	Adjective	wyborczy m (not comparable)
+gorliwszy	Adjective	gorliwszy
+jamajski	Adjective	jamajski m
+ciężki	Adjective	ciężki m (comparative cięższy, superlative najcięższy, adverb ciężko)
+grzeszny	Adjective	grzeszny m (comparative bardziej grzeszny or grzeszniejszy, superlative najbardziej grzeszny or najgrzeszniejszy, adverb grzesznie)
+nijaki	Adjective	nijaki m (comparative bardziej nijaki, superlative najbardziej nijaki, adverb nijako)
+niegrzeczna	Adjective	niegrzeczna f
+odmienniejszy	Adjective	odmienniejszy
+kolanowy	Adjective	kolanowy m (not comparable)
+ozdobny	Adjective	ozdobny m (comparative bardziej ozdobny, superlative najbardziej ozdobny, adverb ozdobnie)
+koreański	Adjective	koreański m
+pyszny	Adjective	pyszny m (comparative pyszniejszy, superlative najpyszniejszy, adverb pysznie)
+upierdliwy	Adjective	upierdliwy m (comparative bardziej upierdliwy, superlative najbardziej upierdliwy, adverb upierdliwie)
+austriacki	Adjective	austriacki m
+aalborski	Adjective	aalborski m (not comparable)
+jarzynowa	Adjective	jarzynowa
+poważniejszy	Adjective	poważniejszy
+najchudszy	Adjective	najchudszy
+sejsmiczny	Adjective	sejsmiczny m (not comparable, adverb sejsmicznie)
+wędrowny	Adjective	wędrowny m
+mleczny	Adjective	mleczny m
+suchy	Adjective	suchy m (comparative bardziej suchy, superlative najbardziej suchy, adverb sucho)
+czuwaski	Adjective	czuwaski m
+skromny	Adjective	skromny m (comparative skromniejszy, superlative najskromniejszy, adverb skromnie)
+zeszły	Adjective	zeszły m
+autonomiczny	Adjective	autonomiczny m (not comparable)
+najcnotliwszy	Adjective	najcnotliwszy
+najpodlejszy	Adjective	najpodlejszy
+poligamiczny	Adjective	poligamiczny m
+najwierniejszy	Adjective	najwierniejszy
+skromniejszy	Adjective	skromniejszy
+krowi	Adjective	krowi m
+bierny	Adjective	bierny m (comparative bierniejszy or bardziej bierny, superlative najbierniejszy or najbardziej bierny, adverb biernie)
+czeski	Adjective	czeski m (not comparable)
+dostateczny	Adjective	dostateczny m (adverb dostatecznie)
+banalniejszy	Adjective	banalniejszy
+braterski	Adjective	braterski m
+złowrogi	Adjective	złowrogi m (comparative bardziej złowrogi, superlative najbardziej złowrogi, adverb złowrogo)
+jednoznaczny	Adjective	jednoznaczny m (comparative bardziej jednoznaczny, superlative najbardziej jednoznaczny)
+najuczciwszy	Adjective	najuczciwszy
+sportowy	Adjective	sportowy m
+systematyczny	Adjective	systematyczny m (comparative systematyczniejszy or bardziej systematyczny, superlative najsystematyczniejszy or najbardziej systematyczny, adverb systematycznie)
+fiński	Adjective	fiński m
+standardowy	Adjective	standardowy m
+lotniczy	Adjective	lotniczy m
+dziecinny	Adjective	dziecinny m (adverb dziecinnie)
+imbirowy	Adjective	imbirowy m (comparative bardziej imbirowy, superlative najbardziej imbirowy)
+leworęczny	Adjective	leworęczny m (not comparable)
+aliteracyjny	Adjective	aliteracyjny m
+śliczniejszy	Adjective	śliczniejszy
+głupszy	Adjective	głupszy
+andorski	Adjective	andorski m
+pasożytniczy	Adjective	pasożytniczy m
+solidny	Adjective	solidny m (comparative solidniejszy, superlative najsolidniejszy, adverb solidnie)
+zdolny	Adjective	zdolny m (comparative zdolniejszy, superlative najzdolniejszy)
+przeliczalny	Adjective	przeliczalny m (not comparable)
+niezależny	Adjective	niezależny m (comparative bardziej niezależny, superlative najbardziej niezależny)
+soczysty	Adjective	soczysty m (comparative soczystszy, superlative najsoczystszy, adverb soczyście)
+boży	Adjective	boży m (not comparable)
+wojenny	Adjective	wojenny m
+możliwy	Adjective	możliwy m
+islamski	Adjective	islamski m
+hurtowy	Adjective	hurtowy m
+biblijny	Adjective	biblijny m
+nowojorski	Adjective	nowojorski m
+mansyjski	Adjective	mansyjski m
+limonkowy	Adjective	limonkowy m (comparative bardziej limonkowy, superlative najbardziej limonkowy)
+niejaki	Adjective	niejaki m (not comparable)
+urodzinowy	Adjective	urodzinowy m (not comparable)
+ponadprzeciętny	Adjective	ponadprzeciętny m (not comparable)
+wolny	Adjective	wolny m (comparative wolniejszy or bardziej wolny, superlative najwolniejszy or najbardziej wolny, adverb wolno)
+nieprzygotowany	Adjective	nieprzygotowany m (not comparable)
+lepki	Adjective	lepki m (comparative bardziej lepki, superlative najbardziej lepki)
+eksperymentalny	Adjective	eksperymentalny m
+głośniejszy	Adjective	głośniejszy
+rolniczy	Adjective	rolniczy m
+uparty	Adjective	uparty m (comparative bardziej uparty, superlative najbardziej uparty, adverb uparcie)
+chwalebniejszy	Adjective	chwalebniejszy
+mosiężny	Adjective	mosiężny m
+otwarte	Adjective	otwarte n, f pl, n pl (not comparable)
+sążny	Adjective	sążny (comparative sążniejszy, superlative najsążniejszy, adverb sążnie)
+wodoodporny	Adjective	wodoodporny m
+lniany	Adjective	lniany m (not comparable)
+środkowoeuropejski	Adjective	środkowoeuropejski m (not comparable)
+nieruchomy	Adjective	nieruchomy m
+sadystyczny	Adjective	sadystyczny m
+znaczny	Adjective	znaczny m
+aleucki	Adjective	aleucki m (not comparable)
+problematyczny	Adjective	problematyczny m
+zodiakalny	Adjective	zodiakalny m
+terrorystyczny	Adjective	terrorystyczny m
+naturalne	Adjective	naturalne n, f pl, n pl
+nudniejszy	Adjective	nudniejszy
+wrześniowy	Adjective	wrześniowy m
+kozi	Adjective	kozi m (not comparable)
+świadomy	Adjective	świadomy m (comparative bardziej świadomy, superlative najbardziej świadomy)
+zadowolony	Adjective	zadowolony m (comparative bardziej zadowolony, superlative najbardziej zadowolony)
+uroczy	Adjective	uroczy m (comparative bardziej uroczy, superlative najbardziej uroczy, adverb uroczo)
+adekwatniejszy	Adjective	adekwatniejszy
+krymskotatarski	Adjective	krymskotatarski m
+drogi	Adjective	drogi m (comparative droższy, superlative najdroższy, adverb drogo)
+juliański	Adjective	juliański m
+trudniejszy	Adjective	trudniejszy
+empiryczny	Adjective	empiryczny m
+cwany	Adjective	cwany (comparative cwańszy, superlative najcwańszy)
+zimowy	Adjective	zimowy m
+nadmierny	Adjective	nadmierny m
+metalurgiczny	Adjective	metalurgiczny m
+burzowy	Adjective	burzowy m
+asynchroniczny	Adjective	asynchroniczny (not comparable, adverb asynchronicznie)
+helsiński	Adjective	helsiński m
+łysy	Adjective	łysy m (comparative bardziej łysy, superlative najbardziej łysy, adverb łyso)
+australijski	Adjective	australijski m
+monoteistyczny	Adjective	monoteistyczny m
+belgijski	Adjective	belgijski m
+goły	Adjective	goły m (comparative bardziej goły, superlative najbardziej goły, adverb goło)
+najniższy	Adjective	najniższy
+pewniejszy	Adjective	pewniejszy
+kawowy	Adjective	kawowy m
+maksymalny	Adjective	maksymalny m (not comparable)
+dźwiękowy	Adjective	dźwiękowy m (comparative bardziej dźwiękowy, superlative najbardziej dźwiękowy)
+najweselszy	Adjective	najweselszy
+agresywny	Adjective	agresywny m (comparative bardziej agresywny, superlative najbardziej agresywny, adverb agresywnie)
+instalacyjny	Adjective	instalacyjny m (not comparable)
+nowe	Adjective	nowe n, f pl, n pl (comparative nowsze, superlative najnowsze)
+jugosłowiański	Adjective	jugosłowiański m
+pogardliwy	Adjective	pogardliwy m
+alpejski	Adjective	alpejski m
+skuteczny	Adjective	skuteczny m (comparative skuteczniejszy, superlative najskuteczniejszy, adverb skutecznie)
+niepotrzebny	Adjective	niepotrzebny m
+oceaniczny	Adjective	oceaniczny m
+bydgoski	Adjective	bydgoski m
+słyszalny	Adjective	słyszalny m
+płciowy	Adjective	płciowy m (not comparable, adverb płciowo)
+groningski	Adjective	groningski m
+aramejski	Adjective	aramejski m
+jeżowy	Adjective	jeżowy m
+jasnozielony	Adjective	jasnozielony m
+hokejowy	Adjective	hokejowy m
+niesamowity	Adjective	niesamowity m (adverb niesamowicie)
+autentyczny	Adjective	autentyczny m (not comparable, adverb autentycznie)
+szczupły	Adjective	szczupły m (comparative szczuplejszy, superlative najszczuplejszy)
+tępy	Adjective	tępy m (comparative bardziej tępy, superlative najbardziej tępy)
+otwarty	Adjective	otwarty m (not comparable, adverb otwarcie)
+najznakomitszy	Adjective	najznakomitszy
+chaotyczny	Adjective	chaotyczny m (comparative chaotyczniejszy, superlative najchaotyczniejszy, adverb chaotycznie)
+dawny	Adjective	dawny m (comparative dawniejszy, superlative najdawniejszy, adverb dawno)
+uczciwy	Adjective	uczciwy m (comparative uczciwszy or bardziej uczciwy, superlative najuczciwszy or najbardziej uczciwy)
+nieznośny	Adjective	nieznośny m
+wąski	Adjective	wąski m (comparative węższy, superlative najwęższy, adverb wąsko)
+prozaiczny	Adjective	prozaiczny m (comparative bardziej prozaiczny, superlative najbardziej prozaiczny)
+wystarczający	Adjective	wystarczający m
+najobfitszy	Adjective	najobfitszy
+świecki	Adjective	świecki m (comparative bardziej świecki, superlative najbardziej świecki)
+słowiański	Adjective	słowiański m (comparative bardziej słowiański, superlative najbardziej słowiański, adverb słowiańsko)
+bezwzględny	Adjective	bezwzględny m (comparative bardziej bezwzględny, superlative najbardziej bezwzględny)
+najzimniejszy	Adjective	najzimniejszy
+dodekafoniczny	Adjective	dodekafoniczny m (comparative bardziej dodekafoniczny, superlative najbardziej dodekafoniczny)
+kolejowy	Adjective	kolejowy m
+wdzięczny	Adjective	wdzięczny m (comparative bardziej wdzięczny or wdzięczniejszy, superlative najbardziej wdzięczny or najwdzięczniejszy)
+przyrodniczy	Adjective	przyrodniczy m (comparative bardziej przyrodniczy, superlative najbardziej przyrodniczy)
+ezoteryczny	Adjective	ezoteryczny m (comparative bardziej ezoteryczny, superlative najbardziej ezoteryczny, adverb ezoterycznie)
+śnieżnobiały	Adjective	śnieżnobiały m (not comparable)
+elastyczny	Adjective	elastyczny m (comparative bardziej elastyczny, superlative najbardziej elastyczny)
+jaworzniański	Adjective	jaworzniański m
+jordański	Adjective	jordański m
+zabobonny	Adjective	zabobonny m (adverb zabobonnie)
+z kosmosu	Adjective	z kosmosu (comparative bardziej z kosmosu, superlative najbardziej z kosmosu)
+rtęciowy	Adjective	rtęciowy m
+pedantyczny	Adjective	pedantyczny m
+hiszpański	Adjective	hiszpański m
+wierzbowy	Adjective	wierzbowy m (not comparable)
+topazowy	Adjective	topazowy m
+straszniejszy	Adjective	straszniejszy
+jesionowy	Adjective	jesionowy m
+sprawniejszy	Adjective	sprawniejszy
+kataloński	Adjective	kataloński m
+logiczny	Adjective	logiczny m (adverb logicznie)
+niewiele	Adjective	niewiele
+majowy	Adjective	majowy m
+zdrowy	Adjective	zdrowy m (comparative zdrowszy, superlative najzdrowszy, adverb zdrowo)
+rewolucyjny	Adjective	rewolucyjny m
+amerykański	Adjective	amerykański m
+zamożniejszy	Adjective	zamożniejszy
+solny	Adjective	solny m (comparative bardziej solny, superlative najbardziej solny)
+proroczy	Adjective	proroczy m (adverb proroczo)
+husycki	Adjective	husycki m
+ałtajski	Adjective	ałtajski m
+najmilszy	Adjective	najmilszy
+najdoskonalszy	Adjective	najdoskonalszy
+najkrąglejszy	Adjective	najkrąglejszy
+nadobny	Adjective	nadobny m (comparative nadobniejszy, superlative najnadobniejszy)
+tuwalski	Adjective	tuwalski m
+wyraźniejszy	Adjective	wyraźniejszy
+najdłuższy	Adjective	najdłuższy
+jagnięcy	Adjective	jagnięcy m (not comparable)
+cedrowy	Adjective	cedrowy m
+biało-czerwony	Adjective	biało-czerwony m (not comparable)
+winny	Adjective	winny m (comparative bardziej winny, superlative najbardziej winny)
+najchciwszy	Adjective	najchciwszy
+okropny	Adjective	okropny m (comparative okropniejszy, superlative najokropniejszy, adverb okropnie)
+najebany	Adjective	najebany m
+udręczony	Adjective	udręczony m
+tajny	Adjective	tajny m (comparative tajniejszy, superlative najtajniejszy, adverb tajnie)
+słaby	Adjective	słaby m (comparative słabszy, superlative najsłabszy, adverb słabo)
+wpływowy	Adjective	wpływowy m
+wschodnioeuropejski	Adjective	wschodnioeuropejski m
+najdzielniejszy	Adjective	najdzielniejszy
+dwulicowy	Adjective	dwulicowy (comparative bardziej dwulicowy, superlative najbardziej dwulicowy)
+orny	Adjective	orny m (not comparable)
+twardszy	Adjective	twardszy
+aktualny	Adjective	aktualny m (comparative aktualniejszy or bardziej aktualny, superlative najaktualniejszy or najbardziej aktualny, adverb aktualnie)
+padaczkowy	Adjective	padaczkowy m
+najdoroślejszy	Adjective	najdoroślejszy
+lewy	Adjective	lewy m (not comparable, adverb lewo)
+jajowaty	Adjective	jajowaty m
+kabylski	Adjective	kabylski m
+wegański	Adjective	wegański m
+norweski	Adjective	norweski m
+nocny	Adjective	nocny m (not comparable)
+celtycki	Adjective	celtycki m
+afrykanerski	Adjective	afrykanerski m
+najgłębszy	Adjective	najgłębszy
+śmieszniejszy	Adjective	śmieszniejszy
+krtaniowy	Adjective	krtaniowy m
+sierpniowy	Adjective	sierpniowy m
+przedpotopowy	Adjective	przedpotopowy m (not comparable)
+biograficzny	Adjective	biograficzny m (comparative bardziej biograficzny, superlative najbardziej biograficzny, adverb biograficznie)
+pluszowy	Adjective	pluszowy m (comparative bardziej pluszowy, superlative najbardziej pluszowy, adverb pluszowo)
+najbrzydszy	Adjective	najbrzydszy
+seksualny	Adjective	seksualny m
+najśliczniejszy	Adjective	najśliczniejszy
+bezpieczniejszy	Adjective	bezpieczniejszy
+szeroki	Adjective	szeroki m (comparative szerszy, superlative najszerszy)
+niedźwiedzi	Adjective	niedźwiedzi m
+bury	Adjective	bury m
+niejadalny	Adjective	niejadalny m (not comparable)
+chudy	Adjective	chudy m (comparative chudszy, superlative najchudszy, adverb chudo)
+chorobowy	Adjective	chorobowy m
+automatyczny	Adjective	automatyczny m (not comparable, adverb automatycznie)
+dumny	Adjective	dumny m (comparative dumniejszy, superlative najdumniejszy, adverb dumnie)
+młodszy	Adjective	młodszy
+emocjonalny	Adjective	emocjonalny m
+genetyczny	Adjective	genetyczny m (not comparable, adverb genetycznie)
+nastoletni	Adjective	nastoletni m
+etruski	Adjective	etruski m (not comparable)
+siemianowicki	Adjective	siemianowicki m
+zły	Adjective	zły m (comparative gorszy, superlative najgorszy)
+zły	Adjective	zły m (comparative bardziej zły, superlative najbardziej zły)
+toksyczny	Adjective	toksyczny m (comparative bardziej toksyczny, superlative najbardziej toksyczny)
+dwukierunkowy	Adjective	dwukierunkowy m
+słodkowodny	Adjective	słodkowodny m (not comparable)
+południowy	Adjective	południowy m
+przyjemny	Adjective	przyjemny m (comparative przyjemniejszy, superlative najprzyjemniejszy)
+poznański	Adjective	poznański m
+okropniejszy	Adjective	okropniejszy
+mali	Adjective	mali
+etiopski	Adjective	etiopski m
+fotogeniczny	Adjective	fotogeniczny m (adverb fotogenicznie)
+bromowy	Adjective	bromowy m
+łagodny	Adjective	łagodny m (comparative łagodniejszy, superlative najłagodniejszy, adverb łagodnie)
+ciekły	Adjective	ciekły m (not comparable)
+poważny	Adjective	poważny m (comparative poważniejszy, superlative najpoważniejszy, adverb poważnie)
+młode	Adjective	młode
+dzienny	Adjective	dzienny m (not comparable, adverb dziennie)
+zaoceaniczny	Adjective	zaoceaniczny m (not comparable)
+wiejski	Adjective	wiejski m
+drapieżniejszy	Adjective	drapieżniejszy
+zajęty	Adjective	zajęty m (comparative bardziej zajęty, superlative najbardziej zajęty)
+ryżowy	Adjective	ryżowy m (not comparable)
+żołnierski	Adjective	żołnierski m
+fizyczny	Adjective	fizyczny m (comparative bardziej fizyczny, superlative najbardziej fizyczny, adverb fizycznie)
+przypadkowy	Adjective	przypadkowy m (comparative bardziej przypadkowy, superlative najbardziej przypadkowy)
+spragniony	Adjective	spragniony m (comparative bardziej spragniony, superlative najbardziej spragniony)
+poufny	Adjective	poufny m (comparative bardziej poufny or poufniejszy, superlative najbardziej poufny or najpoufniejszy, adverb poufnie)
+językowy	Adjective	językowy m
+niewidzialny	Adjective	niewidzialny m (not comparable)
+odleglejszy	Adjective	odleglejszy
+niewiadomy	Adjective	niewiadomy m (not comparable)
+wietnamski	Adjective	wietnamski m
+najskromniejszy	Adjective	najskromniejszy
+obszerniejszy	Adjective	obszerniejszy
+kompaktowy	Adjective	kompaktowy m (comparative bardziej kompaktowy, superlative najbardziej kompaktowy)
+niezbędny	Adjective	niezbędny m
+gęsi	Adjective	gęsi m (not always comparable, comparative bardziej gęsi, superlative najbardziej gęsi)
+leniwy	Adjective	leniwy m
+przyjemniejszy	Adjective	przyjemniejszy
+autystyczny	Adjective	autystyczny m (not comparable)
+kapryśny	Adjective	kapryśny m
+męskorzeczowy	Adjective	męskorzeczowy m (not comparable)
+srebrny	Adjective	srebrny m
+flamandzki	Adjective	flamandzki m
+najaktywniejszy	Adjective	najaktywniejszy
+brudny	Adjective	brudny m (comparative brudniejszy, superlative najbrudniejszy, adverb brudno)
+mityczny	Adjective	mityczny m (adverb mitycznie)
+najpotężniejszy	Adjective	najpotężniejszy
+aktualniejszy	Adjective	aktualniejszy
+zwięźlejszy	Adjective	zwięźlejszy
+prowansalski	Adjective	prowansalski m
+fenicki	Adjective	fenicki m
+równoczesny	Adjective	równoczesny m (not comparable)
+brązowy	Adjective	brązowy m (comparative bardziej brązowy, superlative najbardziej brązowy, adverb brązowo)
+ostatni	Adjective	ostatni m (not comparable, adverb ostatnio)
+gliwicki	Adjective	gliwicki m
+przytulniejszy	Adjective	przytulniejszy
+pełnoletni	Adjective	pełnoletni m (not comparable)
+najwdzięczniejszy	Adjective	najwdzięczniejszy
+różnowartościowy	Adjective	różnowartościowy m (not comparable)
+odczasownikowy	Adjective	odczasownikowy m (not comparable)
+najprzyjemniejszy	Adjective	najprzyjemniejszy
+regularny	Adjective	regularny m (comparative regularniejszy or bardziej regularny, superlative najregularniejszy or najbardziej regularny, adverb regularnie)
+czekoladowy	Adjective	czekoladowy m
+psychosomatyczny	Adjective	psychosomatyczny m
+wstawiony	Adjective	wstawiony m (comparative bardziej wstawiony, superlative najbardziej wstawiony)
+poprzedni	Adjective	poprzedni m (not comparable)
+dyskretny	Adjective	dyskretny m (comparative dyskretniejszy or bardziej dyskretny, superlative najdyskretniejszy or najbardziej dyskretny, adverb dyskretnie)
+barwny	Adjective	barwny m (comparative barwniejszy or bardziej barwny, superlative najbarwniejszy or najbardziej barwny, adverb barwnie)
+mylny	Adjective	mylny m (comparative bardziej mylny or mylniejszy, superlative najbardziej mylny or najmylniejszy, adverb mylnie)
+mule	Adjective	mule
+rzewny	Adjective	rzewny m (comparative rzewniejszy, superlative najrzewniejszy, adverb rzewnie)
+wełniany	Adjective	wełniany m
+raciborski	Adjective	raciborski m
+nieodpowiedni	Adjective	nieodpowiedni m
+skończony	Adjective	skończony m (not comparable, adverb skończenie)
+ewentualny	Adjective	ewentualny m (not comparable, adverb ewentualnie)
+brunatny	Adjective	brunatny m (comparative bardziej brunatny, superlative najbardziej brunatny)
+rozsądny	Adjective	rozsądny m (comparative rozsądniejszy or bardziej rozsądny, superlative najrozsądniejszy or najbardziej rozsądny, adverb rozsądnie)
+hydrauliczny	Adjective	hydrauliczny m
+żywotny	Adjective	żywotny m (comparative żywotniejszy, superlative najżywotniejszy, adverb żywotnie)
+nieżonaty	Adjective	nieżonaty m (not comparable)
+krępy	Adjective	krępy m (comparative bardziej krępy, superlative najbardziej krępy)
+najdawniejszy	Adjective	najdawniejszy
+namibijski	Adjective	namibijski m
+jednoczesny	Adjective	jednoczesny m (not comparable)
+tajniejszy	Adjective	tajniejszy
+dokładny	Adjective	dokładny m (comparative dokładniejszy, superlative najdokładniejszy, adverb dokładnie)
+liściowy	Adjective	liściowy m
+nienaturalny	Adjective	nienaturalny m
+znośny	Adjective	znośny m (comparative znośniejszy or bardziej znośny, superlative najznośniejszy or najbardziej znośny, adverb znośnie)
+miętowy	Adjective	miętowy m (comparative bardziej miętowy, superlative najbardziej miętowy)
+wodnisty	Adjective	wodnisty m (comparative bardziej wodnisty, superlative najbardziej wodnisty, adverb wodniście)
+romantyczny	Adjective	romantyczny m (comparative romantyczniejszy, superlative najromantyczniejszy, adverb romantycznie)
+higieniczny	Adjective	higieniczny m (adverb higienicznie)
+najpyszniejszy	Adjective	najpyszniejszy
+wnętrzarski	Adjective	wnętrzarski m (not comparable)
+atrakcyjniejszy	Adjective	atrakcyjniejszy
+płytszy	Adjective	płytszy
+łódzki	Adjective	łódzki m (adverb łódzko)
+socyniański	Adjective	socyniański m
+stopniowy	Adjective	stopniowy m (adverb stopniowo)
+wązki	Adjective	wązki m (comparative węższy, superlative najwęższy, adverb wązko)
+ładniejszy	Adjective	ładniejszy
+indonezyjski	Adjective	indonezyjski m
+azotowy	Adjective	azotowy m (not comparable, adverb azotowo)
+irlandzki	Adjective	irlandzki m
+geometryczny	Adjective	geometryczny m (not comparable)
+lipniejszy	Adjective	lipniejszy
+bogatszy	Adjective	bogatszy
+indoeuropejski	Adjective	indoeuropejski m (not comparable)
+nietypowy	Adjective	nietypowy m (comparative bardziej nietypowy, superlative najbardziej nietypowy)
+jeleni	Adjective	jeleni m (not comparable)
+zamarznięty	Adjective	zamarznięty m
+zarobiony	Adjective	zarobiony m (comparative bardziej zarobiony, superlative najbardziej zarobiony)
+kinowy	Adjective	kinowy m
+realistyczny	Adjective	realistyczny m (comparative realistyczniejszy or bardziej realistyczny, superlative najrealistyczniejszy or najbardziej realistyczny, adverb realistycznie)
+rachityczny	Adjective	rachityczny m (comparative bardziej rachityczny, superlative najbardziej rachityczny, adverb rachitycznie)
+czeczeński	Adjective	czeczeński m
+awangardowy	Adjective	awangardowy m
+parszywy	Adjective	parszywy m (comparative parszywszy, superlative najparszywszy)
+reklamowy	Adjective	reklamowy m
+zdrowe	Adjective	zdrowe n, f pl, n pl (comparative zdrowsze or bardziej zdrowe, superlative najzdrowsze or najbardziej zdrowe)
+baszkirski	Adjective	baszkirski m
+radiofoniczny	Adjective	radiofoniczny m (not comparable)
+rycerski	Adjective	rycerski m
+dojrzały	Adjective	dojrzały m (comparative dojrzalszy or bardziej dojrzały, superlative najdojrzalszy or najbardziej dojrzały, adverb dojrzale)
+popierdolony	Adjective	popierdolony m (comparative bardziej popierdolony, superlative najbardziej popierdolony)
+neutralny	Adjective	neutralny m (comparative neutralniejszy or bardziej neutralny, superlative najneutralniejszy or najbardziej neutralny, adverb neutralnie)
+płytki	Adjective	płytki m (comparative płytszy, superlative najpłytszy, adverb płytko)
+najbledszy	Adjective	najbledszy
+luzytański	Adjective	luzytański m
+idiomatyczny	Adjective	idiomatyczny m (comparative bardziej idiomatyczny, superlative najbardziej idiomatyczny, adverb idiomatycznie)
+bledszy	Adjective	bledszy
+osmański	Adjective	osmański m
+amharski	Adjective	amharski m
+południowokoreański	Adjective	południowokoreański m
+rychły	Adjective	rychły m (comparative rychlejszy, superlative najrychlejszy, adverb rychło)
+semicki	Adjective	semicki m
+niezapomniany	Adjective	niezapomniany m
+lewa	Adjective	lewa
+zawodowy	Adjective	zawodowy m
+winogronowy	Adjective	winogronowy m
+mądrzejszy	Adjective	mądrzejszy
+nepalski	Adjective	nepalski m
+podzwrotnikowy	Adjective	podzwrotnikowy m
+najszerszy	Adjective	najszerszy
+etymologiczny	Adjective	etymologiczny m
+trzeźwy	Adjective	trzeźwy m (comparative trzeźwiejszy or bardziej trzeźwy, superlative najtrzeźwiejszy or najbardziej trzeźwy)
+całkowalny	Adjective	całkowalny m (not comparable)
+lakoniczny	Adjective	lakoniczny m (comparative bardziej lakoniczny, superlative najbardziej lakoniczny)
+marcepanowy	Adjective	marcepanowy m (not comparable)
+sumeryjski	Adjective	sumeryjski m
+krąglejszy	Adjective	krąglejszy
+potajemny	Adjective	potajemny m (comparative bardziej potajemny, superlative najbardziej potajemny, adverb potajemnie)
+bezkarny	Adjective	bezkarny m (comparative bardziej bezkarny or bezkarniejszy, superlative najbardziej bezkarny or najbezkarniejszy, adverb bezkarnie)
+gruziński	Adjective	gruziński m
+anarchistyczny	Adjective	anarchistyczny m
+abchaski	Adjective	abchaski m (not comparable)
+marokański	Adjective	marokański m
+teoretyczny	Adjective	teoretyczny m
+domowy	Adjective	domowy m
+pierdolnięty	Adjective	pierdolnięty m (comparative bardziej pierdolnięty, superlative najbardziej pierdolnięty)
+interpunkcyjny	Adjective	interpunkcyjny m
+powyłamywany	Adjective	powyłamywany m
+najsilniejszy	Adjective	najsilniejszy
+jednolity	Adjective	jednolity m (adverb jednolicie)
+formalny	Adjective	formalny m (adverb formalnie)
+destrukcyjny	Adjective	destrukcyjny m
+okresowy	Adjective	okresowy m
+weekendowy	Adjective	weekendowy m
+komórkowy	Adjective	komórkowy m (not comparable, adverb komórkowo)
+sam	Adjective	sam m (not always comparable, comparative bardziej sam, superlative najbardziej sam)
+swojski	Adjective	swojski m
+przemienny	Adjective	przemienny m (not comparable)
+głuchy	Adjective	głuchy m (adverb głucho)
+duszny	Adjective	duszny m (comparative bardziej duszny, superlative najbardziej duszny, adverb duszno)
+zabawny	Adjective	zabawny m (comparative zabawniejszy, superlative najzabawniejszy, adverb zabawnie)
+wewnętrzny	Adjective	wewnętrzny m (not comparable)
+niedwuznaczny	Adjective	niedwuznaczny m (not comparable)
+obsesyjny	Adjective	obsesyjny m (comparative bardziej obsesyjny, superlative najbardziej obsesyjny, adverb obsesyjnie)
+niegrzeczny	Adjective	niegrzeczny m
+piękniejszy	Adjective	piękniejszy
+cholerny	Adjective	cholerny m
+najtrudniejszy	Adjective	najtrudniejszy
+chemiczny	Adjective	chemiczny m
+cnotliwszy	Adjective	cnotliwszy
+różniczkowalny	Adjective	różniczkowalny m (not comparable)
+tensorowy	Adjective	tensorowy m
+tradycyjny	Adjective	tradycyjny m
+frywolny	Adjective	frywolny m (comparative bardziej frywolny, superlative najbardziej frywolny, adverb frywolnie)
+kubański	Adjective	kubański m
+banalny	Adjective	banalny m (comparative banalniejszy or bardziej banalny, superlative najbanalniejszy or najbardziej banalny, adverb banalnie)
+kapuściany	Adjective	kapuściany m
+azerski	Adjective	azerski m
+straszny	Adjective	straszny m (comparative straszniejszy, superlative najstraszniejszy)
+polarny	Adjective	polarny m
+aktywny	Adjective	aktywny m (comparative aktywniejszy, superlative najaktywniejszy, adverb aktywnie)
+orli	Adjective	orli m
+puszczalski	Adjective	puszczalski m (comparative bardziej puszczalski, superlative najbardziej puszczalski)
+dumniejszy	Adjective	dumniejszy
+samochodowy	Adjective	samochodowy m (not comparable)
+dokonany	Adjective	dokonany m (not comparable)
+niewiadoma	Adjective	niewiadoma f
+niecierpliwy	Adjective	niecierpliwy m (comparative bardziej niecierpliwy, superlative najbardziej niecierpliwy)
+intensywny	Adjective	intensywny m (comparative bardziej intensywny, superlative najbardziej intensywny, adverb intensywnie)
+białoruski	Adjective	białoruski m
+ortodoksyjny	Adjective	ortodoksyjny m
+jedyny	Adjective	jedyny m (not comparable)
+tautologiczny	Adjective	tautologiczny m
+śpiący	Adjective	śpiący m (comparative bardziej śpiący, superlative najbardziej śpiący)
+niebezpieczny	Adjective	niebezpieczny m
+prawy	Adjective	prawy m (comparative bardziej prawy, superlative najbardziej prawy, adverb prawo)
+serdeczny	Adjective	serdeczny m (comparative bardziej serdeczny, superlative najbardziej serdeczny, adverb serdecznie)
+elfi	Adjective	elfi m
+męskoosobowy	Adjective	męskoosobowy m (not comparable)
+złoty	Adjective	złoty m
+starofrancuski	Adjective	starofrancuski m
+mediolański	Adjective	mediolański m
+okrągły	Adjective	okrągły m (comparative okrąglejszy, superlative najokrąglejszy)
+okienny	Adjective	okienny m
+górski	Adjective	górski m (not comparable)
+japoński	Adjective	japoński m
+tragiczny	Adjective	tragiczny m (comparative tragiczniejszy or bardziej tragiczny, superlative najtragiczniejszy or najbardziej tragiczny, adverb tragicznie)
+stary	Adjective	stary m (comparative starszy, superlative najstarszy)
+telewizyjny	Adjective	telewizyjny m
+lojalniejszy	Adjective	lojalniejszy
+brazylijski	Adjective	brazylijski m
+boski	Adjective	boski m (not always comparable, comparative bardziej boski, superlative najbardziej boski)
+węglowy	Adjective	węglowy m
+elektrochemiczny	Adjective	elektrochemiczny m
+najkwaśniejszy	Adjective	najkwaśniejszy
+śniady	Adjective	śniady m (adverb śniado)
+prostopadły	Adjective	prostopadły m
+właściwy	Adjective	właściwy m (comparative właściwszy or bardziej właściwy, superlative najwłaściwszy or najbardziej właściwy, adverb właściwie)
+ogromny	Adjective	ogromny m (not comparable, adverb ogromnie)
+chiński	Adjective	chiński m
+laotański	Adjective	laotański m
+niebiański	Adjective	niebiański m (comparative bardziej niebiański, superlative najbardziej niebiański)
+maciczny	Adjective	maciczny f (not comparable)
+nowotestamentowy	Adjective	nowotestamentowy m (not comparable)
+jawny	Adjective	jawny m (comparative bardziej jawny or jawniejszy, superlative najbardziej jawny or najjawniejszy, adverb jawnie)
+najregularniejszy	Adjective	najregularniejszy
+kosmiczny	Adjective	kosmiczny m
+irański	Adjective	irański m
+testowy	Adjective	testowy m
+upiorny	Adjective	upiorny m (comparative upiorniejszy, superlative najupiorniejszy, adverb upiornie)
+pośredni	Adjective	pośredni m (not comparable, adverb pośrednio)
+cudaczny	Adjective	cudaczny m (comparative cudaczniejszy, superlative najcudaczniejszy, adverb cudacznie)
+ułomny	Adjective	ułomny m (comparative bardziej ułomny, superlative najbardziej ułomny, adverb ułomnie)
+milszy	Adjective	milszy
+uprzejmy	Adjective	uprzejmy m (comparative bardziej uprzejmy, superlative najbardziej uprzejmy)
+szacowny	Adjective	szacowny m (comparative szacowniejszy, superlative najszacowniejszy, adverb szacownie)
+drukowany	Adjective	drukowany m (not comparable)
+podwodna	Adjective	podwodna f
+kontynentalny	Adjective	kontynentalny m
+chciwy	Adjective	chciwy m (comparative chciwszy or bardziej chciwy, superlative najchciwszy or najbardziej chciwy, adverb chciwie)
+tajski	Adjective	tajski m
+alfabetyczny	Adjective	alfabetyczny m (not comparable, adverb alfabetycznie)
+angolski	Adjective	angolski m
+dzielniejszy	Adjective	dzielniejszy
+żałosny	Adjective	żałosny m (comparative bardziej żałosny, superlative najbardziej żałosny, adverb żałośnie)
+gwiezdny	Adjective	gwiezdny m (comparative bardziej gwiezdny, superlative najbardziej gwiezdny)
+prawidłowy	Adjective	prawidłowy m
+najlipniejszy	Adjective	najlipniejszy
+mulczujący	Adjective	mulczujący m (not comparable)
+chrobry	Adjective	chrobry m (adverb chrobrze)
+wykonywalny	Adjective	wykonywalny m
+prosta	Adjective	prosta f (comparative prostsza, superlative najprostsza)
+syty	Adjective	syty m
+dobrowolny	Adjective	dobrowolny m (not comparable)
+zerowy	Adjective	zerowy m (not comparable)
+najrychlejszy	Adjective	najrychlejszy
+scholastyczny	Adjective	scholastyczny m
+wiekopomny	Adjective	wiekopomny m (adverb wiekopomnie)
+foremny	Adjective	foremny m (comparative foremniejszy, superlative najforemniejszy, adverb foremnie)
+przestarzały	Adjective	przestarzały m
+mandżurski	Adjective	mandżurski m
+armeński	Adjective	armeński m
+dwutygodniowy	Adjective	dwutygodniowy m
+roztargniony	Adjective	roztargniony m
+mechaniczny	Adjective	mechaniczny m
+autobiograficzny	Adjective	autobiograficzny m
+pszczeli	Adjective	pszczeli m
+kalafiorowy	Adjective	kalafiorowy m
+jasnoszary	Adjective	jasnoszary m
+infraczerwony	Adjective	infraczerwony m (comparative bardziej infraczerwony, superlative najbardziej infraczerwony, adverb infraczerwono)
+opalowy	Adjective	opalowy m (not comparable, adverb opalowo)
+nowy	Adjective	nowy m (comparative nowszy, superlative najnowszy, adverb nowo)
+cudowny	Adjective	cudowny m (comparative cudowniejszy or bardziej cudowny, superlative najcudowniejszy or najbardziej cudowny)
+afiniczny	Adjective	afiniczny m (not comparable)
+zachodnioflamandzki	Adjective	zachodnioflamandzki m
+punktualny	Adjective	punktualny m (comparative punktualniejszy, superlative najpunktualniejszy, adverb punktualnie)
+najegzotyczniejszy	Adjective	najegzotyczniejszy
+pomorski	Adjective	pomorski m
+doroślejszy	Adjective	doroślejszy
+najprzytulniejszy	Adjective	najprzytulniejszy
+sefardyjski	Adjective	sefardyjski m
+zakrzywiony	Adjective	zakrzywiony m (comparative bardziej zakrzywiony, superlative najbardziej zakrzywiony)
+jabłoniowy	Adjective	jabłoniowy m
+mięsny	Adjective	mięsny m (not comparable)
+somalijski	Adjective	somalijski m
+wspanialszy	Adjective	wspanialszy
+legalny	Adjective	legalny m (not comparable, adverb legalnie)
+planktonowy	Adjective	planktonowy m
+spóźniony	Adjective	spóźniony m
+zjełczały	Adjective	zjełczały m
+uszkodzony	Adjective	uszkodzony m
+pijany	Adjective	pijany m (comparative bardziej pijany, superlative najbardziej pijany)
+najmądrzejszy	Adjective	najmądrzejszy
+euklidesowy	Adjective	euklidesowy m (not comparable)
+niektóry	Adjective	niektóry
+osobowy	Adjective	osobowy m (comparative bardziej osobowy, superlative najbardziej osobowy, adverb osobowo)
+rozsądniejszy	Adjective	rozsądniejszy
+jęczmienny	Adjective	jęczmienny m
+wirusowy	Adjective	wirusowy m
+tajwański	Adjective	tajwański m
+stromy	Adjective	stromy m (comparative bardziej stromy, superlative najbardziej stromy)
+ruchomy	Adjective	ruchomy m (comparative bardziej ruchomy, superlative najbardziej ruchomy, adverb ruchomo)
+najtańszy	Adjective	najtańszy
+mysi	Adjective	mysi m
+rosyjski	Adjective	rosyjski m
+prastary	Adjective	prastary m
+zaraźliwy	Adjective	zaraźliwy m
+wulkaniczny	Adjective	wulkaniczny m
+medyczny	Adjective	medyczny m (not comparable, adverb medycznie)
+dekoracyjny	Adjective	dekoracyjny m (comparative bardziej dekoracyjny, superlative najbardziej dekoracyjny, adverb dekoracyjnie)
+powojenny	Adjective	powojenny m
+słoniowy	Adjective	słoniowy m (not comparable)
+spożywczy	Adjective	spożywczy m
+karny	Adjective	karny m (not always comparable, comparative bardziej karny, superlative najbardziej karny, adverb karnie)
+najpoprawniejszy	Adjective	najpoprawniejszy
+nudny	Adjective	nudny m (comparative nudniejszy, superlative najnudniejszy, adverb nudno)
+bezrobotny	Adjective	bezrobotny m (not comparable)
+bliższy	Adjective	bliższy
+dezoksyrybonukleinowy	Adjective	dezoksyrybonukleinowy m (not comparable)
+nordycki	Adjective	nordycki m
+elektronowy	Adjective	elektronowy m
+konkretniejszy	Adjective	konkretniejszy
+krzemowy	Adjective	krzemowy m
+dzikszy	Adjective	dzikszy
+gotycki	Adjective	gotycki m
+przejrzysty	Adjective	przejrzysty m (comparative bardziej przejrzysty, superlative najbardziej przejrzysty)
+krwisty	Adjective	krwisty m (comparative bardziej krwisty, superlative najbardziej krwisty)
+ładny	Adjective	ładny m (comparative ładniejszy, superlative najładniejszy, adverb ładnie or ładno)
+ograniczony	Adjective	ograniczony m
+berberyjski	Adjective	berberyjski m
+egipski	Adjective	egipski m
+turkmeński	Adjective	turkmeński m
+tajemniczy	Adjective	tajemniczy m (comparative bardziej tajemniczy, superlative najbardziej tajemniczy)
+dany	Adjective	dany m (not comparable)
+maszynowy	Adjective	maszynowy m (comparative bardziej maszynowy, superlative najbardziej maszynowy, adverb maszynowo)
+czerwcowy	Adjective	czerwcowy m
+pośledni	Adjective	pośledni m (comparative pośledniejszy, superlative najpośledniejszy, adverb poślednio)
+delikatniejszy	Adjective	delikatniejszy
+podejrzliwy	Adjective	podejrzliwy m (comparative podejrzliwszy, superlative najpodejrzliwszy, adverb podejrzliwie)
+przymiotnikowy	Adjective	przymiotnikowy m
+dunajski	Adjective	dunajski m
+leśny	Adjective	leśny m
+wrogi	Adjective	wrogi m (comparative bardziej wrogi, superlative najbardziej wrogi, adverb wrogo)
+taninowy	Adjective	taninowy m
+okrutniejszy	Adjective	okrutniejszy
+cieńszy	Adjective	cieńszy
+męskozwierzęcy	Adjective	męskozwierzęcy m (not comparable)
+najpoważniejszy	Adjective	najpoważniejszy
+górnolotny	Adjective	górnolotny m (comparative bardziej górnolotny, superlative najbardziej górnolotny)
+listopadowy	Adjective	listopadowy m
+najgorszy	Adjective	najgorszy
+cisowy	Adjective	cisowy m (not comparable)
+wschodniosłowiański	Adjective	wschodniosłowiański m
+wierniejszy	Adjective	wierniejszy
+dziesiętny	Adjective	dziesiętny m
+migdałowy	Adjective	migdałowy m
+czytelniejszy	Adjective	czytelniejszy
+szczegółowy	Adjective	szczegółowy m
+miedziana	Adjective	miedziana f
+gwieździsty	Adjective	gwieździsty m (comparative bardziej gwieździsty, superlative najbardziej gwieździsty)
+analogowy	Adjective	analogowy m (not comparable)
+najodmienniejszy	Adjective	najodmienniejszy
+wyrodny	Adjective	wyrodny m (comparative bardziej wyrodny, superlative najbardziej wyrodny, adverb wyrodnie)
+najabsurdalniejszy	Adjective	najabsurdalniejszy
+literacki	Adjective	literacki m
+nagi	Adjective	nagi m (comparative bardziej nagi, superlative najbardziej nagi, adverb nago)
+łacny	Adjective	łacny m
+następny	Adjective	następny m (not comparable)
+najspokojniejszy	Adjective	najspokojniejszy
+chłodny	Adjective	chłodny m (comparative chłodniejszy, superlative najchłodniejszy, adverb chłodno)
+żaroodporny	Adjective	żaroodporny m (not comparable)
+prestiżowy	Adjective	prestiżowy m
+normalniejszy	Adjective	normalniejszy
+krzepki	Adjective	krzepki m
+nogajski	Adjective	nogajski m
+niewystarczający	Adjective	niewystarczający m (not comparable)
+ruda	Adjective	ruda
+gęstszy	Adjective	gęstszy
+wschodnioazjatycki	Adjective	wschodnioazjatycki m
+lodowcowy	Adjective	lodowcowy m
+buraczany	Adjective	buraczany m
+półżywy	Adjective	półżywy m
+przedmałżeński	Adjective	przedmałżeński m
+osiowy	Adjective	osiowy m
+otwarta	Adjective	otwarta f (not comparable)
+ujgurski	Adjective	ujgurski m
+wykładniczy	Adjective	wykładniczy m (not comparable, adverb wykładniczo)
+czytelny	Adjective	czytelny m (comparative czytelniejszy, superlative najczytelniejszy, adverb czytelnie)
+samarytański	Adjective	samarytański m
+węższy	Adjective	węższy m
+najwyższy	Adjective	najwyższy
+dziarski	Adjective	dziarski m (comparative bardziej dziarski, superlative najbardziej dziarski, adverb dziarsko)
+cyfrowy	Adjective	cyfrowy m (not comparable)
+dietetyczny	Adjective	dietetyczny m
+nieokreślony	Adjective	nieokreślony m (not comparable)
+cieszyński	Adjective	cieszyński m
+mierniejszy	Adjective	mierniejszy
+silniejszy	Adjective	silniejszy
+nerwowy	Adjective	nerwowy m
+perski	Adjective	perski m
+prawniczy	Adjective	prawniczy m (not comparable)
+kolumbijski	Adjective	kolumbijski m
+akadyjski	Adjective	akadyjski m
+genewski	Adjective	genewski m
+najdostępniejszy	Adjective	najdostępniejszy
+warszawski	Adjective	warszawski m
+chlorowy	Adjective	chlorowy m
+jadalny	Adjective	jadalny m (not comparable)
+bezchmurny	Adjective	bezchmurny m (not comparable, adverb bezchmurnie)
+północnobrabancki	Adjective	północnobrabancki m
+tytoniowy	Adjective	tytoniowy m
+mysłowicki	Adjective	mysłowicki m
+galijski	Adjective	galijski m
+trakcyjny	Adjective	trakcyjny m (not comparable)
+jasnogórski	Adjective	jasnogórski m
+najmniejszy	Adjective	najmniejszy m
+azjatycki	Adjective	azjatycki m
+portugalski	Adjective	portugalski m
+ciasny	Adjective	ciasny m (comparative ciaśniejszy, superlative najciaśniejszy, adverb ciasno)
+kanadyjski	Adjective	kanadyjski m
+cięższy	Adjective	cięższy
+zoologiczny	Adjective	zoologiczny m
+nielogiczny	Adjective	nielogiczny m (adverb nielogicznie)
+mniejszy	Adjective	mniejszy
+fantastyczny	Adjective	fantastyczny m (adverb fantastycznie)
+kornwalijski	Adjective	kornwalijski m
+kaspijski	Adjective	kaspijski m
+specjalne	Adjective	specjalne n, f pl, n pl
+najambitniejszy	Adjective	najambitniejszy
+libański	Adjective	libański m
+jasnożółty	Adjective	jasnożółty m
+drapieżny	Adjective	drapieżny m (comparative drapieżniejszy, superlative najdrapieżniejszy, adverb drapieżnie)
+dwukołowy	Adjective	dwukołowy m (not comparable)
+niemy	Adjective	niemy m (not comparable)
+wredny	Adjective	wredny m (comparative wredniejszy, superlative najwredniejszy, adverb wrednie)
+mięśniowy	Adjective	mięśniowy m
+sprawny	Adjective	sprawny m (comparative sprawniejszy, superlative najsprawniejszy, adverb sprawnie)
+czuły	Adjective	czuły m (comparative czulszy, superlative najczulszy, adverb czule)
+najrozsądniejszy	Adjective	najrozsądniejszy
+silny	Adjective	silny m (comparative silniejszy, superlative najsilniejszy)
+kofeinowy	Adjective	kofeinowy m
+najgrubszy	Adjective	najgrubszy
+lipowy	Adjective	lipowy m
+filozoficzny	Adjective	filozoficzny m
+selerowy	Adjective	selerowy m
+cynobrowy	Adjective	cynobrowy m
+egzotyczny	Adjective	egzotyczny m (comparative egzotyczniejszy or bardziej egzotyczny, superlative najegzotyczniejszy or najbardziej egzotyczny, adverb egzotycznie)
+miedziane	Adjective	miedziane n, f pl, n pl
+wielojęzyczny	Adjective	wielojęzyczny m
+szwedzki	Adjective	szwedzki m
+najszczerszy	Adjective	najszczerszy
+samotny	Adjective	samotny m (comparative samotniejszy or bardziej samotny, superlative najsamotniejszy or najbardziej samotny, adverb samotnie)
+egzekucyjny	Adjective	egzekucyjny m
+nowoorleański	Adjective	nowoorleański m
+duński	Adjective	duński m (not comparable)
+karaibski	Adjective	karaibski m
+islandzki	Adjective	islandzki m
+ruski	Adjective	ruski m
+męskożywotny	Adjective	męskożywotny m (not comparable)
+słodszy	Adjective	słodszy
+cieplejszy	Adjective	cieplejszy
+najczytelniejszy	Adjective	najczytelniejszy
+elektryczny	Adjective	elektryczny m (not comparable, adverb elektrycznie)
+południowoafrykański	Adjective	południowoafrykański m
+słitaśny	Adjective	słitaśny m (comparative bardziej słitaśny, superlative najbardziej słitaśny, adverb słitaśnie)
+meteorologiczny	Adjective	meteorologiczny m
+najzdolniejszy	Adjective	najzdolniejszy
+ambiwalentny	Adjective	ambiwalentny m (comparative bardziej ambiwalentny, superlative najbardziej ambiwalentny, adverb ambiwalentnie)
+egoistyczny	Adjective	egoistyczny m
+którykolwiek	Adjective	którykolwiek m (not comparable)
+systematyczniejszy	Adjective	systematyczniejszy
+hetycki	Adjective	hetycki m
+histeryczny	Adjective	histeryczny m
+najbanalniejszy	Adjective	najbanalniejszy
+najtrwalszy	Adjective	najtrwalszy
+awestyjski	Adjective	awestyjski m
+transkrypcyjny	Adjective	transkrypcyjny m
+pieczarkowy	Adjective	pieczarkowy m
+najbielszy	Adjective	najbielszy
+jednostajny	Adjective	jednostajny m (adverb jednostajnie)
+absurdalny	Adjective	absurdalny m (comparative absurdalniejszy or bardziej absurdalny, superlative najabsurdalniejszy or najbardziej absurdalny, adverb absurdalnie)
+praworęczny	Adjective	praworęczny m (not comparable)
+najwygodniejszy	Adjective	najwygodniejszy
+nieuważny	Adjective	nieuważny m (comparative bardziej nieuważny, superlative najbardziej nieuważny)
+zajebisty	Adjective	zajebisty m
+źródlany	Adjective	źródlany m (not comparable)
+metamorficzny	Adjective	metamorficzny m
+surrealistyczny	Adjective	surrealistyczny m
+hojniejszy	Adjective	hojniejszy
+polska	Adjective	polska f
+katastrofalny	Adjective	katastrofalny m
+zmęczone	Adjective	zmęczone n, f pl, n pl (comparative bardziej zmęczone, superlative najbardziej zmęczone)
+kurdyjski	Adjective	kurdyjski m
+staroświecki	Adjective	staroświecki m (comparative bardziej staroświecki, superlative najbardziej staroświecki)
+babiloński	Adjective	babiloński m
+mikołowski	Adjective	mikołowski m
+podlejszy	Adjective	podlejszy
+potyliczny	Adjective	potyliczny m (not comparable)
+ciągły	Adjective	ciągły m (not comparable, adverb ciągle)
+meksykański	Adjective	meksykański m
+orla	Adjective	orla f
+wargowy	Adjective	wargowy m
+najpilniejszy	Adjective	najpilniejszy
+argentyński	Adjective	argentyński m
+odkryty	Adjective	odkryty m (adverb odkrycie)
+kartonowy	Adjective	kartonowy m
+cukrowy	Adjective	cukrowy m
+obraźliwy	Adjective	obraźliwy m
+darmowy	Adjective	darmowy m
+przeciwskuteczny	Adjective	przeciwskuteczny m (adverb przeciwskutecznie)
+gniady	Adjective	gniady m
+katolicki	Adjective	katolicki m (comparative bardziej katolicki, superlative najbardziej katolicki)
+niepewny	Adjective	niepewny m
+ważki	Adjective	ważki m (not comparable)
+płynny	Adjective	płynny m (comparative płynniejszy, superlative najpłynniejszy, adverb płynnie)
+małopolski	Adjective	małopolski m (comparative bardziej małopolski, superlative najbardziej małopolski, adverb małopolsko)
+najsłabszy	Adjective	najsłabszy
+ostentacyjny	Adjective	ostentacyjny m (comparative bardziej ostentacyjny, superlative najbardziej ostentacyjny, adverb ostentacyjnie)
+łotewski	Adjective	łotewski m
+biegły	Adjective	biegły m (comparative bardziej biegły, superlative najbardziej biegły, adverb biegle)
+nieprzewidywalny	Adjective	nieprzewidywalny m
+ametystowy	Adjective	ametystowy m
+pojemny	Adjective	pojemny m
+zjadliwy	Adjective	zjadliwy m (comparative bardziej zjadliwy, superlative najbardziej zjadliwy)
+szwajcarski	Adjective	szwajcarski m
+iglasty	Adjective	iglasty m
+przydatny	Adjective	przydatny m (comparative bardziej przydatny, superlative najbardziej przydatny)
+najokrutniejszy	Adjective	najokrutniejszy
+maturalny	Adjective	maturalny
+wenezuelski	Adjective	wenezuelski m
+najnaturalniejszy	Adjective	najnaturalniejszy
+nowa	Adjective	nowa f (comparative nowsza, superlative najnowsza)
+gorzki	Adjective	gorzki m (comparative bardziej gorzki, superlative najbardziej gorzki)
+bezwstydny	Adjective	bezwstydny m (comparative bardziej bezwstydny, superlative najbardziej bezwstydny)
+najcudaczniejszy	Adjective	najcudaczniejszy
+psi	Adjective	psi m (not comparable)
+nieobecny	Adjective	nieobecny m
+bezstronny	Adjective	bezstronny (comparative bardziej bezstronny, superlative najbardziej bezstronny, adverb bezstronnie)
+skandynawski	Adjective	skandynawski m
+pełny	Adjective	pełny m (comparative pełniejszy, superlative najpełniejszy)
+łatwy	Adjective	łatwy m (comparative łatwiejszy, superlative najłatwiejszy, adverb łatwo)
+brytyjski	Adjective	brytyjski m
+pomysłowy	Adjective	pomysłowy m
+najfajniejszy	Adjective	najfajniejszy
+najpewniejszy	Adjective	najpewniejszy
+niegrzeczne	Adjective	niegrzeczne n, f pl, n pl
+stare	Adjective	stare
+glacjalny	Adjective	glacjalny m
+bezzębny	Adjective	bezzębny m (not comparable)
+cudny	Adjective	cudny m (comparative cudniejszy or bardziej cudny, superlative najcudniejszy or najbardziej cudny)
+biały	Adjective	biały m (comparative bielszy, superlative najbielszy, adverb biało)
+sporny	Adjective	sporny m (adverb spornie)
+próżny	Adjective	próżny m (comparative bardziej próżny or próżniejszy, superlative najbardziej próżny or najpróżniejszy, adverb próżno)
+gorący	Adjective	gorący m (comparative gorętszy, superlative najgorętszy, adverb gorąco)
+moczowy	Adjective	moczowy m
+niepokalanowski	Adjective	niepokalanowski m
+kazachski	Adjective	kazachski m
+twórczy	Adjective	twórczy m (comparative bardziej twórczy, superlative najbardziej twórczy)
+najzieleńszy	Adjective	najzieleńszy
+karyjski	Adjective	karyjski m
+anielski	Adjective	anielski m
+wyposzczony	Adjective	wyposzczony m (comparative bardziej wyposzczony, superlative najbardziej wyposzczony)
+cebulowy	Adjective	cebulowy m
+ekstremalny	Adjective	ekstremalny m
+obszerny	Adjective	obszerny m (comparative obszerniejszy, superlative najobszerniejszy, adverb obszernie)
+luźniejszy	Adjective	luźniejszy
+jebany	Adjective	jebany m (not comparable)
+papierowy	Adjective	papierowy m (not comparable)
+psychopatyczny	Adjective	psychopatyczny m
+ruska	Adjective	ruska
+strategiczny	Adjective	strategiczny m
+alkoholowy	Adjective	alkoholowy m (comparative bardziej alkoholowy, superlative najbardziej alkoholowy)
+jałowy	Adjective	jałowy m (comparative bardziej jałowy, superlative najbardziej jałowy, adverb jałowo)
+słynniejszy	Adjective	słynniejszy
+rozumny	Adjective	rozumny m (comparative rozumniejszy or bardziej rozumny, superlative najrozumniejszy or najbardziej rozumny, adverb rozumnie)
+ptasi	Adjective	ptasi m (comparative bardziej ptasi, superlative najbardziej ptasi)
+najbliższy	Adjective	najbliższy
+historyczny	Adjective	historyczny m
+wietrzny	Adjective	wietrzny m
+hoży	Adjective	hoży m (adverb hożo)
+dożywotni	Adjective	dożywotni m
+magnezowy	Adjective	magnezowy m
+kantoński	Adjective	kantoński m
+ordynarny	Adjective	ordynarny (comparative bardziej ordynarny, superlative najbardziej ordynarny)
+tajlandzki	Adjective	tajlandzki m
+pendżabski	Adjective	pendżabski m
+orle	Adjective	orle
+olszowy	Adjective	olszowy m
+karaimski	Adjective	karaimski m
+przeciwny	Adjective	przeciwny m
+szewski	Adjective	szewski m
+kruchszy	Adjective	kruchszy m
+drażliwy	Adjective	drażliwy m (comparative drażliwszy, superlative najdrażliwszy, adverb drażliwie)
+śliczny	Adjective	śliczny m (comparative śliczniejszy, superlative najśliczniejszy, adverb ślicznie)
+syfniejszy	Adjective	syfniejszy
+cichy	Adjective	cichy m (comparative cichszy, superlative najcichszy, adverb cicho)
+rozmowny	Adjective	rozmowny m (comparative bardziej rozmowny, superlative najbardziej rozmowny)
+normalny	Adjective	normalny m (comparative normalniejszy or bardziej normalny, superlative najnormalniejszy or najbardziej normalny, adverb normalnie)
+uzależniony	Adjective	uzależniony m (comparative bardziej uzależniony, superlative najbardziej uzależniony)
+znany	Adjective	znany m (comparative bardziej znany, superlative najbardziej znany)
+owadożerny	Adjective	owadożerny m (not comparable)
+ostrożny	Adjective	ostrożny m (comparative ostrożniejszy or bardziej ostrożny, superlative najostrożniejszy or najbardziej ostrożny, adverb ostrożnie)
+wart	Adjective	wart m (comparative bardziej wart, superlative najbardziej wart)
+czarnawy	Adjective	czarnawy m
+mniszy	Adjective	mniszy m (not comparable)
+godny	Adjective	godny m
+ujemny	Adjective	ujemny m
+wypity	Adjective	wypity (not comparable)
+biologiczny	Adjective	biologiczny m
+ranny	Adjective	ranny m (not comparable)
+cytrynowy	Adjective	cytrynowy m (comparative bardziej cytrynowy, superlative najbardziej cytrynowy, adverb cytrynowo)
+psychiczny	Adjective	psychiczny m (not comparable)
+cywilny	Adjective	cywilny m (not comparable, adverb cywilnie)
+sztuczny	Adjective	sztuczny m (comparative sztuczniejszy, superlative najsztuczniejszy, adverb sztucznie)
+niedoszły	Adjective	niedoszły m (not comparable)
+nostalgiczny	Adjective	nostalgiczny m
+cudzy	Adjective	cudzy m (not comparable)
+brylantowy	Adjective	brylantowy m
+przedwojenny	Adjective	przedwojenny m
+charytatywny	Adjective	charytatywny m
+upośledzony	Adjective	upośledzony m (comparative bardziej upośledzony, superlative najbardziej upośledzony)
+czarci	Adjective	czarci m (not comparable)
+turyński	Adjective	turyński m
+technologiczny	Adjective	technologiczny m
+akustyczny	Adjective	akustyczny m (not comparable, adverb akustycznie)
+semantyczny	Adjective	semantyczny m (not comparable)
+oburęczny	Adjective	oburęczny m (not comparable)
+celny	Adjective	celny m (comparative celniejszy, superlative najcelniejszy, adverb celnie)
+celny	Adjective	celny m (not comparable)
+jednogłośny	Adjective	jednogłośny m
+malutki	Adjective	malutki m
+komoryjski	Adjective	komoryjski m
+ekologiczniejszy	Adjective	ekologiczniejszy
+chory	Adjective	chory m (comparative bardziej chory, superlative najbardziej chory)
+teatralny	Adjective	teatralny m
+dyniowy	Adjective	dyniowy m (not comparable)
+jazzowy	Adjective	jazzowy m
+typowy	Adjective	typowy m (comparative bardziej typowy, superlative najbardziej typowy)
+ukraiński	Adjective	ukraiński m
+bezprzewodowy	Adjective	bezprzewodowy m (not comparable, adverb bezprzewodowo)
+wykonalny	Adjective	wykonalny m
+obfity	Adjective	obfity m (comparative obfitszy, superlative najobfitszy, adverb obficie)
+granatowy	Adjective	granatowy m (comparative bardziej granatowy, superlative najbardziej granatowy)
+dwuręczny	Adjective	dwuręczny m (not comparable)
+lidyjski	Adjective	lidyjski m
+kreatywny	Adjective	kreatywny m (comparative bardziej kreatywny, superlative najbardziej kreatywny, adverb kreatywnie)
+ambitniejszy	Adjective	ambitniejszy
+nosowy	Adjective	nosowy m (not comparable)
+sycylijski	Adjective	sycylijski m
+niepozorny	Adjective	niepozorny m
+platynowy	Adjective	platynowy m
+flegmatyczny	Adjective	flegmatyczny m
+równy	Adjective	równy m (not always comparable, comparative równiejszy or bardziej równy, superlative najrówniejszy or najbardziej równy, adverb równo)
+starożytny	Adjective	starożytny m
+domniemany	Adjective	domniemany m (not comparable)
+beznamiętny	Adjective	beznamiętny (comparative bardziej beznamiętny, superlative najbardziej beznamiętny, adverb beznamiętnie)
+zwrotny	Adjective	zwrotny m (comparative zwrotniejszy or bardziej zwrotny, superlative najzwrotniejszy or najbardziej zwrotny)
+podpalany	Adjective	podpalany m (not comparable)
+neutralniejszy	Adjective	neutralniejszy
+zmęczony	Adjective	zmęczony m (comparative bardziej zmęczony, superlative najbardziej zmęczony)
+najgłupszy	Adjective	najgłupszy
+głośnikowy	Adjective	głośnikowy m (not comparable)
+pewny	Adjective	pewny m (comparative pewniejszy, superlative najpewniejszy, adverb pewnie)
+zabrzański	Adjective	zabrzański m
+tropikalny	Adjective	tropikalny m
+najrówniejszy	Adjective	najrówniejszy m
+poziomy	Adjective	poziomy m (not comparable, adverb poziomo)
+średnioperski	Adjective	średnioperski m
+arabski	Adjective	arabski m
+akrobatyczny	Adjective	akrobatyczny m (adverb akrobatycznie)
+komunistyczny	Adjective	komunistyczny m
+lepsiejszy	Adjective	lepsiejszy
+nieodpowiedzialny	Adjective	nieodpowiedzialny m
+niszowy	Adjective	niszowy m (comparative bardziej niszowy, superlative najbardziej niszowy)
+najciemniejszy	Adjective	najciemniejszy
+wyuzdany	Adjective	wyuzdany m (comparative bardziej wyuzdany, superlative najbardziej wyuzdany)
+bezalkoholowy	Adjective	bezalkoholowy m (not comparable)
+kabardyjski	Adjective	kabardyjski m
+najdzikszy	Adjective	najdzikszy
+przewidywalny	Adjective	przewidywalny m
+lekki	Adjective	lekki m (comparative lżejszy, superlative najlżejszy)
+utrechcki	Adjective	utrechcki m
+truskawkowy	Adjective	truskawkowy m
+najlojalniejszy	Adjective	najlojalniejszy
+najdokładniejszy	Adjective	najdokładniejszy
+najzwyczajniejszy	Adjective	najzwyczajniejszy
+łatwiejszy	Adjective	łatwiejszy
+autochtoniczny	Adjective	autochtoniczny m
+plemienny	Adjective	plemienny m
+ludowy	Adjective	ludowy m (not comparable)
+dzielna	Adjective	dzielna
+skandaliczny	Adjective	skandaliczny m
+najpróżniejszy	Adjective	najpróżniejszy
+nieczytelny	Adjective	nieczytelny m
+bezwarunkowy	Adjective	bezwarunkowy m (not comparable, adverb bezwarunkowo)
+fajny	Adjective	fajny m (comparative fajniejszy, superlative najfajniejszy, adverb fajnie)
+czarno-biały	Adjective	czarno-biały m (not comparable)
+fajniejszy	Adjective	fajniejszy
+topolowy	Adjective	topolowy m (not comparable)
+naglący	Adjective	naglący m (adverb nagląco)
+ateistyczny	Adjective	ateistyczny m
+dalmatyński	Adjective	dalmatyński m
+trudny	Adjective	trudny m (comparative trudniejszy, superlative najtrudniejszy, adverb trudno)
+bałkański	Adjective	bałkański m
+potrzebny	Adjective	potrzebny m (comparative bardziej potrzebny, superlative najbardziej potrzebny)
+prawdopodobny	Adjective	prawdopodobny m (comparative prawdopodobniejszy or bardziej prawdopodobny, superlative najprawdopodobniejszy or najbardziej prawdopodobny)
+oderwany	Adjective	oderwany m
+najpłytszy	Adjective	najpłytszy
+przystający	Adjective	przystający m (not comparable)
+grzybowa	Adjective	grzybowa
+pomarańczowy	Adjective	pomarańczowy m (comparative bardziej pomarańczowy, superlative najbardziej pomarańczowy)
+wrażliwy	Adjective	wrażliwy m (comparative wrażliwszy or bardziej wrażliwy, superlative najwrażliwszy or najbardziej wrażliwy)
+religijny	Adjective	religijny m
+ugarycki	Adjective	ugarycki m
+miedziany	Adjective	miedziany m
+wzajemny	Adjective	wzajemny m
+rakotwórczy	Adjective	rakotwórczy m (comparative bardziej rakotwórczy, superlative najbardziej rakotwórczy)
+chytrzejszy	Adjective	chytrzejszy
+trojański	Adjective	trojański m
+najtragiczniejszy	Adjective	najtragiczniejszy
+wygodniejszy	Adjective	wygodniejszy
+ulubiony	Adjective	ulubiony m
+elementarny	Adjective	elementarny m
+miodowy	Adjective	miodowy m
+tocharski	Adjective	tocharski m
+bałtycki	Adjective	bałtycki m
+zespolony	Adjective	zespolony m
+magnetyczny	Adjective	magnetyczny m
+krymski	Adjective	krymski m (comparative bardziej krymski, superlative najbardziej krymski, adverb krymsko)
+kary	Adjective	kary m
+zamordystyczny	Adjective	zamordystyczny m (comparative bardziej zamordystyczny, superlative najbardziej zamordystyczny, adverb zamordystycznie)
+wieczorny	Adjective	wieczorny m (comparative bardziej wieczorny, superlative najbardziej wieczorny, adverb wieczorowo)
+bezsenny	Adjective	bezsenny m (not comparable, adverb bezsennie)
+solidniejszy	Adjective	solidniejszy
+upadły	Adjective	upadły m (not comparable)
+najświeższy	Adjective	najświeższy
+włoski	Adjective	włoski m
+skończeniewymiarowy	Adjective	skończeniewymiarowy m (not comparable)
+kwaśny	Adjective	kwaśny m (comparative kwaśniejszy, superlative najkwaśniejszy)
+papieski	Adjective	papieski m
+świętojebliwy	Adjective	świętojebliwy m (comparative bardziej świętojebliwy, superlative najbardziej świętojebliwy)
+mazurski	Adjective	mazurski m
+wygodny	Adjective	wygodny m (comparative wygodniejszy, superlative najwygodniejszy, adverb wygodnie)
+żytni	Adjective	żytni m
+szczurzy	Adjective	szczurzy m
+wszelki	Adjective	wszelki m (not comparable)
+wesoły	Adjective	wesoły m (comparative weselszy, superlative najweselszy, adverb wesoło)
+nieszkodliwy	Adjective	nieszkodliwy m
+społeczny	Adjective	społeczny m
+szczęśliwy	Adjective	szczęśliwy m
+ojczysty	Adjective	ojczysty m
+asyryjski	Adjective	asyryjski m
+walijski	Adjective	walijski m
+centralny	Adjective	centralny m
+równoległy	Adjective	równoległy m
+mięsożerny	Adjective	mięsożerny m
+kameruński	Adjective	kameruński m
+klonowy	Adjective	klonowy m
+umysłowy	Adjective	umysłowy m (not comparable, adverb umysłowo)
+wrocławski	Adjective	wrocławski m
+staropolski	Adjective	staropolski m
+cały	Adjective	cały m (not comparable, adverb cało)
+mocniejszy	Adjective	mocniejszy
+zelandzki	Adjective	zelandzki m
+zagraniczny	Adjective	zagraniczny m (not comparable)
+ludzki	Adjective	ludzki m (comparative bardziej ludzki, superlative najbardziej ludzki)
+azerbejdżański	Adjective	azerbejdżański m
+sześcienny	Adjective	sześcienny m
+całkowity	Adjective	całkowity m
+kaktusowy	Adjective	kaktusowy m
+śmiały	Adjective	śmiały m (comparative śmielszy, superlative najśmielszy, adverb śmiało)
+tenisowy	Adjective	tenisowy m
+łemkowski	Adjective	łemkowski m (comparative bardziej łemkowski, superlative najbardziej łemkowski)
+nieważny	Adjective	nieważny m (comparative bardziej nieważny, superlative najbardziej nieważny)
+niezwykły	Adjective	niezwykły m
+kipczacki	Adjective	kipczacki m
+słabszy	Adjective	słabszy
+krótki	Adjective	krótki m (comparative krótszy, superlative najkrótszy, adverb krótko)
+trygonometryczny	Adjective	trygonometryczny m (not comparable, adverb trygonometrycznie)
+dziedziczny	Adjective	dziedziczny m (adverb dziedzicznie)
+zrobiony	Adjective	zrobiony m (comparative bardziej zrobiony, superlative najbardziej zrobiony)
+ormiański	Adjective	ormiański m
+zręczniejszy	Adjective	zręczniejszy
+dolnoniemiecki	Adjective	dolnoniemiecki m (not comparable)
+najrealistyczniejszy	Adjective	najrealistyczniejszy
+pomarańczowawy	Adjective	pomarańczowawy m
+pienisty	Adjective	pienisty m (comparative bardziej pienisty, superlative najbardziej pienisty, adverb pieniście)
+jabłkowy	Adjective	jabłkowy m
+bretoński	Adjective	bretoński m
+owadzi	Adjective	owadzi m
+uczony	Adjective	uczony m (comparative bardziej uczony, superlative najbardziej uczony, adverb uczenie)
+przyjaźniejszy	Adjective	przyjaźniejszy
+malinowy	Adjective	malinowy m
+borowy	Adjective	borowy m
+intymniejszy	Adjective	intymniejszy
+mnogościowy	Adjective	mnogościowy m (not comparable)
+bieżący	Adjective	bieżący m (not comparable)
+prawosławny	Adjective	prawosławny m
+skrzydłowy	Adjective	skrzydłowy m (not comparable)
+jodłowy	Adjective	jodłowy m
+metafizyczny	Adjective	metafizyczny m
+be	Adjective	be (indeclinable, comparative bardziej be, superlative najbardziej be)
+wredniejszy	Adjective	wredniejszy m
+najsmaczniejszy	Adjective	najsmaczniejszy
+najlepszy	Adjective	najlepszy
+zwarty	Adjective	zwarty m (comparative bardziej zwarty, superlative najbardziej zwarty, adverb zwarto)
+nieśmiertelny	Adjective	nieśmiertelny m (not comparable)
+samodzielny	Adjective	samodzielny m (comparative bardziej samodzielny or samodzielniejszy, superlative najbardziej samodzielny or najsamodzielniejszy)
+spójny	Adjective	spójny m (comparative bardziej spójny, superlative najbardziej spójny)
+słowacki	Adjective	słowacki m (not comparable)
+najwilgotniejszy	Adjective	najwilgotniejszy
+mocny	Adjective	mocny m (comparative mocniejszy, superlative najmocniejszy, adverb mocno)
+nieciekawy	Adjective	nieciekawy m
+najcichszy	Adjective	najcichszy
+brokułowy	Adjective	brokułowy m
+uszny	Adjective	uszny m (not comparable)
+ognisty	Adjective	ognisty m (comparative bardziej ognisty, superlative najbardziej ognisty, adverb ogniście)
+dostępniejszy	Adjective	dostępniejszy
+elektroniczny	Adjective	elektroniczny m (not comparable)
+najjaśniejszy	Adjective	najjaśniejszy
+endemiczny	Adjective	endemiczny m
+największy	Adjective	największy
+globalny	Adjective	globalny m
+platanowy	Adjective	platanowy m (not comparable)
+głębszy	Adjective	głębszy
+niepełnosprawny	Adjective	niepełnosprawny m (not comparable)
+nieodmienny	Adjective	nieodmienny m (not comparable)
+cypryjski	Adjective	cypryjski m
+właściwszy	Adjective	właściwszy
+ważniejszy	Adjective	ważniejszy m
+najdumniejszy	Adjective	najdumniejszy
+najchwalebniejszy	Adjective	najchwalebniejszy
+anatolijski	Adjective	anatolijski m
+marsjański	Adjective	marsjański m
+zajefajny	Adjective	zajefajny m (comparative bardziej zajefajny or zajefajniejszy, superlative najbardziej zajefajny or najzajefajniejszy)
+bliskowschodni	Adjective	bliskowschodni m
+oczywisty	Adjective	oczywisty m (comparative bardziej oczywisty or oczywistszy, superlative najbardziej oczywisty or najoczywistszy)
+lśniący	Adjective	lśniący m (comparative bardziej lśniący, superlative najbardziej lśniący)
+ważka	Adjective	ważka f
+najwyraźniejszy	Adjective	najwyraźniejszy
+święty	Adjective	święty m (comparative świętszy, superlative najświętszy)
+deszczowy	Adjective	deszczowy m
+atomowy	Adjective	atomowy m (not comparable, adverb atomowo)
+bezgrzeszny	Adjective	bezgrzeszny m (not comparable, adverb bezgrzesznie)
+zbożowy	Adjective	zbożowy m
+atrakcyjny	Adjective	atrakcyjny m (comparative atrakcyjniejszy or bardziej atrakcyjny, superlative najatrakcyjniejszy or najbardziej atrakcyjny, adverb atrakcyjnie)
+pogański	Adjective	pogański m
+nieoficjalny	Adjective	nieoficjalny m (not comparable)
+naćpany	Adjective	naćpany m (comparative bardziej naćpany, superlative najbardziej naćpany)
+kosowski	Adjective	kosowski m
+specjalny	Adjective	specjalny m
+barwniejszy	Adjective	barwniejszy
+roczny	Adjective	roczny m (not comparable, adverb rocznie)
+dosłowny	Adjective	dosłowny m (adverb dosłownie)
+uczciwszy	Adjective	uczciwszy
+rybi	Adjective	rybi m
+naukowy	Adjective	naukowy m
+saski	Adjective	saski m (not comparable)
+czerwieńszy	Adjective	czerwieńszy
+wstrzemięźliwy	Adjective	wstrzemięźliwy m
+na	Adjective	na (not comparable)
+budujący	Adjective	budujący m (comparative bardziej budujący, superlative najbardziej budujący, adverb budująco)
+łużycki	Adjective	łużycki m
+podobniejszy	Adjective	podobniejszy
+słynny	Adjective	słynny m (comparative słynniejszy, superlative najsłynniejszy)
+ruchable	Adjective	ruchable (comparative bardziej ruchable, superlative najbardziej ruchable)
+sudecki	Adjective	sudecki m
+daleki	Adjective	daleki m (comparative dalszy, superlative najdalszy, adverb daleko)
+biochemiczny	Adjective	biochemiczny m
