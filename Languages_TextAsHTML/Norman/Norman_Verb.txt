@@ -1,0 +1,223 @@
+jouer	Verb	<p id="mwNg"><strong class="Latn headword" id="mwNw" lang="nrf">jouer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="jou%C3%A9thie.html" title="jouéthie">jouéthie</a></b><span> </span><i>or</i><span> </span><b class="Latn" lang="nrf"><a href="jou%C3%AAthie.html" title="jouêthie">jouêthie</a></b><span> </span><i>or</i><span> </span><b class="Latn" lang="nrf"><a href="jou%C3%B4thie.html" title="jouôthie">jouôthie</a></b><span>)</span></p>
+bomber	Verb	<p id="mwrg"><strong class="Latn headword" id="mwrw" lang="nrf">bomber</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="bomb%C3%A9thie.html" title="bombéthie">bombéthie</a></b><span>)</span></p>
+mêler	Verb	<p id="mwYw"><strong class="Latn headword" id="mwZA" lang="nrf">mêler</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="m%C3%AAl'lie.html" title="mêl'lie">mêl'lie</a></b><span>)</span></p>
+finir	Verb	<p id="mwjg"><strong class="Latn headword" id="mwjw" lang="nrf">finir</strong></p>
+chiffonner	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">chiffonner</strong></p>
+maungi	Verb	<p id="mwGg"><strong class="Latn headword" id="mwGw" lang="nrf">maungi</strong></p>
+condamner	Verb	<p id="mwIw"><strong class="Latn headword" id="mwJA" lang="nrf">condamner</strong></p>
+ris	Verb	<p id="mwwg"><strong class="Latn headword" id="mwww" lang="nrf">ris</strong></p>
+rester	Verb	<p id="mwZw"><strong class="Latn headword" id="mwaA" lang="nrf">rester</strong></p>
+nommer	Verb	<p id="mwUg"><strong class="Latn headword" id="mwUw" lang="nrf">nommer</strong></p>
+naître	Verb	<p id="mwUg"><strong class="Latn headword" id="mwUw" lang="nrf">naître</strong></p>
+chuchoter	Verb	<p id="mwIQ"><strong class="Latn headword" id="mwIg" lang="nrf">chuchoter</strong></p>
+danser	Verb	<p id="mwiw"><strong class="Latn headword" id="mwjA" lang="nrf">danser</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="dans'sie.html" title="dans'sie">dans'sie</a></b><span>)</span></p>
+prendre	Verb	<p id="mwhw"><strong class="Latn headword" id="mwiA" lang="nrf">prendre</strong></p>
+rencontrer	Verb	<p id="mwLA"><strong class="Latn headword" id="mwLQ" lang="nrf">rencontrer</strong></p>
+corrompre	Verb	<p id="mwQg"><strong class="Latn headword" id="mwQw" lang="nrf">corrompre</strong></p>
+tuer	Verb	<p id="mwbg"><strong class="Latn headword" id="mwbw" lang="nrf">tuer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="tue%C3%BBthie.html" title="tueûthie">tueûthie</a></b><span>)</span></p>
+rompre	Verb	<p id="mwUg"><strong class="Latn headword" id="mwUw" lang="nrf">rompre</strong></p>
+payer	Verb	<p id="mwfA"><strong class="Latn headword" id="mwfQ" lang="nrf">payer</strong></p>
+brûler	Verb	<p id="mwWQ"><strong class="Latn headword" id="mwWg" lang="nrf">brûler</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="br%C3%BBl'lie.html" title="brûl'lie">brûl'lie</a></b><span>)</span></p>
+battre	Verb	<p id="mwYQ"><strong class="Latn headword" id="mwYg" lang="nrf">battre</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="batt'tie.html" title="batt'tie">batt'tie</a></b><span>)</span></p>
+enlever	Verb	<p id="mwQA"><strong class="Latn headword" id="mwQQ" lang="nrf">enlever</strong></p>
+piauler	Verb	<p id="mwGA"><strong class="Latn headword" id="mwGQ" lang="nrf">piauler</strong></p>
+sorti	Verb	<p id="mwWg"><strong class="Latn headword" id="mwWw" lang="nrf">sorti</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="sortithie.html" title="sortithie">sortithie</a></b><span>)</span></p>
+sauver	Verb	<p id="mwQw"><strong class="Latn headword" id="mwRA" lang="nrf">sauver</strong></p>
+broder	Verb	<p id="mwVQ"><strong class="Latn headword" id="mwVg" lang="nrf">broder</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="brod'die.html" title="brod'die">brod'die</a></b><span>)</span></p>
+tresser	Verb	<p id="mwJQ"><strong class="Latn headword" id="mwJg" lang="nrf">tresser</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="tress'sie.html" title="tress'sie">tress'sie</a></b><span>)</span></p>
+seller	Verb	<p id="mwcw"><strong class="Latn headword" id="mwdA" lang="nrf">seller</strong></p>
+fouetter	Verb	<p id="mwPw"><strong class="Latn headword" id="mwQA" lang="nrf">fouetter</strong></p>
+greffer	Verb	<p id="mwLw"><strong class="Latn headword" id="mwMA" lang="nrf">greffer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="greff'thie.html" title="greff'thie">greff'thie</a></b><span> </span><i>or</i><span> </span><b class="Latn" lang="nrf"><a href="greff'sie.html" title="greff'sie">greff'sie</a></b><span>)</span></p>
+emprunter	Verb	<p id="mwNw"><strong class="Latn headword" id="mwOA" lang="nrf">emprunter</strong></p>
+mécaniser	Verb	<p id="mwEw"><strong class="Latn headword" id="mwFA" lang="nrf">mécaniser</strong></p>
+as	Verb	<p id="mwA_s"><strong class="Latn headword" id="mwA_w" lang="nrf">as</strong></p>
+coincer	Verb	<p id="mwPw"><strong class="Latn headword" id="mwQA" lang="nrf">coincer</strong></p>
+botter	Verb	<p id="mwiQ"><strong class="Latn headword" id="mwig" lang="nrf">botter</strong></p>
+penser	Verb	<p id="mwfA"><strong class="Latn headword" id="mwfQ" lang="nrf">penser</strong></p>
+normaliser	Verb	<p id="mwFw"><strong class="Latn headword" id="mwGA" lang="nrf">normaliser</strong></p>
+archiver	Verb	<p id="mwJg"><strong class="Latn headword" id="mwJw" lang="nrf">archiver</strong></p>
+contester	Verb	<p id="mwQA"><strong class="Latn headword" id="mwQQ" lang="nrf">contester</strong></p>
+paître	Verb	<p id="mwPQ"><strong class="Latn headword" id="mwPg" lang="nrf">paître</strong></p>
+garder	Verb	<p id="mweA"><strong class="Latn headword" id="mweQ" lang="nrf">garder</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="gard%C3%A9thie.html" title="gardéthie">gardéthie</a></b><span>)</span></p>
+parachuter	Verb	<p id="mwIg"><strong class="Latn headword" id="mwIw" lang="nrf">parachuter</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf">parachut'tie</b><span>)</span></p>
+tremper	Verb	<p id="mwRw"><strong class="Latn headword" id="mwSA" lang="nrf">tremper</strong></p>
+gardais	Verb	<p id="mwGQ"><strong class="Latn headword" id="mwGg" lang="nrf">gardais</strong></p>
+emporter	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">emporter</strong></p>
+voter	Verb	<p id="mwRA"><strong class="Latn headword" id="mwRQ" lang="nrf">voter</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="vot'tie.html" title="vot'tie">vot'tie</a></b><span>)</span></p>
+bouter	Verb	<p id="mwNg"><strong class="Latn headword" id="mwNw" lang="nrf">bouter</strong></p>
+moustrer	Verb	<p id="mwFQ"><strong class="Latn headword" id="mwFg" lang="nrf">moustrer</strong></p>
+décider	Verb	<p id="mwRA"><strong class="Latn headword" id="mwRQ" lang="nrf">décider</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="d%C3%A9cid'die.html" title="décid'die">décid'die</a></b><span>)</span></p>
+arrêter	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">arrêter</strong></p>
+allouer	Verb	<p id="mwLg"><strong class="Latn headword" id="mwLw" lang="nrf">allouer</strong></p>
+connaître	Verb	<p id="mwUQ"><strong class="Latn headword" id="mwUg" lang="nrf">connaître</strong></p>
+cachi	Verb	<p id="mwLQ"><strong class="Latn headword" id="mwLg" lang="nrf">cachi</strong></p>
+cachi	Verb	<p id="mwOQ"><strong class="Latn headword" id="mwOg" lang="nrf">cachi</strong></p>
+cachi	Verb	<p id="mwRg"><strong class="Latn headword" id="mwRw" lang="nrf">cachi</strong></p>
+présider	Verb	<p id="mwJw"><strong class="Latn headword" id="mwKA" lang="nrf">présider</strong></p>
+rosser	Verb	<p id="mwOA"><strong class="Latn headword" id="mwOQ" lang="nrf">rosser</strong></p>
+vendre	Verb	<p id="mwiA"><strong class="Latn headword" id="mwiQ" lang="nrf">vendre</strong></p>
+cuit	Verb	<p id="mwVw"><strong class="Latn headword" id="mwWA" lang="nrf">cuit</strong></p>
+friser	Verb	<p id="mwNQ"><strong class="Latn headword" id="mwNg" lang="nrf">friser</strong></p>
+mobiliser	Verb	<p id="mwHA"><strong class="Latn headword" id="mwHQ" lang="nrf">mobiliser</strong></p>
+perde	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">perde</strong></p>
+pondre	Verb	<p id="mwSQ"><strong class="Latn headword" id="mwSg" lang="nrf">pondre</strong></p>
+heurter	Verb	<p id="mwbw"><strong class="Latn headword" id="mwcA" lang="nrf">heurter</strong></p>
+crus	Verb	<p id="mwTg"><strong class="Latn headword" id="mwTw" lang="nrf">crus</strong></p>
+bourdonner	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">bourdonner</strong></p>
+acataer	Verb	<p id="mwFg"><strong class="Latn headword" id="mwFw" lang="nrf">acataer</strong></p>
+filmer	Verb	<p id="mwIw"><strong class="Latn headword" id="mwJA" lang="nrf">filmer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="film%C3%A9thie.html" title="filméthie">filméthie</a></b><span>)</span></p>
+abattre	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">abattre</strong></p>
+prêter	Verb	<p id="mwRQ"><strong class="Latn headword" id="mwRg" lang="nrf">prêter</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="pr%C3%AAt'tie.html" title="prêt'tie">prêt'tie</a></b><span>)</span></p>
+nagi	Verb	<p id="mwKA"><strong class="Latn headword" id="mwKQ" lang="nrf">nagi</strong></p>
+hale	Verb	<p id="mwAT8"><strong class="Latn headword" id="mwAUA" lang="nrf">hale</strong></p>
+mâter	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">mâter</strong></p>
+baillier	Verb	<p id="mwDw"><strong class="Latn headword" id="mwEA" lang="nrf">baillier</strong></p>
+panser	Verb	<p id="mwWA"><strong class="Latn headword" id="mwWQ" lang="nrf">panser</strong></p>
+taper	Verb	<p id="mw_w"><strong class="Latn headword" id="mwAQA" lang="nrf">taper</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="tap'thie.html" title="tap'thie">tap'thie</a></b><span>)</span></p>
+poster	Verb	<p id="mw0A"><strong class="Latn headword" id="mw0Q" lang="nrf">poster</strong></p>
+approuver	Verb	<p id="mwHQ"><strong class="Latn headword" id="mwHg" lang="nrf">approuver</strong></p>
+mitonner	Verb	<p id="mwEg"><strong class="Latn headword" id="mwEw" lang="nrf">mitonner</strong></p>
+enfiler	Verb	<p id="mwIw"><strong class="Latn headword" id="mwJA" lang="nrf">enfiler</strong></p>
+saler	Verb	<p id="mwQg"><strong class="Latn headword" id="mwQw" lang="nrf">saler</strong></p>
+promettre	Verb	<p id="mwNw"><strong class="Latn headword" id="mwOA" lang="nrf">promettre</strong></p>
+creire	Verb	<p id="mwDg"><strong class="Latn headword" id="mwDw" lang="nrf">creire</strong></p>
+maigrir	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">maigrir</strong></p>
+piper	Verb	<p id="mwnQ"><strong class="Latn headword" id="mwng" lang="nrf">piper</strong></p>
+dus	Verb	<p id="mwsQ"><strong class="Latn headword" id="mwsg" lang="nrf">dus</strong></p>
+vivre	Verb	<p id="mwUQ"><strong class="Latn headword" id="mwUg" lang="nrf">vivre</strong></p>
+moudre	Verb	<p id="mwMA"><strong class="Latn headword" id="mwMQ" lang="nrf">moudre</strong></p>
+ôter	Verb	<p id="mwSQ"><strong class="Latn headword" id="mwSg" lang="nrf">ôter</strong></p>
+marmonner	Verb	<p id="mwHw"><strong class="Latn headword" id="mwIA" lang="nrf">marmonner</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="marmonn'nie.html" title="marmonn'nie">marmonn'nie</a></b><span>)</span></p>
+senti	Verb	<p id="mwZg"><strong class="Latn headword" id="mwZw" lang="nrf">senti</strong></p>
+happer	Verb	<p id="mwHQ"><strong class="Latn headword" id="mwHg" lang="nrf">happer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="happ'thie.html" title="happ'thie">happ'thie</a></b><span>)</span></p>
+peindre	Verb	<p id="mwLw"><strong class="Latn headword" id="mwMA" lang="nrf">peindre</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="peindr%C3%A9thie.html" title="peindréthie">peindréthie</a></b><span>)</span></p>
+haler	Verb	<p id="mwkQ"><strong class="Latn headword" id="mwkg" lang="nrf">haler</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="hal'lie.html" title="hal'lie">hal'lie</a></b><span>)</span></p>
+prôner	Verb	<p id="mwIQ"><strong class="Latn headword" id="mwIg" lang="nrf">prôner</strong></p>
+traîner	Verb	<p id="mwVQ"><strong class="Latn headword" id="mwVg" lang="nrf">traîner</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf">traîn'nie</b><span>)</span></p>
+chanter	Verb	<p id="mwew"><strong class="Latn headword" id="mwfA" lang="nrf">chanter</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="chant'tie.html" title="chant'tie">chant'tie</a></b><span>)</span></p>
+créer	Verb	<p id="mwHw"><strong class="Latn headword" id="mwIA" lang="nrf">créer</strong></p>
+saluer	Verb	<p id="mwTg"><strong class="Latn headword" id="mwTw" lang="nrf">saluer</strong></p>
+suer	Verb	<p id="mwQA"><strong class="Latn headword" id="mwQQ" lang="nrf">suer</strong></p>
+faxer	Verb	<p id="mwKg"><strong class="Latn headword" id="mwKw" lang="nrf">faxer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="fax%C3%A9thie.html" title="faxéthie">faxéthie</a></b><span>)</span></p>
+suicider	Verb	<p id="mwNw"><strong class="Latn headword" id="mwOA" lang="nrf">suicider</strong></p>
+sus	Verb	<p id="mwAQ4"><strong class="Latn headword" id="mwAQ8" lang="nrf">sus</strong></p>
+airer	Verb	<p id="mwKQ"><strong class="Latn headword" id="mwKg" lang="nrf">airer</strong></p>
+graduer	Verb	<p id="mwHA"><strong class="Latn headword" id="mwHQ" lang="nrf">graduer</strong></p>
+fixer	Verb	<p id="mwbA"><strong class="Latn headword" id="mwbQ" lang="nrf">fixer</strong></p>
+pus	Verb	<p id="mwAUY"><strong class="Latn headword" id="mwAUc" lang="nrf">pus</strong></p>
+porter	Verb	<p id="mwAQs"><strong class="Latn headword" id="mwAQw" lang="nrf">porter</strong></p>
+tatouer	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">tatouer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="tatou%C3%A9thie.html" title="tatouéthie">tatouéthie</a></b><span>)</span></p>
+faciliter	Verb	<p id="mwHA"><strong class="Latn headword" id="mwHQ" lang="nrf">faciliter</strong></p>
+asphyxier	Verb	<p id="mwFg"><strong class="Latn headword" id="mwFw" lang="nrf">asphyxier</strong></p>
+netti	Verb	<p id="mwOA"><strong class="Latn headword" id="mwOQ" lang="nrf">netti</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="nettithie.html" title="nettithie">nettithie</a></b><span>)</span></p>
+a	Verb	<p id="mwDC0"><strong class="Latn headword" id="mwDC4" lang="nrf">a</strong></p>
+mangier	Verb	<p id="mwHQ"><strong class="Latn headword" id="mwHg" lang="nrf">mangier</strong></p>
+entrer	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">entrer</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="entr%C3%A9thie.html" title="entréthie">entréthie</a></b><span>)</span></p>
+veir	Verb	<p id="mwDw"><strong class="Latn headword" id="mwEA" lang="nrf">veir</strong></p>
+monter	Verb	<p id="mwsg"><strong class="Latn headword" id="mwsw" lang="nrf">monter</strong></p>
+parti	Verb	<p id="mwAXg"><strong class="Latn headword" id="mwAXk" lang="nrf">parti</strong></p>
+sali	Verb	<p id="mwmQ"><strong class="Latn headword" id="mwmg" lang="nrf">sali</strong></p>
+vis	Verb	<p id="mwAZ4"><strong class="Latn headword" id="mwAZ8" lang="nrf">vis</strong></p>
+bombarder	Verb	<p id="mwLg"><strong class="Latn headword" id="mwLw" lang="nrf">bombarder</strong></p>
+friper	Verb	<p id="mwHw"><strong class="Latn headword" id="mwIA" lang="nrf">friper</strong></p>
+souler	Verb	<p id="mwZA"><strong class="Latn headword" id="mwZQ" lang="nrf">souler</strong></p>
+lius	Verb	<p id="mwAQ"><strong class="Latn headword" id="mwAg" lang="nrf">lius</strong></p>
+creuser	Verb	<p id="mwIA"><strong class="Latn headword" id="mwIQ" lang="nrf">creuser</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="creus'sie.html" title="creus'sie">creus'sie</a></b><span>)</span></p>
+aimer	Verb	<p id="mwZA"><strong class="Latn headword" id="mwZQ" lang="nrf">aimer</strong></p>
+proposer	Verb	<p id="mwOA"><strong class="Latn headword" id="mwOQ" lang="nrf">proposer</strong></p>
+poursuivre	Verb	<p id="mwPA"><strong class="Latn headword" id="mwPQ" lang="nrf">poursuivre</strong></p>
+gratter	Verb	<p id="mwLg"><strong class="Latn headword" id="mwLw" lang="nrf">gratter</strong></p>
+amuser	Verb	<p id="mwlQ"><strong class="Latn headword" id="mwlg" lang="nrf">amuser</strong></p>
+lyer	Verb	<p id="mwKQ"><strong class="Latn headword" id="mwKg" lang="nrf">lyer</strong></p>
+nouer	Verb	<p id="mwOA"><strong class="Latn headword" id="mwOQ" lang="nrf">nouer</strong></p>
+fus	Verb	<p id="mweg"><strong class="Latn headword" id="mwew" lang="nrf">fus</strong></p>
+dormi	Verb	<p id="mwYw"><strong class="Latn headword" id="mwZA" lang="nrf">dormi</strong></p>
+cuire	Verb	<p id="mweA"><strong class="Latn headword" id="mweQ" lang="nrf">cuire</strong></p>
+être	Verb	<p id="mwiA"><strong class="Latn headword" id="mwiQ" lang="nrf">être</strong></p>
+finni	Verb	<p id="mwOQ"><strong class="Latn headword" id="mwOg" lang="nrf">finni</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="finnithie.html" title="finnithie">finnithie</a></b><span>)</span></p>
+finni	Verb	<p id="mwSQ"><strong class="Latn headword" id="mwSg" lang="nrf">finni</strong></p>
+valer	Verb	<p id="mwMQ"><strong class="Latn headword" id="mwMg" lang="nrf">valer</strong></p>
+sauter	Verb	<p id="mwaQ"><strong class="Latn headword" id="mwag" lang="nrf">sauter</strong></p>
+attendre	Verb	<p id="mwRQ"><strong class="Latn headword" id="mwRg" lang="nrf">attendre</strong></p>
+amender	Verb	<p id="mwag"><strong class="Latn headword" id="mwaw" lang="nrf">amender</strong></p>
+trouver	Verb	<p id="mwaA"><strong class="Latn headword" id="mwaQ" lang="nrf">trouver</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="trouv'thie.html" title="trouv'thie">trouv'thie</a></b><span>)</span></p>
+prier	Verb	<p id="mwhw"><strong class="Latn headword" id="mwiA" lang="nrf">prier</strong></p>
+laver	Verb	<p id="mwAQ0"><strong class="Latn headword" id="mwAQ4" lang="nrf">laver</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="lav'thie.html" title="lav'thie">lav'thie</a></b><span>)</span></p>
+coper	Verb	<p id="mwNQ"><strong class="Latn headword" id="mwNg" lang="nrf">coper</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="cop'sie.html" title="cop'sie">cop'sie</a></b><span>)</span></p>
+lapider	Verb	<p id="mwJw"><strong class="Latn headword" id="mwKA" lang="nrf">lapider</strong></p>
+sponsoriser	Verb	<p id="mwFw"><strong class="Latn headword" id="mwGA" lang="nrf">sponsoriser</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="sponsoris'sie.html" title="sponsoris'sie">sponsoris'sie</a></b><span>)</span></p>
+écrire	Verb	<p id="mwRA"><strong class="Latn headword" id="mwRQ" lang="nrf">écrire</strong></p>
+vend	Verb	<p id="mwqw"><strong class="Latn headword" id="mwrA" lang="nrf">vend</strong></p>
+caboter	Verb	<p id="mwHg"><strong class="Latn headword" id="mwHw" lang="nrf">caboter</strong></p>
+garde	Verb	<p id="mwiQ"><strong class="Latn headword" id="mwig" lang="nrf">garde</strong></p>
+peler	Verb	<p id="mwOg"><strong class="Latn headword" id="mwOw" lang="nrf">peler</strong></p>
+sonner	Verb	<p id="mwMg"><strong class="Latn headword" id="mwMw" lang="nrf">sonner</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="sonn'nie.html" title="sonn'nie">sonn'nie</a></b><span>)</span></p>
+ouvrer	Verb	<p id="mwPw"><strong class="Latn headword" id="mwQA" lang="nrf">ouvrer</strong></p>
+acater	Verb	<p id="mwKA"><strong class="Latn headword" id="mwKQ" lang="nrf">acater</strong></p>
+boxer	Verb	<p id="mwsQ"><strong class="Latn headword" id="mwsg" lang="nrf">boxer</strong></p>
+frauder	Verb	<p id="mwLQ"><strong class="Latn headword" id="mwLg" lang="nrf">frauder</strong></p>
+aver	Verb	<p id="mw-w"><strong class="Latn headword" id="mw_A" lang="nrf">aver</strong></p>
+affronter	Verb	<p id="mwMg"><strong class="Latn headword" id="mwMw" lang="nrf">affronter</strong></p>
+donner	Verb	<p id="mwiA"><strong class="Latn headword" id="mwiQ" lang="nrf">donner</strong></p>
+beurrer	Verb	<p id="mwEw"><strong class="Latn headword" id="mwFA" lang="nrf">beurrer</strong></p>
+changier	Verb	<p id="mwEw"><strong class="Latn headword" id="mwFA" lang="nrf">changier</strong></p>
+ai	Verb	<p id="mwAe4"><strong class="Latn headword" id="mwAe8" lang="nrf">ai</strong></p>
+gaffer	Verb	<p id="mwbQ"><strong class="Latn headword" id="mwbg" lang="nrf">gaffer</strong></p>
+assommer	Verb	<p id="mwIg"><strong class="Latn headword" id="mwIw" lang="nrf">assommer</strong></p>
+fere	Verb	<p id="mwjA"><strong class="Latn headword" id="mwjQ" lang="nrf">fere</strong></p>
+téléviser	Verb	<p id="mwHQ"><strong class="Latn headword" id="mwHg" lang="nrf">téléviser</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="t%C3%A9l%C3%A9vis'sie.html" title="télévis'sie">télévis'sie</a></b><span>)</span></p>
+joindre	Verb	<p id="mwOQ"><strong class="Latn headword" id="mwOg" lang="nrf">joindre</strong></p>
+divorcer	Verb	<p id="mwMw"><strong class="Latn headword" id="mwNA" lang="nrf">divorcer</strong></p>
+rentrer	Verb	<p id="mwYg"><strong class="Latn headword" id="mwYw" lang="nrf">rentrer</strong></p>
+sentis	Verb	<p id="mwVg"><strong class="Latn headword" id="mwVw" lang="nrf">sentis</strong></p>
+dis	Verb	<p id="mwAQI"><strong class="Latn headword" id="mwAQM" lang="nrf">dis</strong></p>
+hanter	Verb	<p id="mwVA"><strong class="Latn headword" id="mwVQ" lang="nrf">hanter</strong></p>
+riboter	Verb	<p id="mwEg"><strong class="Latn headword" id="mwEw" lang="nrf">riboter</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="ribot'tie.html" title="ribot'tie">ribot'tie</a></b><span>)</span></p>
+sortir	Verb	<p id="mwug"><strong class="Latn headword" id="mwuw" lang="nrf">sortir</strong></p>
+ancrer	Verb	<p id="mwGw"><strong class="Latn headword" id="mwHA" lang="nrf">ancrer</strong></p>
+mouogi	Verb	<p id="mwGg"><strong class="Latn headword" id="mwGw" lang="nrf">mouogi</strong></p>
+confirmer	Verb	<p id="mwRg"><strong class="Latn headword" id="mwRw" lang="nrf">confirmer</strong></p>
+marchier	Verb	<p id="mwDQ"><strong class="Latn headword" id="mwDg" lang="nrf">marchier</strong></p>
+ête	Verb	<p id="mwJA"><strong class="Latn headword" id="mwJQ" lang="nrf">ête</strong></p>
+montrer	Verb	<p id="mwJA"><strong class="Latn headword" id="mwJQ" lang="nrf">montrer</strong></p>
+teindre	Verb	<p id="mwJQ"><strong class="Latn headword" id="mwJg" lang="nrf">teindre</strong></p>
+crocheter	Verb	<p id="mwGQ"><strong class="Latn headword" id="mwGg" lang="nrf">crocheter</strong></p>
+scanner	Verb	<p id="mwZQ"><strong class="Latn headword" id="mwZg" lang="nrf">scanner</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="scann'nie.html" title="scann'nie">scann'nie</a></b><span>)</span></p>
+pousser	Verb	<p id="mwUA"><strong class="Latn headword" id="mwUQ" lang="nrf">pousser</strong></p>
+canter	Verb	<p id="mwRw"><strong class="Latn headword" id="mwSA" lang="nrf">canter</strong></p>
+ordonner	Verb	<p id="mwSg"><strong class="Latn headword" id="mwSw" lang="nrf">ordonner</strong></p>
+bu	Verb	<p id="mwASo"><strong class="Latn headword" id="mwASs" lang="nrf">bu</strong></p>
+aveir	Verb	<p id="mwDQ"><strong class="Latn headword" id="mwDg" lang="nrf">aveir</strong></p>
+motiver	Verb	<p id="mwKw"><strong class="Latn headword" id="mwLA" lang="nrf">motiver</strong></p>
+arriver	Verb	<p id="mwbA"><strong class="Latn headword" id="mwbQ" lang="nrf">arriver</strong></p>
+pitchi	Verb	<p id="mwFg"><strong class="Latn headword" id="mwFw" lang="nrf">pitchi</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="piqu'sie.html" title="piqu'sie">piqu'sie</a></b><span>)</span></p>
+soûler	Verb	<p id="mwHA"><strong class="Latn headword" id="mwHQ" lang="nrf">soûler</strong></p>
+abuser	Verb	<p id="mwVQ"><strong class="Latn headword" id="mwVg" lang="nrf">abuser</strong></p>
+crier	Verb	<p id="mwjw"><strong class="Latn headword" id="mwkA" lang="nrf">crier</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="criethie.html" title="criethie">criethie</a></b><span>)</span></p>
+mener	Verb	<p id="mwXg"><strong class="Latn headword" id="mwXw" lang="nrf">mener</strong></p>
+couchier	Verb	<p id="mwCQ"><strong class="Latn headword" id="mwCg" lang="nrf">couchier</strong></p>
+apporter	Verb	<p id="mwXg"><strong class="Latn headword" id="mwXw" lang="nrf">apporter</strong></p>
+aborder	Verb	<p id="mwNg"><strong class="Latn headword" id="mwNw" lang="nrf">aborder</strong></p>
+geindre	Verb	<p id="mwNw"><strong class="Latn headword" id="mwOA" lang="nrf">geindre</strong></p>
+voler	Verb	<p id="mwkw"><strong class="Latn headword" id="mwlA" lang="nrf">voler</strong></p>
+faire	Verb	<p id="mwAQ0"><strong class="Latn headword" id="mwAQ4" lang="nrf">faire</strong></p>
+pèrdre	Verb	<p id="mwEg"><strong class="Latn headword" id="mwEw" lang="nrf">pèrdre</strong></p>
+adouochi	Verb	<p id="mwBQ"><strong class="Latn headword" id="mwBg" lang="nrf">adouochi</strong></p>
+localiser	Verb	<p id="mwJw"><strong class="Latn headword" id="mwKA" lang="nrf">localiser</strong></p>
+frotter	Verb	<p id="mwPw"><strong class="Latn headword" id="mwQA" lang="nrf">frotter</strong></p>
+raconter	Verb	<p id="mwKA"><strong class="Latn headword" id="mwKQ" lang="nrf">raconter</strong></p>
+emprisonner	Verb	<p id="mwFA"><strong class="Latn headword" id="mwFQ" lang="nrf">emprisonner</strong></p>
+poli	Verb	<p id="mwhA"><strong class="Latn headword" id="mwhQ" lang="nrf">poli</strong></p>
+poli	Verb	<p id="mwkw"><strong class="Latn headword" id="mwlA" lang="nrf">poli</strong></p>
+fis	Verb	<p id="mwtA"><strong class="Latn headword" id="mwtQ" lang="nrf">fis</strong></p>
+mettre	Verb	<p id="mwfQ"><strong class="Latn headword" id="mwfg" lang="nrf">mettre</strong></p>
+éra	Verb	<p id="mwOw"><strong class="Latn headword" id="mwPA" lang="nrf">éra</strong></p>
+sonder	Verb	<p id="mwAR8"><strong class="Latn headword" id="mwASA" lang="nrf">sonder</strong></p>
+formater	Verb	<p id="mwFA"><strong class="Latn headword" id="mwFQ" lang="nrf">formater</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="format'tie.html" title="format'tie">format'tie</a></b><span>)</span></p>
+aller	Verb	<p id="mw-Q"><strong class="Latn headword" id="mw-g" lang="nrf">aller</strong></p>
+bus	Verb	<p id="mwAcg"><strong class="Latn headword" id="mwAck" lang="nrf">bus</strong></p>
+oublier	Verb	<p id="mwQQ"><strong class="Latn headword" id="mwQg" lang="nrf">oublier</strong><span> (</span><i>gerund</i><span> </span><b class="Latn" lang="nrf"><a href="oubli%C3%AAthie.html" title="oubliêthie">oubliêthie</a></b><span>)</span></p>
+apprendre	Verb	<p id="mwTQ"><strong class="Latn headword" id="mwTg" lang="nrf">apprendre</strong></p>
+copier	Verb	<p id="mwWA"><strong class="Latn headword" id="mwWQ" lang="nrf">copier</strong></p>
+tenter	Verb	<p id="mwXA"><strong class="Latn headword" id="mwXQ" lang="nrf">tenter</strong></p>
+remporter	Verb	<p id="mwJQ"><strong class="Latn headword" id="mwJg" lang="nrf">remporter</strong></p>

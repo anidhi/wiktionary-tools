@@ -1,0 +1,67 @@
+digital	Adjective	<p id="mwmw"><strong class="Latn headword" id="mwnA" lang="nrf">digital</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+purs	Adjective	<p id="mwLw"><strong class="Latn headword" id="mwMA" lang="nrf">purs</strong></p>
+ravis	Adjective	<p id="mwbg"><strong class="Latn headword" id="mwbw" lang="nrf">ravis</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr><span> </span><abbr title="plural number">pl</abbr></span></p>
+faux	Adjective	<p id="mwxw"><strong class="Latn headword" id="mwyA" lang="nrf">faux</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+gri	Adjective	<p id="mwKA"><strong class="Latn headword" id="mwKQ" lang="nrf">gri</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+brun	Adjective	<p id="mwqA"><strong class="Latn headword" id="mwqQ" lang="nrf">brun</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+idéal	Adjective	<p id="mwQA"><strong class="Latn headword" id="mwQQ" lang="nrf">idéal</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+favori	Adjective	<p id="mwXg"><strong class="Latn headword" id="mwXw" lang="nrf">favori</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+fré	Adjective	<p id="mwQg"><strong class="Latn headword" id="mwQw" lang="nrf">fré</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+civil	Adjective	<p id="mwoA"><strong class="Latn headword" id="mwoQ" lang="nrf">civil</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+sauvage	Adjective	<p id="mwPQ"><strong class="Latn headword" id="mwPg" lang="nrf">sauvage</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+rude	Adjective	<p id="mwARI"><strong class="Latn headword" id="mwARM" lang="nrf">rude</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+man	Adjective	<p id="mwBTo"><strong class="Latn headword" id="mwBTs" lang="nrf">man</strong><span> (</span><i>feminine</i><span> </span><b class="Latn" lang="nrf"><a href="ma.html" title="ma">ma</a></b><span>)</span></p>
+direct	Adjective	<p id="mw8g"><strong class="Latn headword" id="mw8w" lang="nrf">direct</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+cuit	Adjective	<p id="mwXQ"><strong class="Latn headword" id="mwXg" lang="nrf">cuit</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+laid	Adjective	<p id="mwug"><strong class="Latn headword" id="mwuw" lang="nrf">laid</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+fort	Adjective	<p id="mwAUY"><strong class="Latn headword" id="mwAUc" lang="nrf">fort</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+tendre	Adjective	<p id="mwjA"><strong class="Latn headword" id="mwjQ" lang="nrf">tendre</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+rose	Adjective	<p id="mwAaM"><strong class="Latn headword" id="mwAaQ" lang="nrf">rose</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+biau	Adjective	<p id="mwCw"><strong class="Latn headword" id="mwDA" lang="nrf">biau</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+futur	Adjective	<p id="mwaw"><strong class="Latn headword" id="mwbA" lang="nrf">futur</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+su	Adjective	<p id="mwAe0"><strong class="Latn headword" id="mwAe4" lang="nrf">su</strong></p>
+sage	Adjective	<p id="mwAVo"><strong class="Latn headword" id="mwAVs" lang="nrf">sage</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+rond	Adjective	<p id="mwnA"><strong class="Latn headword" id="mwnQ" lang="nrf">rond</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+grande	Adjective	<p id="mw8w"><strong class="Latn headword" id="mw9A" lang="nrf">grande</strong></p>
+fréi	Adjective	<p id="mwLg"><strong class="Latn headword" id="mwLw" lang="nrf">fréi</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+pur	Adjective	<p id="mwrw"><strong class="Latn headword" id="mwsA" lang="nrf">pur</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+fin	Adjective	<p id="mwAdM"><strong class="Latn headword" id="mwAdQ" lang="nrf">fin</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+mort	Adjective	<p id="mwAYA"><strong class="Latn headword" id="mwAYE" lang="nrf">mort</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+absent	Adjective	<p id="mwAR0"><strong class="Latn headword" id="mwAR4" lang="nrf">absent</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+net	Adjective	<p id="mwAwY"><strong class="Latn headword" id="mwAwc" lang="nrf">net</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+hautain	Adjective	<p id="mwKQ"><strong class="Latn headword" id="mwKg" lang="nrf">hautain</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+fondue	Adjective	<p id="mwWA"><strong class="Latn headword" id="mwWQ" lang="nrf">fondue</strong></p>
+mal	Adjective	<p id="mwAqM"><strong class="Latn headword" id="mwAqQ" lang="nrf">mal</strong></p>
+hardi	Adjective	<p id="mwMA"><strong class="Latn headword" id="mwMQ" lang="nrf">hardi</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+contente	Adjective	<p id="mwSA"><strong class="Latn headword" id="mwSQ" lang="nrf">contente</strong></p>
+molle	Adjective	<p id="mwYw"><strong class="Latn headword" id="mwZA" lang="nrf">molle</strong></p>
+orange	Adjective	<p id="mwAYA"><strong class="Latn headword" id="mwAYE" lang="nrf">orange</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+vite	Adjective	<p id="mwng"><strong class="Latn headword" id="mwnw" lang="nrf">vite</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+raide	Adjective	<p id="mwWA"><strong class="Latn headword" id="mwWQ" lang="nrf">raide</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+forte	Adjective	<p id="mwAUM"><strong class="Latn headword" id="mwAUQ" lang="nrf">forte</strong><span> </span><span class="gender"><abbr title="feminine gender">f</abbr></span></p>
+grise	Adjective	<p id="mwUA"><strong class="Latn headword" id="mwUQ" lang="nrf">grise</strong></p>
+ravi	Adjective	<p id="mwXw"><strong class="Latn headword" id="mwYA" lang="nrf">ravi</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+pale	Adjective	<p id="mwAaU"><strong class="Latn headword" id="mwAaY" lang="nrf">pale</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+gras	Adjective	<p id="mwAS4"><strong class="Latn headword" id="mwAS8" lang="nrf">gras</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+brillant	Adjective	<p id="mwfA"><strong class="Latn headword" id="mwfQ" lang="nrf">brillant</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+rigide	Adjective	<p id="mwaw"><strong class="Latn headword" id="mwbA" lang="nrf">rigide</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
+franc	Adjective	<p id="mwAQ0"><strong class="Latn headword" id="mwAQ4" lang="nrf">franc</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+gris	Adjective	<p id="mwuw"><strong class="Latn headword" id="mwvA" lang="nrf">gris</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+mo	Adjective	<p id="mwAXc"><strong class="Latn headword" id="mwAXg" lang="nrf">mo</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+lente	Adjective	<p id="mw3A"><strong class="Latn headword" id="mw3Q" lang="nrf">lente</strong></p>
+vaert	Adjective	<p id="mwMg"><strong class="Latn headword" id="mwMw" lang="nrf">vaert</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+neir	Adjective	<p id="mwFg"><strong class="Latn headword" id="mwFw" lang="nrf">neir</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+saint	Adjective	<p id="mwvQ"><strong class="Latn headword" id="mwvg" lang="nrf">saint</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+dreit	Adjective	<p id="mwBw"><strong class="Latn headword" id="mwCA" lang="nrf">dreit</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+fiar	Adjective	<p id="mwhg"><strong class="Latn headword" id="mwhw" lang="nrf">fiar</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+ligi	Adjective	<p id="mwLw"><strong class="Latn headword" id="mwMA" lang="nrf">ligi</strong></p>
+bas	Adjective	<p id="mwARA"><strong class="Latn headword" id="mwARE" lang="nrf">bas</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+gros	Adjective	<p id="mwdQ"><strong class="Latn headword" id="mwdg" lang="nrf">gros</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+neu	Adjective	<p id="mwuw"><strong class="Latn headword" id="mwvA" lang="nrf">neu</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+tron	Adjective	<p id="mwQg"><strong class="Latn headword" id="mwQw" lang="nrf">tron</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+grand	Adjective	<p id="mwARY"><strong class="Latn headword" id="mwARc" lang="nrf">grand</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+long	Adjective	<p id="mwAm4"><strong class="Latn headword" id="mwAm8" lang="nrf">long</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+vif	Adjective	<p id="mweA"><strong class="Latn headword" id="mweQ" lang="nrf">vif</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+poli	Adjective	<p id="mwmQ"><strong class="Latn headword" id="mwmg" lang="nrf">poli</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span></p>
+civile	Adjective	<p id="mwPA"><strong class="Latn headword" id="mwPQ" lang="nrf">civile</strong><span> </span><span class="gender"><abbr title="feminine gender">f</abbr></span></p>
+triste	Adjective	<p id="mw7A"><strong class="Latn headword" id="mw7Q" lang="nrf">triste</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr>, <abbr title="feminine gender">f</abbr></span></p>
