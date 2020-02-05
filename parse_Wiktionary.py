@@ -29,6 +29,7 @@ language = args.language
 wordPOSLink = open((language + "_WordPOSLink.txt"), 'w')
 wordNounLink = open((language + "_Noun.txt"), 'w')
 wordAdjectiveLink = open((language + "_Adjective.txt"), 'w')
+wordVerbLink = open((language + "_Verb.txt"), 'w')
 
 langid = getLanguageId("LanguageISOCodes.txt", language)
 
@@ -49,12 +50,17 @@ for path in pathlist:
             b = a.find_previous()
             pos = b.get_text()
 
+            # To just print the HTML in place of text just replace the third field 'text' with the variable a
+            # in the print statements.
             print("{0}\t{1}\t{2}".format(tag.text, pos, text), file=wordPOSLink)
+            
             if pos == "Noun":
                 print("{0}\t{1}\t{2}".format(tag.text, pos, text), file=wordNounLink)
             if pos == "Adjective":
                 print("{0}\t{1}\t{2}".format(tag.text, pos, text), file=wordAdjectiveLink)
-
+            if pos === "Verb":
+                print("{0}\t{1}\t{2}".format(tag.text, pos, text), file=wordVerbLink)
 wordPOSLink.close()
 wordNounLink.close()
 wordAdjectiveLink.close()
+wordVerbLink.close()
