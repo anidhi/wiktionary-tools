@@ -1,0 +1,30 @@
+fat	Adjective	<p id="mwAYo"><strong class="Latn headword" id="mwAYs" lang="fur">fat</strong></p>
+dut	Adjective	<p id="mwYQ"><strong class="Latn headword" id="mwYg" lang="fur">dut</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span> (<i id="mwZA">feminine</i> <b id="mwZQ"><a href="dute.html" id="mwZg" title="dute">dute</a></b>)</p>
+rot	Adjective	<p id="mw7A"><strong class="Latn headword" id="mw7Q" lang="fur">rot</strong><span> (</span><i>feminine</i><span> </span><b class="Latn" lang="fur"><a href="rote.html" title="rote">rote</a></b><span>)</span></p>
+bon	Adjective	<p id="mwyw"><strong class="Latn headword" id="mwzA" lang="fur">bon</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span><span> (</span><i>feminine</i><span> </span><b class="Latn" lang="fur"><a href="buine.html" title="buine">buine</a></b><span>)</span></p>
+libar	Adjective	<p id="mwBQ"><strong class="Latn headword" id="mwBg" lang="fur">libar</strong></p>
+gras	Adjective	<p id="mwtw"><strong class="Latn headword" id="mwuA" lang="fur">gras</strong></p>
+net	Adjective	<p id="mwAlQ"><strong class="Latn headword" id="mwAlU" lang="fur">net</strong></p>
+plan	Adjective	<p id="mw6Q"><strong class="Latn headword" id="mw6g" lang="fur">plan</strong></p>
+biel	Adjective	<p id="mwHg"><strong class="Latn headword" id="mwHw" lang="fur">biel</strong><span> </span><span class="gender"><abbr title="masculine gender">m</abbr></span><span> (</span><i>plural</i><span> </span><b class="Latn" lang="fur"><a href="biels.html" title="biels">biels</a></b><span>, </span><i>feminine</i><span> </span><b class="Latn" lang="fur">biele</b><span>, </span><i>feminine plural</i><span> </span><b class="Latn" lang="fur">bielis</b><span>)</span></p>
+talian	Adjective	<p id="mwAg"><strong class="Latn headword" id="mwAw" lang="fur">talian</strong></p>
+un	Adjective	<p id="mwASc"><strong class="Latn headword" id="mwASg" lang="fur">un</strong></p>
+sut	Adjective	<p id="mwYA"><strong class="Latn headword" id="mwYQ" lang="fur">sut</strong></p>
+alt	Adjective	<p id="mw4Q"><strong class="Latn headword" id="mw4g" lang="fur">alt</strong></p>
+sort	Adjective	<p id="mwAd0"><strong class="Latn headword" id="mwAd4" lang="fur">sort</strong></p>
+mol	Adjective	<p id="mwgw"><strong class="Latn headword" id="mwhA" lang="fur">mol</strong></p>
+vert	Adjective	<p id="mwrg"><strong class="Latn headword" id="mwrw" lang="fur">vert</strong></p>
+grant	Adjective	<p id="mwrw"><strong class="Latn headword" id="mwsA" lang="fur">grant</strong></p>
+bas	Adjective	<p id="mwpw"><strong class="Latn headword" id="mwqA" lang="fur">bas</strong></p>
+ros	Adjective	<p id="mwiA"><strong class="Latn headword" id="mwiQ" lang="fur">ros</strong></p>
+blanc	Adjective	<p id="mwww"><strong class="Latn headword" id="mwxA" lang="fur">blanc</strong></p>
+tant	Adjective	<p id="mwUw"><strong class="Latn headword" id="mwVA" lang="fur">tant</strong></p>
+trist	Adjective	<p id="mwnw"><strong class="Latn headword" id="mwoA" lang="fur">trist</strong></p>
+tenar	Adjective	<p id="mwFg"><strong class="Latn headword" id="mwFw" lang="fur">tenar</strong></p>
+mut	Adjective	<p id="mwyg"><strong class="Latn headword" id="mwyw" lang="fur">mut</strong></p>
+grand	Adjective	<p id="mwyQ"><strong class="Latn headword" id="mwyg" lang="fur">grand</strong></p>
+ont	Adjective	<p id="mwNA"><strong class="Latn headword" id="mwNQ" lang="fur">ont</strong></p>
+plen	Adjective	<p id="mwOQ"><strong class="Latn headword" id="mwOg" lang="fur">plen</strong></p>
+dit	Adjective	<p id="mwASw"><strong class="Latn headword" id="mwAS0" lang="fur">dit</strong></p>
+just	Adjective	<p id="mwAaQ"><strong class="Latn headword" id="mwAaU" lang="fur">just</strong></p>
+amar	Adjective	<p id="mwaQ"><strong class="Latn headword" id="mwag" lang="fur">amar</strong></p>
